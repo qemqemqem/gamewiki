@@ -23,4 +23,4 @@ def load_wiki(wiki_name: str = "testing") -> WikiManager:
 
 
 if __name__ == "__main__":
-    add_articles_to_wiki("world1")
+    add_articles_to_wiki("world1", num_new_articles=10)

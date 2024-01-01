@@ -25,9 +25,9 @@ def select_next_article(wiki: WikiManager) -> str:
     # Sort links by count
     links = {k: v for k, v in sorted(links.items(), key=lambda item: item[1], reverse=False)}
 
-    # Print all links
-    for link, count in links.items():
-        print(f"{link} ({count})")
+    # # Print all links
+    # for link, count in links.items():
+    #     print(f"{link} ({count})")
 
     # Score each article
     scores = {}

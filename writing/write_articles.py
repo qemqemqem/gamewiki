@@ -14,10 +14,13 @@ def get_article_text(next_article_name: str, wiki: WikiManager) -> str:
             snippets_text += f"The *{article_name}* article says: "
             snippets_text += f"{snippet}\n\n"
 
+    # TODO: Somehow get the most relevant articles here
+    other_article_titles = wiki.get_article_names(max_num_articles=40, alphabetize=True)
+
     with open("prompts/write_new_article.txt", 'r') as f:
         prompt = f.read()
 
-    prompt = prompt.format(topic=next_article_name, snippets=snippets_text.strip())
+    prompt = prompt.format(topic=next_article_name, snippets=snippets_text.strip(), other_articles="\n".join([f"* [[{article_title}]]" for article_title in other_article_titles]))
 
     response = prompt_completion_chat(prompt, max_tokens=2048, model=LLM_MODEL)
 
@@ -37,3 +40,8 @@ def add_articles_to_wiki(wiki_name: str = "testing", num_new_articles: int = 1):
 
         # Get article text
         article_text = get_article_text(next_article, wiki)
+
+        # Write article file
+        with open(f"{wiki_path}/{next_article}.md", 'w') as f:
+            f.write(article_text)
+        print(f"Wrote article {next_article}!")

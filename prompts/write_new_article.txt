@@ -16,6 +16,12 @@ I want to write more articles with more details later, so any time it would be a
 * Named people, places, or events
 * Important nouns, like [[Elf]] or [[Wizard]]
 * List items, if you're listing proper nouns or important topics
-* Prefer to link articles in place, rather that at the end of the article
+* Prefer to link articles in place, rather that at the end of the article, like in a wikipedia article
 
-Please write only the wiki article, without commentary. Again, the title of the article is {topic}.
+# Other Articles
+
+In case you want to link to other articles, here are the titles of some that I've already written:
+
+{other_articles}
+
+Please write only the wiki article, without commentary. Again, the title of the article is "{topic}".

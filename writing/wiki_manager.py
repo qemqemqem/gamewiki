@@ -1,6 +1,7 @@
 import os
+import random
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 from writing.article import Article
 
@@ -13,7 +14,7 @@ class WikiManager:
         # Load all articles
         self.articles: List[Article] = []
         for article_file in os.listdir(self.wiki_path):
-            if article_file.endswith(".md"):
+            if article_file.endswith(".md") and article_file != "index.md":
                 with open(f"{self.wiki_path}/{article_file}", 'r') as f:
                     article_content = f.read()
                 article = Article(article_file.replace(".md", ""), content_markdown=article_content)
@@ -46,3 +47,12 @@ class WikiManager:
                 if snippets_for_article:
                     snippets[article.title] = snippets_for_article
         return snippets
+
+    def get_article_names(self, max_num_articles: Optional[int] = None, alphabetize: bool = True) -> List[str]:
+        article_names = [article.title for article in self.articles]
+        if max_num_articles is not None:
+            random.shuffle(article_names)
+            article_names = article_names[:max_num_articles]
+        if alphabetize:
+            article_names.sort()
+        return article_names
