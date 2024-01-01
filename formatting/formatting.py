@@ -45,9 +45,12 @@ def convert_wikitext_to_markdown_links(wikitext: str) -> str:
     # Find all article names and sanitize them, replacing them with the sanitized version
     article_names = re.findall(r"\[(.*?)\]\(.*?\)", t)
     for article_name in article_names:
-        if "," in article_name:
-            print("Comma!")
+        # if "," in article_name:
+        #     print("Comma!")
         sanitized_name = sanitize_article_name(article_name)
         t = t.replace(f"[{article_name}]({article_name}.md)", f"[{article_name}]({sanitized_name}.md)")
+
+    # # Upper case the link portion of the markdown link
+    # t = re.sub(r"\[(.*?)\]\((.*?)\)", lambda m: f"[{m.group(1)}]({m.group(2).capitalize()})", t)
 
     return t

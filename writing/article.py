@@ -51,7 +51,7 @@ class Article:
         snippets: List[str] = []
 
         # Split the content into paragraphs
-        paragraphs = self.content_markdown.split("\n\n")
+        paragraphs = self.content_wikitext.split("\n\n")
 
         # Find all paragraphs that mention the article name
         for paragraph in paragraphs:

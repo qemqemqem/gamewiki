@@ -52,6 +52,9 @@ class WikiManager:
         article_names = [article.get_all_links() for article in self.articles]
         article_names = [item for sublist in article_names for item in sublist]
 
+        # Remove duplicates
+        article_names = list(set(article_names))
+
         if max_num_links is not None:
             random.shuffle(article_names)
             article_names = article_names[:max_num_links]

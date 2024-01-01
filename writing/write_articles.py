@@ -12,7 +12,7 @@ def get_article_text(next_article_name: str, wiki: WikiManager) -> str:
     snippets_text = ""
     for article_name, article_snippets in snippets.items():
         for snippet in article_snippets:
-            snippets_text += f"The *{article_name}* article says: "
+            snippets_text += f"The \"{article_name}\" article says: "
             snippets_text += f"{snippet}\n\n"
 
     # TODO: Somehow get the most relevant links here
