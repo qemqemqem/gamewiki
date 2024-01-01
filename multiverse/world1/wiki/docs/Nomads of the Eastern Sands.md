@@ -1,6 +1,6 @@
 # Nomads of the Eastern Sands
 
-The [Nomads of the Eastern Sands](Nomads of the Eastern Sands.md) are a mysterious and ancient people who traverse the vast and unforgiving deserts of the eastern reaches of [Aesheron](Aesheron.md). Their history is as shifting and enduring as the dunes they call home, and their culture is steeped in traditions that have survived since the [Age of Twilight](Age of Twilight.md). Known for their resilience and deep connection to the past, the nomads serve as living repositories of the world's earliest memories.
+The [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md) are a mysterious and ancient people who traverse the vast and unforgiving deserts of the eastern reaches of [Aesheron](Aesheron.md). Their history is as shifting and enduring as the dunes they call home, and their culture is steeped in traditions that have survived since the [Age of Twilight](Age%20of%20Twilight.md). Known for their resilience and deep connection to the past, the nomads serve as living repositories of the world's earliest memories.
 
 ## Culture and Society
 
@@ -16,15 +16,15 @@ Rituals and ceremonies play a crucial role in nomadic life, often coinciding wit
 
 ## Economy and Trade
 
-Despite their isolation, the Nomads of the Eastern Sands engage in trade with the settled peoples of [Aesheron](Aesheron.md). They are skilled merchants, known for their ability to navigate the treacherous [Sea Merchant's Path](Sea Merchant's Path.md) and barter for goods that are scarce in the desert. The nomads trade spices, textiles, and precious stones, as well as the rare and valuable knowledge they possess of the lands beyond the dunes.
+Despite their isolation, the Nomads of the Eastern Sands engage in trade with the settled peoples of [Aesheron](Aesheron.md). They are skilled merchants, known for their ability to navigate the treacherous [Sea Merchant's Path](Sea%20Merchant's%20Path.md) and barter for goods that are scarce in the desert. The nomads trade spices, textiles, and precious stones, as well as the rare and valuable knowledge they possess of the lands beyond the dunes.
 
-Their expertise in desert survival makes them invaluable guides for those daring enough to cross the Eastern Sands. Many a [Wizard](Wizard.md) or scholar from the [Order of the Veiled Eye](Order of the Veiled Eye.md) has sought the nomads' guidance to uncover ancient ruins or seek out the wisdom of the [Mages of the Crystal Tower](Mages of the Crystal Tower.md).
+Their expertise in desert survival makes them invaluable guides for those daring enough to cross the Eastern Sands. Many a [Wizard](Wizard.md) or scholar from the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) has sought the nomads' guidance to uncover ancient ruins or seek out the wisdom of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md).
 
 ## Relations with Other Cultures
 
-The Nomads of the Eastern Sands maintain a cautious distance from the politics of the more settled regions of [Aesheron](Aesheron.md). However, they have established a network of alliances and understandings with various factions, including the [Elves](Elves.md) of the [Verdant Woods](Verdant Woods.md) and the reclusive [Dwarves](Dwarves.md) of the [Dwarven Mines](Dwarven Mines.md).
+The Nomads of the Eastern Sands maintain a cautious distance from the politics of the more settled regions of [Aesheron](Aesheron.md). However, they have established a network of alliances and understandings with various factions, including the [Elves](Elves.md) of the [Verdant Woods](Verdant%20Woods.md) and the reclusive [Dwarves](Dwarves.md) of the [Dwarven Mines](Dwarven%20Mines.md).
 
-Their interactions with magical orders such as the [Order of the Veiled Eye](Order of the Veiled Eye.md) and the [Mages of the Crystal Tower](Mages of the Crystal Tower.md) are particularly noteworthy. These groups value the nomads' oral histories and often seek them out for their unique perspectives on the [Ancients](Ancients.md) and the arcane secrets of the past.
+Their interactions with magical orders such as the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) are particularly noteworthy. These groups value the nomads' oral histories and often seek them out for their unique perspectives on the%20[Ancients](Ancients.md) and the arcane secrets of the past.
 
 ## Challenges and Threats
 

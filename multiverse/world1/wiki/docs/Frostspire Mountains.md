@@ -1,12 +1,12 @@
 # Frostspire Mountains
 
-The [Frostspire Mountains](Frostspire Mountains.md) stand as a majestic and formidable range in the northern reaches of [Aesheron](Aesheron.md), their towering peaks piercing the sky and challenging the heavens themselves. Known for their perpetual snow-capped summits and treacherous terrain, the Frostspire Mountains are a place of awe-inspiring natural beauty and deadly perils.
+The [Frostspire Mountains](Frostspire%20Mountains.md) stand as a majestic and formidable range in the northern reaches of [Aesheron](Aesheron.md), their towering peaks piercing the sky and challenging the heavens themselves. Known for their perpetual snow-capped summits and treacherous terrain, the Frostspire Mountains are a place of awe-inspiring natural beauty and deadly perils.
 
 ## Geography
 
 The Frostspire Mountains form a natural barrier between the temperate lands of the south and the frigid, inhospitable regions beyond. The range stretches for hundreds of miles, with numerous peaks rising to dizzying heights. The tallest of these, Mount Aetheron, is shrouded in legend and often cloaked in swirling mists and fierce blizzards.
 
-The mountains are riddled with icy crevasses and hidden valleys. Among these secluded areas, adventurers have stumbled upon the [Caverns of Echo](Caverns of Echo.md), a subterranean network known for its mysterious echoes and rumored to be the dwelling place of ancient spirits.
+The mountains are riddled with icy crevasses and hidden valleys. Among these secluded areas, adventurers have stumbled upon the [Caverns of Echo](Caverns%20of%20Echo.md), a subterranean network known for its mysterious echoes and rumored to be the dwelling place of ancient spirits.
 
 ## Flora and Fauna
 
@@ -16,15 +16,15 @@ The upper reaches of the mountains are home to the majestic Frostwing Eagles, wh
 
 ## Inhabitants
 
-The mountains are sparsely populated, but they are not devoid of intelligent life. The reclusive [Dwarves](Dwarves.md) have long made their homes within the stone, carving out the fabled [Dwarven Mines](Dwarven Mines.md) where they unearth precious gems and metals. The dwarves are known for their exceptional craftsmanship and their ability to endure the mountain's harshness.
+The mountains are sparsely populated, but they are not devoid of intelligent life. The reclusive [Dwarves](Dwarves.md) have long made their homes within the stone, carving out the fabled [Dwarven Mines](Dwarven%20Mines.md) where they unearth precious gems and metals. The dwarves are known for their exceptional craftsmanship and their ability to endure the mountain's harshness.
 
 In addition to the dwarves, there are tales of ancient hermits and powerful [wizards](Wizard.md) who seek solitude and the arcane energies that are said to pervade the mountains. These individuals are rarely seen, and those who seek them out often return with more questions than answers.
 
 ## History and Lore
 
-The Frostspire Mountains hold many secrets, with ruins and relics hinting at a past that predates the current age. The [Ancients](Ancients.md) are believed to have built structures within these mountains, including the enigmatic [Fallen Temple of the Moon](Fallen Temple of the Moon.md), whose origin and purpose are lost to time.
+The Frostspire Mountains hold many secrets, with ruins and relics hinting at a past that predates the current age. The [Ancients](Ancients.md) are believed to have built structures within these mountains, including the enigmatic [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), whose origin and purpose are lost to time.
 
-Legends speak of the [Ancient War](Ancient War.md), where the mountains served as a formidable fortress for the forces that opposed the darkness. It is said that the echoes of battle can still be heard on certain nights, carried by the wind as a reminder of the sacrifices made.
+Legends speak of the [Ancient War](Ancient%20War.md), where the mountains served as a formidable fortress for the forces that opposed the darkness. It is said that the echoes of battle can still be heard on certain nights, carried by the wind as a reminder of the sacrifices made.
 
 ## Significance
 
