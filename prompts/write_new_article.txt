@@ -1,0 +1,21 @@
+I'm writing an article for the wiki that I use for my D&D campaign. This wiki uses the markdown `.md` file format with one change, which is that you can link articles with [[Double Brackets]], like in wikitext. You can change the displayed text with a pipe, like this: [[Elves|Elf]], which will display "Elves", but link to the article titled "Elf".
+
+Please write an article for the topic of: {topic}.
+
+# Existing Information
+
+I already have some articles that mention {topic}, and they establish some facts about it. Here are some snippets from articles that mention {topic}:
+
+{snippets}
+
+# Style Guidelines
+
+Please write the entire article in-world, as though it were real, with no meta-commentary. This is a for a fantasy game, so your goal in writing this is to present a fantastical location that evokes a sense of wonder and curiosity in the reader. This is an original world, so you can make up anything you want, but please try to keep it consistent with the snippets above.
+
+I want to write more articles with more details later, so any time it would be appropriate to link to an article, please link to it with [[Double Brackets]], like in wikitext. It's okay if you aren't sure if the other article exists. Here are some things that are good to link:
+* Named people, places, or events
+* Important nouns, like [[Elf]] or [[Wizard]]
+* List items, if you're listing proper nouns or important topics
+* Prefer to link articles in place, rather that at the end of the article
+
+Please write only the wiki article, without commentary. Again, the title of the article is {topic}.

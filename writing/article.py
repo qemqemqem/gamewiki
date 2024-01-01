@@ -28,7 +28,7 @@ class Article:
     def __str__(self):
         return f"{self.title}"
 
-    def get_all_links(self):
+    def get_all_links(self) -> List[str]:
         links: List[str] = []
 
         # Use regular expressions to find all [[link|text]] and [[link]] patterns
@@ -43,3 +43,19 @@ class Article:
         links.extend([l.split("|")[1] for l in pipe_links])
 
         return links
+
+    def get_snippets_that_mention(self, article_name: str) -> List[str]:
+        """
+        Returns a list of snippets that mention the given article name, where each snippet is a paragraph.
+        """
+        snippets: List[str] = []
+
+        # Split the content into paragraphs
+        paragraphs = self.content_markdown.split("\n\n")
+
+        # Find all paragraphs that mention the article name
+        for paragraph in paragraphs:
+            if article_name in paragraph:
+                snippets.append(paragraph)
+
+        return snippets

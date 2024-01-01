@@ -1,26 +1,28 @@
 from pathlib import Path
 
+from config.globals import LLM_MODEL
 from strategy.next_article_selection import select_next_article
+from utils.gpt import prompt_completion_chat
 from writing.wiki_manager import WikiManager
 
 
-def load_wiki(wiki_name: str = "testing") -> WikiManager:
-    wiki_path = Path(f"multiverse/{wiki_name}/wiki/docs")
+def get_article_text(next_article_name: str, wiki: WikiManager) -> str:
+    snippets = wiki.get_snippets_that_mention(next_article_name)
+    snippets_text = ""
+    for article_name, article_snippets in snippets.items():
+        for snippet in article_snippets:
+            snippets_text += f"The *{article_name}* article says: "
+            snippets_text += f"{snippet}\n\n"
 
-    # Load all articles
-    wiki = WikiManager(wiki_name, wiki_path)
+    with open("prompts/write_new_article.txt", 'r') as f:
+        prompt = f.read()
 
-    # Get all links
-    links = wiki.get_all_links()
+    prompt = prompt.format(topic=next_article_name, snippets=snippets_text.strip())
 
-    # Sort links by count
-    links = {k: v for k, v in sorted(links.items(), key=lambda item: item[1], reverse=False)}
+    response = prompt_completion_chat(prompt, max_tokens=2048, model=LLM_MODEL)
 
-    # Print all links
-    for link, count in links.items():
-        print(f"{link} ({count})")
+    return response
 
-    return wiki
 
 def add_articles_to_wiki(wiki_name: str = "testing", num_new_articles: int = 1):
     wiki_path = Path(f"multiverse/{wiki_name}/wiki/docs")
@@ -33,17 +35,5 @@ def add_articles_to_wiki(wiki_name: str = "testing", num_new_articles: int = 1):
         next_article = select_next_article(wiki)
         print(f"Next article: {next_article}")
 
-        # # Get all links
-        # links = wiki.get_all_links()
-        #
-        # # Sort links by count
-        # links = {k: v for k, v in sorted(links.items(), key=lambda item: item[1], reverse=False)}
-        #
-        # # Print all links
-        # for link, count in links.items():
-        #     print(f"{link} ({count})")
-        #
-        # # Add articles to wiki
-        # for link, count in links.items():
-        #     if count > 1:
-        #         wiki.add_article(link)
+        # Get article text
+        article_text = get_article_text(next_article, wiki)

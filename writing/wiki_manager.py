@@ -16,7 +16,7 @@ class WikiManager:
             if article_file.endswith(".md"):
                 with open(f"{self.wiki_path}/{article_file}", 'r') as f:
                     article_content = f.read()
-                article = Article(article_file.replace("\.md", ""), content_markdown=article_content)
+                article = Article(article_file.replace(".md", ""), content_markdown=article_content)
                 self.articles.append(article)
 
     def get_article_by_title(self, title: str) -> Article:
@@ -34,3 +34,15 @@ class WikiManager:
                 else:
                     links[link] = 1
         return links
+
+    def get_snippets_that_mention(self, article_name: str) -> Dict[str, List[str]]:
+        """
+        Returns a dictionary of snippets that mention the given article name, with the key being the article name and the value being a list of paragraphs that mention the article name.
+        """
+        snippets: Dict[str, List[str]] = {}
+        for article in self.articles:
+            if article_name in article.get_all_links():
+                snippets_for_article = article.get_snippets_that_mention(article_name)
+                if snippets_for_article:
+                    snippets[article.title] = snippets_for_article
+        return snippets
