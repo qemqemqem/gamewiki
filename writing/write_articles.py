@@ -14,7 +14,7 @@ def get_article_text(next_article_name: str, wiki: WikiManager) -> str:
             snippets_text += f"The *{article_name}* article says: "
             snippets_text += f"{snippet}\n\n"
 
-    # TODO: Somehow get the most relevant articles here
+    # TODO: Somehow get the most relevant links here
     other_article_titles = wiki.get_existing_links(max_num_links=40, alphabetize=True)
 
     with open("prompts/write_new_article.txt", 'r') as f:
