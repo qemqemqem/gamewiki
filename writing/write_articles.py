@@ -3,6 +3,7 @@ from pathlib import Path
 from config.globals import LLM_MODEL
 from strategy.next_article_selection import select_next_article
 from utils.gpt import prompt_completion_chat
+from writing.article import Article
 from writing.wiki_manager import WikiManager
 
 
@@ -40,8 +41,9 @@ def add_articles_to_wiki(wiki_name: str = "testing", num_new_articles: int = 1):
 
         # Get article text
         article_text = get_article_text(next_article, wiki)
+        article = Article(next_article, content_wikitext=article_text)
 
         # Write article file
         with open(f"{wiki_path}/{next_article}.md", 'w') as f:
-            f.write(article_text)
+            f.write(article.content_markdown)
         print(f"Wrote article {next_article}!")

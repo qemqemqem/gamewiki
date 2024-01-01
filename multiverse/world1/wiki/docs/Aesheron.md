@@ -10,7 +10,7 @@ The geography of Aesheron is marked by contrasts. In the north, the [Frostspire 
 
 ## Notable Locations
 
-- **[Stormhold Castle](Stormhold Castle.md)**: A fortress of ancient design, standing guard over the [Silverlake Valley](Silverlake Valley.md).
+- **[Stormhold Castle](Stormhold%20Castle.md)**: A fortress of ancient design, standing guard over the [Silverlake Valley](Silverlake%20Valley.md).
 - **[The Shrouded City](The Shrouded City.md)**: A city enshrouded in perpetual mist, known for its arcane academies and mystical archives.
 - **[Ruins of Eldara](Ruins of Eldara.md)**: Once a grand city of the [Ancients](Ancients.md), now a ruin teeming with secrets and hidden treasures.
 - **[Caverns of Echo](Caverns of Echo.md)**: A network of underground caves known for their strange acoustic properties, where one's whispers can be heard miles away.

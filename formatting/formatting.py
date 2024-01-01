@@ -8,12 +8,14 @@ import re
 def sanitize_article_name(article_name: str) -> str:
     # In standard URLs, a comma is typically encoded as %2C. Use regex to do this replacement
     article_name = re.sub(r",", "%2C", article_name)
+    article_name = re.sub(r" ", "%20", article_name)
     return article_name
 
 
 def reverse_sanitize_article_name(article_name: str) -> str:
-    # Convert "%2C" back to a comma
+    # This needs to be kept in sync with the function above
     article_name = re.sub(r"%2C", ",", article_name)
+    article_name = re.sub(r"%20", " ", article_name)
     return article_name
 
 
