@@ -48,11 +48,13 @@ class WikiManager:
                     snippets[article.title] = snippets_for_article
         return snippets
 
-    def get_article_names(self, max_num_articles: Optional[int] = None, alphabetize: bool = True) -> List[str]:
-        article_names = [article.title for article in self.articles]
-        if max_num_articles is not None:
+    def get_existing_links(self, max_num_links: Optional[int] = None, alphabetize: bool = True) -> List[str]:
+        article_names = [article.get_all_links() for article in self.articles]
+        article_names = [item for sublist in article_names for item in sublist]
+
+        if max_num_links is not None:
             random.shuffle(article_names)
-            article_names = article_names[:max_num_articles]
+            article_names = article_names[:max_num_links]
         if alphabetize:
             article_names.sort()
         return article_names
