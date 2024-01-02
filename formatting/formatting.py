@@ -1,3 +1,4 @@
+import os
 import re
 from typing import List
 
@@ -58,6 +59,10 @@ def convert_wikitext_to_markdown_links(wikitext: str) -> str:
 
 
 def custom_title_case(s: str) -> str:
+    #### WARNING!!!! ####
+
+    # NOTE THAT IF YOU CHANGE THIS FUNCTION, IT MAY BREAK BACKWARDS COMPATIBILITY WITH EXISTING ARTICLES
+
     # This function is a custom title case function that is used to title case article names.
     # It is a modified version of the title() function, which is not sufficient for our purposes.
     # The title() function capitalizes the first letter of every word, but it also capitalizes
@@ -76,7 +81,30 @@ def custom_title_case(s: str) -> str:
     return s
 
 
+def fix_link_cases():
+    # Change the file name of all `.md` files in the current directory to be title case
+    path = "../multiverse/world1/wiki/docs"
+    for filename in os.listdir(path):
+        if filename.endswith(".md"):
+            new_filename = custom_title_case(filename)
+            new_filename = new_filename[:-3] + ".md"
+
+            if filename == new_filename:
+                # print(f"Skipping {filename} because it is already title case")
+                continue
+
+            # Check if the renamed file already exists
+            if os.path.exists(path + "/" + new_filename):
+                # print(f"WARNING: {new_filename} already exists! Skipping...")
+                continue
+
+            # os.rename(path + "/" + filename, path + "/" + new_filename)
+            print(f"{filename} -> {new_filename}")
+
+
 if __name__ == "__main__":
-    test_titles = ["John the cow", "Will-o'-the-wisp", "wizards", "the wizards", "the wizards of oz", "the wizards of oz and the cow", "back of the house"]
-    for title in test_titles:
-        print(f"{title} -> {custom_title_case(title)}")
+    # test_titles = ["John the cow", "Will-o'-the-wisp", "wizards", "the wizards", "the wizards of oz", "the wizards of oz and the cow", "back of the house"]
+    # for title in test_titles:
+    #     print(f"{title} -> {custom_title_case(title)}")
+
+    fix_link_cases()
