@@ -1,4 +1,5 @@
 import re
+from typing import List
 
 
 # Formatting notes:
@@ -54,3 +55,28 @@ def convert_wikitext_to_markdown_links(wikitext: str) -> str:
     # t = re.sub(r"\[(.*?)\]\((.*?)\)", lambda m: f"[{m.group(1)}]({m.group(2).capitalize()})", t)
 
     return t
+
+
+def custom_title_case(s: str) -> str:
+    # This function is a custom title case function that is used to title case article names.
+    # It is a modified version of the title() function, which is not sufficient for our purposes.
+    # The title() function capitalizes the first letter of every word, but it also capitalizes
+    # the first letter after every space, which we don't want. For example, "the" should not be
+    # capitalized in the middle of a title, but it should be capitalized if it is the first word
+    # of the title. This function does that.
+    # https://en.wikipedia.org/wiki/Title_case
+    s = s.title()
+    non_title_words: List[str] = ["a", "an", "the", "and", "but", "or", "for", "nor", "on", "at", "to", "from", "by", "of", "in", "with", "as"]
+    for word in non_title_words:
+        s = s.replace(f" {word.title()} ", f" {word.lower()} ")
+    # Make sure the first character is capitalized
+    if len(s) > 0:
+        s = s[0].upper() + s[1:]
+
+    return s
+
+
+if __name__ == "__main__":
+    test_titles = ["John the cow", "Will-o'-the-wisp", "wizards", "the wizards", "the wizards of oz", "the wizards of oz and the cow", "back of the house"]
+    for title in test_titles:
+        print(f"{title} -> {custom_title_case(title)}")
