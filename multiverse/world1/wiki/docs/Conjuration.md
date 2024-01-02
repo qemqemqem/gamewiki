@@ -36,7 +36,7 @@ The practice of Conjuration is not without its controversies. The ethical implic
 
 ## Learning Conjuration
 
-Aspiring Conjurers must undergo rigorous training to master this school of magic. This often involves studying under a seasoned Summoner or enrolling in an institution like the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md). Students must learn not only the incantations and [reagents](reagents.md) necessary for Conjuration but also the languages and customs of the planes they wish to interact with.
+Aspiring Conjurers must undergo rigorous training to master this school of magic. This often involves studying under a seasoned Summoner or enrolling in an institution like the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md). Students must learn not only the incantations and [reagents](Reagents.md) necessary for Conjuration but also the languages and customs of the planes they wish to interact with.
 
 ## Conclusion
 

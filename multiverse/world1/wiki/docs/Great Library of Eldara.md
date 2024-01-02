@@ -8,21 +8,21 @@ The origins of the Great Library are as enigmatic as the tomes it houses. It is 
 
 ## Architecture
 
-The architecture of the Great Library is a harmonious blend of artistry and function. Its towering spires reach towards the heavens, while its vast halls are lined with endless shelves of books, scrolls, and artifacts. The central dome, adorned with a mosaic of the [moon](moon.md) and stars, bathes the main reading room in a celestial glow, inspiring all who enter. Secret chambers and private study rooms are hidden throughout the library, accessible only to those with the knowledge to find them.
+The architecture of the Great Library is a harmonious blend of artistry and function. Its towering spires reach towards the heavens, while its vast halls are lined with endless shelves of books, scrolls, and artifacts. The central dome, adorned with a mosaic of the [moon](Moon.md) and stars, bathes the main reading room in a celestial glow, inspiring all who enter. Secret chambers and private study rooms are hidden throughout the library, accessible only to those with the knowledge to find them.
 
 ## Collections
 
 The collections within the Great Library are as diverse as the scholars who study them. They include:
 
-- Ancient scrolls detailing the [rituals](rituals.md) and practices of forgotten [moon deities](moon%20deities.md)
-- Maps and charts from the explorations of the [Sea Merchant's Path](Sea%20Merchant's%20Path.md)
+- Ancient scrolls detailing the [rituals](Rituals.md) and practices of forgotten [moon deities](Moon%20Deities.md)
+- Maps and charts from the explorations of the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md)
 - Rare manuscripts on the natural world, contributed by the [Druids](Druids.md) of the [Enchanted Grove](Enchanted%20Grove.md)
 - Tomes of arcane theory from the [Council of Arcana](Council%20of%20Arcana.md)
 - Historical accounts of the [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) and other significant events
 
 ## Scholars and Patrons
 
-The Great Library is not only a haven for [Wizards](Wizards.md) and [occult researchers](occult%20researchers.md); it welcomes all who seek knowledge. Scholars from the [Free Cities](Free%20Cities.md), [Druids](Druids.md), and even the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md) come bearing their own wisdom to exchange. The library is also a place of learning for students from across the land, including the future leaders and advisors of the [Queendom of Aesheron](Queendom%20of%20Aesheron.md).
+The Great Library is not only a haven for [Wizards](Wizards.md) and [occult researchers](Occult%20Researchers.md); it welcomes all who seek knowledge. Scholars from the [Free Cities](Free%20Cities.md), [Druids](Druids.md), and even the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md) come bearing their own wisdom to exchange. The library is also a place of learning for students from across the land, including the future leaders and advisors of the [Queendom of Aesheron](Queendom%20of%20Aesheron.md).
 
 ## Governance
 
@@ -30,7 +30,7 @@ The library is overseen by a council of esteemed scholars and archivists, known 
 
 ## Cultural Impact
 
-The Great Library of Eldara is more than a mere collection of books; it is a cultural landmark that has influenced the development of Aesheron in countless ways. It has fostered peace by promoting understanding between disparate cultures and has been instrumental in the advancement of magic and science. The library's influence can be seen in the learned halls of [Stormhold Castle](Stormhold%20Castle.md), the mystical [Frostspire Mountains](Frostspire%20Mountains.md), and even the remote [Theron's Glade](Theron's%20Glade.md).
+The Great Library of Eldara is more than a mere collection of books; it is a cultural landmark that has influenced the development of Aesheron in countless ways. It has fostered peace by promoting understanding between disparate cultures and has been instrumental in the advancement of magic and science. The library's influence can be seen in the learned halls of [Stormhold Castle](Stormhold%20Castle.md), the mystical [Frostspire Mountains](Frostspire%20Mountains.md), and even the remote [Theron's Glade](Theron'S%20Glade.md).
 
 ## Access and Visitation
 

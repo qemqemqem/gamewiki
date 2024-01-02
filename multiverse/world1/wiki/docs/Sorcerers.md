@@ -1,6 +1,6 @@
 # Sorcerers
 
-Sorcerers are among the most enigmatic and innately powerful practitioners of [magic](magic.md) within the realms. Unlike their scholarly counterparts, the [Wizards](Wizards.md), who meticulously study the arcane to harness its power, Sorcerers draw upon an intrinsic connection to magical forces. This connection is often attributed to a lineage that can be traced back to magical beings or a profound event that has imbued them with their abilities.
+Sorcerers are among the most enigmatic and innately powerful practitioners of [magic](Magic.md) within the realms. Unlike their scholarly counterparts, the [Wizards](Wizards.md), who meticulously study the arcane to harness its power, Sorcerers draw upon an intrinsic connection to magical forces. This connection is often attributed to a lineage that can be traced back to magical beings or a profound event that has imbued them with their abilities.
 
 ## Origins of Sorcery
 
@@ -8,7 +8,7 @@ The roots of sorcery are shrouded in mystery, with many theories positing that t
 
 ## The Nature of Sorcerous Power
 
-Sorcerous power is an unpredictable and wild force that manifests in various ways. Some Sorcerers find that their abilities are tied to elemental forces, such as fire or ice, allowing them to cast spells like [ice storm](ice%20storm.md) with a mere thought. Others may have affinities with more esoteric energies, such as those found in the [Ethereal Plane](Ethereal%20Plane.md) or the [Infernal Planes](Infernal%20Planes.md).
+Sorcerous power is an unpredictable and wild force that manifests in various ways. Some Sorcerers find that their abilities are tied to elemental forces, such as fire or ice, allowing them to cast spells like [ice storm](Ice%20Storm.md) with a mere thought. Others may have affinities with more esoteric energies, such as those found in the [Ethereal Plane](Ethereal%20Plane.md) or the [Infernal Planes](Infernal%20Planes.md).
 
 ### Bloodlines
 
@@ -32,11 +32,11 @@ A select few Sorcerers are drawn to the [Sanctum of Whispers](Sanctum%20of%20Whi
 
 ## Sorcerers in the Field of Magic
 
-Sorcerers are not limited to a single school of magic but are known for their versatility in spellcasting. They often favor spells that align with their bloodline or personal affinities, such as [evocation](evocation.md) for those with elemental powers or [conjuration](conjuration.md) for those who can summon creatures like the [Windcutter Hawk](Windcutter%20Hawk.md).
+Sorcerers are not limited to a single school of magic but are known for their versatility in spellcasting. They often favor spells that align with their bloodline or personal affinities, such as [evocation](Evocation.md) for those with elemental powers or [conjuration](Conjuration.md) for those who can summon creatures like the [Windcutter Hawk](Windcutter%20Hawk.md).
 
 ### Arcane Foci
 
-While not as dependent on [arcane foci](arcane%20foci.md) as other spellcasters, Sorcerers may still use items like wands or staffs to refine their control over magic. A Sorcerer's focus is often a personal totem that resonates with their magical nature.
+While not as dependent on [arcane foci](Arcane%20Foci.md) as other spellcasters, Sorcerers may still use items like wands or staffs to refine their control over magic. A Sorcerer's focus is often a personal totem that resonates with their magical nature.
 
 ## Sorcerers and the World
 

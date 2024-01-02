@@ -1,6 +1,6 @@
 # Silent Orchids
 
-Silent Orchids are one of the world's most enigmatic and mystical flora, renowned for their unique properties and the air of mystery that surrounds them. These rare flowers are not only a marvel of natural beauty but also possess qualities that have intrigued [wizards](wizards.md), [druids](druids.md), and [occult researchers](occult%20researchers.md) for centuries.
+Silent Orchids are one of the world's most enigmatic and mystical flora, renowned for their unique properties and the air of mystery that surrounds them. These rare flowers are not only a marvel of natural beauty but also possess qualities that have intrigued [wizards](Wizards.md), [druids](Druids.md), and [occult researchers](Occult%20Researchers.md) for centuries.
 
 ## Description
 
@@ -26,7 +26,7 @@ Silent Orchids hold a special place in the rituals and ceremonies of various cul
 
 ## Mysterious Origins
 
-The origins of Silent Orchids are as silent as the flowers themselves. Some legends suggest that they are the remnants of a forgotten [spellcraft](spellcraft.md), while others believe they are the tears of the [moon](moon.md) goddess, shed for her lost love. The connection to Lady [Seraphine](Seraphine.md) remains one of the most intriguing tales, with speculation that her mastery of economics and strategy may be linked to the orchids' properties of silence and secrecy.
+The origins of Silent Orchids are as silent as the flowers themselves. Some legends suggest that they are the remnants of a forgotten [spellcraft](Spellcraft.md), while others believe they are the tears of the [moon](Moon.md) goddess, shed for her lost love. The connection to Lady [Seraphine](Seraphine.md) remains one of the most intriguing tales, with speculation that her mastery of economics and strategy may be linked to the orchids' properties of silence and secrecy.
 
 ## Conservation
 
@@ -34,8 +34,8 @@ Due to their rarity and the specific conditions required for their growth, Silen
 
 ## In Literature and Art
 
-Silent Orchids have inspired countless artists and poets throughout the ages. They are often depicted in the works of [astronomers](astronomers.md) and [arcane foci](arcane%20foci.md) as symbols of the unknown and the unspoken. In literature, they frequently represent a secret or a mystery yet to be unveiled.
+Silent Orchids have inspired countless artists and poets throughout the ages. They are often depicted in the works of [astronomers](Astronomers.md) and [arcane foci](Arcane%20Foci.md) as symbols of the unknown and the unspoken. In literature, they frequently represent a secret or a mystery yet to be unveiled.
 
 ## Conclusion
 
-The Silent Orchids remain one of the natural world's most captivating mysteries. Their silent beauty continues to enchant all who encounter them, and their presence in the realms of magic and lore will undoubtedly persist for generations to come. Whether as a component in arcane [rituals](rituals.md) or simply as a symbol of the ineffable, the Silent Orchids hold a place of reverence in the hearts and minds of the people of this fantastical world.
+The Silent Orchids remain one of the natural world's most captivating mysteries. Their silent beauty continues to enchant all who encounter them, and their presence in the realms of magic and lore will undoubtedly persist for generations to come. Whether as a component in arcane [rituals](Rituals.md) or simply as a symbol of the ineffable, the Silent Orchids hold a place of reverence in the hearts and minds of the people of this fantastical world.

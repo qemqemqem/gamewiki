@@ -4,7 +4,7 @@ Arcane practitioners are a diverse group of individuals in the world of Aesheron
 
 ## Overview
 
-Arcane practitioners come from various backgrounds and disciplines, each bringing their unique perspective to the study and application of magic. They might be [wizards](Wizard.md) cloistered in ancient libraries, [sorcerers](sorcerer.md) with innate magical abilities, or even [artisans](artisans.md) who imbue their crafts with magical properties. Regardless of their origin, all arcane practitioners share a common goal: to expand their knowledge and mastery of the arcane arts.
+Arcane practitioners come from various backgrounds and disciplines, each bringing their unique perspective to the study and application of magic. They might be [wizards](Wizard.md) cloistered in ancient libraries, [sorcerers](Sorcerer.md) with innate magical abilities, or even [artisans](Artisans.md) who imbue their crafts with magical properties. Regardless of their origin, all arcane practitioners share a common goal: to expand their knowledge and mastery of the arcane arts.
 
 ## Types of Arcane Practitioners
 
@@ -30,13 +30,13 @@ Artificers are the ingenious inventors among arcane practitioners. They blend ma
 
 ## The Role of Arcane Practitioners in Society
 
-Arcane practitioners hold various roles within the society of Aesheron. They serve as advisors to [monarchs](monarchs.md), such as the [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md), offering wisdom and magical support in matters of [Military Strategy](Military%20Strategy.md). Some join organizations like the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), dedicating themselves to the protection of arcane knowledge and the balance of magical forces.
+Arcane practitioners hold various roles within the society of Aesheron. They serve as advisors to [monarchs](Monarchs.md), such as the [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md), offering wisdom and magical support in matters of [Military Strategy](Military%20Strategy.md). Some join organizations like the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), dedicating themselves to the protection of arcane knowledge and the balance of magical forces.
 
 In times of celebration, such as the [Festival of Shields](Festival%20of%20Shields.md), arcane practitioners might showcase their abilities through displays of magical prowess or by enhancing the festivities with enchantments. Conversely, during periods of conflict, such as the [Ancient War](Ancient%20War.md), they are invaluable assets on the battlefield, wielding spells that can turn the tide of battle.
 
 ## Arcane Research and Discovery
 
-The pursuit of knowledge is a core aspect of being an arcane practitioner. Many are also [occult researchers](occult%20researchers.md) and [scholars](scholars.md), delving into the mysteries of the [Ethereal Plane](Ethereal%20Plane.md) or experimenting with [elemental energy](elemental%20energy.md). Their research often leads to the development of new spells, such as [Feather Fall](Feather%20Fall.md) or [Ice Storm](Ice%20Storm.md), and the discovery of new [reagents](Reagents.md) and [arcane foci](Arcane foci.md).
+The pursuit of knowledge is a core aspect of being an arcane practitioner. Many are also [occult researchers](Occult%20Researchers.md) and [scholars](Scholars.md), delving into the mysteries of the [Ethereal Plane](Ethereal%20Plane.md) or experimenting with [elemental energy](Elemental%20Energy.md). Their research often leads to the development of new spells, such as [Feather Fall](Feather%20Fall.md) or [Ice Storm](Ice%20Storm.md), and the discovery of new [reagents](Reagents.md) and [arcane foci](Arcane Foci.md).
 
 ## Conclusion
 

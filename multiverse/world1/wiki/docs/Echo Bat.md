@@ -1,6 +1,6 @@
 # Echo Bat
 
-The [Echo Bat](Echo%20Bat.md) is a fascinating and enigmatic creature that has captivated the imagination of scholars, [occult researchers](occult%20researchers.md), and adventurers alike. This nocturnal being is renowned for its unique echolocation abilities, which it uses to navigate the diverse environments it inhabits, from the lush [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) to the mysterious [Caverns of Echo](Caverns%20of%20Echo.md).
+The [Echo Bat](Echo%20Bat.md) is a fascinating and enigmatic creature that has captivated the imagination of scholars, [occult researchers](Occult%20Researchers.md), and adventurers alike. This nocturnal being is renowned for its unique echolocation abilities, which it uses to navigate the diverse environments it inhabits, from the lush [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) to the mysterious [Caverns of Echo](Caverns%20of%20Echo.md).
 
 ## Habitat and Behavior
 
@@ -20,7 +20,7 @@ Echolocation also serves as a means of communication among Echo Bats. They emit 
 
 ## Cultural Significance
 
-Echo Bats are often associated with the mystical and the arcane. Many [Elven](Elven.md) cultures revere them as creatures of the night, symbolizing both the secrets that darkness holds and the knowledge that can be gleaned from listening and understanding the unseen. During the [Moonflower Festival](Moonflower%20Festival.md), it is said that the sight of an Echo Bat brings good fortune, as they are thought to be messengers of the [moon deities](moon%20deities.md).
+Echo Bats are often associated with the mystical and the arcane. Many [Elven](Elven.md) cultures revere them as creatures of the night, symbolizing both the secrets that darkness holds and the knowledge that can be gleaned from listening and understanding the unseen. During the [Moonflower Festival](Moonflower%20Festival.md), it is said that the sight of an Echo Bat brings good fortune, as they are thought to be messengers of the [moon deities](Moon%20Deities.md).
 
 ## Threats and Conservation
 

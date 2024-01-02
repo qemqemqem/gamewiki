@@ -22,7 +22,7 @@ The Order plays a pivotal role in the politics of [Aesheron](Aesheron.md), often
 
 ### Arcane Research and Protection
 
-In collaboration with [occult researchers](occult%20researchers.md) and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), the Order aids in defending against arcane threats. Their specialized knowledge in combating entities such as [Shade Wraiths](Shade%20Wraiths.md) is unparalleled, and their expertise is often sought after when supernatural dangers arise.
+In collaboration with [occult researchers](Occult%20Researchers.md) and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), the Order aids in defending against arcane threats. Their specialized knowledge in combating entities such as [Shade Wraiths](Shade%20Wraiths.md) is unparalleled, and their expertise is often sought after when supernatural dangers arise.
 
 ## Training and Abilities
 

@@ -1,12 +1,12 @@
 # Master Blacksmith
 
-In the annals of craftsmanship and metallurgy, the title of [master blacksmith](master%20blacksmith.md) is one of great honor and respect. These skilled artisans are the backbone of many societies across the realms, forging not only the tools of everyday life but also the legendary weapons and armor that adorn the halls of heroes and the annals of history.
+In the annals of craftsmanship and metallurgy, the title of [master blacksmith](Master%20Blacksmith.md) is one of great honor and respect. These skilled artisans are the backbone of many societies across the realms, forging not only the tools of everyday life but also the legendary weapons and armor that adorn the halls of heroes and the annals of history.
 
 ## Origins and Training
 
-The path to becoming a master blacksmith is arduous and steeped in tradition. It begins with an apprenticeship under a seasoned blacksmith, where the aspirant learns the basics of the forge, including the handling of [water](water.md), fire, and metal. As their skills progress, they delve into more advanced techniques such as [transmutation](transmutation.md) and [enchantment](enchantment.md), often seeking knowledge from [mystics](mystics.md) and [alchemists](alchemists.md) to enhance their craft.
+The path to becoming a master blacksmith is arduous and steeped in tradition. It begins with an apprenticeship under a seasoned blacksmith, where the aspirant learns the basics of the forge, including the handling of [water](Water.md), fire, and metal. As their skills progress, they delve into more advanced techniques such as [transmutation](Transmutation.md) and [enchantment](Enchantment.md), often seeking knowledge from [mystics](Mystics.md) and [alchemists](Alchemists.md) to enhance their craft.
 
-Upon completing their apprenticeship, a blacksmith may be deemed a journeyman, free to travel and learn from the forges of the world, such as the famed [Dwarven Mines](Dwarven%20Mines.md) or the mystical [enchanted Grove](enchanted%20Grove.md). It is only after years of dedication and the creation of a masterpiece that a journeyman may be recognized as a master blacksmith by the [Council of Trade](Council%20of%20Trade.md) or a similar authoritative body.
+Upon completing their apprenticeship, a blacksmith may be deemed a journeyman, free to travel and learn from the forges of the world, such as the famed [Dwarven Mines](Dwarven%20Mines.md) or the mystical [enchanted Grove](Enchanted%20Grove.md). It is only after years of dedication and the creation of a masterpiece that a journeyman may be recognized as a master blacksmith by the [Council of Trade](Council%20of%20Trade.md) or a similar authoritative body.
 
 ## Role in Society
 
@@ -14,7 +14,7 @@ Master blacksmiths hold a prestigious position within society, often residing in
 
 ### Artisanal Creations
 
-Master blacksmiths are renowned for their artisanal craftsmanship. They incorporate materials such as [crystals](crystals.md) and [Arcane foci](Arcane%20foci.md) into their work, creating items of extraordinary beauty and magical potential. Their creations are not limited to mere functionality; they are works of art, often sought after by [painters](painters.md), [artisans](artisans.md), and collectors from across the lands.
+Master blacksmiths are renowned for their artisanal craftsmanship. They incorporate materials such as [crystals](Crystals.md) and [Arcane foci](Arcane%20Foci.md) into their work, creating items of extraordinary beauty and magical potential. Their creations are not limited to mere functionality; they are works of art, often sought after by [painters](Painters.md), [artisans](Artisans.md), and collectors from across the lands.
 
 ### Architectural Contributions
 
@@ -26,7 +26,7 @@ Master blacksmiths also play a vital role in cultural and ceremonial events. Dur
 
 ## Legendary Figures
 
-Some master blacksmiths have risen to legendary status, their names and stories told with reverence. [Grimbeorn the Builder](Grimbeorn%20the%20Builder.md) is one such figure, whose blades are said to rival the sharpness of the [Windcutter Hawk](Windcutter%20Hawk.md)'s feathers. Another is [Morath the Wise](Morath%20the%20Wise.md), whose knowledge of [abjuration](abjuration.md) and protective enchantments has saved countless lives.
+Some master blacksmiths have risen to legendary status, their names and stories told with reverence. [Grimbeorn the Builder](Grimbeorn%20the%20Builder.md) is one such figure, whose blades are said to rival the sharpness of the [Windcutter Hawk](Windcutter%20Hawk.md)'s feathers. Another is [Morath the Wise](Morath%20the%20Wise.md), whose knowledge of [abjuration](Abjuration.md) and protective enchantments has saved countless lives.
 
 ## Conclusion
 

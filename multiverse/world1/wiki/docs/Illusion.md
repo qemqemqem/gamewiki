@@ -25,7 +25,7 @@ The applications of Illusion are as varied as the imaginations of those who wiel
 
 ## Illusion in Aesheron
 
-In Aesheron, Illusion magic is both revered and feared for its potential to deceive and manipulate. The [Echo Bats](Echo%20Bats.md) and their silent flight have inspired Illusionists to develop spells that emulate their elusive nature. The [Whispering Sirens artifacts](Whispering%20Sirens%20artifacts.md) are highly sought after by those wishing to harness the power of Illusion for stealth and subterfuge.
+In Aesheron, Illusion magic is both revered and feared for its potential to deceive and manipulate. The [Echo Bats](Echo%20Bats.md) and their silent flight have inspired Illusionists to develop spells that emulate their elusive nature. The [Whispering Sirens artifacts](Whispering%20Sirens%20Artifacts.md) are highly sought after by those wishing to harness the power of Illusion for stealth and subterfuge.
 
 [Echovale Isle](Echovale%20Isle.md) is a place of particular interest to Illusionists, as the island's unique properties offer a wealth of knowledge and inspiration. The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have been known to delve into the Illusionary arts in their quest to uncover the island's secrets.
 

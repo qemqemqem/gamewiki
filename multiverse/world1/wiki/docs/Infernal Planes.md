@@ -1,6 +1,6 @@
 # Infernal Planes
 
-The [Infernal Planes](Infernal%20Planes.md) are a series of interconnected realms that exist beyond the material world, known for their intense heat, ceaseless combustion, and the ever-present scent of brimstone. These planes are home to a myriad of fiery creatures, including the fearsome [Fire elementals](Fire%20elementals.md), and are a source of fascination and dread among the [scholars](scholars.md) and [sorcerers](sorcerers.md) who study them.
+The [Infernal Planes](Infernal%20Planes.md) are a series of interconnected realms that exist beyond the material world, known for their intense heat, ceaseless combustion, and the ever-present scent of brimstone. These planes are home to a myriad of fiery creatures, including the fearsome [Fire elementals](Fire%20Elementals.md), and are a source of fascination and dread among the [scholars](Scholars.md) and [sorcerers](Sorcerers.md) who study them.
 
 ## Geography and Environment
 
@@ -18,17 +18,17 @@ The Infernal Planes are populated by creatures that embody the essence of fire a
 
 ### Native Species
 
-- **[Fire elementals](Fire%20elementals.md)**: The most common denizens, they are as unpredictable as the flames they are born from.
+- **[Fire elementals](Fire%20Elementals.md)**: The most common denizens, they are as unpredictable as the flames they are born from.
 - **Salamanders**: Serpentine beings that swim through lava as easily as fish in water.
 - **Efreeti**: Powerful and cunning, these genie-like entities command the lesser creatures of fire.
 
 ## Magic and the Infernal Planes
 
-Magic within the Infernal Planes is predominantly of the [evocation](evocation.md) school, with spells such as [fireball](fireball.md) and [flame strike](flame%20strike.md) being particularly potent here. The raw elemental energy that suffuses the planes makes them a potent source of power for those who dare to tap into it.
+Magic within the Infernal Planes is predominantly of the [evocation](Evocation.md) school, with spells such as [fireball](Fireball.md) and [flame strike](Flame%20Strike.md) being particularly potent here. The raw elemental energy that suffuses the planes makes them a potent source of power for those who dare to tap into it.
 
 ### Arcane Artifacts
 
-Artifacts and [arcane foci](arcane%20foci.md) from the Infernal Planes are highly sought after for their inherent magical properties. [Rods](Rods.md) forged in the heart of a volcano or wands wrapped in the hide of a fire elemental can channel incredible power, making them prized possessions for any [Warlocks](Warlocks.md) or [Wizards](Wizards.md).
+Artifacts and [arcane foci](Arcane%20Foci.md) from the Infernal Planes are highly sought after for their inherent magical properties. [Rods](Rods.md) forged in the heart of a volcano or wands wrapped in the hide of a fire elemental can channel incredible power, making them prized possessions for any [Warlocks](Warlocks.md) or [Wizards](Wizards.md).
 
 ## Cultural Significance
 
@@ -36,7 +36,7 @@ The Infernal Planes hold a place of fear and respect in many cultures. They are 
 
 ### Rituals and Summoning
 
-[Summoners](Summoners.md) and [Conjurers](Conjurers.md) who specialize in [summoning](summoning.md) may call forth beings from the Infernal Planes to serve them. Such rituals are complex and fraught with danger, as the creatures of fire are not easily bound or controlled.
+[Summoners](Summoners.md) and [Conjurers](Conjurers.md) who specialize in [summoning](Summoning.md) may call forth beings from the Infernal Planes to serve them. Such rituals are complex and fraught with danger, as the creatures of fire are not easily bound or controlled.
 
 ## Travel and Exploration
 

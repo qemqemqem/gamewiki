@@ -4,7 +4,7 @@ The [Mage Wars](Mage%20Wars.md) were a cataclysmic series of conflicts that engu
 
 ## Prelude to the Wars
 
-The seeds of the Mage Wars were sown long before the first spell was cast in anger. A time of great prosperity and magical discovery, known as the [Age of Wonders](Age%20of%20Wonders.md), saw the rise of powerful [wizards](wizards.md) and [sorcerers](sorcerers.md) who sought to push the boundaries of arcane knowledge. Among these were notable figures such as [Morath the Wise](Morath%20the%20Wise.md) and [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md), whose contributions to the magical arts were unparalleled.
+The seeds of the Mage Wars were sown long before the first spell was cast in anger. A time of great prosperity and magical discovery, known as the [Age of Wonders](Age%20of%20Wonders.md), saw the rise of powerful [wizards](Wizards.md) and [sorcerers](Sorcerers.md) who sought to push the boundaries of arcane knowledge. Among these were notable figures such as [Morath the Wise](Morath%20the%20Wise.md) and [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md), whose contributions to the magical arts were unparalleled.
 
 However, as the pursuit of power grew more fervent, so too did the risks. The [Council of Arcana](Council%20of%20Arcana.md) had not yet been formed, and there were no checks on the ambitions of those who would seek to harness magic for their own ends. This reckless expansion of magical prowess led to widespread instability, setting the stage for the wars that would follow.
 
@@ -20,7 +20,7 @@ The Mage Wars left an indelible mark on Aesheron. The [Crystal Sea](Crystal%20Se
 
 In the mountains, the [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md) stood as a bastion against the turmoil. The dwarves, under the leadership of their council of elders, rallied their legions to defend their homeland and preserve the stability of their society amidst the upheaval.
 
-The [Queendom of Aesheron](Queendom%20of%20Aesheron.md) faced its own trials as the spiritual fabric of the land was torn asunder. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), once a beacon of divine worship, became a symbol of the consequences of unchecked power. The [rituals](rituals.md) and beliefs of old were challenged, and a new reverence for the responsible use of magic emerged from the ashes of the wars.
+The [Queendom of Aesheron](Queendom%20of%20Aesheron.md) faced its own trials as the spiritual fabric of the land was torn asunder. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), once a beacon of divine worship, became a symbol of the consequences of unchecked power. The [rituals](Rituals.md) and beliefs of old were challenged, and a new reverence for the responsible use of magic emerged from the ashes of the wars.
 
 ## Aftermath and Legacy
 
@@ -28,4 +28,4 @@ In the aftermath of the Mage Wars, the surviving practitioners of the arcane art
 
 Today, the Mage Wars are remembered as a cautionary tale, a period of history that serves as a stark reminder of the dangers of power unchecked. The [Moonflower Festival](Moonflower%20Festival.md) is one of the many cultural events where tales of the wars are recounted, ensuring that the lessons of the past are not forgotten.
 
-The legacy of the Mage Wars continues to influence the political, cultural, and magical landscape of Aesheron. It is a period of history that is studied by [occult researchers](occult%20researchers.md), revered by [wizards](wizards.md), and memorialized by all who cherish the balance between the arcane and the natural world.
+The legacy of the Mage Wars continues to influence the political, cultural, and magical landscape of Aesheron. It is a period of history that is studied by [occult researchers](Occult%20Researchers.md), revered by [wizards](Wizards.md), and memorialized by all who cherish the balance between the arcane and the natural world.

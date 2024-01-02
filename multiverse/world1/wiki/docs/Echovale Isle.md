@@ -1,6 +1,6 @@
 # Echovale Isle
 
-Echovale Isle, the largest and most enigmatic landmass within the [Isles of Whisper](Isles%20of%20Whisper.md), stands as a testament to the arcane mysteries and natural wonders of the world. Known for its peculiar acoustic phenomena, the isle has captured the imagination of [adventurers](adventurers.md), [scholars](scholars.md), and [mystics](mystics.md) alike. Its dense, misty forests and resonant valleys have given rise to countless legends and are said to be home to both ancient magic and hidden dangers.
+Echovale Isle, the largest and most enigmatic landmass within the [Isles of Whisper](Isles%20of%20Whisper.md), stands as a testament to the arcane mysteries and natural wonders of the world. Known for its peculiar acoustic phenomena, the isle has captured the imagination of [adventurers](Adventurers.md), [scholars](Scholars.md), and [mystics](Mystics.md) alike. Its dense, misty forests and resonant valleys have given rise to countless legends and are said to be home to both ancient magic and hidden dangers.
 
 ## Geography
 
@@ -8,11 +8,11 @@ Echovale Isle is characterized by its lush, verdant landscapes and the ever-pres
 
 ## History
 
-The history of Echovale Isle is as elusive as the island itself. It is believed to have been a place of power during the [Age of Twilight](Age%20of%20Twilight.md), where [druids](druids.md) and [wizards](wizards.md) of old conducted rituals of great significance. The isle's stability within the Isles of Whisper suggests a strong anchoring in the fabric of reality, possibly maintained by ancient [Abjuration](Abjuration.md) magic or a natural phenomenon yet to be fully understood.
+The history of Echovale Isle is as elusive as the island itself. It is believed to have been a place of power during the [Age of Twilight](Age%20of%20Twilight.md), where [druids](Druids.md) and [wizards](Wizards.md) of old conducted rituals of great significance. The isle's stability within the Isles of Whisper suggests a strong anchoring in the fabric of reality, possibly maintained by ancient [Abjuration](Abjuration.md) magic or a natural phenomenon yet to be fully understood.
 
 ## Inhabitants
 
-Echovale Isle is rumored to be inhabited by a variety of creatures, some native to the island and others drawn by its magical essence. Reports from the few explorers who have returned speak of encountering [Fey](Fey.md) beings, sentient plants, and echoes of past inhabitants preserved in the island's resonant magic. The existence of a reclusive society of [spellcasters](spellcasters.md) known as the [Echoing Conclave](Echoing%20Conclave.md) is often speculated upon, though no concrete evidence has been found.
+Echovale Isle is rumored to be inhabited by a variety of creatures, some native to the island and others drawn by its magical essence. Reports from the few explorers who have returned speak of encountering [Fey](Fey.md) beings, sentient plants, and echoes of past inhabitants preserved in the island's resonant magic. The existence of a reclusive society of [spellcasters](Spellcasters.md) known as the [Echoing Conclave](Echoing%20Conclave.md) is often speculated upon, though no concrete evidence has been found.
 
 ## Points of Interest
 
@@ -30,7 +30,7 @@ A lone spire known as Grimbeorn's Tower is visible above the canopy of the Whisp
 
 ## Mysteries and Research
 
-Echovale Isle remains a focal point for those interested in the arcane, particularly in the fields of [Conjuration](Conjuration.md), [Divination](Divination.md), and [Illusion](Illusion.md). The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have expressed interest in the island's potential to hold lost knowledge and artifacts. Additionally, the phenomenon of sound preservation has attracted [occult researchers](occult%20researchers.md) and [Divination](Divination.md) experts seeking to understand the island's connection to other planes and times.
+Echovale Isle remains a focal point for those interested in the arcane, particularly in the fields of [Conjuration](Conjuration.md), [Divination](Divination.md), and [Illusion](Illusion.md). The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have expressed interest in the island's potential to hold lost knowledge and artifacts. Additionally, the phenomenon of sound preservation has attracted [occult researchers](Occult%20Researchers.md) and [Divination](Divination.md) experts seeking to understand the island's connection to other planes and times.
 
 ## Access and Exploration
 

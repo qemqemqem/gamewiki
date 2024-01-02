@@ -14,17 +14,17 @@ The farming techniques employed are a blend of traditional methods passed down t
 
 ## Economy
 
-The economy of the Fields of Golden Grain is primarily agrarian, with the annual harvests dictating the ebb and flow of wealth in the region. The grains are traded extensively along the [Silk Road](Silk%20Road.md) and shipped to distant lands via the [Sea Merchant's Path](Sea%20Merchant's%20Path.md), making them a cornerstone of Aesheronian commerce. The grains are also a staple in the diets of the citizens, and surplus harvests are stored for leaner times.
+The economy of the Fields of Golden Grain is primarily agrarian, with the annual harvests dictating the ebb and flow of wealth in the region. The grains are traded extensively along the [Silk Road](Silk%20Road.md) and shipped to distant lands via the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md), making them a cornerstone of Aesheronian commerce. The grains are also a staple in the diets of the citizens, and surplus harvests are stored for leaner times.
 
 ## Culture
 
-The culture of the Fields of Golden Grain is deeply rooted in the cycle of the seasons. Festivals such as the Spring Planting Celebration and the Harvest Moon Festival mark the beginning and end of the growing season. During these times, the fields are alive with music, dance, and feasting, as the people give thanks to the [sun](sun.md) and [moon deities](moon%20deities.md) for their blessings.
+The culture of the Fields of Golden Grain is deeply rooted in the cycle of the seasons. Festivals such as the Spring Planting Celebration and the Harvest Moon Festival mark the beginning and end of the growing season. During these times, the fields are alive with music, dance, and feasting, as the people give thanks to the [sun](Sun.md) and [moon deities](Moon%20Deities.md) for their blessings.
 
 The farmers and their families live in close-knit communities, with traditions that emphasize cooperation and mutual support. It is said that the true spirit of Aesheron is best exemplified by the people of these fields, who embody the virtues of hard work, hospitality, and generosity.
 
 ## Flora and Fauna
 
-While the fields are dominated by crops, they are also home to a variety of flora and fauna. Wildflowers such as the [Singing Willows](Singing%20Willows.md) and the [Will-o'-the-Wisp](Will-o'-the-Wisp.md) add splashes of color and magic to the landscape. The fields also provide habitat for creatures like the [Echo Bat](Echo%20Bat.md) and the [Forest Nymphs](Forest%20Nymphs.md), who play a role in the pollination of plants and the maintenance of ecological balance.
+While the fields are dominated by crops, they are also home to a variety of flora and fauna. Wildflowers such as the [Singing Willows](Singing%20Willows.md) and the [Will-o'-the-Wisp](Will-O'-The-Wisp.md) add splashes of color and magic to the landscape. The fields also provide habitat for creatures like the [Echo Bat](Echo%20Bat.md) and the [Forest Nymphs](Forest%20Nymphs.md), who play a role in the pollination of plants and the maintenance of ecological balance.
 
 ## Threats
 

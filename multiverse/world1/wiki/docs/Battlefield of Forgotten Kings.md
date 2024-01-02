@@ -1,6 +1,6 @@
 # Battlefield of Forgotten Kings
 
-The [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) is a hallowed and haunting expanse located in the heart of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), a land steeped in chivalry and ancient magic. It is a place where the echoes of clashing swords and the cries of fallen monarchs still resonate through the mists of time. This storied site is not only a monument to the valor and tragedy of the past but also a source of countless legends and a focal point for scholars, [druids](druids.md), and adventurers alike.
+The [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) is a hallowed and haunting expanse located in the heart of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), a land steeped in chivalry and ancient magic. It is a place where the echoes of clashing swords and the cries of fallen monarchs still resonate through the mists of time. This storied site is not only a monument to the valor and tragedy of the past but also a source of countless legends and a focal point for scholars, [druids](Druids.md), and adventurers alike.
 
 ## History
 

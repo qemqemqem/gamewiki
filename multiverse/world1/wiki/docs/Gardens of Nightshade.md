@@ -4,13 +4,13 @@ The [Gardens of Nightshade](Gardens%20of%20Nightshade.md) are a region of enigma
 
 ## Geography
 
-The Gardens of Nightshade are bordered by the verdant [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) to the north and the reflective waters of [Crystal Lake](Crystal%20Lake.md) to the south. The terrain is a complex tapestry of bioluminescent flora and dense thickets that seem to absorb the very light from the air. At night, the gardens come alive with an ethereal glow, casting an otherworldly luminescence that can be seen from the distant [Sea Merchant's Path](Sea%20Merchant's%20Path.md).
+The Gardens of Nightshade are bordered by the verdant [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) to the north and the reflective waters of [Crystal Lake](Crystal%20Lake.md) to the south. The terrain is a complex tapestry of bioluminescent flora and dense thickets that seem to absorb the very light from the air. At night, the gardens come alive with an ethereal glow, casting an otherworldly luminescence that can be seen from the distant [Sea Merchant's Path](Sea%20Merchant'S%20Path.md).
 
 ## Flora and Fauna
 
 The gardens are home to a diverse array of plant life, many of which are unique to this region. The most notable are the titular nightshade plants, which bloom under the moonlight and exude a seductive yet deadly fragrance. Other notable species include the [Moonflower](Moonflower.md), which opens its petals in response to lunar energies, and the thorny brambles that have overgrown the ancient [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md).
 
-The fauna of the gardens is as dangerous as it is beautiful. The [Shade Wraiths](Shade%20Wraiths.md), spectral entities bound to the nightshade, are the most feared inhabitants. These silent guardians are said to protect the gardens from intruders and are often the subject of tales among the [Druids](Druids.md) and [occult researchers](occult%20researchers.md). Other creatures, such as the elusive [Windcutter Hawks](Windcutter%20Hawks.md) and the melodic [Singing Willows](Singing%20Willows.md), add to the gardens' enigmatic charm.
+The fauna of the gardens is as dangerous as it is beautiful. The [Shade Wraiths](Shade%20Wraiths.md), spectral entities bound to the nightshade, are the most feared inhabitants. These silent guardians are said to protect the gardens from intruders and are often the subject of tales among the [Druids](Druids.md) and [occult researchers](Occult%20Researchers.md). Other creatures, such as the elusive [Windcutter Hawks](Windcutter%20Hawks.md) and the melodic [Singing Willows](Singing%20Willows.md), add to the gardens' enigmatic charm.
 
 ## History and Myth
 
@@ -18,7 +18,7 @@ The Gardens of Nightshade are steeped in legend, with many believing them to be 
 
 ## Cultural Significance
 
-Despite the dangers, the gardens hold great cultural significance for many of the surrounding regions. The [Council of Arcana](Council%20of%20Arcana.md) has long sought the potent magical ingredients found within, and the gardens are a well-known source of components for [sorcery](sorcery.md) and alchemy. The rare herbs and poisons harvested here are highly prized by [wizards](wizards.md), healers, and assassins alike.
+Despite the dangers, the gardens hold great cultural significance for many of the surrounding regions. The [Council of Arcana](Council%20of%20Arcana.md) has long sought the potent magical ingredients found within, and the gardens are a well-known source of components for [sorcery](Sorcery.md) and alchemy. The rare herbs and poisons harvested here are highly prized by [wizards](Wizards.md), healers, and assassins alike.
 
 ## Threats and Preservation
 

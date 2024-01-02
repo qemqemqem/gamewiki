@@ -16,7 +16,7 @@ The Silk Road is a conduit for trade, with merchant caravans transporting goods 
 
 ## Cultural Exchange
 
-More than just a trade route, the Silk Road is a channel for the exchange of ideas and culture. It is along this road that bards share tales of the [Ancient War](Ancient%20War.md), and where pilgrims journey to the [Ruins of Eldara](Ruins%20of%20Eldara.md) in search of ancient wisdom. The road has also facilitated the spread of [rituals](rituals.md) and knowledge between the [Wizards](Wizards.md) of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) and the [Druids](Druids.md) of the [Enchanted Grove](Enchanted%20Grove.md).
+More than just a trade route, the Silk Road is a channel for the exchange of ideas and culture. It is along this road that bards share tales of the [Ancient War](Ancient%20War.md), and where pilgrims journey to the [Ruins of Eldara](Ruins%20of%20Eldara.md) in search of ancient wisdom. The road has also facilitated the spread of [rituals](Rituals.md) and knowledge between the [Wizards](Wizards.md) of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) and the [Druids](Druids.md) of the [Enchanted Grove](Enchanted%20Grove.md).
 
 ## Notable Locations
 

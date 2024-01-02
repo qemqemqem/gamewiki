@@ -8,13 +8,13 @@ The nature of magic in Aesheron is as diverse as the landscape itself. It is an 
 
 ### The Arcane and the Divine
 
-Magic is typically divided into two broad categories: arcane and divine. Arcane magic is the study and manipulation of the mystical energies inherent in the world and the cosmos. It is the realm of [Wizards](Wizards.md), [sorcerers](sorcerers.md), and other [spellcasters](spellcasters.md) who seek to understand and control these forces through rigorous study and practice.
+Magic is typically divided into two broad categories: arcane and divine. Arcane magic is the study and manipulation of the mystical energies inherent in the world and the cosmos. It is the realm of [Wizards](Wizards.md), [sorcerers](Sorcerers.md), and other [spellcasters](Spellcasters.md) who seek to understand and control these forces through rigorous study and practice.
 
-Divine magic, on the other hand, is derived from the deities of Aesheron, such as the [moon deities](moon%20deities.md) and the [sun](sun.md). It is channeled through faith and devotion, allowing [priests](priests.md), [clerics](clerics.md), and [paladins](paladins.md) to perform miracles and wield the power granted by their divine patrons.
+Divine magic, on the other hand, is derived from the deities of Aesheron, such as the [moon deities](Moon%20Deities.md) and the [sun](Sun.md). It is channeled through faith and devotion, allowing [priests](Priests.md), [clerics](Clerics.md), and [paladins](Paladins.md) to perform miracles and wield the power granted by their divine patrons.
 
 ### The Weave of Magic
 
-The fabric of magic that exists throughout Aesheron is often referred to as the Weave. It is an invisible lattice that connects all magical phenomena and is the source from which [mages](mages.md) and [sorcerers](sorcerers.md) draw their power. The Weave is delicate and complex, requiring careful manipulation to prevent catastrophic consequences.
+The fabric of magic that exists throughout Aesheron is often referred to as the Weave. It is an invisible lattice that connects all magical phenomena and is the source from which [mages](Mages.md) and [sorcerers](Sorcerers.md) draw their power. The Weave is delicate and complex, requiring careful manipulation to prevent catastrophic consequences.
 
 ## Historical Significance
 
@@ -34,7 +34,7 @@ The [Principality of Morath](Principality%20of%20Morath.md), founded by the lege
 
 ### The Shrouded City
 
-[The Shrouded City](The%20Shrouded%20City.md) is another hub of magical study, where the air itself is saturated with arcane energy. It is a place where [wizards](wizards.md) and scholars congregate to exchange knowledge and artifacts, and where the economy thrives on the trade of magical goods.
+[The Shrouded City](The%20Shrouded%20City.md) is another hub of magical study, where the air itself is saturated with arcane energy. It is a place where [wizards](Wizards.md) and scholars congregate to exchange knowledge and artifacts, and where the economy thrives on the trade of magical goods.
 
 ### The Crystal Tower
 
@@ -42,7 +42,7 @@ The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) are reno
 
 ## Cultural Impact
 
-Magic has a profound impact on the culture of Aesheron. It influences art, music, and tradition, as seen in the [Elven](Elven.md) celebration of the [Moonflower Festival](Moonflower%20Festival.md). This event, where the blooming of the magical [moonflower](moonflower.md) is celebrated, symbolizes the unity between the races of Aesheron and their shared reverence for the arcane.
+Magic has a profound impact on the culture of Aesheron. It influences art, music, and tradition, as seen in the [Elven](Elven.md) celebration of the [Moonflower Festival](Moonflower%20Festival.md). This event, where the blooming of the magical [moonflower](Moonflower.md) is celebrated, symbolizes the unity between the races of Aesheron and their shared reverence for the arcane.
 
 ## Conclusion
 

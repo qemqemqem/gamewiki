@@ -8,7 +8,7 @@ The origins of Wizardry are as ancient as the [Ancients](Ancients.md) themselves
 
 ## Training and Abilities
 
-The training of a Wizard is rigorous and demanding. Aspiring Wizards often begin their journey as apprentices to a master, studying in places of arcane learning such as the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) or under the tutelage of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md). They learn to harness the energies of the [moon](moon.md), [sun](sun.md), and stars, and to tap into the latent magic that permeates the land of [Aesheron](Aesheron.md).
+The training of a Wizard is rigorous and demanding. Aspiring Wizards often begin their journey as apprentices to a master, studying in places of arcane learning such as the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) or under the tutelage of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md). They learn to harness the energies of the [moon](Moon.md), [sun](Sun.md), and stars, and to tap into the latent magic that permeates the land of [Aesheron](Aesheron.md).
 
 Wizards are known for their ability to cast spells, which can range from simple cantrips to world-altering rituals. They are also adept at creating magical items, deciphering ancient languages, and unlocking the secrets of the universe. Their magic can be used for a variety of purposes, from enriching the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) to defending realms against the spectral threats of [Shade Wraiths](Shade%20Wraiths.md).
 

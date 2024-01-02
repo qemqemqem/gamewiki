@@ -4,7 +4,7 @@ Artifacts are extraordinary items imbued with powerful magic, often ancient and 
 
 ## Origins and Creation
 
-Artifacts are typically created under extraordinary circumstances. Some are forged during pivotal events such as the [Age of Wonders](Age%20of%20Wonders.md), where magic flowed more freely than it does in current times. Others are the handiwork of legendary [artisans](artisans.md) or the result of powerful [rituals](rituals.md) conducted by [mages](mages.md) and [mystics](mystics.md).
+Artifacts are typically created under extraordinary circumstances. Some are forged during pivotal events such as the [Age of Wonders](Age%20of%20Wonders.md), where magic flowed more freely than it does in current times. Others are the handiwork of legendary [artisans](Artisans.md) or the result of powerful [rituals](Rituals.md) conducted by [mages](Mages.md) and [mystics](Mystics.md).
 
 ### Known Artifacts
 
@@ -19,7 +19,7 @@ Artifacts can be categorized based on their functions and the magical properties
 
 - **Weapons**: Swords, axes, and bows that carry enchantments capable of decimating armies or slaying mythical beasts.
 - **Wearable Items**: Amulets, rings, and cloaks that grant the wearer abilities such as invisibility, protection, or enhanced senses.
-- **Tools**: Items like the [arcane foci](arcane%20foci.md) used by [wizards](wizards.md) to channel their magical energies more effectively.
+- **Tools**: Items like the [arcane foci](Arcane%20Foci.md) used by [wizards](Wizards.md) to channel their magical energies more effectively.
 - **Orbs and Mirrors**: Objects used in [Divination](Divination.md) to scry or reveal hidden truths.
 - **Runes**: Stones or tokens inscribed with ancient symbols that hold the key to unlocking magical effects.
 
@@ -30,18 +30,18 @@ The use of artifacts is not limited to the battlefield or arcane study. They per
 ### In Society
 
 - **Political Power**: Rulers and members of the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) often seek artifacts to solidify their rule or to gain leverage over political rivals.
-- **Religious Significance**: [Clerics](Clerics.md) and [paladins](paladins.md) may use artifacts as symbols of their faith or as conduits for divine power.
+- **Religious Significance**: [Clerics](Clerics.md) and [paladins](Paladins.md) may use artifacts as symbols of their faith or as conduits for divine power.
 - **Cultural Impact**: Artifacts can become central to the myths and legends of a culture, shaping their values and traditions.
 
 ### In Magic
 
-- **Spellcasting**: Artifacts like wands and staves are used by [evokers](evokers.md) to enhance their control over the elements.
+- **Spellcasting**: Artifacts like wands and staves are used by [evokers](Evokers.md) to enhance their control over the elements.
 - **Summoning**: [Conjurers](Conjurers.md) utilize artifacts to bolster their ability to call forth beings from other planes.
-- **Healing and Protection**: [Healers](Healers.md) and [abjurers](abjurers.md) may use artifacts to ward off harm or to mend wounds that would otherwise be fatal.
+- **Healing and Protection**: [Healers](Healers.md) and [abjurers](Abjurers.md) may use artifacts to ward off harm or to mend wounds that would otherwise be fatal.
 
 ## Preservation and Discovery
 
-The search for lost artifacts is a common quest for adventurers and scholars alike. Organizations such as the [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) dedicate themselves to uncovering these relics, while [conservationists](conservationists.md) work to protect and preserve them for future generations.
+The search for lost artifacts is a common quest for adventurers and scholars alike. Organizations such as the [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) dedicate themselves to uncovering these relics, while [conservationists](Conservationists.md) work to protect and preserve them for future generations.
 
 ### Known Locations of Artifacts
 
@@ -51,7 +51,7 @@ The search for lost artifacts is a common quest for adventurers and scholars ali
 
 ## Threats and Controversies
 
-The immense power of artifacts makes them a target for those with less noble intentions. [Warriors](Warriors.md) and [rogues](rogues.md) may seek to wield these items for personal gain, while dark [summoners](summoners.md) and [enchanters](enchanters.md) covet them for their forbidden experiments.
+The immense power of artifacts makes them a target for those with less noble intentions. [Warriors](Warriors.md) and [rogues](Rogues.md) may seek to wield these items for personal gain, while dark [summoners](Summoners.md) and [enchanters](Enchanters.md) covet them for their forbidden experiments.
 
 ### Notable Conflicts
 

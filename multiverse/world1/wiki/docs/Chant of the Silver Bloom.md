@@ -1,16 +1,16 @@
 # Chant of the Silver Bloom
 
-The **Chant of the Silver Bloom** is an ancient hymn deeply rooted in the traditions and culture of the world of [Aesheron](Aesheron.md). This sacred song is not merely a melody but a powerful incantation that intertwines the fate of the land with the celestial energies of the [moon deities](moon%20deities.md). It is a symbol of renewal, hope, and the eternal cycle of growth and decay that governs all life.
+The **Chant of the Silver Bloom** is an ancient hymn deeply rooted in the traditions and culture of the world of [Aesheron](Aesheron.md). This sacred song is not merely a melody but a powerful incantation that intertwines the fate of the land with the celestial energies of the [moon deities](Moon%20Deities.md). It is a symbol of renewal, hope, and the eternal cycle of growth and decay that governs all life.
 
 ## Origins
 
-The origins of the Chant of the Silver Bloom are shrouded in the mists of time, with many believing it to have been conceived by the [Lunar Ancients](Lunar%20Ancients.md), a mysterious civilization whose knowledge and wisdom still permeate the land. The chant is said to have been passed down through generations of [druids](druids.md) and [sorcerers](sorcerers.md), who have preserved its purity and potency.
+The origins of the Chant of the Silver Bloom are shrouded in the mists of time, with many believing it to have been conceived by the [Lunar Ancients](Lunar%20Ancients.md), a mysterious civilization whose knowledge and wisdom still permeate the land. The chant is said to have been passed down through generations of [druids](Druids.md) and [sorcerers](Sorcerers.md), who have preserved its purity and potency.
 
 ## Significance
 
 The Chant of the Silver Bloom holds a place of honor in several key events and locations throughout Aesheron:
 
-- **[Moonflower Festival](Moonflower%20Festival.md)**: The chant is a pivotal part of the opening ceremony, performed by the high [Druid](Druid.md) of [Theron's Glade](Theron's%20Glade.md). It is believed that the recitation of the chant under the moonlit sky ensures a bountiful bloom of the sacred [moonflower](moonflower.md) and a prosperous year for the people of the land.
+- **[Moonflower Festival](Moonflower%20Festival.md)**: The chant is a pivotal part of the opening ceremony, performed by the high [Druid](Druid.md) of [Theron's Glade](Theron'S%20Glade.md). It is believed that the recitation of the chant under the moonlit sky ensures a bountiful bloom of the sacred [moonflower](Moonflower.md) and a prosperous year for the people of the land.
 
 - **[Shrouded City](Shrouded%20City.md)**: Renowned for its enigmatic beauty and haunting melodies, the Shrouded City has embraced the chant as part of its cultural heritage. Bards and minstrels often draw inspiration from its verses, weaving the chant's motifs into their performances.
 
@@ -26,7 +26,7 @@ The melody accompanying the chant is equally important, often performed with tra
 
 ## Role in Rituals
 
-The chant is not only a cultural artifact but also a key component in various [rituals](rituals.md) and ceremonies. It is believed that the correct recitation of the chant can invoke the blessings of the [moon deities](moon%20deities.md), protect against malevolent forces, and even affect the growth cycles of plants and the tides of [Crystal Lake](Crystal%20Lake.md).
+The chant is not only a cultural artifact but also a key component in various [rituals](Rituals.md) and ceremonies. It is believed that the correct recitation of the chant can invoke the blessings of the [moon deities](Moon%20Deities.md), protect against malevolent forces, and even affect the growth cycles of plants and the tides of [Crystal Lake](Crystal%20Lake.md).
 
 ## Preservation
 

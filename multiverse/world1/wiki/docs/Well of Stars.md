@@ -16,7 +16,7 @@ The site is imbued with a profound magical aura, attracting both the [Mages of t
 
 ## Cultural Impact
 
-The Well of Stars has become a symbol of the quest for knowledge and the mysteries of the universe. It is a pilgrimage site for [wizards](Wizards.md), [druids](Druids.md), and scholars from across [Aesheron](Aesheron.md) and beyond. The water from the basin, infused with magical properties, is highly sought after by the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md) and is traded along the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) for its reputed healing and restorative powers.
+The Well of Stars has become a symbol of the quest for knowledge and the mysteries of the universe. It is a pilgrimage site for [wizards](Wizards.md), [druids](Druids.md), and scholars from across [Aesheron](Aesheron.md) and beyond. The water from the basin, infused with magical properties, is highly sought after by the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md) and is traded along the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) for its reputed healing and restorative powers.
 
 ## Accessibility
 

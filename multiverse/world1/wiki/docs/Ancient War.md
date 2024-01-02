@@ -18,7 +18,7 @@ The war was a clash of titanic forces, with the Ancients wielding magics that co
 
 ## Key Figures
 
-- **[Morath the Wise](Morath%20the%20Wise.md)**: A legendary [wizard](wizard.md) whose strategic acumen and powerful sorcery were pivotal in several battles.
+- **[Morath the Wise](Morath%20the%20Wise.md)**: A legendary [wizard](Wizard.md) whose strategic acumen and powerful sorcery were pivotal in several battles.
 - **[Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md)**: The unifier of the northern tribes and a beacon of hope and resistance against the darkness.
 - **[Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md)**: An [Elf](Elf.md) leader whose efforts preserved the natural sanctity of his homeland.
 
@@ -39,6 +39,6 @@ Many sites across the land serve as reminders of the [Ancient War](Ancient%20War
 
 ## In Search of Truth
 
-The true extent of the [Ancient War](Ancient%20War.md)'s devastation and the fate of the Ancients remain topics of intense study by [occult researchers](occult%20researchers.md) and historians. Expeditions to uncover artifacts and explore ancient ruins are common, as the world seeks to understand the lessons of the past and prevent such a catastrophe from ever occurring again.
+The true extent of the [Ancient War](Ancient%20War.md)'s devastation and the fate of the Ancients remain topics of intense study by [occult researchers](Occult%20Researchers.md) and historians. Expeditions to uncover artifacts and explore ancient ruins are common, as the world seeks to understand the lessons of the past and prevent such a catastrophe from ever occurring again.
 
 The [Ancient War](Ancient%20War.md) continues to captivate the imagination of all who dwell within the world, a reminder of the heights of glory and the depths of despair that can be reached when the forces of light and darkness collide.

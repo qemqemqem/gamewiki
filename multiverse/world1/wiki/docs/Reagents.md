@@ -1,17 +1,17 @@
 # Reagents
 
-In the mystical world of arcane arts, [Reagents](Reagents.md) play a crucial role in the practices of [spellcraft](spellcraft.md), [conjuration](conjuration.md), and [summoning](summoning.md). These materials, often rare and imbued with inherent magical properties, serve as catalysts or anchors for magical energies, allowing [wizards](wizards.md), [sorcerers](sorcerers.md), and [conjurers](conjurers.md) to perform feats of magic that would otherwise be beyond their reach.
+In the mystical world of arcane arts, [Reagents](Reagents.md) play a crucial role in the practices of [spellcraft](Spellcraft.md), [conjuration](Conjuration.md), and [summoning](Summoning.md). These materials, often rare and imbued with inherent magical properties, serve as catalysts or anchors for magical energies, allowing [wizards](Wizards.md), [sorcerers](Sorcerers.md), and [conjurers](Conjurers.md) to perform feats of magic that would otherwise be beyond their reach.
 
 ## Definition and Purpose
 
-A reagent is a substance or mixture used in magical rituals and spellcasting that reacts with magical energy to produce a desired effect. They are not merely physical ingredients but are steeped in the lore and essence of the world, acting as bridges between the mundane and the mystical. In many cases, the use of a reagent can enhance the potency of a spell, increase its duration, or provide a measure of control over the summoned entities such as [elementals](elementals.md) or [wraiths](wraiths.md).
+A reagent is a substance or mixture used in magical rituals and spellcasting that reacts with magical energy to produce a desired effect. They are not merely physical ingredients but are steeped in the lore and essence of the world, acting as bridges between the mundane and the mystical. In many cases, the use of a reagent can enhance the potency of a spell, increase its duration, or provide a measure of control over the summoned entities such as [elementals](Elementals.md) or [wraiths](Wraiths.md).
 
 ## Types of Reagents
 
 Reagents come in various forms, each suited to different types of magic and purposes:
 
 - **Elemental Essences**: Extracts from the core of an [elemental being](Elementals.md) or from places with a strong connection to the elemental planes, such as the [Enchanted Grove](Enchanted%20Grove.md) or the [Crystal Waters](Crystal%20Waters.md).
-- **Herbs and Plants**: The flora of the world, like those found in the [Verdant Woods](Verdant%20Woods.md) or the [Gardens of Nightshade](Gardens%20of%20Nightshade.md), often contain magical properties. For example, the petals of a [moonflower](moonflower.md) picked during the [Moonflower Festival](Moonflower%20Festival.md) are said to enhance lunar magics.
+- **Herbs and Plants**: The flora of the world, like those found in the [Verdant Woods](Verdant%20Woods.md) or the [Gardens of Nightshade](Gardens%20of%20Nightshade.md), often contain magical properties. For example, the petals of a [moonflower](Moonflower.md) picked during the [Moonflower Festival](Moonflower%20Festival.md) are said to enhance lunar magics.
 - **Minerals and Gems**: Crystals and precious stones, such as those mined by the [Dwarves](Dwarves.md) from the depths of the earth, can focus and amplify magical energies. The [Crystal Tower](Crystal%20Tower.md) is renowned for its vast collection of such reagents.
 - **Animal Components**: Parts of magical creatures, like the echolocation organs of [Echo Bats](Echo%20Bats.md), are used in spells that deal with sound or detection.
 - **Alchemical Preparations**: [Alchemists](Alchemists.md) specialize in creating complex reagents through the combination and transmutation of various substances, often resulting in potent magical effects.
@@ -39,4 +39,4 @@ The trade and control of reagents can have significant cultural and economic imp
 
 ## Conclusion
 
-Reagents are more than mere components; they are the embodiment of the world's magic, captured in physical form. Whether used by a novice [adventurer](adventurers.md) or a master [conjurer](conjurers.md), reagents hold the key to unlocking the vast potential of the arcane, and their study and use remain a cornerstone of magical practice in the world.
+Reagents are more than mere components; they are the embodiment of the world's magic, captured in physical form. Whether used by a novice [adventurer](Adventurers.md) or a master [conjurer](Conjurers.md), reagents hold the key to unlocking the vast potential of the arcane, and their study and use remain a cornerstone of magical practice in the world.

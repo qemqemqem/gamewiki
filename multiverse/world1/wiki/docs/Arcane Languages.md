@@ -1,6 +1,6 @@
 # Arcane Languages
 
-Arcane languages are the esoteric and ancient tongues through which the fabric of magic is woven. These languages are not merely a means of communication but are the very keys to unlocking the mysteries of the universe and manipulating its fundamental energies. To the uninitiated, arcane languages may appear as mere gibberish, but to those versed in the arts of [spellcraft](spellcraft.md), they are the lifeblood of their practice.
+Arcane languages are the esoteric and ancient tongues through which the fabric of magic is woven. These languages are not merely a means of communication but are the very keys to unlocking the mysteries of the universe and manipulating its fundamental energies. To the uninitiated, arcane languages may appear as mere gibberish, but to those versed in the arts of [spellcraft](Spellcraft.md), they are the lifeblood of their practice.
 
 ## Origins and History
 
@@ -17,11 +17,11 @@ Arcane languages are characterized by their complex syntax and intricate symbols
 
 ## Learning Arcane Languages
 
-The study of arcane languages is a rigorous process that requires both intellectual prowess and a deep connection to the magical energies of the world. Aspiring [spellcasters](spellcasters.md) often begin their education at esteemed academies such as the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) or under the guidance of a master like [Morath the Wise](Morath%20the%20Wise.md). The process involves not only memorizing the vast lexicon of words and symbols but also understanding the cultural and historical context in which these languages were developed.
+The study of arcane languages is a rigorous process that requires both intellectual prowess and a deep connection to the magical energies of the world. Aspiring [spellcasters](Spellcasters.md) often begin their education at esteemed academies such as the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) or under the guidance of a master like [Morath the Wise](Morath%20the%20Wise.md). The process involves not only memorizing the vast lexicon of words and symbols but also understanding the cultural and historical context in which these languages were developed.
 
 ## Practical Applications
 
-In the practice of [spellcraft](spellcraft.md), arcane languages serve multiple purposes:
+In the practice of [spellcraft](Spellcraft.md), arcane languages serve multiple purposes:
 
 - **Spellcasting**: The incantation of spells in an arcane language helps to focus the caster's will and channel the necessary energies.
 - **Rituals**: Many complex magical rituals require the use of specific arcane languages to properly align with the desired magical forces.
@@ -34,4 +34,4 @@ The preservation of arcane languages is of utmost importance to the magical comm
 
 ## Conclusion
 
-Arcane languages are a testament to the depth and complexity of the magical arts. They are not merely tools for the [spellcasters](spellcasters.md) but are a profound expression of the world's arcane heritage. As the keepers of this knowledge, mages, wizards, and other practitioners continue to explore the boundaries of what is possible through the power of the spoken and written word.
+Arcane languages are a testament to the depth and complexity of the magical arts. They are not merely tools for the [spellcasters](Spellcasters.md) but are a profound expression of the world's arcane heritage. As the keepers of this knowledge, mages, wizards, and other practitioners continue to explore the boundaries of what is possible through the power of the spoken and written word.

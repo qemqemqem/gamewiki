@@ -24,11 +24,11 @@ Perhaps the most intriguing of all the forest's mysteries is the fabled [Gardens
 
 ## Conservation Efforts
 
-Recognizing the importance of the Whispering Woods, both ecologically and historically, various groups have taken measures to protect it. [Elemental Summoning](Elemental%20Summoning.md) has been employed to maintain the health of the forest, with [Fire elementals](Fire%20elementals.md) conducting controlled burns and [Water elementals](Water%20elementals.md) nurturing the streams and ponds. The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have also been instrumental in preserving the knowledge and sanctity of the woods.
+Recognizing the importance of the Whispering Woods, both ecologically and historically, various groups have taken measures to protect it. [Elemental Summoning](Elemental%20Summoning.md) has been employed to maintain the health of the forest, with [Fire elementals](Fire%20Elementals.md) conducting controlled burns and [Water elementals](Water%20Elementals.md) nurturing the streams and ponds. The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have also been instrumental in preserving the knowledge and sanctity of the woods.
 
 ## In Popular Culture
 
-The Whispering Woods have inspired countless works of art, poetry, and music. Bards often sing of its haunting beauty, and [painters](painters.md) seek to capture its essence on canvas. It is a place of pilgrimage for [arcane practitioners](arcane%20practitioners.md) who believe the woods to be a source of untapped [arcane](arcane.md) energy.
+The Whispering Woods have inspired countless works of art, poetry, and music. Bards often sing of its haunting beauty, and [painters](Painters.md) seek to capture its essence on canvas. It is a place of pilgrimage for [arcane practitioners](Arcane%20Practitioners.md) who believe the woods to be a source of untapped [arcane](Arcane.md) energy.
 
 ## Travel and Exploration
 

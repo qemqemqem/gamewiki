@@ -12,7 +12,7 @@ The Northern Realms span across various landscapes, from the frost-kissed peaks 
 
 ## Culture
 
-Cultural expression within the Monarchies is as diverse as the realms themselves. The [Elves](Elves.md) of the northern forests are renowned for their ethereal music and art, while the [Dwarves](Dwarves.md) are celebrated for their masterful craftsmanship, as seen in the goods traded along the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md). The Fallen Temple of the Moon, depicted in the royal tapestries, serves as a reminder of the pursuit of knowledge and the impermanence of power.
+Cultural expression within the Monarchies is as diverse as the realms themselves. The [Elves](Elves.md) of the northern forests are renowned for their ethereal music and art, while the [Dwarves](Dwarves.md) are celebrated for their masterful craftsmanship, as seen in the goods traded along the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md). The Fallen Temple of the Moon, depicted in the royal tapestries, serves as a reminder of the pursuit of knowledge and the impermanence of power.
 
 ## Government and Politics
 
@@ -20,7 +20,7 @@ Each Monarchy has its own system of governance, though most are hereditary in na
 
 ## Economy
 
-The economies of the Northern Realms are as varied as their landscapes. The [Dwarven Mines](Dwarven%20Mines.md) contribute significantly to the wealth of the region, with their precious metals and gems adorning the crowns of monarchs and fueling the forges of [Stormhold Castle](Stormhold%20Castle.md). Trade routes like the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) are vital for the distribution of goods and the prosperity of the realms.
+The economies of the Northern Realms are as varied as their landscapes. The [Dwarven Mines](Dwarven%20Mines.md) contribute significantly to the wealth of the region, with their precious metals and gems adorning the crowns of monarchs and fueling the forges of [Stormhold Castle](Stormhold%20Castle.md). Trade routes like the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) are vital for the distribution of goods and the prosperity of the realms.
 
 ## Religion and Magic
 

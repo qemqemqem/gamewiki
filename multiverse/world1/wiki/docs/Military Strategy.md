@@ -14,7 +14,7 @@ Understanding the lay of the land is crucial for any military campaign. Commande
 
 ### Magical Elements
 
-The inclusion of [arcane practitioners](arcane%20practitioners.md) in military planning cannot be overstated. Their ability to [control weather](control%20weather.md), cast [flame strike](flame%20strike.md), or create protective barriers with [arcane foci](arcane%20foci.md) has revolutionized the battlefield. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) is known for its secretive contributions to military tactics, often turning the tide of battle with unseen forces.
+The inclusion of [arcane practitioners](Arcane%20Practitioners.md) in military planning cannot be overstated. Their ability to [control weather](Control%20Weather.md), cast [flame strike](Flame%20Strike.md), or create protective barriers with [arcane foci](Arcane%20Foci.md) has revolutionized the battlefield. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) is known for its secretive contributions to military tactics, often turning the tide of battle with unseen forces.
 
 ### Logistics and Supply
 
@@ -32,7 +32,7 @@ With the advent of airships and the spell [Feather Fall](Feather%20Fall.md), com
 
 ### Naval Dominance
 
-Control of the [Crystal Sea](Crystal%20Sea.md) has always been a strategic priority. The [Echovale Isle](Echovale%20Isle.md) serves as a naval stronghold, from which fleets can project power and secure trade routes. The use of [water sprites](water%20sprites.md) and [Wizardry](Wizardry.md) to navigate and manipulate the seas has been a game-changer in naval warfare.
+Control of the [Crystal Sea](Crystal%20Sea.md) has always been a strategic priority. The [Echovale Isle](Echovale%20Isle.md) serves as a naval stronghold, from which fleets can project power and secure trade routes. The use of [water sprites](Water%20Sprites.md) and [Wizardry](Wizardry.md) to navigate and manipulate the seas has been a game-changer in naval warfare.
 
 ### The Use of Artifacts
 

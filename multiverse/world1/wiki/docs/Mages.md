@@ -4,7 +4,7 @@ Mages are the practitioners of the arcane arts, wielding the raw energies of the
 
 ## Origins and Training
 
-The origins of magecraft are shrouded in mystery, with many theories pointing to the [Ancients](Ancients.md) as the first to harness the arcane. The art has since been refined and passed down through generations. Aspiring mages often begin their training at a young age, showing an innate talent or a keen interest in the arcane. They are usually apprenticed to a master mage or enroll in prestigious institutions such as the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) or the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), where they study various disciplines of magic, including [rituals](rituals.md), spellcasting, and the creation of magical items.
+The origins of magecraft are shrouded in mystery, with many theories pointing to the [Ancients](Ancients.md) as the first to harness the arcane. The art has since been refined and passed down through generations. Aspiring mages often begin their training at a young age, showing an innate talent or a keen interest in the arcane. They are usually apprenticed to a master mage or enroll in prestigious institutions such as the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) or the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), where they study various disciplines of magic, including [rituals](Rituals.md), spellcasting, and the creation of magical items.
 
 ## Schools of Magic
 
@@ -33,7 +33,7 @@ Throughout history, there have been many notable mages whose deeds and discoveri
 
 - **Morath:** The legendary figure who established the [Principality of Morath](Principality%20of%20Morath.md), a beacon of knowledge and enlightenment for mages and scholars alike.
 - **Grimbeorn the Builder:** Known for his mastery of transmutation and construction, he laid the foundations for many of the world's wonders, including [Stormhold Castle](Stormhold%20Castle.md).
-- **Members of the Order of the Veiled Eye:** This secretive group of sorcerers is said to wield the hidden energies of the new moon to perform feats of [sorcery](sorcery.md) that are both wondrous and terrifying.
+- **Members of the Order of the Veiled Eye:** This secretive group of sorcerers is said to wield the hidden energies of the new moon to perform feats of [sorcery](Sorcery.md) that are both wondrous and terrifying.
 
 ## Challenges and Perils
 

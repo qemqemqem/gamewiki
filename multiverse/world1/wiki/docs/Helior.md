@@ -26,7 +26,7 @@ Warriors invoke Helior's name for courage and protection in battle. Orders such 
 Helior's domain is a plane of existence known as the [Infernal Planes](Infernal%20Planes.md), a term that may seem contradictory given his celestial nature. However, within the context of Helior, the term 'infernal' refers not to the diabolic, but to the inner fire that burns at the heart of all stars. This realm is a place of eternal daylight, where the ground is forged from sun-baked stone and the rivers flow with liquid light.
 
 ### Celestial and Infernal Influences
-The energy that emanates from Helior's realm influences the [elemental energy](elemental%20energy.md) of the world. It is said that during certain celestial alignments, the barrier between Helior's plane and the mortal world thins, allowing his radiant energy to suffuse the land with greater intensity. [Summoners](Summoners.md) and [occult researchers](occult%20researchers.md) study these phenomena, seeking to harness the power of Helior's realm for various purposes.
+The energy that emanates from Helior's realm influences the [elemental energy](Elemental%20Energy.md) of the world. It is said that during certain celestial alignments, the barrier between Helior's plane and the mortal world thins, allowing his radiant energy to suffuse the land with greater intensity. [Summoners](Summoners.md) and [occult researchers](Occult%20Researchers.md) study these phenomena, seeking to harness the power of Helior's realm for various purposes.
 
 ## Entities of Helior
 

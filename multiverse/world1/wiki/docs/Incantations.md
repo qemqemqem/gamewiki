@@ -1,10 +1,10 @@
 # Incantations
 
-Incantations are a fundamental aspect of spellcasting, serving as the verbal component that spellcasters use to harness and shape magical energies. These mystical phrases, often derived from ancient [arcane languages](arcane%20languages.md), are imbued with power and resonate with the fabric of reality, allowing [wizards](wizards.md), [sorcerers](sorcerers.md), [priests](priests.md), and other practitioners of the arcane to manifest a multitude of magical effects.
+Incantations are a fundamental aspect of spellcasting, serving as the verbal component that spellcasters use to harness and shape magical energies. These mystical phrases, often derived from ancient [arcane languages](Arcane%20Languages.md), are imbued with power and resonate with the fabric of reality, allowing [wizards](Wizards.md), [sorcerers](Sorcerers.md), [priests](Priests.md), and other practitioners of the arcane to manifest a multitude of magical effects.
 
 ## Origins and Nature
 
-The origin of incantations is as old as magic itself, with the earliest records found in the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) and guarded by the [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md). These phrases are believed to have been discovered, or in some cases, created by the first [mages](mages.md) who learned to tap into the raw energies of the universe. Incantations can range from simple words to complex phrases, and their effectiveness is often tied to the clarity and intent with which they are spoken.
+The origin of incantations is as old as magic itself, with the earliest records found in the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) and guarded by the [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md). These phrases are believed to have been discovered, or in some cases, created by the first [mages](Mages.md) who learned to tap into the raw energies of the universe. Incantations can range from simple words to complex phrases, and their effectiveness is often tied to the clarity and intent with which they are spoken.
 
 ## Components of Incantations
 
@@ -14,7 +14,7 @@ The pronunciation of an incantation is crucial. Mispronunciation can lead to uni
 
 ### Rhythm and Cadence
 
-The rhythm and cadence with which an incantation is recited can affect the potency and control of the resulting spell. Certain spells may require a steady, rhythmic chant, while others might demand a rapid-fire succession of syllables. The [abjurers](abjurers.md), for example, are known to use measured, deliberate incantations to weave stronger protective spells.
+The rhythm and cadence with which an incantation is recited can affect the potency and control of the resulting spell. Certain spells may require a steady, rhythmic chant, while others might demand a rapid-fire succession of syllables. The [abjurers](Abjurers.md), for example, are known to use measured, deliberate incantations to weave stronger protective spells.
 
 ### Emotional Resonance
 
@@ -24,15 +24,15 @@ Many incantations require the spellcaster to imbue their words with emotion. Thi
 
 ### Spellcasting
 
-In the practice of [spellcraft](spellcraft.md), incantations are often accompanied by [gestures](gestures.md) and the use of [reagents](reagents.md). The combination of these elements allows spellcasters to manipulate the energies needed to cast spells. For example, [conjurers](conjurers.md) may use incantations to form a link between planes, summoning creatures or objects with their words.
+In the practice of [spellcraft](Spellcraft.md), incantations are often accompanied by [gestures](Gestures.md) and the use of [reagents](Reagents.md). The combination of these elements allows spellcasters to manipulate the energies needed to cast spells. For example, [conjurers](Conjurers.md) may use incantations to form a link between planes, summoning creatures or objects with their words.
 
 ### Attunement of [Arcane Foci](Arcane%20Foci.md)
 
-[Arcane foci](Arcane%20foci.md) require attunement through a ritual that often includes the recitation of incantations. These rituals align the focus with the spellcaster's magical signature, ensuring that the flow of energy is harmonious and efficient.
+[Arcane foci](Arcane%20Foci.md) require attunement through a ritual that often includes the recitation of incantations. These rituals align the focus with the spellcaster's magical signature, ensuring that the flow of energy is harmonious and efficient.
 
 ### Abjuration
 
-The school of [abjuration](abjuration.md) relies heavily on incantations to form protective barriers and shields. Abjurers must learn specific incantations that correspond to the type of defense they wish to create, with some spells requiring a continuous chant to maintain their effectiveness.
+The school of [abjuration](Abjuration.md) relies heavily on incantations to form protective barriers and shields. Abjurers must learn specific incantations that correspond to the type of defense they wish to create, with some spells requiring a continuous chant to maintain their effectiveness.
 
 ## Learning and Mastery
 
@@ -40,4 +40,4 @@ The mastery of incantations is a lifelong pursuit for many spellcasters. Esteeme
 
 ## Conclusion
 
-Incantations are more than mere words; they are the key to unlocking the mysteries of the arcane and bending the forces of magic to one's will. Whether whispered by a lone [nomad](nomad.md) under the light of the [moon](moon.md) or chanted by a chorus of [priests](priests.md) in the grand temples, incantations remain a vital and powerful tool in the arsenal of those who walk the path of magic.
+Incantations are more than mere words; they are the key to unlocking the mysteries of the arcane and bending the forces of magic to one's will. Whether whispered by a lone [nomad](Nomad.md) under the light of the [moon](Moon.md) or chanted by a chorus of [priests](Priests.md) in the grand temples, incantations remain a vital and powerful tool in the arsenal of those who walk the path of magic.

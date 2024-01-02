@@ -10,13 +10,13 @@ The terrain is predominantly flat, with occasional rolling hills that rise like 
 
 ## Flora and Fauna
 
-The Plains of Valor are home to a rich diversity of life. The grasses here range from the short, hardy tufts that withstand the wind's constant caress to the tall, waving strands that seem to capture the very essence of the sky. Wildflowers dot the landscape in a riot of colors, with the rare [Moonflower](Moonflower.md) blooming under the light of the full [moon](moon.md).
+The Plains of Valor are home to a rich diversity of life. The grasses here range from the short, hardy tufts that withstand the wind's constant caress to the tall, waving strands that seem to capture the very essence of the sky. Wildflowers dot the landscape in a riot of colors, with the rare [Moonflower](Moonflower.md) blooming under the light of the full [moon](Moon.md).
 
 Herds of majestic creatures graze upon the verdant grasses, including the thundering [Aurochs](Aurochs.md) and the swift [Silvermane Horses](Silvermane%20Horses.md). Predators like the [Windcutter Hawks](Windcutter%20Hawks.md) and the elusive [Shade Wraiths](Shade%20Wraiths.md) maintain the delicate balance of the ecosystem, each playing their part in the circle of life.
 
 ## History and Culture
 
-The Plains of Valor have been the silent witness to many of the pivotal moments in Aesheron's history. It is said that the ancient [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) lies buried beneath the grasses, where once great monarchs clashed for dominion over the land. The plains have also seen the rise and fall of empires, serving as a crossroads for the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md), which brought trade and travelers from distant lands.
+The Plains of Valor have been the silent witness to many of the pivotal moments in Aesheron's history. It is said that the ancient [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) lies buried beneath the grasses, where once great monarchs clashed for dominion over the land. The plains have also seen the rise and fall of empires, serving as a crossroads for the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md), which brought trade and travelers from distant lands.
 
 The nomadic tribes of the plains are known for their horsemanship and their deep connection to the land. They live in harmony with the cycles of nature, moving their camps with the seasons and the migrations of the herds. Their culture is rich in oral traditions, with stories and songs passed down through generations, often recounting the valorous deeds of their ancestors and the sacredness of the earth.
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Fire elementals](Fire%20elementals.md) are among the most captivating and formidable entities known to the denizens of the mystical realms. These beings are the embodiment of fire, born from the raw and untamed essence of [elemental energy](Elemental.md). They hail from the scorching depths of the [Infernal Planes](Infernal%20Planes.md), a domain where the concept of tranquility is as foreign as the coldest winter night.
+[Fire elementals](Fire%20Elementals.md) are among the most captivating and formidable entities known to the denizens of the mystical realms. These beings are the embodiment of fire, born from the raw and untamed essence of [elemental energy](Elemental.md). They hail from the scorching depths of the [Infernal Planes](Infernal%20Planes.md), a domain where the concept of tranquility is as foreign as the coldest winter night.
 
 ## Physiology
 
@@ -14,11 +14,11 @@ Contrary to the fearsome reputation that often precedes them, fire elementals ar
 
 ## Summoning and Pact
 
-The art of summoning a fire elemental is a delicate and dangerous endeavor, typically reserved for the most skilled [Summoners](Summoners.md) and [Wizards](Wizards.md). The process involves intricate [rituals](rituals.md) and precise [incantations](incantations.md), often requiring protective measures to safeguard the summoner from the elemental's intense heat. The resulting pact between summoner and elemental is a binding agreement, outlining the services the elemental will provide and the offerings or energy it will receive in return.
+The art of summoning a fire elemental is a delicate and dangerous endeavor, typically reserved for the most skilled [Summoners](Summoners.md) and [Wizards](Wizards.md). The process involves intricate [rituals](Rituals.md) and precise [incantations](Incantations.md), often requiring protective measures to safeguard the summoner from the elemental's intense heat. The resulting pact between summoner and elemental is a binding agreement, outlining the services the elemental will provide and the offerings or energy it will receive in return.
 
 ## Role in the World
 
-Fire elementals are sought after for their immense power and are often called upon to serve in various capacities. Their ability to wield [flame](flame.md) makes them invaluable allies in battle, capable of engulfing enemies in a conflagration or forging paths through otherwise impassable obstacles. In times of peace, they may be tasked with tasks such as fueling the forges of [blacksmiths](blacksmiths.md) or aiding in controlled burns to maintain the health of forests like the [Whispering Woods](Whispering%20Woods.md).
+Fire elementals are sought after for their immense power and are often called upon to serve in various capacities. Their ability to wield [flame](Flame.md) makes them invaluable allies in battle, capable of engulfing enemies in a conflagration or forging paths through otherwise impassable obstacles. In times of peace, they may be tasked with tasks such as fueling the forges of [blacksmiths](Blacksmiths.md) or aiding in controlled burns to maintain the health of forests like the [Whispering Woods](Whispering%20Woods.md).
 
 ## Relations with Other Entities
 

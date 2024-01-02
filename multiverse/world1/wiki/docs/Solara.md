@@ -1,6 +1,6 @@
 # Solara
 
-Solara, known reverently as the Radiant Mother, is a central figure in the pantheon of [sun deities](sun%20deities.md) worshiped across the vast and varied landscapes of the realm. She is the embodiment of the dawn, the gentle warmth that caresses the world awake, and the nurturing light that fosters life and growth. Her influence is felt in every ray of sunlight that pierces the morning mist and in the hopeful gaze of every creature that turns its face toward the day's first light.
+Solara, known reverently as the Radiant Mother, is a central figure in the pantheon of [sun deities](Sun%20Deities.md) worshiped across the vast and varied landscapes of the realm. She is the embodiment of the dawn, the gentle warmth that caresses the world awake, and the nurturing light that fosters life and growth. Her influence is felt in every ray of sunlight that pierces the morning mist and in the hopeful gaze of every creature that turns its face toward the day's first light.
 
 ## Worship and Temples
 
@@ -16,7 +16,7 @@ The divine family of sun deities also includes lesser-known figures, each govern
 
 ## Influence and Teachings
 
-Solara's teachings emphasize the importance of nurturing and compassion, encouraging her followers to aid in the growth and well-being of all living things. [Healers](Healers.md) and [conservationists](conservationists.md) often invoke her name in their work, seeking her blessing to restore health to the injured and vitality to the land.
+Solara's teachings emphasize the importance of nurturing and compassion, encouraging her followers to aid in the growth and well-being of all living things. [Healers](Healers.md) and [conservationists](Conservationists.md) often invoke her name in their work, seeking her blessing to restore health to the injured and vitality to the land.
 
 Her influence extends beyond the spiritual, touching upon the realms of [Agriculture](Agriculture.md) and [Artisanal](Artisanal.md) crafts. The [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) are said to flourish under her watchful eye, and the harvest festivals are a time to give thanks to Solara for the bounty she provides.
 

@@ -31,7 +31,7 @@ The conflict was also notable for its magical aspects, as detailed in the accoun
 ## Notable Figures
 
 - **[Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md)**: The sovereign who led her people with courage and wisdom, becoming a symbol of hope and strength.
-- **[Morath the Wise](Morath%20the%20Wise.md)**: A sage whose knowledge of ancient [rituals](rituals.md) and [sorcery](sorcery.md) proved crucial in countering the magic of the Dark Horde.
+- **[Morath the Wise](Morath%20the%20Wise.md)**: A sage whose knowledge of ancient [rituals](Rituals.md) and [sorcery](Sorcery.md) proved crucial in countering the magic of the Dark Horde.
 - **[Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md)**: An elven hero whose guerilla tactics and mastery of the forest terrain were instrumental in several key victories.
 
 ## Remembrance

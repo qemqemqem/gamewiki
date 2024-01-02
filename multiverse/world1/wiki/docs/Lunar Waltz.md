@@ -4,7 +4,7 @@ The [Lunar Waltz](Lunar%20Waltz.md) is an ethereal dance that transcends mere pe
 
 ## Origins and Significance
 
-The origins of the [Lunar Waltz](Lunar%20Waltz.md) are as enigmatic as the dance itself, with many attributing its inception to the ancient [moon deities](moon%20deities.md) who are said to have first performed the waltz on the celestial plane, weaving the fabric of the night with each step. Over the millennia, the dance has been passed down to the mortal realm, where it is performed during significant lunar events, such as the [Moonflower Festival](Moonflower%20Festival.md).
+The origins of the [Lunar Waltz](Lunar%20Waltz.md) are as enigmatic as the dance itself, with many attributing its inception to the ancient [moon deities](Moon%20Deities.md) who are said to have first performed the waltz on the celestial plane, weaving the fabric of the night with each step. Over the millennia, the dance has been passed down to the mortal realm, where it is performed during significant lunar events, such as the [Moonflower Festival](Moonflower%20Festival.md).
 
 The [Lunar Waltz](Lunar%20Waltz.md) is more than a mere dance; it is a ritual that celebrates the moon's influence over the world. It is believed that during this dance, the veil between the mortal world and the ethereal realms thins, allowing for a communion with the divine and the unlocking of latent magical energies.
 
@@ -12,7 +12,7 @@ The [Lunar Waltz](Lunar%20Waltz.md) is more than a mere dance; it is a ritual th
 
 ### Moonflower Festival
 
-The most prominent observance of the [Lunar Waltz](Lunar%20Waltz.md) takes place during the [Moonflower Festival](Moonflower%20Festival.md), held in the verdant valley beneath the [Crystal Tower](Crystal%20Tower.md). As the moon reaches its zenith, dancers adorned with [moonflower](moonflower.md) garlands mimic the moon's phases through their choreography, often accompanied by the haunting melodies of bards like [Alyndra](Alyndra.md).
+The most prominent observance of the [Lunar Waltz](Lunar%20Waltz.md) takes place during the [Moonflower Festival](Moonflower%20Festival.md), held in the verdant valley beneath the [Crystal Tower](Crystal%20Tower.md). As the moon reaches its zenith, dancers adorned with [moonflower](Moonflower.md) garlands mimic the moon's phases through their choreography, often accompanied by the haunting melodies of bards like [Alyndra](Alyndra.md).
 
 ### Shrouded City
 
@@ -28,11 +28,11 @@ The [Plains of Valor](Plains%20of%20Valor.md) offer a natural spectacle where th
 
 ## Cultural Impact
 
-The [Lunar Waltz](Lunar%20Waltz.md) has inspired countless works of art, from the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) to elaborate tapestries depicting the dance's fluid movements. It is a subject of study for many [druids](druids.md) and [mages](mages.md), who seek to understand and harness the energies it invokes. The dance has also influenced various aspects of society, from fashion, with garments designed to flow like the dancers' steps, to architecture, where structures like the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) incorporate lunar motifs.
+The [Lunar Waltz](Lunar%20Waltz.md) has inspired countless works of art, from the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) to elaborate tapestries depicting the dance's fluid movements. It is a subject of study for many [druids](Druids.md) and [mages](Mages.md), who seek to understand and harness the energies it invokes. The dance has also influenced various aspects of society, from fashion, with garments designed to flow like the dancers' steps, to architecture, where structures like the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) incorporate lunar motifs.
 
 ## In Literature and Lore
 
-The dance is often featured in tales of romance and mysticism, serving as a backdrop for stories of love blessed by the moon or as a pivotal moment where characters receive prophetic visions. The [Lunar Waltz](Lunar%20Waltz.md) is also a common motif in the poetry and songs of traveling [nomad](nomad.md)s, who spread its legend across the [Silk Road](Silk%20Road.md) and beyond.
+The dance is often featured in tales of romance and mysticism, serving as a backdrop for stories of love blessed by the moon or as a pivotal moment where characters receive prophetic visions. The [Lunar Waltz](Lunar%20Waltz.md) is also a common motif in the poetry and songs of traveling [nomad](Nomad.md)s, who spread its legend across the [Silk Road](Silk%20Road.md) and beyond.
 
 ## Conclusion
 

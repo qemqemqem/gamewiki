@@ -1,6 +1,6 @@
 # Seraphine the Seer
 
-Seraphine the Seer, often simply known as [Seraphine](Seraphine.md), is a legendary figure in the annals of arcane history, revered for her unparalleled abilities in both [evocation](evocation.md) and divination. Her life and works have left an indelible mark on the magical community, influencing generations of [wizard](wizard.md)s, [sorcerer](sorcerer.md)s, and [seers](seers.md).
+Seraphine the Seer, often simply known as [Seraphine](Seraphine.md), is a legendary figure in the annals of arcane history, revered for her unparalleled abilities in both [evocation](Evocation.md) and divination. Her life and works have left an indelible mark on the magical community, influencing generations of [wizard](Wizard.md)s, [sorcerer](Sorcerer.md)s, and [seers](Seers.md).
 
 ## Early Life
 
@@ -8,21 +8,21 @@ The early life of Seraphine the Seer is shrouded in mystery. Born under the ausp
 
 ## Mastery of Evocation
 
-Seraphine's prowess in [evocation](evocation.md) was unmatched in her era. She could weave the raw energies of the elements with a finesse that left even the most seasoned [evokers](evokers.md) in awe. Her command over fire, in particular, was said to surpass that of [Pyronus](Pyronus.md), the elemental lord of flame. Her ability to call forth and manipulate the elements earned her the moniker "Mistress of the Elemental Tapestry."
+Seraphine's prowess in [evocation](Evocation.md) was unmatched in her era. She could weave the raw energies of the elements with a finesse that left even the most seasoned [evokers](Evokers.md) in awe. Her command over fire, in particular, was said to surpass that of [Pyronus](Pyronus.md), the elemental lord of flame. Her ability to call forth and manipulate the elements earned her the moniker "Mistress of the Elemental Tapestry."
 
 ## Divination and Prophecy
 
-However, it was Seraphine's gift of foresight that truly set her apart. Her prophecies were sought after by kings and [councils](councils.md) alike. The most famous of her visions was the prophecy of the [Dawn of the New Light](Dawn%20of%20the%20New%20Light.md), a millennial event that promised a new era of hope and enlightenment. Her predictions were recorded in a series of tomes known as the "Chronicles of the Ethereal Tides," which are studied to this day by [scholars](scholars.md) and [priests](priests.md).
+However, it was Seraphine's gift of foresight that truly set her apart. Her prophecies were sought after by kings and [councils](Councils.md) alike. The most famous of her visions was the prophecy of the [Dawn of the New Light](Dawn%20of%20the%20New%20Light.md), a millennial event that promised a new era of hope and enlightenment. Her predictions were recorded in a series of tomes known as the "Chronicles of the Ethereal Tides," which are studied to this day by [scholars](Scholars.md) and [priests](Priests.md).
 
 ## Summoning the [Moon Deities](Moon%20Deities.md)
 
-In her relentless pursuit of knowledge, Seraphine is said to have performed a [ritual](ritual.md) of great risk and reward. She summoned the enigmatic [Moon Deities](Moon%20Deities.md), beings of immense power and wisdom, to gain insights into the future. This daring act was not without its dangers, but it solidified her reputation as a master of both [summonings](summonings.md) and the prophetic arts.
+In her relentless pursuit of knowledge, Seraphine is said to have performed a [ritual](Ritual.md) of great risk and reward. She summoned the enigmatic [Moon Deities](Moon%20Deities.md), beings of immense power and wisdom, to gain insights into the future. This daring act was not without its dangers, but it solidified her reputation as a master of both [summonings](Summonings.md) and the prophetic arts.
 
 ## Legacy
 
-Seraphine's contributions to the magical arts are celebrated annually during the [Moonflower Festival](Moonflower%20Festival.md), where her feats are reenacted through elaborate [illusions](illusions.md) and [conjurers](conjurers.md) pay homage to her spirit. The [enchanted Grove](enchanted%20Grove.md), a place of powerful magic, is believed to have been her final resting place, though no tomb has ever been found.
+Seraphine's contributions to the magical arts are celebrated annually during the [Moonflower Festival](Moonflower%20Festival.md), where her feats are reenacted through elaborate [illusions](Illusions.md) and [conjurers](Conjurers.md) pay homage to her spirit. The [enchanted Grove](Enchanted%20Grove.md), a place of powerful magic, is believed to have been her final resting place, though no tomb has ever been found.
 
-Her teachings and prophecies continue to influence modern magical practices. The [Artisanal](Artisanal.md) crafting of [arcane foci](arcane%20foci.md) often includes motifs inspired by her life, and many [ritual](ritual.md)s of divination still invoke her name for guidance.
+Her teachings and prophecies continue to influence modern magical practices. The [Artisanal](Artisanal.md) crafting of [arcane foci](Arcane%20Foci.md) often includes motifs inspired by her life, and many [ritual](Ritual.md)s of divination still invoke her name for guidance.
 
 ## The Chronicles and Artifacts
 

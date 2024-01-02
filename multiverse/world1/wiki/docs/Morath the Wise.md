@@ -1,10 +1,10 @@
 # Morath the Wise
 
-Morath the Wise, a figure shrouded in the annals of history, is a legendary [wizard](wizard.md) whose life and deeds have left an indelible mark on the world of Aesheron. Known for his profound knowledge, strategic acumen, and contributions to magical theory, Morath's legacy is celebrated in the hallowed halls of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and whispered in the winds that sweep through the [Ruins of Eldara](Ruins%20of%20Eldara.md).
+Morath the Wise, a figure shrouded in the annals of history, is a legendary [wizard](Wizard.md) whose life and deeds have left an indelible mark on the world of Aesheron. Known for his profound knowledge, strategic acumen, and contributions to magical theory, Morath's legacy is celebrated in the hallowed halls of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and whispered in the winds that sweep through the [Ruins of Eldara](Ruins%20of%20Eldara.md).
 
 ## Early Life
 
-Little is known about the early life of Morath. Legends suggest that he was born during the [Age of Twilight](Age%20of%20Twilight.md), a period of great turmoil and uncertainty. It is believed that Morath was an orphan, taken in by the [wizards](wizards.md) of the [Crystal Tower](Crystal%20Tower.md), where he quickly distinguished himself as a prodigy in the arcane arts.
+Little is known about the early life of Morath. Legends suggest that he was born during the [Age of Twilight](Age%20of%20Twilight.md), a period of great turmoil and uncertainty. It is believed that Morath was an orphan, taken in by the [wizards](Wizards.md) of the [Crystal Tower](Crystal%20Tower.md), where he quickly distinguished himself as a prodigy in the arcane arts.
 
 ## Contributions to Magic
 
@@ -24,7 +24,7 @@ Morath's influence extended beyond his own time. He was a mentor to many, includ
 
 ## Disappearance and Myth
 
-In his later years, Morath the Wise vanished under mysterious circumstances. Some say he embarked on a quest to discover the secrets of immortality, while others believe he ascended to a higher plane of existence. His disappearance has given rise to numerous myths and quests by [occult researchers](occult%20researchers.md) seeking to uncover his final fate.
+In his later years, Morath the Wise vanished under mysterious circumstances. Some say he embarked on a quest to discover the secrets of immortality, while others believe he ascended to a higher plane of existence. His disappearance has given rise to numerous myths and quests by [occult researchers](Occult%20Researchers.md) seeking to uncover his final fate.
 
 ## In Popular Culture
 
@@ -32,4 +32,4 @@ Morath the Wise is a figure revered in tales and songs throughout Aesheron. His 
 
 ## Conclusion
 
-Morath the Wise remains an enigmatic and inspiring figure in the history of Aesheron. His wisdom and power continue to influence the world, and his name is synonymous with the pursuit of knowledge and the mastery of the arcane. As new generations of [wizards](wizards.md) and [druids](druids.md) look to the stars, they do so standing on the shoulders of giants like Morath the Wise.
+Morath the Wise remains an enigmatic and inspiring figure in the history of Aesheron. His wisdom and power continue to influence the world, and his name is synonymous with the pursuit of knowledge and the mastery of the arcane. As new generations of [wizards](Wizards.md) and [druids](Druids.md) look to the stars, they do so standing on the shoulders of giants like Morath the Wise.

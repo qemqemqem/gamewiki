@@ -1,12 +1,12 @@
 # Feather Fall
 
-Feather Fall is an enchanting spell of protection and grace, widely regarded as an essential incantation in the repertoire of any [wizard](Wizards.md), [sorcerer](Sorcerers.md), or [arcane practitioner](Arcane practitioners.md) who values safety and finesse in their magical endeavors. This spell allows the caster and selected companions to descend slowly and gently from great heights, as if carried by the unseen wings of the ethereal Windcutter Hawk.
+Feather Fall is an enchanting spell of protection and grace, widely regarded as an essential incantation in the repertoire of any [wizard](Wizards.md), [sorcerer](Sorcerers.md), or [arcane practitioner](Arcane Practitioners.md) who values safety and finesse in their magical endeavors. This spell allows the caster and selected companions to descend slowly and gently from great heights, as if carried by the unseen wings of the ethereal Windcutter Hawk.
 
 ## Origins and Development
 
-The origins of Feather Fall are steeped in the lore of the [Ethereal Plane](Ethereal%20Plane.md), where the boundaries of physical laws are blurred by the mists of magic. It is said that the spell was first conceived by the ancient [occult researchers](occult%20researchers.md) who sought to traverse the perilous heights of the [Frostspire Mountains](Frostspire%20Mountains.md) without succumbing to the treacherous winds and lethal falls. Inspired by the effortless glide of the Windcutter Hawk, these ingenious mages crafted a spell that would emulate its majestic descent.
+The origins of Feather Fall are steeped in the lore of the [Ethereal Plane](Ethereal%20Plane.md), where the boundaries of physical laws are blurred by the mists of magic. It is said that the spell was first conceived by the ancient [occult researchers](Occult%20Researchers.md) who sought to traverse the perilous heights of the [Frostspire Mountains](Frostspire%20Mountains.md) without succumbing to the treacherous winds and lethal falls. Inspired by the effortless glide of the Windcutter Hawk, these ingenious mages crafted a spell that would emulate its majestic descent.
 
-Over the centuries, Feather Fall has been refined by the [scholars](scholars.md) of the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md), who have incorporated elements of ethereal essence into the spell's matrix. This has allowed for a smoother transition between the physical realm and the Ethereal Plane, making the spell not only a tool for safe descent but also a potential gateway to otherworldly exploration.
+Over the centuries, Feather Fall has been refined by the [scholars](Scholars.md) of the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md), who have incorporated elements of ethereal essence into the spell's matrix. This has allowed for a smoother transition between the physical realm and the Ethereal Plane, making the spell not only a tool for safe descent but also a potential gateway to otherworldly exploration.
 
 ## Casting and Effects
 
@@ -18,7 +18,7 @@ The spell's duration is brief, typically lasting until the end of the fall or fo
 
 Feather Fall has found its place in various aspects of life and adventure across the realms. It is a common spell used by [Artisans](Artisans.md) and builders, such as those who constructed the magnificent [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md), to protect themselves while working at dizzying heights. Adventurers often employ the spell when delving into ancient ruins or navigating treacherous terrain where a misstep could prove fatal.
 
-In the realm of academia and research, Feather Fall is a cornerstone spell for those studying the mysteries of the [Ethereal Plane](Ethereal%20Plane.md). It serves as a controlled means of entering the plane under specific conditions, often in conjunction with specialized [arcane foci](Arcane foci.md) that facilitate the transition.
+In the realm of academia and research, Feather Fall is a cornerstone spell for those studying the mysteries of the [Ethereal Plane](Ethereal%20Plane.md). It serves as a controlled means of entering the plane under specific conditions, often in conjunction with specialized [arcane foci](Arcane Foci.md) that facilitate the transition.
 
 ## Cultural Significance
 

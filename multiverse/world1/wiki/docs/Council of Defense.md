@@ -20,7 +20,7 @@ The Council of Defense is entrusted with several critical responsibilities:
 - **Resource Allocation**: Ensuring that vital resources, such as the ore from the [Dwarven Mines](Dwarven%20Mines.md), are adequately protected and utilized for the betterment of all member states.
 - **Military Coordination**: Facilitating the cooperation between various military factions, including the [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md), to present a unified front against adversaries.
 - **Intelligence Gathering**: Establishing a network of spies and informants to preemptively identify and neutralize potential threats to peace and stability.
-- **Diplomatic Liaison**: Working closely with entities such as the [Council of Arcana](Council%20of%20Arcana.md) and [occult researchers](occult%20researchers.md) to address arcane threats, and with the [Council of Trade](Council%20of%20Trade.md) to safeguard economic interests.
+- **Diplomatic Liaison**: Working closely with entities such as the [Council of Arcana](Council%20of%20Arcana.md) and [occult researchers](Occult%20Researchers.md) to address arcane threats, and with the [Council of Trade](Council%20of%20Trade.md) to safeguard economic interests.
 
 ## Meetings and Venues
 

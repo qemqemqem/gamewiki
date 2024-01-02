@@ -1,6 +1,6 @@
 # Sun
 
-The [sun](sun.md) is the celestial body at the heart of the [Aesheron](Aesheron.md) region's solar system, a source of light, warmth, and life. It is revered by many cultures within Aesheron as a divine entity, often personified and worshipped as one of the [sun deities](sun%20deities.md). The sun's influence extends far beyond its physical presence in the sky, playing a crucial role in the region's agriculture, religion, and magic.
+The [sun](Sun.md) is the celestial body at the heart of the [Aesheron](Aesheron.md) region's solar system, a source of light, warmth, and life. It is revered by many cultures within Aesheron as a divine entity, often personified and worshipped as one of the [sun deities](Sun%20Deities.md). The sun's influence extends far beyond its physical presence in the sky, playing a crucial role in the region's agriculture, religion, and magic.
 
 ## Importance in Agriculture
 
@@ -12,15 +12,15 @@ The sun holds a significant place in the pantheon of Aesheron's gods. Many templ
 
 ## Role in Druidic Practices
 
-[Druids](Druids.md) of Aesheron view the sun as a fundamental part of the natural world's balance. They understand its role in nurturing life and maintaining the equilibrium of ecosystems. Druidic [rituals](rituals.md) often take place in sunlit clearings or during the day when the sun's power is at its peak. The sun's energy is harnessed in various druidic spells and ceremonies, which are designed to promote growth, healing, and protection of the natural world.
+[Druids](Druids.md) of Aesheron view the sun as a fundamental part of the natural world's balance. They understand its role in nurturing life and maintaining the equilibrium of ecosystems. Druidic [rituals](Rituals.md) often take place in sunlit clearings or during the day when the sun's power is at its peak. The sun's energy is harnessed in various druidic spells and ceremonies, which are designed to promote growth, healing, and protection of the natural world.
 
 ## The Crystal Tower
 
-The [Crystal Tower](Crystal%20Tower.md) is a testament to the awe-inspiring beauty of the sun. Its crystalline walls capture and refract sunlight, bathing the surrounding lands in a kaleidoscope of colors. The tower serves as a beacon of knowledge and power, where [wizards](wizards.md) and scholars study the sun's arcane properties and its relationship with other celestial bodies like the [moon](moon.md) and stars.
+The [Crystal Tower](Crystal%20Tower.md) is a testament to the awe-inspiring beauty of the sun. Its crystalline walls capture and refract sunlight, bathing the surrounding lands in a kaleidoscope of colors. The tower serves as a beacon of knowledge and power, where [wizards](Wizards.md) and scholars study the sun's arcane properties and its relationship with other celestial bodies like the [moon](Moon.md) and stars.
 
 ## Arcane Studies
 
-For [wizards](wizards.md), the sun is more than a celestial body; it is a source of potent magical energy. In the hallowed halls of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), tomes and scrolls detail the methods of harnessing solar energy for spellcasting. The study of the sun's magic falls under the broader category of [spellcraft](spellcraft.md), which includes the manipulation of elemental forces and celestial energies. Wizards who specialize in this field are adept at using the sun's power to create dazzling and destructive spells.
+For [wizards](Wizards.md), the sun is more than a celestial body; it is a source of potent magical energy. In the hallowed halls of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), tomes and scrolls detail the methods of harnessing solar energy for spellcasting. The study of the sun's magic falls under the broader category of [spellcraft](Spellcraft.md), which includes the manipulation of elemental forces and celestial energies. Wizards who specialize in this field are adept at using the sun's power to create dazzling and destructive spells.
 
 ## Cultural Impact
 

@@ -11,7 +11,7 @@ The act of summoning is not merely a display of magical prowess but a profound r
 Summonings can be broadly categorized into several types, each with its own complexities and purposes:
 
 ### Elemental Summoning
-Elemental summoning involves calling forth beings of pure elemental energy, such as [fire elementals](fire%20elementals.md) or [water sprites](water%20sprites.md). These entities are often bound to the will of the summoner and employed to perform tasks aligned with their elemental nature.
+Elemental summoning involves calling forth beings of pure elemental energy, such as [fire elementals](Fire%20Elementals.md) or [water sprites](Water%20Sprites.md). These entities are often bound to the will of the summoner and employed to perform tasks aligned with their elemental nature.
 
 ### Spiritual Summoning
 Spiritual summoning is a delicate practice that involves contacting the spirits of the deceased or ethereal entities like the [Whispering Sirens](Whispering%20Sirens.md). Such summonings are fraught with danger, as spirits may harbor their own agendas or become malevolent if coerced.
@@ -28,11 +28,11 @@ Summoning holds a varied place in society, with its perception ranging from reve
 
 ## Rituals and Components
 
-A summoning ritual typically involves intricate incantations, the use of [arcane foci](arcane%20foci.md), and sometimes a physical representation of the entity to be summoned. The complexity of the ritual can vary depending on the power and disposition of the being called upon.
+A summoning ritual typically involves intricate incantations, the use of [arcane foci](Arcane%20Foci.md), and sometimes a physical representation of the entity to be summoned. The complexity of the ritual can vary depending on the power and disposition of the being called upon.
 
 ## Notable Summoners
 
-Throughout history, there have been many notable summoners whose deeds have become the stuff of legend. [Seraphine the Seer](Seraphine%20the%20Seer.md), for instance, was said to have summoned the [Moon Deities](Moon%20Deities.md) to gain prophetic insights. Meanwhile, the [occult researchers](occult%20researchers.md) of the [Shrouded City](Shrouded%20City.md) delve into forbidden summonings in their quest for knowledge and power.
+Throughout history, there have been many notable summoners whose deeds have become the stuff of legend. [Seraphine the Seer](Seraphine%20the%20Seer.md), for instance, was said to have summoned the [Moon Deities](Moon%20Deities.md) to gain prophetic insights. Meanwhile, the [occult researchers](Occult%20Researchers.md) of the [Shrouded City](Shrouded%20City.md) delve into forbidden summonings in their quest for knowledge and power.
 
 ## Dangers and Precautions
 

@@ -1,14 +1,14 @@
 # Moon
 
-The [moon](moon.md) of [Aesheron](Aesheron.md) is a celestial body of profound significance and mystical power, woven into the very fabric of the world's history, culture, and magic. Known as *Lunara* to the scholars of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), the moon is not merely a luminary that graces the night sky; it is a source of wonder, inspiration, and arcane energy that has shaped the destinies of both the land and its inhabitants.
+The [moon](Moon.md) of [Aesheron](Aesheron.md) is a celestial body of profound significance and mystical power, woven into the very fabric of the world's history, culture, and magic. Known as *Lunara* to the scholars of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), the moon is not merely a luminary that graces the night sky; it is a source of wonder, inspiration, and arcane energy that has shaped the destinies of both the land and its inhabitants.
 
 ## Lunar Phases and Influence
 
-The moon's phases are observed with great interest by many of [Aesheron](Aesheron.md)'s denizens. From the new moon's hidden promise to the full moon's radiant splendor, each phase holds different meanings and powers. The [Druids](Druids.md) and followers of [moon deities](moon%20deities.md) pay homage to its cycles, aligning their [rituals](rituals.md) and ceremonies with its waxing and waning to harness its energies for various purposes, such as healing, divination, and protection.
+The moon's phases are observed with great interest by many of [Aesheron](Aesheron.md)'s denizens. From the new moon's hidden promise to the full moon's radiant splendor, each phase holds different meanings and powers. The [Druids](Druids.md) and followers of [moon deities](Moon%20Deities.md) pay homage to its cycles, aligning their [rituals](Rituals.md) and ceremonies with its waxing and waning to harness its energies for various purposes, such as healing, divination, and protection.
 
 ## Legends and Lore
 
-The moon is steeped in legend and myth. It is said that during the [Age of Wonders](Age%20of%20Wonders.md), the moon was the abode of ancient and powerful beings known as the [Lunar Ancients](Lunar%20Ancients.md), who bestowed upon the world the secrets of [sorcery](sorcery.md) and the arcane. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) is rumored to be a remnant of their civilization, holding untold knowledge and power for those brave enough to uncover its mysteries.
+The moon is steeped in legend and myth. It is said that during the [Age of Wonders](Age%20of%20Wonders.md), the moon was the abode of ancient and powerful beings known as the [Lunar Ancients](Lunar%20Ancients.md), who bestowed upon the world the secrets of [sorcery](Sorcery.md) and the arcane. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) is rumored to be a remnant of their civilization, holding untold knowledge and power for those brave enough to uncover its mysteries.
 
 ## The Moon and the Natural World
 
@@ -20,11 +20,11 @@ The architects and builders of [Aesheron](Aesheron.md) have long sought to captu
 
 ## Festivals and Celebrations
 
-The moon is the centerpiece of many festivals and celebrations across the land. The [Moonflower Festival](Moonflower%20Festival.md) in [Silverlake Valley](Silverlake%20Valley.md) is a time of joyous revelry, where the blooming of the Moonflowers under the moon's light is celebrated with music, dance, and [rituals](rituals.md). Such events are not only a testament to the moon's beauty but also to its integral role in the cultural tapestry of [Aesheron](Aesheron.md).
+The moon is the centerpiece of many festivals and celebrations across the land. The [Moonflower Festival](Moonflower%20Festival.md) in [Silverlake Valley](Silverlake%20Valley.md) is a time of joyous revelry, where the blooming of the Moonflowers under the moon's light is celebrated with music, dance, and [rituals](Rituals.md). Such events are not only a testament to the moon's beauty but also to its integral role in the cultural tapestry of [Aesheron](Aesheron.md).
 
 ## The Moon's Arcane Aspects
 
-[Wizards](Wizards.md), [occult researchers](occult%20researchers.md), and practitioners of [sorcery](sorcery.md) study the moon's arcane aspects with fervor, seeking to understand and tap into its latent energies. It is believed that the moon holds the key to potent magic, such as spells that can manipulate the tides, enhance night vision, or even commune with otherworldly entities.
+[Wizards](Wizards.md), [occult researchers](Occult%20Researchers.md), and practitioners of [sorcery](Sorcery.md) study the moon's arcane aspects with fervor, seeking to understand and tap into its latent energies. It is believed that the moon holds the key to potent magic, such as spells that can manipulate the tides, enhance night vision, or even commune with otherworldly entities.
 
 ## The Moon in Warfare and Peace
 

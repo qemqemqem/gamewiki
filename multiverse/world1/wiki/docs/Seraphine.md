@@ -20,9 +20,9 @@ Her uncanny ability to predict market trends has made her an invaluable asset to
 
 ## Legacy and Rumors
 
-Beyond her official roles, Lady Seraphine is a subject of much speculation and intrigue. There are whispers that her true power stems from a connection with the [Ancients](Ancients.md) or that she is a practitioner of [magic](magic.md), trained by the [Wizards](Wizards.md) of the [Crystal Tower](Crystal%20Tower.md). Some even suggest that she is a member of the secretive [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), using her position to further the order's mysterious goals.
+Beyond her official roles, Lady Seraphine is a subject of much speculation and intrigue. There are whispers that her true power stems from a connection with the [Ancients](Ancients.md) or that she is a practitioner of [magic](Magic.md), trained by the [Wizards](Wizards.md) of the [Crystal Tower](Crystal%20Tower.md). Some even suggest that she is a member of the secretive [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), using her position to further the order's mysterious goals.
 
-Her investments in [occult researchers](occult%20researchers.md) and patronage of [spellcraft](spellcraft.md) have only fueled these rumors, though she has never publicly demonstrated any magical abilities. Her interest in the arcane is said to be purely academic, though many believe there is more to her story.
+Her investments in [occult researchers](Occult%20Researchers.md) and patronage of [spellcraft](Spellcraft.md) have only fueled these rumors, though she has never publicly demonstrated any magical abilities. Her interest in the arcane is said to be purely academic, though many believe there is more to her story.
 
 ## Conclusion
 

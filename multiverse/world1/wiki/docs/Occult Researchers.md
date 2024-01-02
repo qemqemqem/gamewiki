@@ -25,7 +25,7 @@ Occult researchers often work in conjunction with various councils and orders, p
 
 The interests of occult researchers are vast and varied, encompassing a range of topics that include, but are not limited to:
 
-- The lost arts of [moon deities](moon%20deities.md) worship and the rituals associated with them.
+- The lost arts of [moon deities](Moon%20Deities.md) worship and the rituals associated with them.
 - The origins and nature of the mysterious [Shade Wraiths](Shade%20Wraiths.md).
 - The exploration of uncharted territories, such as the western edge of the [Verdant Woods](Verdant%20Woods.md) and the [Caverns of Echo](Caverns%20of%20Echo.md).
 - The study of ancient ruins, like the [Ruins of Eldara](Ruins%20of%20Eldara.md) and the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md).

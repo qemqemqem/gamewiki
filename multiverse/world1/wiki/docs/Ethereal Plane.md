@@ -4,19 +4,19 @@ The Ethereal Plane, often described as the great expanse that exists between the
 
 ## Nature of the Ethereal Plane
 
-The Ethereal Plane is a dimension of swirling mists and muted colors, a world that is both part of and apart from the reality known to the inhabitants of the material plane. It is a place where time and space are distorted, and physical laws as understood by [arcane practitioners](arcane%20practitioners.md) and [scholars](scholars.md) are bent and sometimes broken. The plane is often described as a sea of endless fog, where landmarks from the material world appear as fleeting, insubstantial mirages.
+The Ethereal Plane is a dimension of swirling mists and muted colors, a world that is both part of and apart from the reality known to the inhabitants of the material plane. It is a place where time and space are distorted, and physical laws as understood by [arcane practitioners](Arcane%20Practitioners.md) and [scholars](Scholars.md) are bent and sometimes broken. The plane is often described as a sea of endless fog, where landmarks from the material world appear as fleeting, insubstantial mirages.
 
 ### Interaction with the Material World
 
-The Ethereal Plane can be perceived by those on the material plane only under special circumstances. During events such as the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md), the veil between the two worlds grows thin, allowing for glimpses of the ethereal and facilitating a greater connection with the [sun deities](sun%20deities.md) and celestial powers. Similarly, during the [Age of Twilight](Age%20of%20Twilight.md), the boundaries become porous, and the influence of the Ethereal Plane is felt more strongly in the material world.
+The Ethereal Plane can be perceived by those on the material plane only under special circumstances. During events such as the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md), the veil between the two worlds grows thin, allowing for glimpses of the ethereal and facilitating a greater connection with the [sun deities](Sun%20Deities.md) and celestial powers. Similarly, during the [Age of Twilight](Age%20of%20Twilight.md), the boundaries become porous, and the influence of the Ethereal Plane is felt more strongly in the material world.
 
 ## Inhabitants
 
-The Ethereal Plane is home to a variety of beings, many of which are native to this ghostly realm. Ethereal denizens range from the lost souls of the departed to enigmatic entities that have never known physical form. Among the most notable inhabitants are the [Shade Wraiths](Shade%20Wraiths.md), spectral beings that are said to guard ancient secrets and treasures. The plane is also frequented by [conjurers](conjurers.md) and [summoners](summoners.md) who venture into its depths in search of knowledge or to call forth beings to aid them.
+The Ethereal Plane is home to a variety of beings, many of which are native to this ghostly realm. Ethereal denizens range from the lost souls of the departed to enigmatic entities that have never known physical form. Among the most notable inhabitants are the [Shade Wraiths](Shade%20Wraiths.md), spectral beings that are said to guard ancient secrets and treasures. The plane is also frequented by [conjurers](Conjurers.md) and [summoners](Summoners.md) who venture into its depths in search of knowledge or to call forth beings to aid them.
 
 ## Travel and Exploration
 
-Travel to the Ethereal Plane is a perilous endeavor, typically achieved through powerful magic such as the spell [Feather Fall](Feather%20Fall.md), which allows one to drift into the plane, or through the use of rare [arcane foci](arcane%20foci.md) that can pierce the veil between worlds. The [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) is known for its extensive research into the mysteries of the Ethereal Plane, and many [Wizards](Wizards.md) and [Sorcerers](Sorcerers.md) seek to learn its secrets.
+Travel to the Ethereal Plane is a perilous endeavor, typically achieved through powerful magic such as the spell [Feather Fall](Feather%20Fall.md), which allows one to drift into the plane, or through the use of rare [arcane foci](Arcane%20Foci.md) that can pierce the veil between worlds. The [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) is known for its extensive research into the mysteries of the Ethereal Plane, and many [Wizards](Wizards.md) and [Sorcerers](Sorcerers.md) seek to learn its secrets.
 
 ### The City of Lumina
 

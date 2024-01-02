@@ -4,7 +4,7 @@ Elven culture, history, and society are as rich and deep as the ancient forests 
 
 ## History
 
-The history of the Elven race stretches back to the earliest ages of Aesheron, with their origins shrouded in the mists of time. It is widely believed that they emerged during the [Age of Wonders](Age%20of%20Wonders.md), a period marked by the flourishing of magic and the rise of great civilizations across the land. The Elves, with their innate connection to the arcane, were among the foremost practitioners of [magic](magic.md) and [sorcery](sorcery.md), and their enchanters were revered across the realms.
+The history of the Elven race stretches back to the earliest ages of Aesheron, with their origins shrouded in the mists of time. It is widely believed that they emerged during the [Age of Wonders](Age%20of%20Wonders.md), a period marked by the flourishing of magic and the rise of great civilizations across the land. The Elves, with their innate connection to the arcane, were among the foremost practitioners of [magic](Magic.md) and [sorcery](Sorcery.md), and their enchanters were revered across the realms.
 
 ## Society
 
@@ -16,7 +16,7 @@ The governance of Elven societies varies from region to region, but many are led
 
 Elven culture is a celebration of art, music, and the natural world. They are renowned for their intricate melodies, which often reflect the beauty of places like [Crystal Lake](Crystal%20Lake.md). Their artworks are similarly inspired, capturing the essence of the environment and the magic that permeates it. Festivals, such as those held during the solstices, are common, celebrating the interplay of light, water, and magic with elaborate performances and displays.
 
-One of the most significant cultural events for the Elven people is the [Moonflower Festival](Moonflower%20Festival.md), where the blooming of the magical [moonflower](moonflower.md) is celebrated. This festival is a testament to the Elven enchanters who first cultivated the flower and is a symbol of the unity between [Humans](Humans.md), [Elven](Elven.md), and other races of Aesheron.
+One of the most significant cultural events for the Elven people is the [Moonflower Festival](Moonflower%20Festival.md), where the blooming of the magical [moonflower](Moonflower.md) is celebrated. This festival is a testament to the Elven enchanters who first cultivated the flower and is a symbol of the unity between [Humans](Humans.md), [Elven](Elven.md), and other races of Aesheron.
 
 ## Military
 
@@ -24,7 +24,7 @@ Historically, the Elven people are not known for their militaristic pursuits, pr
 
 ## Religion and Beliefs
 
-The Elves hold a deep reverence for the [moon deities](moon%20deities.md), who are believed to have blessed them with the Moonflower and other gifts. They also have a spiritual connection with creatures of the night, such as the Echo Bats, which are seen as messengers of the moon deities during the [Moonflower Festival](Moonflower%20Festival.md).
+The Elves hold a deep reverence for the [moon deities](Moon%20Deities.md), who are believed to have blessed them with the Moonflower and other gifts. They also have a spiritual connection with creatures of the night, such as the Echo Bats, which are seen as messengers of the moon deities during the [Moonflower Festival](Moonflower%20Festival.md).
 
 ## Relations with Other Races
 

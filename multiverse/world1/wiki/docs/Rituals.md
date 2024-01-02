@@ -5,16 +5,16 @@ Rituals are a series of ceremonial actions performed in a prescribed order, ofte
 ## Types of Rituals
 
 ### Communal Celebrations
-Many rituals in Aesheron are communal, involving entire communities or specific groups such as the [Druids](Druids.md) or [Wizards](Wizards.md). The [Moonflower Festival](Moonflower%20Festival.md) in [Silverlake Valley](Silverlake%20Valley.md) is a prime example, where the blooming of the [Moonflower](Moonflower.md) under the [moon](moon.md)'s light is celebrated with elaborate rituals, music, and dance. These events not only honor the natural world but also reinforce the bonds between individuals and their shared heritage.
+Many rituals in Aesheron are communal, involving entire communities or specific groups such as the [Druids](Druids.md) or [Wizards](Wizards.md). The [Moonflower Festival](Moonflower%20Festival.md) in [Silverlake Valley](Silverlake%20Valley.md) is a prime example, where the blooming of the [Moonflower](Moonflower.md) under the [moon](Moon.md)'s light is celebrated with elaborate rituals, music, and dance. These events not only honor the natural world but also reinforce the bonds between individuals and their shared heritage.
 
 ### Arcane Ceremonies
 Arcane rituals are often shrouded in secrecy, known only to those within the circles of magical practitioners. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) are known to perform complex [rituals](Ritual Magic.md) at sites like the [Well of Stars](Well%20of%20Stars.md) and the [Enchanted Grove](Enchanted%20Grove.md), where the confluence of ley lines provides a potent source of power. These ceremonies can range from divination and enchantment to the invocation of otherworldly entities.
 
 ### Druidic Practices
-The [Druids](Druids.md) of Aesheron hold rituals that align with the cycles of nature and the phases of the [moon](moon.md). Their ceremonies often take place in sacred sites such as [Theron's Glade](Theron's%20Glade.md) within the [Verdant Woods](Verdant%20Woods.md), where the life magic of the land is most potent. Utilizing natural materials, they perform rituals to heal, protect, and sometimes seek enlightenment.
+The [Druids](Druids.md) of Aesheron hold rituals that align with the cycles of nature and the phases of the [moon](Moon.md). Their ceremonies often take place in sacred sites such as [Theron's Glade](Theron'S%20Glade.md) within the [Verdant Woods](Verdant%20Woods.md), where the life magic of the land is most potent. Utilizing natural materials, they perform rituals to heal, protect, and sometimes seek enlightenment.
 
 ### Pilgrimages and Offerings
-Pilgrimages to sacred sites, such as the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), often involve ritualistic offerings and prayers. These acts of devotion are believed to bring favor from the divine, whether they are the ancient [moon deities](moon%20deities.md) or newer gods worshiped across the land. The spiritual journey itself is considered a form of ritual, with each step taken in faith and contemplation.
+Pilgrimages to sacred sites, such as the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), often involve ritualistic offerings and prayers. These acts of devotion are believed to bring favor from the divine, whether they are the ancient [moon deities](Moon%20Deities.md) or newer gods worshiped across the land. The spiritual journey itself is considered a form of ritual, with each step taken in faith and contemplation.
 
 ## Ritual Components
 

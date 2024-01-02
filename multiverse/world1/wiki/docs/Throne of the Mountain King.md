@@ -24,7 +24,7 @@ The throne's influence extends beyond the dwarven realms, as it has become a sym
 
 The Throne of the Mountain King continues to serve as the heart of dwarven society. It is here that the council of elders convenes, and where the chieftain of each clan gathers to discuss matters of state, trade, and the welfare of their people. The throne also plays a crucial role during times of conflict, such as the [Ancient War](Ancient%20War.md) and the [Mage Wars](Mage%20Wars.md), where it served as a rallying point for the dwarven legions.
 
-In recent times, the throne has become a place of interest for [occult researchers](occult%20researchers.md), [wizards](wizards.md), and adventurers from across the land, drawn by its legendary status and the mysteries that it holds. However, access to the throne is strictly controlled by the dwarves, who are wary of outsiders seeking to uncover the secrets of their ancestral home.
+In recent times, the throne has become a place of interest for [occult researchers](Occult%20Researchers.md), [wizards](Wizards.md), and adventurers from across the land, drawn by its legendary status and the mysteries that it holds. However, access to the throne is strictly controlled by the dwarves, who are wary of outsiders seeking to uncover the secrets of their ancestral home.
 
 ## Conclusion
 

@@ -8,7 +8,7 @@ The Crystal Sea is bordered by a variety of landscapes, each contributing to the
 
 ## Trade and Commerce
 
-The Crystal Sea is a central hub for the maritime trade route known as the [Sea Merchant's Path](Sea%20Merchant's%20Path.md). This legendary route begins at the ports of Aesheron, where goods from the [Dwarven Mines](Dwarven%20Mines.md) and the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) are loaded onto ships. The path extends eastward, skimming the northern shores of the Silverlake Valley before venturing into the open waters of the sea. The sea's clear waters and predictable currents make it an ideal route for trade ships and merchant vessels.
+The Crystal Sea is a central hub for the maritime trade route known as the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md). This legendary route begins at the ports of Aesheron, where goods from the [Dwarven Mines](Dwarven%20Mines.md) and the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) are loaded onto ships. The path extends eastward, skimming the northern shores of the Silverlake Valley before venturing into the open waters of the sea. The sea's clear waters and predictable currents make it an ideal route for trade ships and merchant vessels.
 
 ## Isles of Whisper
 
@@ -16,11 +16,11 @@ Among the most mysterious features of the Crystal Sea are the [Isles of Whisper]
 
 ## Flora and Fauna
 
-The Crystal Sea is teeming with life, both above and below its surface. Its waters are home to a myriad of fish species, as well as the majestic [Silvermane Horses](Silvermane%20Horses.md) that are said to run upon the waves during the full [moon](moon.md). The sea's shores and islands are dotted with unique plant life, including the rare [Moonflower](Moonflower.md), which blooms only under the light of the moon deities.
+The Crystal Sea is teeming with life, both above and below its surface. Its waters are home to a myriad of fish species, as well as the majestic [Silvermane Horses](Silvermane%20Horses.md) that are said to run upon the waves during the full [moon](Moon.md). The sea's shores and islands are dotted with unique plant life, including the rare [Moonflower](Moonflower.md), which blooms only under the light of the moon deities.
 
 ## Cultural Significance
 
-The sea holds great significance for the various peoples who live by its waters. It is a source of inspiration for [Wizards](Wizard.md), [Druids](Druids.md), and [occult researchers](occult%20researchers.md) who study its depths and the arcane energies that are believed to flow beneath its surface. The sea's beauty and mystery have given rise to countless tales and songs, contributing to the rich cultural tapestry of the region.
+The sea holds great significance for the various peoples who live by its waters. It is a source of inspiration for [Wizards](Wizard.md), [Druids](Druids.md), and [occult researchers](Occult%20Researchers.md) who study its depths and the arcane energies that are believed to flow beneath its surface. The sea's beauty and mystery have given rise to countless tales and songs, contributing to the rich cultural tapestry of the region.
 
 ## Threats and Preservation
 

@@ -4,7 +4,7 @@ Whispering Sirens are a mystical and enigmatic phenomenon within the world of Ae
 
 ## Origins
 
-The origins of the Whispering Sirens are as elusive as their spectral forms. Some scholars of the [The Shrouded City](The%20Shrouded%20City.md) postulate that they are the remnants of ancient [sorcerers](sorcerers.md) who sought immortality through forbidden [illusions](Illusion.md) and [summonings](Summoning.md). Others believe that they are the collective manifestation of the souls of mariners lost to the treacherous seas surrounding the [Isles of Whisper](Isles%20of%20Whisper.md), bound to the material plane by their unresolved fates.
+The origins of the Whispering Sirens are as elusive as their spectral forms. Some scholars of the [The Shrouded City](The%20Shrouded%20City.md) postulate that they are the remnants of ancient [sorcerers](Sorcerers.md) who sought immortality through forbidden [illusions](Illusion.md) and [summonings](Summoning.md). Others believe that they are the collective manifestation of the souls of mariners lost to the treacherous seas surrounding the [Isles of Whisper](Isles%20of%20Whisper.md), bound to the material plane by their unresolved fates.
 
 ## Nature
 
@@ -12,11 +12,11 @@ Whispering Sirens are not corporeal beings but rather exist in a state between t
 
 ## Interaction with Magic
 
-The presence of Whispering Sirens is a significant concern for [spellcasters](spellcasters.md) and [abjurers](abjurers.md) alike. Their ability to slip through the fabric of reality poses a unique challenge, as conventional magic often proves ineffective against them. [Abjuration](Abjuration.md) magic, however, has been developed to specifically counteract the influence of Whispering Sirens, providing a means to banish or contain them.
+The presence of Whispering Sirens is a significant concern for [spellcasters](Spellcasters.md) and [abjurers](Abjurers.md) alike. Their ability to slip through the fabric of reality poses a unique challenge, as conventional magic often proves ineffective against them. [Abjuration](Abjuration.md) magic, however, has been developed to specifically counteract the influence of Whispering Sirens, providing a means to banish or contain them.
 
 ## Artifacts
 
-In the realm of [artisanal](Artisans.md) magic, the Whispering Sirens have inspired the creation of intricate devices known as [Whispering Sirens artifacts](Whispering Sirens.md). These magical items are crafted to capture and replay spoken words, harnessing a fraction of the sirens' power. They are highly sought after by [mages](mages.md), [sorcerers](sorcerers.md), and collectors of arcane curiosities.
+In the realm of [artisanal](Artisans.md) magic, the Whispering Sirens have inspired the creation of intricate devices known as [Whispering Sirens artifacts](Whispering Sirens.md). These magical items are crafted to capture and replay spoken words, harnessing a fraction of the sirens' power. They are highly sought after by [mages](Mages.md), [sorcerers](Sorcerers.md), and collectors of arcane curiosities.
 
 ## Cultural Impact
 

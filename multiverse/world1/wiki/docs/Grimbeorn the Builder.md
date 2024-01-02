@@ -14,7 +14,7 @@ Perhaps Grimbeorn's most renowned creation is the [Throne of the Mountain King](
 
 ### The Wonders of Morath
 
-In the [Principality of Morath](Principality%20of%20Morath.md), Grimbeorn's influence is unmistakable. His architectural wonders are not only feats of engineering but also sources of inspiration for the [Members of the Order of the Veiled Eye](Members%20of%20the%20Order%20of%20the%20Veiled%20Eye.md), who have found ways to weave [magic](magic.md) into the very fabric of these structures. The interplay of arcane energy and meticulous design has resulted in buildings that are both functional and enchanting, serving as a beacon of progress for mages and [Artisans](Artisans.md) alike.
+In the [Principality of Morath](Principality%20of%20Morath.md), Grimbeorn's influence is unmistakable. His architectural wonders are not only feats of engineering but also sources of inspiration for the [Members of the Order of the Veiled Eye](Members%20of%20the%20Order%20of%20the%20Veiled%20Eye.md), who have found ways to weave [magic](Magic.md) into the very fabric of these structures. The interplay of arcane energy and meticulous design has resulted in buildings that are both functional and enchanting, serving as a beacon of progress for mages and [Artisans](Artisans.md) alike.
 
 ## Legacy
 

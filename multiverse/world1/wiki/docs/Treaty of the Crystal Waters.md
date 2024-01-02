@@ -1,6 +1,6 @@
 # Treaty of the Crystal Waters
 
-The [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md) is a historic accord that marked the cessation of hostilities between the kingdom of [Aesheron](Aesheron.md) and the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md). Signed in the verdant expanse of [Silverlake Valley](Silverlake%20Valley.md), under the auspices of the [moon](moon.md)'s impartial light, this treaty has been a cornerstone of regional stability and a testament to the power of diplomacy over warfare.
+The [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md) is a historic accord that marked the cessation of hostilities between the kingdom of [Aesheron](Aesheron.md) and the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md). Signed in the verdant expanse of [Silverlake Valley](Silverlake%20Valley.md), under the auspices of the [moon](Moon.md)'s impartial light, this treaty has been a cornerstone of regional stability and a testament to the power of diplomacy over warfare.
 
 ## Background
 
@@ -15,13 +15,13 @@ The negotiations for peace were spearheaded by the esteemed diplomat [Alyndra](A
 The treaty outlined several key provisions aimed at fostering a lasting peace:
 
 1. Recognition of sovereignty: Both parties acknowledged each other's right to exist and govern without external interference.
-2. Trade and travel: The establishment of the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) and the [Silk Road](Silk%20Road.md) as free trade routes, accessible to both Aesheronians and nomads.
+2. Trade and travel: The establishment of the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) and the [Silk Road](Silk%20Road.md) as free trade routes, accessible to both Aesheronians and nomads.
 3. Resource sharing: Agreements on the shared use of vital resources, such as water from [Crystal Lake](Crystal%20Lake.md) and access to the [Dwarven Mines](Dwarven%20Mines.md).
 4. Cultural exchange: The promotion of cultural understanding through festivals like the [Moonflower Festival](Moonflower%20Festival.md) and scholarly exchanges at the [Great Library of Eldara](Great%20Library%20of%20Eldara.md).
 
 ## Significance
 
-The signing of the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md) was conducted with great ceremony, incorporating [rituals](rituals.md) that invoked the blessings of the [Moon Deities](Moon%20Deities.md) and the wisdom of the [Ancients](Ancients.md). The treaty was sealed with the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md), a sacred hymn that symbolized the hope for a prosperous future.
+The signing of the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md) was conducted with great ceremony, incorporating [rituals](Rituals.md) that invoked the blessings of the [Moon Deities](Moon%20Deities.md) and the wisdom of the [Ancients](Ancients.md). The treaty was sealed with the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md), a sacred hymn that symbolized the hope for a prosperous future.
 
 The treaty has since been celebrated annually at the [Moonflower Festival](Moonflower%20Festival.md), where the blooming of the rare [Moonflower](Moonflower.md) under the moon's light serves as a reminder of the peace and harmony achieved through the treaty's signing.
 

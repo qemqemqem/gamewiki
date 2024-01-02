@@ -1,6 +1,6 @@
 # Solstice of the Blazing Sky
 
-The [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md) is a revered and magnificent festival celebrated across the realms, most prominently within the lands that bask under the benevolent gaze of the [sun deities](sun%20deities.md). This festival coincides with the summer solstice, the longest day of the year, when the sun's zenith reaches its peak in the sky, and daylight reigns supreme.
+The [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md) is a revered and magnificent festival celebrated across the realms, most prominently within the lands that bask under the benevolent gaze of the [sun deities](Sun%20Deities.md). This festival coincides with the summer solstice, the longest day of the year, when the sun's zenith reaches its peak in the sky, and daylight reigns supreme.
 
 ## Origins and Significance
 
@@ -12,11 +12,11 @@ The festival symbolizes the triumph of light over darkness, embodying the eterna
 
 ### Pilgrimages and Sacred Sites
 
-Devotees from all walks of life—[Clerics](Clerics.md), [mages](mages.md), [paladins](paladins.md), and common folk—embark on pilgrimages to sacred sites such as the [Echoing Basin](Echoing%20Basin.md) on [Echovale Isle](Echovale%20Isle.md) and the majestic [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md). These locations are believed to be particularly blessed during the solstice, resonating with the power of the sun.
+Devotees from all walks of life—[Clerics](Clerics.md), [mages](Mages.md), [paladins](Paladins.md), and common folk—embark on pilgrimages to sacred sites such as the [Echoing Basin](Echoing%20Basin.md) on [Echovale Isle](Echovale%20Isle.md) and the majestic [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md). These locations are believed to be particularly blessed during the solstice, resonating with the power of the sun.
 
 ### Rituals and Offerings
 
-The day is marked by a series of rituals and offerings. Temples and shrines dedicated to the sun deities overflow with vibrant flowers, such as the radiant [Moonflower](Moonflower.md), and are adorned with [Orbs](Orbs.md) that capture and reflect the sun's brilliance. [Priests](Priests.md) and [mystics](mystics.md) lead the faithful in prayers, chants, and the performance of sacred [gestures](gestures.md) that are believed to draw down the sun's favor.
+The day is marked by a series of rituals and offerings. Temples and shrines dedicated to the sun deities overflow with vibrant flowers, such as the radiant [Moonflower](Moonflower.md), and are adorned with [Orbs](Orbs.md) that capture and reflect the sun's brilliance. [Priests](Priests.md) and [mystics](Mystics.md) lead the faithful in prayers, chants, and the performance of sacred [gestures](Gestures.md) that are believed to draw down the sun's favor.
 
 ### Festivities and Merriment
 
@@ -28,7 +28,7 @@ As dusk approaches, the Great Feast begins. Tables laden with the season's harve
 
 ## Celestial Phenomena
 
-[Scholars](Scholars.md) and [occult researchers](occult%20researchers.md) from the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) and the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) gather to observe and study the rare celestial alignments that occur during the solstice. These phenomena are not only of academic interest but are also believed to enhance magical abilities, particularly those of [evokers](evokers.md) and [enchanters](enchanters.md).
+[Scholars](Scholars.md) and [occult researchers](Occult%20Researchers.md) from the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) and the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) gather to observe and study the rare celestial alignments that occur during the solstice. These phenomena are not only of academic interest but are also believed to enhance magical abilities, particularly those of [evokers](Evokers.md) and [enchanters](Enchanters.md).
 
 ## Legacy and Influence
 

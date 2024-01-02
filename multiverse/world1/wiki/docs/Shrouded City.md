@@ -4,15 +4,15 @@ Shrouded City, a name that whispers secrets of a past shrouded in mystery and a 
 
 ## History
 
-The origins of Shrouded City are as elusive as the mists that envelop its ancient streets. Legend has it that the city was born from the union of the [moon](moon.md)'s arcane energies and the earth's longing for beauty. It first rose to prominence during the [Ancient War](Ancient%20War.md), serving as a bastion for the forces that would eventually establish the modern [Kingdoms](Kingdoms.md). The city's strategic importance was solidified by the emergence of the [Crimson Lord](Crimson%20Lord.md), a figure whose influence would shape the city's destiny for centuries to come.
+The origins of Shrouded City are as elusive as the mists that envelop its ancient streets. Legend has it that the city was born from the union of the [moon](Moon.md)'s arcane energies and the earth's longing for beauty. It first rose to prominence during the [Ancient War](Ancient%20War.md), serving as a bastion for the forces that would eventually establish the modern [Kingdoms](Kingdoms.md). The city's strategic importance was solidified by the emergence of the [Crimson Lord](Crimson%20Lord.md), a figure whose influence would shape the city's destiny for centuries to come.
 
 ## Geography
 
-Nestled within the heart of the [Frostspire Mountains](Frostspire%20Mountains.md), Shrouded City is accessible only through the treacherous [Sea Merchant's Path](Sea%20Merchant's%20Path.md) or by air, with the aid of the [Windcutter Hawks](Windcutter%20Hawks.md). The city is surrounded by the [Enchanted Grove](Enchanted%20Grove.md), a forest where the [Singing Willows](Singing%20Willows.md) and [Silent Orchids](Silent%20Orchids.md) grow in abundance, contributing to the city's otherworldly ambiance.
+Nestled within the heart of the [Frostspire Mountains](Frostspire%20Mountains.md), Shrouded City is accessible only through the treacherous [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) or by air, with the aid of the [Windcutter Hawks](Windcutter%20Hawks.md). The city is surrounded by the [Enchanted Grove](Enchanted%20Grove.md), a forest where the [Singing Willows](Singing%20Willows.md) and [Silent Orchids](Silent%20Orchids.md) grow in abundance, contributing to the city's otherworldly ambiance.
 
 ## Culture
 
-The city is renowned for its rich cultural heritage, which is celebrated annually during the [Moonflower Festival](Moonflower%20Festival.md). This event draws visitors from across the land, including the finest chefs who prepare dishes that honor the [moon deities](moon%20deities.md). The city's artisans are famed for their exquisite craftsmanship, weaving magic into textiles and creating artifacts that are sought after by collectors and [occult researchers](occult%20researchers.md) alike.
+The city is renowned for its rich cultural heritage, which is celebrated annually during the [Moonflower Festival](Moonflower%20Festival.md). This event draws visitors from across the land, including the finest chefs who prepare dishes that honor the [moon deities](Moon%20Deities.md). The city's artisans are famed for their exquisite craftsmanship, weaving magic into textiles and creating artifacts that are sought after by collectors and [occult researchers](Occult%20Researchers.md) alike.
 
 ## Economy
 

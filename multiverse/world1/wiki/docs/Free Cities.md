@@ -12,11 +12,11 @@ While each Free City governs itself independently, they collectively form the [C
 
 - **The Council of Trade**: Manages economic policies and oversees trade routes, ensuring the flow of goods and wealth throughout the Free Cities.
 - **The Council of Defense**: Coordinates the collective military efforts, often in conjunction with the [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md), to protect against external threats.
-- **The Council of Arcana**: Regulates the use of magic, working with [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and [occult researchers](occult%20researchers.md) to safeguard against arcane dangers.
+- **The Council of Arcana**: Regulates the use of magic, working with [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and [occult researchers](Occult%20Researchers.md) to safeguard against arcane dangers.
 
 ## Economy
 
-The Free Cities are hubs of commerce, with their prosperity largely driven by trade. The [Sea Merchant's Path](Sea%20Merchant's%20Path.md) plays a crucial role in their economic success, connecting them with distant lands such as the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md) and the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md). The wealth generated through trade is evident in the bustling marketplaces and the opulent lifestyles of the cities' inhabitants.
+The Free Cities are hubs of commerce, with their prosperity largely driven by trade. The [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) plays a crucial role in their economic success, connecting them with distant lands such as the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md) and the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md). The wealth generated through trade is evident in the bustling marketplaces and the opulent lifestyles of the cities' inhabitants.
 
 ## Culture
 
@@ -39,7 +39,7 @@ The Free Cities maintain a complex web of relationships with neighboring realms,
 While there are many Free Cities, some of the most prominent include:
 
 - **[Silverlake Valley](Silverlake%20Valley.md)**: Known for its serene beauty and the reflective waters of its namesake lake.
-- **[The Shrouded City](The%20Shrouded%20City.md)**: A place of mystery, cloaked in perpetual mist and home to many [wizards](wizards.md) and seers.
+- **[The Shrouded City](The%20Shrouded%20City.md)**: A place of mystery, cloaked in perpetual mist and home to many [wizards](Wizards.md) and seers.
 - **[Crystal Lake](Crystal%20Lake.md)**: A city built around a lake with waters said to have healing properties, attracting many to its shores.
 
 ## Conclusion

@@ -10,7 +10,7 @@ The Echoing Basin is a sprawling, bowl-shaped valley surrounded by the dense [Wh
 
 ## Acoustic Properties
 
-The most striking feature of the Echoing Basin is its ability to amplify and preserve sounds. A whisper at one end of the basin can be heard clearly at the other, and the songs of birds create a symphony that lingers long after the creatures themselves have departed. The phenomenon is so pronounced that it has attracted the attention of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), whose scholars have theorized that the basin's properties could be due to a combination of its shape, the composition of the rocks, and the presence of certain [crystals](crystals.md) embedded within the cliffs.
+The most striking feature of the Echoing Basin is its ability to amplify and preserve sounds. A whisper at one end of the basin can be heard clearly at the other, and the songs of birds create a symphony that lingers long after the creatures themselves have departed. The phenomenon is so pronounced that it has attracted the attention of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), whose scholars have theorized that the basin's properties could be due to a combination of its shape, the composition of the rocks, and the presence of certain [crystals](Crystals.md) embedded within the cliffs.
 
 ## Flora and Fauna
 
@@ -18,7 +18,7 @@ The Echoing Basin is not only an acoustic marvel but also a haven for unique wil
 
 ## Cultural Significance
 
-To the people of Echovale Isle, the Echoing Basin is a sacred place. It is often used for ceremonies and rituals, particularly those related to the [moon deities](moon%20deities.md) and [sun deities](sun%20deities.md), whose celestial voices are said to resonate within the basin during the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md) and other significant astronomical events. The basin is also a site of pilgrimage for [mystics](mystics.md) and [priests](priests.md), who come to meditate and seek enlightenment within its echoing embrace.
+To the people of Echovale Isle, the Echoing Basin is a sacred place. It is often used for ceremonies and rituals, particularly those related to the [moon deities](Moon%20Deities.md) and [sun deities](Sun%20Deities.md), whose celestial voices are said to resonate within the basin during the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md) and other significant astronomical events. The basin is also a site of pilgrimage for [mystics](Mystics.md) and [priests](Priests.md), who come to meditate and seek enlightenment within its echoing embrace.
 
 ## The Whispering Woods
 
@@ -26,7 +26,7 @@ Surrounding the Echoing Basin, the Whispering Woods are said to be alive with hu
 
 ## Inhabitants
 
-While the basin itself is largely uninhabited due to its sacred status, the surrounding woods are home to various creatures and beings. Some say that [Elven](Elven.md) hermits have made homes in the secluded corners of the forest, living in harmony with the land and studying the basin's properties in solitude. Occasionally, travelers may also encounter [wizards](Wizard.md) from the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), who are drawn to the basin's natural amplification of magical [incantations](incantations.md) and [summonings](summonings.md).
+While the basin itself is largely uninhabited due to its sacred status, the surrounding woods are home to various creatures and beings. Some say that [Elven](Elven.md) hermits have made homes in the secluded corners of the forest, living in harmony with the land and studying the basin's properties in solitude. Occasionally, travelers may also encounter [wizards](Wizard.md) from the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), who are drawn to the basin's natural amplification of magical [incantations](Incantations.md) and [summonings](Summonings.md).
 
 ## Threats and Conservation
 

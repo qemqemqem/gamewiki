@@ -16,7 +16,7 @@ Rituals and ceremonies play a crucial role in nomadic life, often coinciding wit
 
 ## Economy and Trade
 
-Despite their isolation, the Nomads of the Eastern Sands engage in trade with the settled peoples of [Aesheron](Aesheron.md). They are skilled merchants, known for their ability to navigate the treacherous [Sea Merchant's Path](Sea%20Merchant's%20Path.md) and barter for goods that are scarce in the desert. The nomads trade spices, textiles, and precious stones, as well as the rare and valuable knowledge they possess of the lands beyond the dunes.
+Despite their isolation, the Nomads of the Eastern Sands engage in trade with the settled peoples of [Aesheron](Aesheron.md). They are skilled merchants, known for their ability to navigate the treacherous [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) and barter for goods that are scarce in the desert. The nomads trade spices, textiles, and precious stones, as well as the rare and valuable knowledge they possess of the lands beyond the dunes.
 
 Their expertise in desert survival makes them invaluable guides for those daring enough to cross the Eastern Sands. Many a [Wizard](Wizard.md) or scholar from the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) has sought the nomads' guidance to uncover ancient ruins or seek out the wisdom of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md).
 

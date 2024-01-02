@@ -8,7 +8,7 @@ The [War of the Shadowed Vale](War%20of%20the%20Shadowed%20Vale.md) was a dark p
 
 ## Signing
 
-The treaty was signed under the auspices of the [moon](moon.md)'s gentle glow, on a night when the [moonflower](moonflower.md)s bloomed in abundance, casting an ethereal light over the proceedings. The signatories included the most influential leaders of the time, such as [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md) of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), and representatives from the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md), the [Free Cities](Free%20Cities.md), and the [Principality of Morath](Principality%20of%20Morath.md). The [Veiled Navigators](Veiled%20Navigators.md), known for their neutrality, were chosen to mediate the discussions.
+The treaty was signed under the auspices of the [moon](Moon.md)'s gentle glow, on a night when the [moonflower](Moonflower.md)s bloomed in abundance, casting an ethereal light over the proceedings. The signatories included the most influential leaders of the time, such as [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md) of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), and representatives from the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md), the [Free Cities](Free%20Cities.md), and the [Principality of Morath](Principality%20of%20Morath.md). The [Veiled Navigators](Veiled%20Navigators.md), known for their neutrality, were chosen to mediate the discussions.
 
 ## Provisions
 

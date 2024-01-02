@@ -29,7 +29,7 @@ Magic is an integral part of Aesheron, woven into the very fabric of the land. T
 
 ## Economy and Trade
 
-Aesheron's economy is as diverse as its people. The [Dwarven Mines](Dwarven%20Mines.md) produce precious metals and gems, while the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) in the central regions are known for their bountiful harvests. Trade routes such as the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) connect distant lands, facilitating the exchange of goods, ideas, and cultures.
+Aesheron's economy is as diverse as its people. The [Dwarven Mines](Dwarven%20Mines.md) produce precious metals and gems, while the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) in the central regions are known for their bountiful harvests. Trade routes such as the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) connect distant lands, facilitating the exchange of goods, ideas, and cultures.
 
 ## Governance and Power
 

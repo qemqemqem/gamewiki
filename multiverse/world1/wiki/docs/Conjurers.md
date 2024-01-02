@@ -1,6 +1,6 @@
 # Conjurers
 
-Conjurers are a distinguished class of [spellcasters](spellcasters.md) who specialize in the school of [Conjuration](Conjuration.md), one of the most intricate and awe-inspiring domains within the realm of [Wizardry](Wizardry.md). These individuals possess the unique ability to call forth beings, objects, and forces from various planes of existence, shaping reality to their will. The art of Conjuration is not merely a display of power; it is a profound practice that intertwines the fabric of the cosmos with the caster's arcane knowledge.
+Conjurers are a distinguished class of [spellcasters](Spellcasters.md) who specialize in the school of [Conjuration](Conjuration.md), one of the most intricate and awe-inspiring domains within the realm of [Wizardry](Wizardry.md). These individuals possess the unique ability to call forth beings, objects, and forces from various planes of existence, shaping reality to their will. The art of Conjuration is not merely a display of power; it is a profound practice that intertwines the fabric of the cosmos with the caster's arcane knowledge.
 
 ## The Role of Conjurers
 
@@ -25,13 +25,13 @@ Aspiring Conjurers must embark on a rigorous journey to master their craft. This
 Throughout history, there have been Conjurers whose names have become synonymous with their remarkable achievements and contributions to the arcane arts:
 
 - **Grimbeorn the Builder**: Not only a master of construction but also a pioneer in the field of Conjuration, his legacy is etched into the very stones of the structures he helped erect.
-- [Theron's Glade](Theron's%20Glade.md) is rumored to be the home of a reclusive Conjurer who has mastered the art of summoning [Forest Nymphs](Forest%20Nymphs.md) and communing with nature.
+- [Theron's Glade](Theron'S%20Glade.md) is rumored to be the home of a reclusive Conjurer who has mastered the art of summoning [Forest Nymphs](Forest%20Nymphs.md) and communing with nature.
 
 ## Conjurers and Artifacts
 
-Conjurers have a unique relationship with [artifacts](artifacts.md), as these objects often contain magical properties that can enhance their summoning abilities:
+Conjurers have a unique relationship with [artifacts](Artifacts.md), as these objects often contain magical properties that can enhance their summoning abilities:
 
-- **Voice Capturing**: Utilized by Conjurers to capture and replay spoken words, ensuring the preservation of [arcane languages](arcane%20languages.md) and critical [incantations](incantations.md).
+- **Voice Capturing**: Utilized by Conjurers to capture and replay spoken words, ensuring the preservation of [arcane languages](Arcane%20Languages.md) and critical [incantations](Incantations.md).
 - **Silent Movement**: Artifacts infused with the essence of [Echo Bats](Echo%20Bats.md) provide Conjurers with the ability to move with stealth, a trait highly valued in their line of work.
 - **Siren's Call**: A rare and coveted ability, some artifacts can emit an entrancing sound, echoing the mythical power of sirens to captivate those who hear it.
 

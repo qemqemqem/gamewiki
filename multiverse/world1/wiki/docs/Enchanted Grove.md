@@ -8,7 +8,7 @@ The Enchanted Grove is located to the east of the shimmering [Crystal Lake](Crys
 
 ## Flora and Fauna
 
-The grove is home to a myriad of plant species, many of which possess unique magical properties. The [Moonflower](Moonflower.md), a luminescent bloom that opens only under the light of the full [moon](moon.md), thrives here, as do the rare [Singing Willows](Singing%20Willows.md), trees whose leaves emit melodic tones when caressed by the wind. Creatures of enchantment, such as the ethereal [Will-o'-the-Wisp](Will-o'-the-Wisp.md) and the elusive [Forest Nymphs](Forest%20Nymphs.md), are known to dwell within the grove's confines, guarding its secrets and guiding the worthy.
+The grove is home to a myriad of plant species, many of which possess unique magical properties. The [Moonflower](Moonflower.md), a luminescent bloom that opens only under the light of the full [moon](Moon.md), thrives here, as do the rare [Singing Willows](Singing%20Willows.md), trees whose leaves emit melodic tones when caressed by the wind. Creatures of enchantment, such as the ethereal [Will-o'-the-Wisp](Will-O'-The-Wisp.md) and the elusive [Forest Nymphs](Forest%20Nymphs.md), are known to dwell within the grove's confines, guarding its secrets and guiding the worthy.
 
 ## Guardians of the Grove
 
@@ -16,7 +16,7 @@ The Enchanted Grove is protected by the [Elves](Elves.md), who have formed an un
 
 ## Magical Significance
 
-The grove is a focal point for the ebb and flow of magical energies within [Aesheron](Aesheron.md). It is said that the ley lines, the invisible channels of arcane power that crisscross the land, converge beneath the grove, creating a wellspring of magical force. This makes the Enchanted Grove an invaluable site for the practice of [rituals](rituals.md) and the study of the arcane arts. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) have both sought the grove's wisdom, and many an expedition has been mounted to uncover its deeper mysteries.
+The grove is a focal point for the ebb and flow of magical energies within [Aesheron](Aesheron.md). It is said that the ley lines, the invisible channels of arcane power that crisscross the land, converge beneath the grove, creating a wellspring of magical force. This makes the Enchanted Grove an invaluable site for the practice of [rituals](Rituals.md) and the study of the arcane arts. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) have both sought the grove's wisdom, and many an expedition has been mounted to uncover its deeper mysteries.
 
 ## Cultural Impact
 

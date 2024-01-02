@@ -10,18 +10,18 @@ The tradition of artisanry dates back to the earliest civilizations, where the c
 
 Artisans can be broadly categorized by their area of expertise:
 
-- **Blacksmiths and Metalworkers**: Forging weapons for [warriors](warriors.md) and tools for other trades, these artisans work with fire and iron to produce items of great strength and durability.
+- **Blacksmiths and Metalworkers**: Forging weapons for [warriors](Warriors.md) and tools for other trades, these artisans work with fire and iron to produce items of great strength and durability.
 - **Carpenters and Woodworkers**: From the sturdy beams of the [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md) to the intricate carvings found within the [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md), these craftsmen shape wood into both practical and ornamental forms.
 - **Stone Masons and Sculptors**: The silent chiselers of history, these artisans turn stone into art, erecting the buildings and statues that stand as testaments to the world's heritage.
-- **Weavers and Tailors**: Masters of fabric, they create garments that range from the simple cloaks of [druids](druids.md) to the elaborate robes of [mages](mages.md).
-- **Jewelers and Gemcutters**: With precise cuts and settings, these artisans craft exquisite adornments that often carry magical properties, especially when created in collaboration with [enchanters](enchanters.md).
+- **Weavers and Tailors**: Masters of fabric, they create garments that range from the simple cloaks of [druids](Druids.md) to the elaborate robes of [mages](Mages.md).
+- **Jewelers and Gemcutters**: With precise cuts and settings, these artisans craft exquisite adornments that often carry magical properties, especially when created in collaboration with [enchanters](Enchanters.md).
 - **Alchemists and Potion Brewers**: Though not always included in the traditional sense, these artisans blend science and magic to concoct brews that heal, harm, or alter reality in subtle ways.
 
 ## Role in Society
 
 Artisans hold a revered place in society, often belonging to guilds or orders that preserve the integrity and secrets of their crafts. They are central to the economy, providing essential goods and services, and to the cultural identity of a region, as seen in the distinct styles of the [Free Cities](Free%20Cities.md) versus the [Frostspire Mountains](Frostspire%20Mountains.md).
 
-In the realm of magic, artisans are indispensable. The creation of [arcane foci](arcane%20foci.md) and the enchantment of items require the finesse of an artisan's hand guided by the knowledge of [spellcasters](spellcasters.md). The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) contains extensive records of these collaborative efforts, highlighting the symbiotic relationship between artisans and [mages](mages.md).
+In the realm of magic, artisans are indispensable. The creation of [arcane foci](Arcane%20Foci.md) and the enchantment of items require the finesse of an artisan's hand guided by the knowledge of [spellcasters](Spellcasters.md). The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) contains extensive records of these collaborative efforts, highlighting the symbiotic relationship between artisans and [mages](Mages.md).
 
 ## Patronage and Inspiration
 
@@ -39,6 +39,6 @@ The path to becoming an artisan is often through apprenticeship, where novices l
 
 ## Challenges and Conservation
 
-Despite their revered status, artisans face challenges such as resource scarcity and the loss of ancient techniques. [Conservationists](Conservationists.md) and [scholars](scholars.md) work to preserve the knowledge and environments necessary for artisanal work to continue. The [Verdant Woods](Verdant%20Woods.md) and the [Crystal Sea](Crystal%20Sea.md) are examples of natural reserves that provide materials for artisans while being protected by conservation efforts.
+Despite their revered status, artisans face challenges such as resource scarcity and the loss of ancient techniques. [Conservationists](Conservationists.md) and [scholars](Scholars.md) work to preserve the knowledge and environments necessary for artisanal work to continue. The [Verdant Woods](Verdant%20Woods.md) and the [Crystal Sea](Crystal%20Sea.md) are examples of natural reserves that provide materials for artisans while being protected by conservation efforts.
 
 In conclusion, artisans are a cornerstone of civilization, weaving together strands of tradition, innovation, and magic to create a tapestry that tells the story of the world's history, culture, and aspirations. Whether through the sturdy blade of a blacksmith or the ethereal glow of an enchanted necklace, the work of artisans touches every aspect of life, leaving an indelible mark on the fabric of society.

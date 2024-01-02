@@ -7,7 +7,7 @@ The Singing Willows are a species of flora renowned throughout the realms for th
 Singing Willows are most commonly found in areas with a strong presence of magical energy. Notable habitats include the tranquil [Enchanted Grove](Enchanted%20Grove.md), the vibrant [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md), and the mysterious [Gardens of Nightshade](Gardens%20of%20Nightshade.md). Each environment contributes to the distinct tonal qualities of the willows' songs.
 
 ### Enchanted Grove
-In the [Enchanted Grove](Enchanted%20Grove.md), the Singing Willows grow alongside other magical plants such as the [Moonflower](Moonflower.md). The grove's serene atmosphere is amplified by the soft harmonies of the willows, which are said to be in tune with the phases of the [moon](moon.md). The grove is fiercely protected by [Forest Nymphs](Forest%20Nymphs.md) and the elusive [Will-o'-the-Wisp](Will-o'-the-Wisp.md), who are drawn to the willows' gentle music.
+In the [Enchanted Grove](Enchanted%20Grove.md), the Singing Willows grow alongside other magical plants such as the [Moonflower](Moonflower.md). The grove's serene atmosphere is amplified by the soft harmonies of the willows, which are said to be in tune with the phases of the [moon](Moon.md). The grove is fiercely protected by [Forest Nymphs](Forest%20Nymphs.md) and the elusive [Will-o'-the-Wisp](Will-O'-The-Wisp.md), who are drawn to the willows' gentle music.
 
 ### Fields of Golden Grain
 The [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) offer a contrasting backdrop, where the willows' songs blend with the rustling of crops and the calls of local fauna like the [Echo Bat](Echo%20Bat.md). The willows here are said to aid in the pollination process, their melodies encouraging the growth and prosperity of the fields.
@@ -21,17 +21,17 @@ Singing Willows are characterized by their slender trunks, graceful branches, an
 
 ## Cultural Significance
 
-The melodies of the Singing Willows have been a source of inspiration for many, from [Druids](Druids.md) who seek harmony with nature to [occult researchers](occult%20researchers.md) who study the trees' magical properties. The willows are often associated with peace, healing, and the deep mysteries of the natural world.
+The melodies of the Singing Willows have been a source of inspiration for many, from [Druids](Druids.md) who seek harmony with nature to [occult researchers](Occult%20Researchers.md) who study the trees' magical properties. The willows are often associated with peace, healing, and the deep mysteries of the natural world.
 
 ### Music and Festivities
 During certain times of the year, such as the [Festival of Shields](Festival%20of%20Shields.md), the harmonies of the Singing Willows are celebrated. Bards and musicians from across the [Kingdoms](Kingdoms.md) gather to compose pieces that mimic or harmonize with the willows' songs, creating performances of unparalleled beauty.
 
 ### Magical Studies
-[Wizards](Wizards.md) and [sorcerers](sorcerers.md) have long been fascinated by the Singing Willows, with some dedicating their lives to understanding the source of the trees' magic. It is rumored that the willows hold the key to ancient spells and that their songs can unlock hidden arcane knowledge.
+[Wizards](Wizards.md) and [sorcerers](Sorcerers.md) have long been fascinated by the Singing Willows, with some dedicating their lives to understanding the source of the trees' magic. It is rumored that the willows hold the key to ancient spells and that their songs can unlock hidden arcane knowledge.
 
 ## Threats and Conservation
 
-Despite their resilience, Singing Willows face threats from those who would seek to exploit their magic. Unscrupulous individuals have been known to attempt to harvest the willows' leaves, hoping to harness their power for [sorcery](sorcery.md) or sell them on the black market. As a result, many of the areas where Singing Willows grow have been placed under the protection of local authorities, such as the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) or the [Druid](Druid.md)ic circles.
+Despite their resilience, Singing Willows face threats from those who would seek to exploit their magic. Unscrupulous individuals have been known to attempt to harvest the willows' leaves, hoping to harness their power for [sorcery](Sorcery.md) or sell them on the black market. As a result, many of the areas where Singing Willows grow have been placed under the protection of local authorities, such as the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) or the [Druid](Druid.md)ic circles.
 
 ## Conclusion
 

@@ -20,7 +20,7 @@ The Elves' architectural style is a testament to their respect for the environme
 
 ### Magic and Spirituality
 
-Magic is an intrinsic aspect of Elven culture. They are naturally attuned to the arcane forces that permeate [Aesheron](Aesheron.md), and many Elves choose to hone this affinity by joining the ranks of the [Wizards](Wizards.md) or the secretive [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md). Their spiritual beliefs are closely tied to the worship of [moon deities](moon%20deities.md) and the veneration of the natural world.
+Magic is an intrinsic aspect of Elven culture. They are naturally attuned to the arcane forces that permeate [Aesheron](Aesheron.md), and many Elves choose to hone this affinity by joining the ranks of the [Wizards](Wizards.md) or the secretive [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md). Their spiritual beliefs are closely tied to the worship of [moon deities](Moon%20Deities.md) and the veneration of the natural world.
 
 ## Relations with Other Races
 

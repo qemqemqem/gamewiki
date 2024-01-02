@@ -12,7 +12,7 @@ The Crimson Lord's ascent to the pinnacle of the [Order of the Crimson Blade](Or
 
 ## Abilities
 
-While much of the Crimson Lord's power remains a topic of speculation, there are certain abilities that are widely acknowledged. The Crimson Lord is reputed to be a master of both swordplay and [sorcery](sorcery.md), capable of bending the will of others and commanding the elements. Their presence on the battlefield is said to inspire their followers and terrify their enemies, often turning the tide of conflict with a single, decisive action.
+While much of the Crimson Lord's power remains a topic of speculation, there are certain abilities that are widely acknowledged. The Crimson Lord is reputed to be a master of both swordplay and [sorcery](Sorcery.md), capable of bending the will of others and commanding the elements. Their presence on the battlefield is said to inspire their followers and terrify their enemies, often turning the tide of conflict with a single, decisive action.
 
 ## Governance and Influence
 
@@ -22,7 +22,7 @@ The Crimson Lord's influence extends beyond the military, often swaying the deci
 
 ## Legacy and Rumors
 
-The legacy of the Crimson Lord is a tapestry of awe-inspiring victories and whispered tales of dark deeds. Sailors on the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) speak of a time when the Crimson Lord navigated these treacherous waters, leaving behind a wake of fear that persists to this day. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) houses tomes that hint at the Crimson Lord's search for ancient knowledge and power, suggesting that their quest for dominance is as much intellectual as it is martial.
+The legacy of the Crimson Lord is a tapestry of awe-inspiring victories and whispered tales of dark deeds. Sailors on the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) speak of a time when the Crimson Lord navigated these treacherous waters, leaving behind a wake of fear that persists to this day. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) houses tomes that hint at the Crimson Lord's search for ancient knowledge and power, suggesting that their quest for dominance is as much intellectual as it is martial.
 
 ## In Popular Culture
 

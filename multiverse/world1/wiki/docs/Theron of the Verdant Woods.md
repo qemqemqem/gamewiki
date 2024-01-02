@@ -4,7 +4,7 @@ Theron of the Verdant Woods, often simply referred to as Theron, is a legendary 
 
 ## Early Life and Rise to Prominence
 
-Theron was born an [Elf](Elf.md) amidst the lush canopies of the Verdant Woods, a region teeming with ancient magic and untamed wildlife. From a young age, he exhibited an innate affinity for the living energies that coursed through the forest. His talents did not go unnoticed, and he was soon inducted into the ranks of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), where he honed his abilities under the tutelage of esteemed [wizards](wizards.md) such as [Morath the Wise](Morath%20the%20Wise.md).
+Theron was born an [Elf](Elf.md) amidst the lush canopies of the Verdant Woods, a region teeming with ancient magic and untamed wildlife. From a young age, he exhibited an innate affinity for the living energies that coursed through the forest. His talents did not go unnoticed, and he was soon inducted into the ranks of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), where he honed his abilities under the tutelage of esteemed [wizards](Wizards.md) such as [Morath the Wise](Morath%20the%20Wise.md).
 
 ## Role in the Ancient War
 
@@ -16,11 +16,11 @@ The [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) an
 
 Theron's legacy extends far beyond his wartime achievements. As a leader, he was instrumental in the post-war reconstruction, aiding in the healing of lands scarred by conflict. His wisdom and leadership were pivotal in the establishment of the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md), where he served as an advisor on matters concerning the natural world and its preservation.
 
-The expeditions sponsored by the Councils, such as those to the Fallen Temple of the Moon, often seek the guidance of Theron's writings and maps. His detailed accounts of the temple's layout and the artifacts within remain invaluable to [occult researchers](occult%20researchers.md) and adventurers alike.
+The expeditions sponsored by the Councils, such as those to the Fallen Temple of the Moon, often seek the guidance of Theron's writings and maps. His detailed accounts of the temple's layout and the artifacts within remain invaluable to [occult researchers](Occult%20Researchers.md) and adventurers alike.
 
 ## Theron's Teachings
 
-Theron's teachings on life magic and the balance of nature have been preserved in various tomes and scrolls within the [Crystal Tower](Crystal%20Tower.md). These texts are considered essential reading for aspiring [wizards](wizards.md) and [druids](druids.md), offering insights into the delicate interplay between all living things. His philosophies have also influenced the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), a secretive organization dedicated to protecting the mysteries of Aesheron.
+Theron's teachings on life magic and the balance of nature have been preserved in various tomes and scrolls within the [Crystal Tower](Crystal%20Tower.md). These texts are considered essential reading for aspiring [wizards](Wizards.md) and [druids](Druids.md), offering insights into the delicate interplay between all living things. His philosophies have also influenced the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), a secretive organization dedicated to protecting the mysteries of Aesheron.
 
 ## The Verdant Woods Today
 

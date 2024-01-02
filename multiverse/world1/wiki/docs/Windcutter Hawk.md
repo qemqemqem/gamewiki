@@ -14,9 +14,9 @@ These birds of prey are most commonly found in the mountainous regions bordering
 
 ## Role in Magic and Society
 
-The Windcutter Hawk holds a special place in the hearts and minds of [arcane practitioners](arcane%20practitioners.md) and [sorcerers](sorcerer.md) alike. For spellcasters, the hawk is a symbol of precision and focus, and its feathers are highly sought after as [arcane foci](Arcane foci.md) or [reagents](Reagents.md) for spells that require sharpness of mind and purpose. The feathers are particularly associated with spells of the [evocation](evocation.md) school, where control over elemental forces demands the utmost concentration.
+The Windcutter Hawk holds a special place in the hearts and minds of [arcane practitioners](Arcane%20Practitioners.md) and [sorcerers](Sorcerer.md) alike. For spellcasters, the hawk is a symbol of precision and focus, and its feathers are highly sought after as [arcane foci](Arcane Foci.md) or [reagents](Reagents.md) for spells that require sharpness of mind and purpose. The feathers are particularly associated with spells of the [evocation](Evocation.md) school, where control over elemental forces demands the utmost concentration.
 
-In addition to their magical uses, the feathers of the Windcutter Hawk are prized by [adventurers](adventurers.md) and [warriors](Warriors.md) for their use in fletching arrows, ensuring a strike that is both swift and deadly. The grace of these hawks is also emulated in the spell [Feather Fall](Feather%20Fall.md), where the caster bestows upon themselves or others the ability to descend from great heights with the elegance and control of a Windcutter Hawk.
+In addition to their magical uses, the feathers of the Windcutter Hawk are prized by [adventurers](Adventurers.md) and [warriors](Warriors.md) for their use in fletching arrows, ensuring a strike that is both swift and deadly. The grace of these hawks is also emulated in the spell [Feather Fall](Feather%20Fall.md), where the caster bestows upon themselves or others the ability to descend from great heights with the elegance and control of a Windcutter Hawk.
 
 ## Summoning and Conjuration
 

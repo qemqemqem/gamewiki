@@ -14,7 +14,7 @@ The councils are composed of representatives from each Free City, typically chos
 
 - **The Council of Trade**: Focuses on economic policies, trade routes, and the regulation of goods, including the rare resources unearthed from the [Ruins of Eldara](Ruins%20of%20Eldara.md).
 - **The Council of Defense**: Coordinates the collective military efforts of the Free Cities, often working closely with the [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md) to address threats.
-- **The Council of Arcana**: Regulates the use of magic within the Free Cities, liaising with the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and [occult researchers](occult%20researchers.md) to monitor arcane activities.
+- **The Council of Arcana**: Regulates the use of magic within the Free Cities, liaising with the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) and [occult researchers](Occult%20Researchers.md) to monitor arcane activities.
 
 ## Influence and Alliances
 

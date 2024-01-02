@@ -12,7 +12,7 @@ The glade's history is as rich as the soil that nourishes its flora. It is said 
 
 ## Druidic Practices
 
-The [Druids](Druids.md) consider Theron's Glade to be one of their most sacred sites. Here, they perform their most significant rituals, aligning with the cycles of nature and the phases of the [moon](moon.md). The glade's inherent magic amplifies their abilities, allowing them to achieve greater feats of healing, protection, and divination. During the full moon, the glade is said to resonate with the power of the [moon deities](moon%20deities.md), making it an ideal time for druids to seek enlightenment and commune with the divine.
+The [Druids](Druids.md) consider Theron's Glade to be one of their most sacred sites. Here, they perform their most significant rituals, aligning with the cycles of nature and the phases of the [moon](Moon.md). The glade's inherent magic amplifies their abilities, allowing them to achieve greater feats of healing, protection, and divination. During the full moon, the glade is said to resonate with the power of the [moon deities](Moon%20Deities.md), making it an ideal time for druids to seek enlightenment and commune with the divine.
 
 ## Magical Properties
 
@@ -24,7 +24,7 @@ Theron's Glade is not only a site of magical and spiritual importance but also a
 
 ## Flora and Fauna
 
-The glade is home to a variety of rare plants and animals, some of which are not found anywhere else in Aesheron. The [Enchanted Grove](Enchanted%20Grove.md) nearby is said to share a mystical connection with the glade, and creatures such as [Forest Nymphs](Forest%20Nymphs.md) and [Will-o'-the-Wisp](Will-o'-the-Wisp.md) are known to frequent the area. The harmonious balance of the ecosystem within Theron's Glade is a marvel to behold and is fiercely protected by its guardians.
+The glade is home to a variety of rare plants and animals, some of which are not found anywhere else in Aesheron. The [Enchanted Grove](Enchanted%20Grove.md) nearby is said to share a mystical connection with the glade, and creatures such as [Forest Nymphs](Forest%20Nymphs.md) and [Will-o'-the-Wisp](Will-O'-The-Wisp.md) are known to frequent the area. The harmonious balance of the ecosystem within Theron's Glade is a marvel to behold and is fiercely protected by its guardians.
 
 ## Access and Visitation
 

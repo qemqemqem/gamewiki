@@ -10,9 +10,9 @@ Unlike other creatures of flesh and blood, Forest Nymphs are born from the heart
 
 ## Habitat
 
-Forest Nymphs are most commonly associated with places of significant natural magic, such as [Theron's Glade](Theron's%20Glade.md) and the [Enchanted Grove](Enchanted%20Grove.md). These locations are not only their homes but also the sources of their power. The Nymphs draw their strength from the life force of the plants and animals around them, and in turn, they nurture and protect these ecosystems.
+Forest Nymphs are most commonly associated with places of significant natural magic, such as [Theron's Glade](Theron'S%20Glade.md) and the [Enchanted Grove](Enchanted%20Grove.md). These locations are not only their homes but also the sources of their power. The Nymphs draw their strength from the life force of the plants and animals around them, and in turn, they nurture and protect these ecosystems.
 
-The [Enchanted Grove](Enchanted%20Grove.md), in particular, is a sanctuary for the Nymphs. Here, they dance under the light of the [moon](moon.md), their forms illuminated by the glow of the [moonflower](moonflower.md). The harmonious melodies of the [Singing Willows](Singing%20Willows.md) resonate with the Nymphs' own songs, creating a symphony that celebrates the cycles of nature.
+The [Enchanted Grove](Enchanted%20Grove.md), in particular, is a sanctuary for the Nymphs. Here, they dance under the light of the [moon](Moon.md), their forms illuminated by the glow of the [moonflower](Moonflower.md). The harmonious melodies of the [Singing Willows](Singing%20Willows.md) resonate with the Nymphs' own songs, creating a symphony that celebrates the cycles of nature.
 
 ## Role in the Ecosystem
 
@@ -22,7 +22,7 @@ In addition to their nurturing duties, Forest Nymphs are also protectors. They d
 
 ## Interactions with Other Beings
 
-While Forest Nymphs are generally reclusive, they have been known to interact with other inhabitants of Aesheron. They are particularly fond of creatures that share their respect for nature, such as the [Echo Bat](Echo%20Bat.md) and the [Will-o'-the-Wisp](Will-o'-the-Wisp.md). The Nymphs are also said to have a special connection with the [Druids](Druids.md), who are able to commune with them through ancient rites and shared reverence for the earth.
+While Forest Nymphs are generally reclusive, they have been known to interact with other inhabitants of Aesheron. They are particularly fond of creatures that share their respect for nature, such as the [Echo Bat](Echo%20Bat.md) and the [Will-o'-the-Wisp](Will-O'-The-Wisp.md). The Nymphs are also said to have a special connection with the [Druids](Druids.md), who are able to commune with them through ancient rites and shared reverence for the earth.
 
 Adventurers and travelers may occasionally catch glimpses of these shy beings, particularly during events of great magical significance like the [Moonflower Festival](Moonflower%20Festival.md). However, Forest Nymphs will only reveal themselves to those who have pure intentions and a deep appreciation for the natural world.
 

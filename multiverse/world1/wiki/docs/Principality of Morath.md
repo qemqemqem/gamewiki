@@ -1,6 +1,6 @@
 # Principality of Morath
 
-The Principality of Morath is a sovereign realm renowned for its dedication to the pursuit of knowledge, particularly in the arcane arts. Established by the legendary mage [Morath](Morath.md), this principality has become a sanctuary for [mages](mages.md), [sorcerers](sorcerers.md), and [occult researchers](occult%20researchers.md) who seek to expand the boundaries of [magic](magic.md) and [Wizardry](Wizardry.md).
+The Principality of Morath is a sovereign realm renowned for its dedication to the pursuit of knowledge, particularly in the arcane arts. Established by the legendary mage [Morath](Morath.md), this principality has become a sanctuary for [mages](Mages.md), [sorcerers](Sorcerers.md), and [occult researchers](Occult%20Researchers.md) who seek to expand the boundaries of [magic](Magic.md) and [Wizardry](Wizardry.md).
 
 ## History
 
@@ -16,7 +16,7 @@ The governance of the Principality is unique, as it is led by a council of the m
 
 ## Culture
 
-The culture within the Principality of Morath is heavily influenced by the pursuit of enlightenment. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md), located at the heart of the principality, houses an immense collection of tomes, scrolls, and artifacts, attracting scholars from all over the world. The [Moonflower Festival](Moonflower%20Festival.md) is a significant event celebrated here, where the blooming of the rare [moonflower](moonflower.md)s is believed to enhance magical abilities and is accompanied by the haunting melody of the [Lunar Waltz](Lunar%20Waltz.md).
+The culture within the Principality of Morath is heavily influenced by the pursuit of enlightenment. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md), located at the heart of the principality, houses an immense collection of tomes, scrolls, and artifacts, attracting scholars from all over the world. The [Moonflower Festival](Moonflower%20Festival.md) is a significant event celebrated here, where the blooming of the rare [moonflower](Moonflower.md)s is believed to enhance magical abilities and is accompanied by the haunting melody of the [Lunar Waltz](Lunar%20Waltz.md).
 
 ## Notable Figures and Groups
 

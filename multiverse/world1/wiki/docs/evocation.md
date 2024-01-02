@@ -1,6 +1,6 @@
 # Evocation
 
-Evocation is the school of [magic](magic.md) that deals with the summoning and manipulation of raw energies from the natural world. Practitioners of evocation, known as [evokers](evokers.md), are capable of calling forth elemental forces to cast spells of both destruction and utility. This ancient art is a cornerstone of offensive magical combat and is revered for its power and immediacy.
+Evocation is the school of [magic](Magic.md) that deals with the summoning and manipulation of raw energies from the natural world. Practitioners of evocation, known as [evokers](Evokers.md), are capable of calling forth elemental forces to cast spells of both destruction and utility. This ancient art is a cornerstone of offensive magical combat and is revered for its power and immediacy.
 
 ## Overview
 
@@ -8,7 +8,7 @@ At its core, evocation is about the mastery of the primal elements that compose 
 
 ## History
 
-The origins of evocation are lost to the mists of time, but it is believed that the first evokers were [druids](druids.md) and shamans who called upon the spirits of nature to protect their tribes. As civilizations grew, so did the understanding of these natural forces. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) were among the first to codify the principles of evocation into a school of magic, allowing for a more structured approach to its study and use.
+The origins of evocation are lost to the mists of time, but it is believed that the first evokers were [druids](Druids.md) and shamans who called upon the spirits of nature to protect their tribes. As civilizations grew, so did the understanding of these natural forces. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) were among the first to codify the principles of evocation into a school of magic, allowing for a more structured approach to its study and use.
 
 ## Applications
 
@@ -25,7 +25,7 @@ Evocation spells are diverse and can be used for a variety of purposes:
 
 ## Training and Mastery
 
-To become an evoker, one must possess not only a keen intellect but also the will to control and direct the raw forces of nature. Training often begins under the tutelage of a master evoker or at an institution such as the [Council of Arcana](Council%20of%20Arcana.md). Aspiring evokers must learn to channel their own magical energies, often through the use of an [arcane foci](arcane%20foci.md), to invoke the desired elemental effects.
+To become an evoker, one must possess not only a keen intellect but also the will to control and direct the raw forces of nature. Training often begins under the tutelage of a master evoker or at an institution such as the [Council of Arcana](Council%20of%20Arcana.md). Aspiring evokers must learn to channel their own magical energies, often through the use of an [arcane foci](Arcane%20Foci.md), to invoke the desired elemental effects.
 
 ## The Ethical Use of Evocation
 

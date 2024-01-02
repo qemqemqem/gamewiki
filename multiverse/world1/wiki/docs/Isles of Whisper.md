@@ -12,7 +12,7 @@ The shores of the Isles of Whisper are often shrouded in a thick fog that rolls 
 
 Many legends surround the Isles of Whisper, with the most persistent being that of the [Whispering Sirens](Whispering%20Sirens.md), ethereal entities whose haunting melodies are said to be heard on the wind, luring sailors to their doom. It is believed that these sirens are the spirits of those lost at sea, forever bound to the isles, or perhaps ancient guardians set to protect sacred secrets hidden within the islands' depths.
 
-Another tale speaks of the [Lost Temple of the Moon](Lost%20Temple%20of%20the%20Moon.md), a sacred site dedicated to the [moon deities](moon%20deities.md), hidden somewhere among the isles. It is said that during the [Lunar Waltz](Lunar%20Waltz.md), a rare celestial alignment, the temple reveals itself to those who are deemed worthy, bestowing upon them otherworldly wisdom and magical boons.
+Another tale speaks of the [Lost Temple of the Moon](Lost%20Temple%20of%20the%20Moon.md), a sacred site dedicated to the [moon deities](Moon%20Deities.md), hidden somewhere among the isles. It is said that during the [Lunar Waltz](Lunar%20Waltz.md), a rare celestial alignment, the temple reveals itself to those who are deemed worthy, bestowing upon them otherworldly wisdom and magical boons.
 
 ## Flora and Fauna
 
@@ -22,9 +22,9 @@ The seas around the isles teem with life, including the [Glimmerfish](Glimmerfis
 
 ## Inhabitants
 
-Few dare to call the Isles of Whisper home, but there are rumors of a reclusive order of [Druids](Druids.md) who have established a sanctuary on one of the islands. These druids are said to be keepers of ancient [rituals](rituals.md) and protectors of the delicate balance between the isles and the forces that stir within them.
+Few dare to call the Isles of Whisper home, but there are rumors of a reclusive order of [Druids](Druids.md) who have established a sanctuary on one of the islands. These druids are said to be keepers of ancient [rituals](Rituals.md) and protectors of the delicate balance between the isles and the forces that stir within them.
 
-Occasionally, traders from the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) claim to have encountered a mysterious group known as the [Veiled Navigators](Veiled%20Navigators.md), enigmatic figures who possess the knowledge to safely traverse the treacherous waters around the isles. Their origins and purposes are a closely guarded secret, and it is uncertain whether they are friend or foe to those who sail the Crystal Sea.
+Occasionally, traders from the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) claim to have encountered a mysterious group known as the [Veiled Navigators](Veiled%20Navigators.md), enigmatic figures who possess the knowledge to safely traverse the treacherous waters around the isles. Their origins and purposes are a closely guarded secret, and it is uncertain whether they are friend or foe to those who sail the Crystal Sea.
 
 ## Cultural Significance
 

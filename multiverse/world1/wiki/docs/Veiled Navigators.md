@@ -24,11 +24,11 @@ The Whispering Towers serve as the epicenter of the Navigators' study of the hea
 
 The society of the Veiled Navigators is as obscure as their origins. They are bound by a strict code of neutrality, refusing to take sides in the conflicts that rage across the lands and seas. This impartiality has earned them the trust of many realms, including the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md), the [Free Cities](Free%20Cities.md), and the [Principality of Morath](Principality%20of%20Morath.md).
 
-Members of the Veiled Navigators are easily recognized by their distinctive attire: long, flowing robes and veils that obscure their features, signifying their commitment to anonymity and the collective identity of their order. Their ranks include [wizards](wizards.md), [sorcerers](sorcerers.md), and [occult researchers](occult%20researchers.md), all united in the pursuit of knowledge and the mastery of navigation.
+Members of the Veiled Navigators are easily recognized by their distinctive attire: long, flowing robes and veils that obscure their features, signifying their commitment to anonymity and the collective identity of their order. Their ranks include [wizards](Wizards.md), [sorcerers](Sorcerers.md), and [occult researchers](Occult%20Researchers.md), all united in the pursuit of knowledge and the mastery of navigation.
 
 ## Relations with Other Factions
 
-While the Veiled Navigators maintain a stance of neutrality, their interactions with other factions are complex and varied. They have been known to provide aid to the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) in times of need, and their navigational charts are highly sought after by the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) traders.
+While the Veiled Navigators maintain a stance of neutrality, their interactions with other factions are complex and varied. They have been known to provide aid to the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) in times of need, and their navigational charts are highly sought after by the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) traders.
 
 However, their secretive nature has also led to distrust, particularly among the more superstitious sailors who whisper tales of the Navigators' involvement with the [Shade Wraiths](Shade%20Wraiths.md) and other spectral entities.
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nestled within the heart of the [Silverlake Valley](Silverlake%20Valley.md), embraced by the gentle arms of the surrounding hills, lies [The Shrouded City](The%20Shrouded%20City.md), a place of enigma and scholarly pursuit. Known for its ever-present mist that clings to the cobblestone streets like a protective cloak, the city is a beacon for [wizards](wizards.md), scholars, and those with an insatiable thirst for knowledge. The Shrouded City is not merely a location but a living testament to the arcane, where the air itself hums with [magic](magic.md) and the pursuit of the mystical arts is the lifeblood of its citizens.
+Nestled within the heart of the [Silverlake Valley](Silverlake%20Valley.md), embraced by the gentle arms of the surrounding hills, lies [The Shrouded City](The%20Shrouded%20City.md), a place of enigma and scholarly pursuit. Known for its ever-present mist that clings to the cobblestone streets like a protective cloak, the city is a beacon for [wizards](Wizards.md), scholars, and those with an insatiable thirst for knowledge. The Shrouded City is not merely a location but a living testament to the arcane, where the air itself hums with [magic](Magic.md) and the pursuit of the mystical arts is the lifeblood of its citizens.
 
 ## History
 
@@ -22,7 +22,7 @@ The city is also home to the [Fallen Temple of the Moon](Fallen%20Temple%20of%20
 
 ## Academies and Archives
 
-The Shrouded City is famed for its arcane academies, such as the prestigious [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), where apprentices and masters alike delve into the secrets of [spellcraft](spellcraft.md) and [sorcery](sorcery.md). The city's libraries and archives are said to hold scrolls and tomes that date back to the [Age of Twilight](Age%20of%20Twilight.md), containing knowledge that is sought after by scholars from across the world.
+The Shrouded City is famed for its arcane academies, such as the prestigious [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), where apprentices and masters alike delve into the secrets of [spellcraft](Spellcraft.md) and [sorcery](Sorcery.md). The city's libraries and archives are said to hold scrolls and tomes that date back to the [Age of Twilight](Age%20of%20Twilight.md), containing knowledge that is sought after by scholars from across the world.
 
 ## Culture and Festivals
 
@@ -30,7 +30,7 @@ The citizens of The Shrouded City celebrate knowledge and the arcane with variou
 
 ## Economy
 
-The economy of The Shrouded City is largely driven by the exchange of knowledge and the trade of arcane artifacts. The [Silk Road](Silk%20Road.md) serves as a vital trade route, bringing exotic goods and rare components essential for the practice of magic. The city's artisans are renowned for their skill in crafting magical items, from simple [Will-o'-the-Wisp](Will-o'-the-Wisp.md) lanterns to complex [Whispering Sirens](Whispering%20Sirens.md) that can capture and replay spoken words.
+The economy of The Shrouded City is largely driven by the exchange of knowledge and the trade of arcane artifacts. The [Silk Road](Silk%20Road.md) serves as a vital trade route, bringing exotic goods and rare components essential for the practice of magic. The city's artisans are renowned for their skill in crafting magical items, from simple [Will-o'-the-Wisp](Will-O'-The-Wisp.md) lanterns to complex [Whispering Sirens](Whispering%20Sirens.md) that can capture and replay spoken words.
 
 ## Governance
 

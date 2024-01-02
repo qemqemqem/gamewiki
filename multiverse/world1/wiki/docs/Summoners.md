@@ -1,16 +1,16 @@
 # Summoners
 
-Summoners are a unique and enigmatic class of spellcasters within the realm of the arcane, distinguished by their mastery over the art of [summonings](summonings.md). Unlike other practitioners of magic, such as [Wizards](Wizards.md) or [Clerics](Clerics.md), Summoners specialize in the [Conjuration](Conjuration.md) school of magic, focusing their talents on calling forth entities and energies from beyond the veil of the material world.
+Summoners are a unique and enigmatic class of spellcasters within the realm of the arcane, distinguished by their mastery over the art of [summonings](Summonings.md). Unlike other practitioners of magic, such as [Wizards](Wizards.md) or [Clerics](Clerics.md), Summoners specialize in the [Conjuration](Conjuration.md) school of magic, focusing their talents on calling forth entities and energies from beyond the veil of the material world.
 
 ## Origins and Training
 
-The origins of Summoners trace back to ancient times, where the first practitioners were said to have communed with the spirits of the [Verdant Woods](Verdant%20Woods.md) and the entities residing in the [Crystal Sea](Crystal%20Sea.md). These early Summoners laid the groundwork for the complex rituals and [incantations](incantations.md) that would define the craft for millennia.
+The origins of Summoners trace back to ancient times, where the first practitioners were said to have communed with the spirits of the [Verdant Woods](Verdant%20Woods.md) and the entities residing in the [Crystal Sea](Crystal%20Sea.md). These early Summoners laid the groundwork for the complex rituals and [incantations](Incantations.md) that would define the craft for millennia.
 
-Training to become a Summoner is an arduous path that requires not only innate magical ability but also an unwavering dedication to the study of [arcane languages](arcane%20languages.md), [reagents](reagents.md), and the intricate [rituals](rituals.md) necessary to safely and effectively call forth otherworldly beings. Many aspirants begin their journey at the esteemed [Sanctum of Whispers](Sanctum%20of%20Whispers.md), where the accumulated knowledge of past Summoners is preserved and taught.
+Training to become a Summoner is an arduous path that requires not only innate magical ability but also an unwavering dedication to the study of [arcane languages](Arcane%20Languages.md), [reagents](Reagents.md), and the intricate [rituals](Rituals.md) necessary to safely and effectively call forth otherworldly beings. Many aspirants begin their journey at the esteemed [Sanctum of Whispers](Sanctum%20of%20Whispers.md), where the accumulated knowledge of past Summoners is preserved and taught.
 
 ## The Summoning Process
 
-The act of summoning is a delicate and dangerous endeavor. It involves the precise use of [arcane foci](arcane%20foci.md), the chanting of eldritch [incantations](incantations.md), and often, the offering of specific [reagents](reagents.md) to create a bridge between worlds. The Summoner must have a strong will and clear intent, as even the slightest miscalculation can lead to disastrous consequences, such as the appearance of hostile [Shade Wraiths](Shade%20Wraiths.md) or the unintended breach of the [Well of Stars](Well%20of%20Stars.md).
+The act of summoning is a delicate and dangerous endeavor. It involves the precise use of [arcane foci](Arcane%20Foci.md), the chanting of eldritch [incantations](Incantations.md), and often, the offering of specific [reagents](Reagents.md) to create a bridge between worlds. The Summoner must have a strong will and clear intent, as even the slightest miscalculation can lead to disastrous consequences, such as the appearance of hostile [Shade Wraiths](Shade%20Wraiths.md) or the unintended breach of the [Well of Stars](Well%20of%20Stars.md).
 
 ## Notable Summoners
 
@@ -18,7 +18,7 @@ Throughout history, there have been many notable Summoners whose names have beco
 
 ## Summoners in Society
 
-Summoners hold a peculiar place in society. In the [Kingdoms](Kingdoms.md), they are often revered for their abilities to provide aid during times of need, such as summoning [fire elementals](fire%20elementals.md) to combat the spread of wildfires or invoking the gentle [Singing Willows](Singing%20Willows.md) to heal the sick. However, their power also instills fear, leading to suspicion and sometimes persecution, especially when a Summoner's allegiance is unclear.
+Summoners hold a peculiar place in society. In the [Kingdoms](Kingdoms.md), they are often revered for their abilities to provide aid during times of need, such as summoning [fire elementals](Fire%20Elementals.md) to combat the spread of wildfires or invoking the gentle [Singing Willows](Singing%20Willows.md) to heal the sick. However, their power also instills fear, leading to suspicion and sometimes persecution, especially when a Summoner's allegiance is unclear.
 
 ## The Ethical Debate
 

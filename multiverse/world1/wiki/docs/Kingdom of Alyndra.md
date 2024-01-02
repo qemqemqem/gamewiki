@@ -14,17 +14,17 @@ The Kingdom of Alyndra traces its origins back to the fabled [Alyndra, Warrior Q
 
 ## Geography
 
-The Kingdom of Alyndra is characterized by its diverse landscapes, ranging from the rolling hills and fertile plains to the foreboding mountains that guard its borders. The kingdom is home to the [Crystal Lake](Crystal%20Lake.md), a serene body of water famed for its healing properties and the [Enchanted Grove](Enchanted%20Grove.md), where [druids](druids.md) commune with nature's spirits.
+The Kingdom of Alyndra is characterized by its diverse landscapes, ranging from the rolling hills and fertile plains to the foreboding mountains that guard its borders. The kingdom is home to the [Crystal Lake](Crystal%20Lake.md), a serene body of water famed for its healing properties and the [Enchanted Grove](Enchanted%20Grove.md), where [druids](Druids.md) commune with nature's spirits.
 
 ### Key Locations
 
-- **[Stormhold Castle](Stormhold%20Castle.md)**: The ancestral seat of power, known for its open days where cultures from across Aesheron, including [druids](druids.md) and [sorcerers](sorcerers.md), gather to celebrate the kingdom's heritage.
+- **[Stormhold Castle](Stormhold%20Castle.md)**: The ancestral seat of power, known for its open days where cultures from across Aesheron, including [druids](Druids.md) and [sorcerers](Sorcerers.md), gather to celebrate the kingdom's heritage.
 - **[Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md)**: A historic site that serves as a reminder of the kingdom's turbulent past and a place of pilgrimage for those seeking to honor the fallen.
-- **[Crystal Lake](Crystal%20Lake.md)**: A tranquil destination for pilgrims and travelers, accessible via the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md).
+- **[Crystal Lake](Crystal%20Lake.md)**: A tranquil destination for pilgrims and travelers, accessible via the [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md).
 
 ## Economy
 
-The Kingdom of Alyndra's economy thrives on a blend of agriculture, trade, and the arcane arts. The kingdom benefits from trade routes such as the [Sea Merchant's Path](Sea%20Merchant's%20Path.md), which connects it to the bustling [Free Cities](Free%20Cities.md) and beyond. The kingdom's artisans are renowned for their exquisite craftsmanship, producing goods that are coveted across the continent.
+The Kingdom of Alyndra's economy thrives on a blend of agriculture, trade, and the arcane arts. The kingdom benefits from trade routes such as the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md), which connects it to the bustling [Free Cities](Free%20Cities.md) and beyond. The kingdom's artisans are renowned for their exquisite craftsmanship, producing goods that are coveted across the continent.
 
 ### Trade and Commerce
 

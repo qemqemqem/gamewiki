@@ -8,13 +8,13 @@ Nestled within the heart of [Silverlake Valley](Silverlake%20Valley.md), the [Cr
 
 ## Properties and Significance
 
-The lake's waters are renowned for their clarity, so much so that they mirror the sky and the surrounding landscape with an almost supernatural precision. It is this reflective quality that has earned the lake its name and the attention of those who believe in its magical properties. The [moon deities](moon%20deities.md) are said to have blessed the lake, weaving their influence into its essence, which is most potent during the night when the moon's silver light dances upon the water's surface.
+The lake's waters are renowned for their clarity, so much so that they mirror the sky and the surrounding landscape with an almost supernatural precision. It is this reflective quality that has earned the lake its name and the attention of those who believe in its magical properties. The [moon deities](Moon%20Deities.md) are said to have blessed the lake, weaving their influence into its essence, which is most potent during the night when the moon's silver light dances upon the water's surface.
 
-Many [rituals](rituals.md) have been performed on the banks of [Crystal Lake](Crystal%20Lake.md), as its waters are believed to enhance the potency of magical workings. The [Caverns of Echo](Caverns%20of%20Echo.md), located nearby, contain a hidden extension of the lake, where the reflection of bioluminescent fungi creates a mesmerizing light show that has captivated the hearts of adventurers and poets alike.
+Many [rituals](Rituals.md) have been performed on the banks of [Crystal Lake](Crystal%20Lake.md), as its waters are believed to enhance the potency of magical workings. The [Caverns of Echo](Caverns%20of%20Echo.md), located nearby, contain a hidden extension of the lake, where the reflection of bioluminescent fungi creates a mesmerizing light show that has captivated the hearts of adventurers and poets alike.
 
 ## The City of Crystal Lake
 
-On the northern shore of the lake lies the city that shares its name, [Crystal Lake](Crystal%20Lake.md). This city has grown from a small settlement to a bustling hub of activity, attracting those seeking healing, knowledge, and a connection to the divine. The city is known for its temples, libraries, and the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), where scholars and [occult researchers](occult%20researchers.md) delve into ancient texts and study the lake's properties.
+On the northern shore of the lake lies the city that shares its name, [Crystal Lake](Crystal%20Lake.md). This city has grown from a small settlement to a bustling hub of activity, attracting those seeking healing, knowledge, and a connection to the divine. The city is known for its temples, libraries, and the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), where scholars and [occult researchers](Occult%20Researchers.md) delve into ancient texts and study the lake's properties.
 
 ## Flora and Fauna
 
@@ -30,7 +30,7 @@ The lake has been immortalized in many tales and legends, some of which speak of
 
 ## Travel and Tourism
 
-Travelers from across the land, including those from the [Free Cities](Free%20Cities.md) and the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), make pilgrimages to [Crystal Lake](Crystal%20Lake.md) for its reputed healing properties and the peace it offers. The [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) facilitate access to the lake, making it a popular destination for those seeking respite from their journeys.
+Travelers from across the land, including those from the [Free Cities](Free%20Cities.md) and the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md), make pilgrimages to [Crystal Lake](Crystal%20Lake.md) for its reputed healing properties and the peace it offers. The [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) facilitate access to the lake, making it a popular destination for those seeking respite from their journeys.
 
 ## Conclusion
 

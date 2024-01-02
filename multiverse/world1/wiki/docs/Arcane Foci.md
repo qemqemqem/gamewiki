@@ -16,7 +16,7 @@ There are various forms of Arcane Foci, each suited to different types of spellc
 
 The creation of an Arcane Focus is a process steeped in tradition and expertise, often falling under the purview of [Artisanal](Artisanal.md) crafters. The materials chosen for an Arcane Focus, such as wood from the [Enchanted Grove](Enchanted%20Grove.md) or crystals mined from the [Frostspire Mountains](Frostspire%20Mountains.md), are as important as the magical rites used to imbue them with power.
 
-Attunement is a critical step in the preparation of an Arcane Focus. It involves a series of [incantations](incantations.md) and rituals that align the item with its user's magical essence. This process can take anywhere from a few hours to several days, depending on the complexity of the focus and the strength of the magic it is intended to channel.
+Attunement is a critical step in the preparation of an Arcane Focus. It involves a series of [incantations](Incantations.md) and rituals that align the item with its user's magical essence. This process can take anywhere from a few hours to several days, depending on the complexity of the focus and the strength of the magic it is intended to channel.
 
 ## Role in Spellcasting
 

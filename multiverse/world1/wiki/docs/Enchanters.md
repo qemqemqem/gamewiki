@@ -1,6 +1,6 @@
 # Enchanters
 
-Enchanters are a distinguished class of [spellcasters](spellcasters.md) whose expertise lies in the subtle art of [enchantment](enchantment.md), a school of magic that deals with the manipulation of the mind, emotions, and sometimes the very fabric of reality. These practitioners weave complex spells that can charm, beguile, and control, making them both highly sought after and deeply feared throughout the realms.
+Enchanters are a distinguished class of [spellcasters](Spellcasters.md) whose expertise lies in the subtle art of [enchantment](Enchantment.md), a school of magic that deals with the manipulation of the mind, emotions, and sometimes the very fabric of reality. These practitioners weave complex spells that can charm, beguile, and control, making them both highly sought after and deeply feared throughout the realms.
 
 ## History and Role in Society
 
@@ -26,7 +26,7 @@ Enchanters specialize in a range of spells that can be broadly categorized into 
 
 ## Tools and Artifacts
 
-Like other spellcasters, enchanters often employ [arcane foci](arcane%20foci.md) to channel and enhance their magical abilities. Crystals are particularly favored by enchanters for their ability to resonate with enchantment magic. The [Mistbound Docks](Mistbound%20Docks.md) are a renowned marketplace where enchanters can procure the finest crystals known to amplify their spells.
+Like other spellcasters, enchanters often employ [arcane foci](Arcane%20Foci.md) to channel and enhance their magical abilities. Crystals are particularly favored by enchanters for their ability to resonate with enchantment magic. The [Mistbound Docks](Mistbound%20Docks.md) are a renowned marketplace where enchanters can procure the finest crystals known to amplify their spells.
 
 ## Notable Enchanters
 
@@ -34,7 +34,7 @@ Throughout history, there have been many enchanters whose names have become syno
 
 ## Enchanters in Warfare
 
-During the [Ancient War](Ancient%20War.md) and subsequent [Mage Wars](Mage%20Wars.md), enchanters played a pivotal role in espionage and psychological warfare. Their ability to infiltrate and manipulate made them invaluable assets in undermining enemy morale and strategy. Their prowess is such that even the most stalwart [abjurers](abjurers.md) and [sorcerers](sorcerers.md) must be wary of their influence.
+During the [Ancient War](Ancient%20War.md) and subsequent [Mage Wars](Mage%20Wars.md), enchanters played a pivotal role in espionage and psychological warfare. Their ability to infiltrate and manipulate made them invaluable assets in undermining enemy morale and strategy. Their prowess is such that even the most stalwart [abjurers](Abjurers.md) and [sorcerers](Sorcerers.md) must be wary of their influence.
 
 ## Ethical Considerations
 

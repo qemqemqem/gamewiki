@@ -1,16 +1,16 @@
 # Ice Storm
 
-An [Ice Storm](Ice%20Storm.md) is a formidable and awe-inspiring spell, woven from the intricate patterns of [elemental energy](elemental%20energy.md) that course through the fabric of the world. It is a testament to the mastery of [arcane practitioners](arcane%20practitioners.md) over the forces of nature and a display of the raw power of [evocation](evocation.md), the school of magic that deals with the summoning of energy and the manipulation of the elements.
+An [Ice Storm](Ice%20Storm.md) is a formidable and awe-inspiring spell, woven from the intricate patterns of [elemental energy](Elemental%20Energy.md) that course through the fabric of the world. It is a testament to the mastery of [arcane practitioners](Arcane%20Practitioners.md) over the forces of nature and a display of the raw power of [evocation](Evocation.md), the school of magic that deals with the summoning of energy and the manipulation of the elements.
 
 ## Origins and Development
 
-The origins of the [Ice Storm](Ice%20Storm.md) spell are shrouded in the annals of history, with many attributing its creation to the ancient [conjurers](conjurers.md) who first tapped into the icy reaches of the [Ethereal Plane](Ethereal%20Plane.md). These pioneering mages sought to harness the elemental essence of cold and precipitation, combining them into a single, devastating force.
+The origins of the [Ice Storm](Ice%20Storm.md) spell are shrouded in the annals of history, with many attributing its creation to the ancient [conjurers](Conjurers.md) who first tapped into the icy reaches of the [Ethereal Plane](Ethereal%20Plane.md). These pioneering mages sought to harness the elemental essence of cold and precipitation, combining them into a single, devastating force.
 
-Over the centuries, the spell has been refined by countless [wizard](Wizards.md) and [sorcerer](sorcerers.md) scholars. It is often said that the first [Ice Storm](Ice%20Storm.md) was conjured during the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), where the ambient magic was conducive to such frost-bound enchantments.
+Over the centuries, the spell has been refined by countless [wizard](Wizards.md) and [sorcerer](Sorcerers.md) scholars. It is often said that the first [Ice Storm](Ice%20Storm.md) was conjured during the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), where the ambient magic was conducive to such frost-bound enchantments.
 
 ## Casting the Spell
 
-To cast an [Ice Storm](Ice%20Storm.md), the spellcaster must invoke the necessary [incantations](incantations.md) and [reagents](Reagents.md), often including rare crystals that resonate with cold energy or vials of water from the frozen [Plains of Valor](Plains%20of%20Valor.md). The caster must also possess an [arcane focus](Arcane foci.md), such as a staff or wand, imbued with the essence of winter.
+To cast an [Ice Storm](Ice%20Storm.md), the spellcaster must invoke the necessary [incantations](Incantations.md) and [reagents](Reagents.md), often including rare crystals that resonate with cold energy or vials of water from the frozen [Plains of Valor](Plains%20of%20Valor.md). The caster must also possess an [arcane focus](Arcane Foci.md), such as a staff or wand, imbued with the essence of winter.
 
 Upon completion of the ritual, the skies darken as clouds coalesce, and a barrage of sleet and hail descends upon the targeted area. The temperature plummets, coating the landscape in a layer of frost and ice, turning the terrain into a treacherous, slippery expanse.
 
@@ -40,4 +40,4 @@ The [Ice Storm](Ice%20Storm.md) has been immortalized in many a tale and song, o
 
 ## Conclusion
 
-The [Ice Storm](Ice%20Storm.md) remains one of the most potent and visually spectacular spells in the repertoire of any [arcane practitioner](arcane%20practitioner.md). It is a symbol of the enduring quest for knowledge and power that drives the [wizard](Wizards.md) and [sorcerer](sorcerers.md) communities, and a reminder of the awe-inspiring might of the natural world, which can be both nurtured and unleashed by those with the wisdom and courage to do so.
+The [Ice Storm](Ice%20Storm.md) remains one of the most potent and visually spectacular spells in the repertoire of any [arcane practitioner](Arcane%20Practitioner.md). It is a symbol of the enduring quest for knowledge and power that drives the [wizard](Wizards.md) and [sorcerer](Sorcerers.md) communities, and a reminder of the awe-inspiring might of the natural world, which can be both nurtured and unleashed by those with the wisdom and courage to do so.

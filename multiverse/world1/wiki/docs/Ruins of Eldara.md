@@ -4,7 +4,7 @@ The [Ruins of Eldara](Ruins%20of%20Eldara.md) are a haunting vestige of the [Anc
 
 ## History
 
-The city of Eldara was believed to have been a pinnacle of the Ancients' architectural and magical achievements. It thrived as a center of knowledge, culture, and power, attracting scholars, [wizards](wizards.md), and artisans from across the known world. The exact cause of its ruin remains shrouded in mystery, but it is widely accepted that the cataclysmic events of the [Ancient War](Ancient%20War.md) played a significant role in its demise.
+The city of Eldara was believed to have been a pinnacle of the Ancients' architectural and magical achievements. It thrived as a center of knowledge, culture, and power, attracting scholars, [wizards](Wizards.md), and artisans from across the known world. The exact cause of its ruin remains shrouded in mystery, but it is widely accepted that the cataclysmic events of the [Ancient War](Ancient%20War.md) played a significant role in its demise.
 
 ## Architecture
 
@@ -12,7 +12,7 @@ The architecture of the [Ruins of Eldara](Ruins%20of%20Eldara.md) is characteriz
 
 ### The Great Library
 
-The Great Library of Eldara, now a labyrinth of toppled bookshelves and scattered tomes, was once the repository of the world's most comprehensive collection of knowledge. It is said that the library's archives contained scrolls and books on subjects ranging from the mundane to the esoteric, including the lost arts of [moon deities](moon%20deities.md) worship and the secrets of [occult researchers](occult%20researchers.md).
+The Great Library of Eldara, now a labyrinth of toppled bookshelves and scattered tomes, was once the repository of the world's most comprehensive collection of knowledge. It is said that the library's archives contained scrolls and books on subjects ranging from the mundane to the esoteric, including the lost arts of [moon deities](Moon%20Deities.md) worship and the secrets of [occult researchers](Occult%20Researchers.md).
 
 ### The Hall of Echoes
 
@@ -28,7 +28,7 @@ While the [Ruins of Eldara](Ruins%20of%20Eldara.md) are largely abandoned, they 
 
 ## Exploration and Research
 
-The allure of the [Ruins of Eldara](Ruins%20of%20Eldara.md) has not waned with time. Adventurers, historians, and [wizards](wizards.md) continue to explore the ruins, driven by the promise of ancient knowledge and hidden treasures. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) have shown particular interest in the ruins, with some believing that the secrets of Eldara could unlock new magical potentials.
+The allure of the [Ruins of Eldara](Ruins%20of%20Eldara.md) has not waned with time. Adventurers, historians, and [wizards](Wizards.md) continue to explore the ruins, driven by the promise of ancient knowledge and hidden treasures. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) have shown particular interest in the ruins, with some believing that the secrets of Eldara could unlock new magical potentials.
 
 ### Notable Expeditions
 

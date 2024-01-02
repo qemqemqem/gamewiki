@@ -4,7 +4,7 @@ Silverlake Valley, a picturesque expanse nestled within the realms of [Aesheron]
 
 ## Geography
 
-The valley stretches from the foothills of the Frostspire Mountains to the edge of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), forming a natural corridor between the rugged highlands and the mystical ruins of a bygone era. To the north, the [Sea Merchant's Path](Sea%20Merchant's%20Path.md) traces the valley's border, offering a scenic route for travelers and traders alike. The southern reaches of the valley are less traveled, home to the [Caverns of Echo](Caverns%20of%20Echo.md) and their eerie, melodious whispers.
+The valley stretches from the foothills of the Frostspire Mountains to the edge of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), forming a natural corridor between the rugged highlands and the mystical ruins of a bygone era. To the north, the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) traces the valley's border, offering a scenic route for travelers and traders alike. The southern reaches of the valley are less traveled, home to the [Caverns of Echo](Caverns%20of%20Echo.md) and their eerie, melodious whispers.
 
 ## History
 
@@ -16,7 +16,7 @@ Silverlake Valley has been a silent witness to the rise and fall of civilization
 Perched atop a craggy hill, [Stormhold Castle](Stormhold%20Castle.md) stands as a formidable fortress, its ancient stones weathered by time and conflict. It serves as a bastion of defense for the valley and a reminder of the strategic importance this land once held.
 
 ### The Shrouded City
-To the east lies [The Shrouded City](The%20Shrouded%20City.md), veiled in perpetual mist and home to some of the most revered [wizards](wizards.md) and scholars. The city's arcane academies and mystical archives draw those who seek knowledge and power, hidden within the folds of the fog.
+To the east lies [The Shrouded City](The%20Shrouded%20City.md), veiled in perpetual mist and home to some of the most revered [wizards](Wizards.md) and scholars. The city's arcane academies and mystical archives draw those who seek knowledge and power, hidden within the folds of the fog.
 
 ### Crystal Lake
 At the valley's center, the city of [Crystal Lake](Crystal%20Lake.md) has grown around the lake's edge. Known for its healing waters, the city attracts pilgrims and healers, as well as those who seek the peaceful respite of its reflective surface.
@@ -31,7 +31,7 @@ The inhabitants of Silverlake Valley are a mix of races and cultures, including 
 
 ## Notable Events
 
-Silverlake Valley has been the backdrop for numerous historical events, including the signing of the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md), which ended the conflict between Aesheron and the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md). It is also the site of the annual [Moonflower](Moonflower.md) festival, where the blooming of the rare flowers under the [moon](moon.md)'s light is celebrated with [rituals](rituals.md) and revelry.
+Silverlake Valley has been the backdrop for numerous historical events, including the signing of the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md), which ended the conflict between Aesheron and the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md). It is also the site of the annual [Moonflower](Moonflower.md) festival, where the blooming of the rare flowers under the [moon](Moon.md)'s light is celebrated with [rituals](Rituals.md) and revelry.
 
 ## In Literature and Legend
 

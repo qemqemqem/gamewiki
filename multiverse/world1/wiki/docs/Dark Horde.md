@@ -8,7 +8,7 @@ The true origins of the Dark Horde are lost to the annals of time, with many sch
 
 ## Composition
 
-The Dark Horde is a diverse and chaotic amalgamation of creatures. Among their ranks are said to be twisted [wizards](wizards.md), [druids](druids.md) who have forsaken the natural order, and monstrous entities that defy classification. The Horde's forces are bolstered by legions of corrupted [Elves](Elf.md), [Dwarves](Dwarves.md) who have turned their back on their kin, and a host of other creatures that thrive in darkness and despair.
+The Dark Horde is a diverse and chaotic amalgamation of creatures. Among their ranks are said to be twisted [wizards](Wizards.md), [druids](Druids.md) who have forsaken the natural order, and monstrous entities that defy classification. The Horde's forces are bolstered by legions of corrupted [Elves](Elf.md), [Dwarves](Dwarves.md) who have turned their back on their kin, and a host of other creatures that thrive in darkness and despair.
 
 ## Conflicts and Battles
 
@@ -34,7 +34,7 @@ While the Dark Horde has been repelled in the past, their threat lingers like a 
 
 ## In Popular Culture
 
-The Dark Horde has infiltrated the collective consciousness of Aesheron's inhabitants, often serving as the embodiment of evil in folklore and legend. They are featured prominently in the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) and are depicted in various works of art throughout the [Silverlake Valley](Silverlake%20Valley.md). The Horde's image is invoked during the [Moonflower Festival](Moonflower%20Festival.md) as a symbol of the darkness that the [moonflower](moonflower.md)'s bloom dispels.
+The Dark Horde has infiltrated the collective consciousness of Aesheron's inhabitants, often serving as the embodiment of evil in folklore and legend. They are featured prominently in the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) and are depicted in various works of art throughout the [Silverlake Valley](Silverlake%20Valley.md). The Horde's image is invoked during the [Moonflower Festival](Moonflower%20Festival.md) as a symbol of the darkness that the [moonflower](Moonflower.md)'s bloom dispels.
 
 ## Conclusion
 

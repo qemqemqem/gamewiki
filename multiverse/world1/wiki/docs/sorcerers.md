@@ -1,10 +1,10 @@
 # Sorcerers
 
-Sorcerers are a unique and enigmatic group of arcane practitioners in the realm of [Aesheron](Aesheron.md), distinguished by their innate magical abilities that are believed to stem from a mystical or otherworldly lineage. Unlike [wizards](wizards.md), who acquire their powers through rigorous study and the mastery of arcane texts, sorcerers manifest their abilities naturally, often from a young age, hinting at a profound connection to the very fabric of magic.
+Sorcerers are a unique and enigmatic group of arcane practitioners in the realm of [Aesheron](Aesheron.md), distinguished by their innate magical abilities that are believed to stem from a mystical or otherworldly lineage. Unlike [wizards](Wizards.md), who acquire their powers through rigorous study and the mastery of arcane texts, sorcerers manifest their abilities naturally, often from a young age, hinting at a profound connection to the very fabric of magic.
 
 ## Origins and Nature
 
-The origins of sorcery are as diverse as the sorcerers themselves. Many tales speak of ancient bloodlines infused with the essence of dragons, celestial beings, or other powerful entities. Others suggest that sorcerers are the result of magical experiments or blessings bestowed by the gods, such as [Tharion](Tharion.md), the deity of knowledge and foresight. The true source of their power, however, remains a subject of speculation and wonder among scholars and [occult researchers](occult%20researchers.md).
+The origins of sorcery are as diverse as the sorcerers themselves. Many tales speak of ancient bloodlines infused with the essence of dragons, celestial beings, or other powerful entities. Others suggest that sorcerers are the result of magical experiments or blessings bestowed by the gods, such as [Tharion](Tharion.md), the deity of knowledge and foresight. The true source of their power, however, remains a subject of speculation and wonder among scholars and [occult researchers](Occult%20Researchers.md).
 
 ## Role in Society
 
@@ -14,9 +14,9 @@ In times of conflict, such as the [Battle of Broken Spears](Battle%20of%20Broken
 
 ## Practices and Beliefs
 
-Sorcerers often form loose networks or cabals, sharing knowledge and supporting one another in their pursuit of magical understanding. Unlike the structured academies of [wizards](wizards.md), these gatherings are informal and based on mutual interest rather than hierarchy. The [Council of Arcana](Council%20of%20Arcana.md) is known to include sorcerers among its members, valuing their unique perspectives and abilities.
+Sorcerers often form loose networks or cabals, sharing knowledge and supporting one another in their pursuit of magical understanding. Unlike the structured academies of [wizards](Wizards.md), these gatherings are informal and based on mutual interest rather than hierarchy. The [Council of Arcana](Council%20of%20Arcana.md) is known to include sorcerers among its members, valuing their unique perspectives and abilities.
 
-The practice of sorcery is deeply personal, with each sorcerer's magic manifesting in ways that reflect their individual nature or heritage. Some may specialize in elemental magic, while others might have an affinity for illusion or enchantment. The [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) is one such mystical tradition that has been preserved by both [druids](druids.md) and sorcerers, highlighting the shared reverence for ancient magic.
+The practice of sorcery is deeply personal, with each sorcerer's magic manifesting in ways that reflect their individual nature or heritage. Some may specialize in elemental magic, while others might have an affinity for illusion or enchantment. The [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md) is one such mystical tradition that has been preserved by both [druids](Druids.md) and sorcerers, highlighting the shared reverence for ancient magic.
 
 ## Places of Power
 

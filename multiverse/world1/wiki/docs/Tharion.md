@@ -4,7 +4,7 @@ Tharion is a name that resonates through the annals of history, bearing multiple
 
 ## Tharion, the Deity
 
-In the pantheon of revered deities, Tharion stands as the god of knowledge and foresight. Worshippers of Tharion, often scholars, [Wizards](Wizards.md), and [sorcerers](sorcerers.md), seek his divine guidance to gain wisdom and to peer into the possible futures. Temples dedicated to Tharion are repositories of knowledge, featuring vast libraries and halls for divinatory [rituals](rituals.md). The most famous of these temples is said to be hidden within the [Verdant Woods](Verdant%20Woods.md), a place where the veil between the mortal realm and the divine is thin.
+In the pantheon of revered deities, Tharion stands as the god of knowledge and foresight. Worshippers of Tharion, often scholars, [Wizards](Wizards.md), and [sorcerers](Sorcerers.md), seek his divine guidance to gain wisdom and to peer into the possible futures. Temples dedicated to Tharion are repositories of knowledge, featuring vast libraries and halls for divinatory [rituals](Rituals.md). The most famous of these temples is said to be hidden within the [Verdant Woods](Verdant%20Woods.md), a place where the veil between the mortal realm and the divine is thin.
 
 ## Tharion, the General
 
@@ -16,7 +16,7 @@ As a member of the [Council of Trade](Council%20of%20Trade.md), Tharion's reputa
 
 ## Tharion, the Master Archivist
 
-Among the esteemed [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md), Tharion's contributions to the arcane arts are legendary. As the master archivist, he unearthed lost spells within the [Ruins of Eldara](Ruins%20of%20Eldara.md), expanding the magical repertoire available to contemporary spellcasters. His work with the [moonflower](moonflower.md) alchemy has provided invaluable resources to the [Druids](Druids.md) and other practitioners of natural magic.
+Among the esteemed [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md), Tharion's contributions to the arcane arts are legendary. As the master archivist, he unearthed lost spells within the [Ruins of Eldara](Ruins%20of%20Eldara.md), expanding the magical repertoire available to contemporary spellcasters. His work with the [moonflower](Moonflower.md) alchemy has provided invaluable resources to the [Druids](Druids.md) and other practitioners of natural magic.
 
 ## Legacy
 

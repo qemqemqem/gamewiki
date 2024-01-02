@@ -28,7 +28,7 @@ Aesheron's economy thrives on a mix of agriculture, trade, and craftsmanship. Th
 
 ## Religion and Magic
 
-The spiritual life of Aesheron is diverse, with ancient [rituals](rituals.md) and beliefs coexisting alongside the worship of newer deities. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) is a site of great spiritual significance, attracting pilgrims from across the land. Magic is revered and regulated, with the [Mage Wars](Mage%20Wars.md) serving as a stark reminder of the dangers of unchecked arcane power. The Queendom's [Wizards](Wizards.md) and [Druids](Druids.md) are respected for their roles as keepers of mystical knowledge and protectors of the natural order.
+The spiritual life of Aesheron is diverse, with ancient [rituals](Rituals.md) and beliefs coexisting alongside the worship of newer deities. The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) is a site of great spiritual significance, attracting pilgrims from across the land. Magic is revered and regulated, with the [Mage Wars](Mage%20Wars.md) serving as a stark reminder of the dangers of unchecked arcane power. The Queendom's [Wizards](Wizards.md) and [Druids](Druids.md) are respected for their roles as keepers of mystical knowledge and protectors of the natural order.
 
 ## Notable Locations
 

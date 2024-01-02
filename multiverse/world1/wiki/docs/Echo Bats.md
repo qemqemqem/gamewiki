@@ -24,11 +24,11 @@ During the [Festival of Shields](Festival%20of%20Shields.md), effigies of Echo B
 
 ## Threats and Conservation
 
-While not currently considered endangered, Echo Bats face threats from increasing disturbances to their natural habitat. The expansion of settlements and the curiosity of [adventurers](adventurers.md) have led to a growing concern among [conservationists](conservationists.md) and [scholars](scholars.md) alike. The [Council of Arcana](Council%20of%20Arcana.md) has begun to study these creatures in hopes of understanding their abilities and ensuring their preservation.
+While not currently considered endangered, Echo Bats face threats from increasing disturbances to their natural habitat. The expansion of settlements and the curiosity of [adventurers](Adventurers.md) have led to a growing concern among [conservationists](Conservationists.md) and [scholars](Scholars.md) alike. The [Council of Arcana](Council%20of%20Arcana.md) has begun to study these creatures in hopes of understanding their abilities and ensuring their preservation.
 
 ## In Research and Magic
 
-[Wizards](Wizards.md) and [evokers](evokers.md) have long been fascinated by the Echo Bats' silent flight and have attempted to replicate this phenomenon through [Illusion](Illusion.md) spells and [arcane foci](arcane%20foci.md). Some [artifacts](artifacts.md) from the [Whispering Sirens artifacts](Whispering%20Sirens%20artifacts.md) collection are said to contain the essence of Echo Bats, granting the wearer a semblance of their silent movement.
+[Wizards](Wizards.md) and [evokers](Evokers.md) have long been fascinated by the Echo Bats' silent flight and have attempted to replicate this phenomenon through [Illusion](Illusion.md) spells and [arcane foci](Arcane%20Foci.md). Some [artifacts](Artifacts.md) from the [Whispering Sirens artifacts](Whispering%20Sirens%20Artifacts.md) collection are said to contain the essence of Echo Bats, granting the wearer a semblance of their silent movement.
 
 ## Conclusion
 

@@ -28,6 +28,6 @@ The castle's garrison, led by the esteemed [Crimson Lord](Crimson%20Lord.md), ma
 
 ## Accessibility
 
-Stormhold Castle is accessible to the public during certain times of the year, allowing common folk and nobility alike to witness its grandeur. The castle's open days are a time of celebration and unity, where the rich tapestry of Aesheron's cultures is on full display, from the [druids](druids.md) of [Theron's Glade](Theron's%20Glade.md) to the [nomad](nomad.md) tribes of the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md).
+Stormhold Castle is accessible to the public during certain times of the year, allowing common folk and nobility alike to witness its grandeur. The castle's open days are a time of celebration and unity, where the rich tapestry of Aesheron's cultures is on full display, from the [druids](Druids.md) of [Theron's Glade](Theron'S%20Glade.md) to the [nomad](Nomad.md) tribes of the [Nomads of the Eastern Sands](Nomads%20of%20the%20Eastern%20Sands.md).
 
 In conclusion, Stormhold Castle is not merely a structure of stone and mortar; it is a living symbol of the strength, resilience, and spirit of the people of Aesheron. Its legacy is interwoven with the history of the land, and its future is as promising as the rising sun over the [Silverlake Valley](Silverlake%20Valley.md).

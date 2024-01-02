@@ -1,6 +1,6 @@
 # Sorcery
 
-Sorcery, a term both revered and feared across the realms, refers to the practice of harnessing arcane energies to manipulate the very fabric of reality. Unlike the structured and scholarly approach of [wizards](wizards.md), sorcery is often seen as a more intuitive and innate form of magic, with its practitioners drawing power from various sources, including the [moon](moon.md), ancient [rituals](rituals.md), and even the latent energies that permeate the world.
+Sorcery, a term both revered and feared across the realms, refers to the practice of harnessing arcane energies to manipulate the very fabric of reality. Unlike the structured and scholarly approach of [wizards](Wizards.md), sorcery is often seen as a more intuitive and innate form of magic, with its practitioners drawing power from various sources, including the [moon](Moon.md), ancient [rituals](Rituals.md), and even the latent energies that permeate the world.
 
 ## Origins and History
 
@@ -34,4 +34,4 @@ Moreover, the illegal trade of magical artifacts and components, such as those f
 
 ## Conclusion
 
-Sorcery remains a complex and potent force within the world, a wellspring of power for those with the courage and wisdom to wield it. As the [moon](moon.md) waxes and wanes, so too does the influence of sorcery, ever-present in the ebb and flow of the world's arcane tides. Whether used for good or ill, the art of sorcery will undoubtedly continue to shape the destiny of all who dwell within this mystical land.
+Sorcery remains a complex and potent force within the world, a wellspring of power for those with the courage and wisdom to wield it. As the [moon](Moon.md) waxes and wanes, so too does the influence of sorcery, ever-present in the ebb and flow of the world's arcane tides. Whether used for good or ill, the art of sorcery will undoubtedly continue to shape the destiny of all who dwell within this mystical land.

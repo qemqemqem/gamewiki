@@ -1,6 +1,6 @@
 # Council of Arcana
 
-The **Council of Arcana** is a venerable institution that stands as the cornerstone of magical governance and scholarly pursuit within the realm. Composed of the most esteemed [wizards](wizards.md), [druids](druids.md), and arcane scholars, the Council serves as both a regulatory body and a center for arcane research, ensuring that the use of magic remains ethical and beneficial to all inhabitants of the land.
+The **Council of Arcana** is a venerable institution that stands as the cornerstone of magical governance and scholarly pursuit within the realm. Composed of the most esteemed [wizards](Wizards.md), [druids](Druids.md), and arcane scholars, the Council serves as both a regulatory body and a center for arcane research, ensuring that the use of magic remains ethical and beneficial to all inhabitants of the land.
 
 ## History and Formation
 
@@ -14,15 +14,15 @@ The Council convenes within the hallowed halls of the [Crystal Tower](Crystal%20
 
 ## Responsibilities and Influence
 
-The Council's primary responsibility is to regulate the use of magic throughout the land. This includes the certification of new [wizards](wizards.md), the oversight of magical institutions, and the enforcement of laws pertaining to arcane practices. The Council also works closely with other governing bodies, such as the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) and the [Council of Defense](Council%20of%20Defense.md), to ensure the stability and security of the realm.
+The Council's primary responsibility is to regulate the use of magic throughout the land. This includes the certification of new [wizards](Wizards.md), the oversight of magical institutions, and the enforcement of laws pertaining to arcane practices. The Council also works closely with other governing bodies, such as the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) and the [Council of Defense](Council%20of%20Defense.md), to ensure the stability and security of the realm.
 
-In addition to its regulatory duties, the Council of Arcana is deeply involved in the advancement of magical knowledge. It sponsors expeditions to ancient ruins like the [Ruins of Eldara](Ruins%20of%20Eldara.md), seeking to uncover lost magical practices and artifacts. The Council also liaises with [occult researchers](occult%20researchers.md) and organizations such as the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) to monitor and investigate arcane phenomena.
+In addition to its regulatory duties, the Council of Arcana is deeply involved in the advancement of magical knowledge. It sponsors expeditions to ancient ruins like the [Ruins of Eldara](Ruins%20of%20Eldara.md), seeking to uncover lost magical practices and artifacts. The Council also liaises with [occult researchers](Occult%20Researchers.md) and organizations such as the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) to monitor and investigate arcane phenomena.
 
 ## Contributions to the Realm
 
 The Council's influence extends beyond the confines of magical circles. It has played a crucial role in the prosperity and well-being of the realm's inhabitants. For instance, the Council has aided the farmers of the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md) by developing spells to protect their crops from natural and supernatural threats. It has also been instrumental in the planning and magical reinforcement of trade routes like the [Silk Road](Silk%20Road.md), ensuring safe and prosperous commerce.
 
-In times of crisis, the Council has been a beacon of hope and a source of powerful allies. When the [Enchanted Grove](Enchanted%20Grove.md) was threatened by dark sorcerers, members of the Council stood alongside the [Elves](Elves.md) and [druids](druids.md) to defend the grove's sanctity. The Council's contributions to the defense of the realm have earned it the respect and gratitude of its people.
+In times of crisis, the Council has been a beacon of hope and a source of powerful allies. When the [Enchanted Grove](Enchanted%20Grove.md) was threatened by dark sorcerers, members of the Council stood alongside the [Elves](Elves.md) and [druids](Druids.md) to defend the grove's sanctity. The Council's contributions to the defense of the realm have earned it the respect and gratitude of its people.
 
 ## Public Perception and Criticism
 

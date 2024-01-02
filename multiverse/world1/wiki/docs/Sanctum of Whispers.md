@@ -4,13 +4,13 @@ The [Sanctum of Whispers](Sanctum%20of%20Whispers.md) is an enigmatic and hallow
 
 ## History
 
-The origins of the Sanctum of Whispers are as ancient and mysterious as the [arcane languages](arcane%20languages.md) themselves. It is said to have been established during the [Age of Wonders](Age%20of%20Wonders.md), a time when magic flowed freely and the world was awash with the raw energies of [Creation](Creation.md). The founders of the Sanctum were among the first to harness these energies, listening to the cosmic whispers and transcribing them into powerful arcane scripts.
+The origins of the Sanctum of Whispers are as ancient and mysterious as the [arcane languages](Arcane%20Languages.md) themselves. It is said to have been established during the [Age of Wonders](Age%20of%20Wonders.md), a time when magic flowed freely and the world was awash with the raw energies of [Creation](Creation.md). The founders of the Sanctum were among the first to harness these energies, listening to the cosmic whispers and transcribing them into powerful arcane scripts.
 
 Over the centuries, the Sanctum has become a legend, its location lost to all but those within the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), a secretive group of abjurers who serve as its guardians and caretakers. The Order's members are chosen for their exceptional mastery of the abjuration arts and their unwavering dedication to protecting the Sanctum's knowledge from falling into the wrong hands.
 
 ## Architecture and Defenses
 
-The architecture of the Sanctum of Whispers is a marvel of magical construction, rumored to exist in a space between the physical and the ethereal. Its walls are said to be inscribed with ancient runes that resonate with the power of [abjuration](abjuration.md), forming an impenetrable barrier against both physical and magical intrusions.
+The architecture of the Sanctum of Whispers is a marvel of magical construction, rumored to exist in a space between the physical and the ethereal. Its walls are said to be inscribed with ancient runes that resonate with the power of [abjuration](Abjuration.md), forming an impenetrable barrier against both physical and magical intrusions.
 
 The defenses of the Sanctum are legendary, comprising the most intricate and powerful wards ever conceived. These wards are not only designed to protect against external threats but also to prevent the knowledge within from escaping. It is believed that the very air within the Sanctum is imbued with magic that silences any attempt to speak of its secrets outside its hallowed halls.
 
@@ -22,7 +22,7 @@ The Library of Echoes is tended by the [Echo Bat](Echo%20Bat.md), a mystical cre
 
 ## The Echoing Conclave
 
-Within the Sanctum, the Echoing Conclave serves as the meeting place for the Order of the Veiled Eye. Here, the most skilled abjurers gather to discuss matters of magical import, conduct [rituals](rituals.md), and share their discoveries. The Conclave is also where new members of the Order are initiated, undergoing rigorous tests to prove their mastery of [Wizardry](Wizardry.md) and their commitment to the Sanctum's ideals.
+Within the Sanctum, the Echoing Conclave serves as the meeting place for the Order of the Veiled Eye. Here, the most skilled abjurers gather to discuss matters of magical import, conduct [rituals](Rituals.md), and share their discoveries. The Conclave is also where new members of the Order are initiated, undergoing rigorous tests to prove their mastery of [Wizardry](Wizardry.md) and their commitment to the Sanctum's ideals.
 
 ## Access and Secrecy
 
@@ -32,7 +32,7 @@ The exact location of the Sanctum is unknown to all but the Order's members. Som
 
 ## In Popular Culture
 
-Despite its secretive nature, the Sanctum of Whispers has inspired countless tales and legends. Bards sing of its enigmatic allure, while [occult researchers](occult%20researchers.md) and [mystics](mystics.md) dream of uncovering its secrets. It remains a symbol of the ultimate pursuit of knowledge and the power that comes with mastering the arcane.
+Despite its secretive nature, the Sanctum of Whispers has inspired countless tales and legends. Bards sing of its enigmatic allure, while [occult researchers](Occult%20Researchers.md) and [mystics](Mystics.md) dream of uncovering its secrets. It remains a symbol of the ultimate pursuit of knowledge and the power that comes with mastering the arcane.
 
 ---
 

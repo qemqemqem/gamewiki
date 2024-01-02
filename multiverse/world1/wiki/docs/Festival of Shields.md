@@ -1,6 +1,6 @@
 # Festival of Shields
 
-The [Festival of Shields](Festival%20of%20Shields.md) is a grand and storied celebration held within the resplendent borders of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md). It is a time when the valorous heart of the kingdom beats loudest, echoing the glory of its knights, the sagacity of its scholars, and the mystical prowess of its [mages](mages.md). This festival, occurring annually at the cusp of autumn, is not only a testament to martial skill but also a vibrant tapestry of cultural expression that weaves together the many facets of Alyndra's identity.
+The [Festival of Shields](Festival%20of%20Shields.md) is a grand and storied celebration held within the resplendent borders of the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md). It is a time when the valorous heart of the kingdom beats loudest, echoing the glory of its knights, the sagacity of its scholars, and the mystical prowess of its [mages](Mages.md). This festival, occurring annually at the cusp of autumn, is not only a testament to martial skill but also a vibrant tapestry of cultural expression that weaves together the many facets of Alyndra's identity.
 
 ## History and Significance
 
@@ -15,7 +15,7 @@ At the heart of the festival are the tournaments, where knights and warriors fro
 Strategic games and mock battles are organized to pay homage to the [Council of Defense](Council%20of%20Defense.md). These events are as much a display of intellectual might as they are of physical strength. Tacticians and strategists gather to outmaneuver one another in contests that mimic the grand battles of yore, providing entertainment and education to all who observe.
 
 ### The Silvermane Parade
-A spectacle unique to the festival is the parade of [Silvermane Horses](Silvermane%20Horses.md), known for their ethereal beauty and spirited nature. The kingdom's finest riders showcase their horsemanship, performing intricate maneuvers and stunts that leave onlookers in awe. The bond between rider and steed is celebrated, and the grace of the Silvermanes is honored through various [rituals](rituals.md) and ceremonies.
+A spectacle unique to the festival is the parade of [Silvermane Horses](Silvermane%20Horses.md), known for their ethereal beauty and spirited nature. The kingdom's finest riders showcase their horsemanship, performing intricate maneuvers and stunts that leave onlookers in awe. The bond between rider and steed is celebrated, and the grace of the Silvermanes is honored through various [rituals](Rituals.md) and ceremonies.
 
 ### Harmony of the Singing Willows
 Musicians and bards from distant lands are drawn to the melodious call of the [Singing Willows](Singing%20Willows.md). Their haunting tunes serve as inspiration for new compositions, and during the festival, these artists perform alongside the willows. The result is an enchanting symphony that captures the essence of Alyndra's mystical connection to nature.

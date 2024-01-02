@@ -12,13 +12,13 @@ The breadth of a scholar's study is vast and varied, encompassing several key ar
 
 - **History**: Scholars of history dedicate their lives to chronicling the events of the past, such as the [Age of Wonders](Age%20of%20Wonders.md) and the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md). They provide invaluable insights into the rise and fall of civilizations like the [Ancients](Ancients.md) and the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md).
 
-- **Arcane Arts**: These scholars focus on the study of [magic](magic.md), including its schools such as [Divination](Divination.md), [Enchantment](Enchantment.md), and [Evocation](Evocation.md). They often work closely with [wizards](wizards.md), [abjurers](abjurers.md), and [enchanters](enchanters.md) to further understand and develop magical practices.
+- **Arcane Arts**: These scholars focus on the study of [magic](Magic.md), including its schools such as [Divination](Divination.md), [Enchantment](Enchantment.md), and [Evocation](Evocation.md). They often work closely with [wizards](Wizards.md), [abjurers](Abjurers.md), and [enchanters](Enchanters.md) to further understand and develop magical practices.
 
-- **Theology and Mythology**: Scholars in this field explore the divine and the mythic, examining the worship of entities like the [moon deities](moon%20deities.md) and the rituals surrounding events such as the [Lunar Waltz](Lunar%20Waltz.md).
+- **Theology and Mythology**: Scholars in this field explore the divine and the mythic, examining the worship of entities like the [moon deities](Moon%20Deities.md) and the rituals surrounding events such as the [Lunar Waltz](Lunar%20Waltz.md).
 
 - **Natural Sciences**: Scholars of the natural world investigate the flora and fauna of regions like the [Verdant Woods](Verdant%20Woods.md) and the mysteries of creatures such as the [Echo Bats](Echo%20Bats.md) and the [Windcutter Hawk](Windcutter%20Hawk.md).
 
-- **Cultural Studies**: These scholars study the customs, languages, and artistic expressions of various peoples, including [Humans](Humans.md), [Dwarves](Dwarves.md), and [Elves](Elves.md). They often collaborate with [artisans](artisans.md) to preserve traditional practices.
+- **Cultural Studies**: These scholars study the customs, languages, and artistic expressions of various peoples, including [Humans](Humans.md), [Dwarves](Dwarves.md), and [Elves](Elves.md). They often collaborate with [artisans](Artisans.md) to preserve traditional practices.
 
 - **Planar Knowledge**: A specialized group of scholars focuses on the study of different planes of existence, such as the [Ethereal Plane](Ethereal%20Plane.md) and the [Infernal Planes](Infernal%20Planes.md). They often engage in [Summoning](Summoning.md) and work with [Summoners](Summoners.md) to explore these realms.
 
@@ -28,7 +28,7 @@ Throughout history, many scholars have made significant contributions to the col
 
 - **Seraphine the Seer**: A legendary figure whose prophecies were recorded in the "Chronicles of the Ethereal Tides," a series of tomes that continue to be a source of study for modern scholars.
 
-- **Members of the Order of the Veiled Eye**: This secretive group includes scholars who have dedicated themselves to uncovering and protecting hidden knowledge and [artifacts](artifacts.md).
+- **Members of the Order of the Veiled Eye**: This secretive group includes scholars who have dedicated themselves to uncovering and protecting hidden knowledge and [artifacts](Artifacts.md).
 
 - **Astronomers**: These scholars study celestial bodies and events, providing crucial information for festivals like the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md) and aiding navigators on journeys along the [Silk Road](Silk%20Road.md).
 

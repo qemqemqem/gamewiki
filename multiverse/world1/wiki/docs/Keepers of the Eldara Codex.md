@@ -1,6 +1,6 @@
 # Keepers of the Eldara Codex
 
-The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) are a venerable order of scholars, archivists, and [wizards](wizard.md) dedicated to the preservation and protection of ancient knowledge within the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md). Their origins are shrouded in the mists of time, but their influence and authority in matters of arcane lore and historical texts are recognized throughout the lands of Aesheron.
+The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) are a venerable order of scholars, archivists, and [wizards](Wizard.md) dedicated to the preservation and protection of ancient knowledge within the [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md). Their origins are shrouded in the mists of time, but their influence and authority in matters of arcane lore and historical texts are recognized throughout the lands of Aesheron.
 
 ## History
 
@@ -21,7 +21,7 @@ The Keepers' primary role is the stewardship of the [Great Library of Eldara](Gr
 
 - **Acquisition**: Seeking out new texts, artifacts, and magical tomes to add to the library's collections.
 - **Preservation**: Employing advanced magical and mundane techniques to maintain the integrity of ancient documents.
-- **Research**: Conducting studies on a wide array of subjects, from the [Ancients](Ancients.md) to the [Lunar Ancients](Lunar%20Ancients.md), and from [sorcery](sorcery.md) to the natural world.
+- **Research**: Conducting studies on a wide array of subjects, from the [Ancients](Ancients.md) to the [Lunar Ancients](Lunar%20Ancients.md), and from [sorcery](Sorcery.md) to the natural world.
 - **Education**: Sharing knowledge with the scholars of Aesheron and providing guidance to those who seek to learn the arcane arts.
 
 ## Influence and Relations
@@ -36,7 +36,7 @@ While the Keepers are known for their dissemination of knowledge, they also harb
 
 ## Notable Members
 
-Throughout history, several Keepers have risen to prominence, such as [Morath the Wise](Morath%20the%20Wise.md), who is renowned for his contributions to the study of [moonflower](moonflower.md) alchemy, and [Tharion](Tharion.md), the master archivist who discovered the lost spells of the [Verdant Woods](Verdant%20Woods.md).
+Throughout history, several Keepers have risen to prominence, such as [Morath the Wise](Morath%20the%20Wise.md), who is renowned for his contributions to the study of [moonflower](Moonflower.md) alchemy, and [Tharion](Tharion.md), the master archivist who discovered the lost spells of the [Verdant Woods](Verdant%20Woods.md).
 
 ## Legacy
 

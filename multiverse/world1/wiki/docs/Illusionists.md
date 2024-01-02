@@ -1,10 +1,10 @@
 # Illusionists
 
-Illusionists are the enigmatic weavers of fantasy and reality, a specialized group of [arcane practitioners](arcane%20practitioners.md) who have dedicated their lives to the mastery of [Illusion](Illusion.md) magic. These individuals are not merely spellcasters but artists of the mind's eye, capable of crafting illusions so vivid and lifelike that they can fool the senses of the most astute observers. In the realm of Aesheron, Illusionists are both celebrated for their artistry and approached with caution for their ability to manipulate perception.
+Illusionists are the enigmatic weavers of fantasy and reality, a specialized group of [arcane practitioners](Arcane%20Practitioners.md) who have dedicated their lives to the mastery of [Illusion](Illusion.md) magic. These individuals are not merely spellcasters but artists of the mind's eye, capable of crafting illusions so vivid and lifelike that they can fool the senses of the most astute observers. In the realm of Aesheron, Illusionists are both celebrated for their artistry and approached with caution for their ability to manipulate perception.
 
 ## History and Influence
 
-The origins of Illusion magic in Aesheron are as mysterious as the practice itself. Ancient texts suggest that the earliest Illusionists learned their craft by observing the natural world, such as the deceptive camouflage of the [Chameleon Drake](Chameleon%20Drake.md) or the mesmerizing dance of the [Will-o'-the-Wisp](Will-o'-the-Wisp.md). Over the centuries, Illusionists have honed their skills, and their influence can be seen across various facets of society.
+The origins of Illusion magic in Aesheron are as mysterious as the practice itself. Ancient texts suggest that the earliest Illusionists learned their craft by observing the natural world, such as the deceptive camouflage of the [Chameleon Drake](Chameleon%20Drake.md) or the mesmerizing dance of the [Will-o'-the-Wisp](Will-O'-The-Wisp.md). Over the centuries, Illusionists have honed their skills, and their influence can be seen across various facets of society.
 
 ### The Enchanted Grove and Festivals
 
@@ -47,9 +47,9 @@ Illusion magic has a wide array of applications, from the mundane to the extraor
 
 ## Training and Mastery
 
-The path to becoming an Illusionist is one of dedication and creativity. Novices often start with simple cantrips, such as [light](light.md) or [feather fall](feather%20fall.md), to grasp the basics of manipulating sensory input. As they progress, they learn to weave more intricate illusions, eventually mastering spells that can alter memory or even create semi-real entities.
+The path to becoming an Illusionist is one of dedication and creativity. Novices often start with simple cantrips, such as [light](Light.md) or [feather fall](Feather%20Fall.md), to grasp the basics of manipulating sensory input. As they progress, they learn to weave more intricate illusions, eventually mastering spells that can alter memory or even create semi-real entities.
 
-Illusionists must also study [arcane languages](arcane%20languages.md) and gather various [reagents](reagents.md) to enhance their spellcasting. The mental discipline required to maintain complex illusions means that many Illusionists are also versed in meditation techniques and the study of psychology.
+Illusionists must also study [arcane languages](Arcane%20Languages.md) and gather various [reagents](Reagents.md) to enhance their spellcasting. The mental discipline required to maintain complex illusions means that many Illusionists are also versed in meditation techniques and the study of psychology.
 
 ## Conclusion
 

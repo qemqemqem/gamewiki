@@ -1,6 +1,6 @@
 # Spellcraft
 
-Spellcraft is the art and science of harnessing and manipulating the arcane energies that permeate the world. It is a practice steeped in ancient traditions, complex theories, and the pursuit of knowledge that transcends the boundaries of the mundane. Spellcraft encompasses a wide array of disciplines, from the subtle art of [enchantment](enchantment.md) to the raw power of [evocation](evocation.md), and is integral to the fabric of magical society.
+Spellcraft is the art and science of harnessing and manipulating the arcane energies that permeate the world. It is a practice steeped in ancient traditions, complex theories, and the pursuit of knowledge that transcends the boundaries of the mundane. Spellcraft encompasses a wide array of disciplines, from the subtle art of [enchantment](Enchantment.md) to the raw power of [evocation](Evocation.md), and is integral to the fabric of magical society.
 
 ## History of Spellcraft
 
@@ -8,7 +8,7 @@ The origins of spellcraft are lost to the mists of time, with the earliest recor
 
 ## The Practice of Spellcraft
 
-Spellcraft is not merely the casting of spells; it is a complex interplay of mental acuity, somatic precision, and the ability to weave one's will into the fabric of reality. Practitioners of spellcraft, often referred to as [spellcasters](spellcasters.md), must undergo rigorous training to hone their skills. This training typically includes the study of [arcane languages](arcane%20languages.md), the memorization of intricate [incantations](incantations.md), and the delicate handling of [reagents](reagents.md) and [arcane foci](arcane%20foci.md).
+Spellcraft is not merely the casting of spells; it is a complex interplay of mental acuity, somatic precision, and the ability to weave one's will into the fabric of reality. Practitioners of spellcraft, often referred to as [spellcasters](Spellcasters.md), must undergo rigorous training to hone their skills. This training typically includes the study of [arcane languages](Arcane%20Languages.md), the memorization of intricate [incantations](Incantations.md), and the delicate handling of [reagents](Reagents.md) and [arcane foci](Arcane%20Foci.md).
 
 ### Schools of Magic
 

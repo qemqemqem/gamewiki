@@ -22,7 +22,7 @@ In the [Caverns of Echo](Caverns%20of%20Echo.md), adventurers have reported enco
 The [Dwarven Mines](Dwarven%20Mines.md) are known for their formidable defenses against invaders, including protections against Shade Wraiths. The dwarves' mastery of runes and traps ensures that these spectral entities are kept at bay, preserving the safety of their precious mines.
 
 ### Fallen Temple of the Moon
-The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), nestled within the [Frostspire Mountains](Frostspire%20Mountains.md), is guarded by Shade Wraiths that fiercely protect the sacred grounds. They are believed to serve the [moon deities](moon%20deities.md) or the temple's original priesthood, preventing the unworthy from uncovering its hidden knowledge.
+The [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), nestled within the [Frostspire Mountains](Frostspire%20Mountains.md), is guarded by Shade Wraiths that fiercely protect the sacred grounds. They are believed to serve the [moon deities](Moon%20Deities.md) or the temple's original priesthood, preventing the unworthy from uncovering its hidden knowledge.
 
 ## Interactions with the Living
 

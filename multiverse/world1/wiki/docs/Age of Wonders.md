@@ -16,7 +16,7 @@ The [Queendom of Aesheron](Queendom%20of%20Aesheron.md) traces its roots to this
 
 Magic was not merely a tool but a way of life during the Age of Wonders. It was infused into the architecture, agriculture, and daily activities of the people. Artifacts of incredible power were commonplace, and the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) were said to have the ability to bend the very fabric of reality.
 
-Technological advancements, too, were extraordinary, often blending seamlessly with magic. The [Dwarven Mines](Dwarven%20Mines.md) produced metals and gems imbued with arcane energy, while the [Silk Road](Silk%20Road.md) and [Sea Merchant's Path](Sea%20Merchant's%20Path.md) facilitated trade and communication across vast distances, bolstered by enchantments that protected travelers from the perils of the road.
+Technological advancements, too, were extraordinary, often blending seamlessly with magic. The [Dwarven Mines](Dwarven%20Mines.md) produced metals and gems imbued with arcane energy, while the [Silk Road](Silk%20Road.md) and [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) facilitated trade and communication across vast distances, bolstered by enchantments that protected travelers from the perils of the road.
 
 ## Decline and Legacy
 

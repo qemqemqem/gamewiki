@@ -1,17 +1,17 @@
 # Priests
 
-In the mystical realm of Aesheron, [priests](priests.md) stand as intermediaries between the mortal world and the divine. They are the devoted servants of the gods, wielding divine magic granted by their celestial patrons. Their roles are as varied as the deities they serve, ranging from healers and protectors to scholars and warriors of faith.
+In the mystical realm of Aesheron, [priests](Priests.md) stand as intermediaries between the mortal world and the divine. They are the devoted servants of the gods, wielding divine magic granted by their celestial patrons. Their roles are as varied as the deities they serve, ranging from healers and protectors to scholars and warriors of faith.
 
 ## Divine Magic and Worship
 
-The source of a priest's power is their unwavering faith in the divine. Unlike [wizards](wizards.md) who draw upon the arcane or [sorcerers](sorcerers.md) whose power is innate, priests channel the might of the gods through prayers, [rituals](rituals.md), and [incantations](incantations.md). This divine magic is a gift from the gods, accessible to those who prove their devotion. The most prominent deities that empower priests in Aesheron are the [moon deities](moon%20deities.md) and the [sun](sun.md), each bestowing different abilities and spells aligned with their domains.
+The source of a priest's power is their unwavering faith in the divine. Unlike [wizards](Wizards.md) who draw upon the arcane or [sorcerers](Sorcerers.md) whose power is innate, priests channel the might of the gods through prayers, [rituals](Rituals.md), and [incantations](Incantations.md). This divine magic is a gift from the gods, accessible to those who prove their devotion. The most prominent deities that empower priests in Aesheron are the [moon deities](Moon%20Deities.md) and the [sun](Sun.md), each bestowing different abilities and spells aligned with their domains.
 
 ## Roles and Responsibilities
 
 Priests serve their communities in a multitude of ways:
 
 - **Healers**: Many priests use their divine magic to mend wounds and cure diseases, providing solace to those in pain.
-- **Guardians**: As seen with the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), priests often collaborate with [abjurers](abjurers.md) to protect sacred sites like [Stormhold Castle](Stormhold%20Castle.md) or the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md).
+- **Guardians**: As seen with the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), priests often collaborate with [abjurers](Abjurers.md) to protect sacred sites like [Stormhold Castle](Stormhold%20Castle.md) or the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md).
 - **Spiritual Leaders**: They lead religious ceremonies, offer guidance to their followers, and interpret the will of the gods.
 - **Defenders of Faith**: In times of conflict, priests may take up arms, calling upon divine wrath to smite their foes and shield their allies.
 
@@ -21,7 +21,7 @@ Temples dedicated to the gods are spread throughout Aesheron, from the grand cat
 
 ## Factions and Alliances
 
-Priests often align themselves with religious orders or factions that share their devotion. One such group is the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), known for its mystical pursuits and secretive ways. While they maintain a complex relationship with other factions, priests of the [sun deities](sun%20deities.md) are particularly wary of the order's concealed practices.
+Priests often align themselves with religious orders or factions that share their devotion. One such group is the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), known for its mystical pursuits and secretive ways. While they maintain a complex relationship with other factions, priests of the [sun deities](Sun%20Deities.md) are particularly wary of the order's concealed practices.
 
 ## Training and Initiation
 

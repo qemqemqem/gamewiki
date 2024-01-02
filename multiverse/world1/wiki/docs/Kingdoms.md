@@ -32,6 +32,6 @@ The political landscape of the Kingdoms is a complex web of alliances, rivalries
 
 ## Challenges and Threats
 
-Despite their strength, the Kingdoms face numerous challenges, both from within and without. The ever-present threat of the [Dark Horde](Dark%20Horde.md), the lure of power offered by [sorcery](sorcery.md) and [occult researchers](occult%20researchers.md), and the machinations of enigmatic entities like the [Shade Wraiths](Shade%20Wraiths.md) all pose significant dangers. It is the unity and resilience of the Kingdoms, along with their champions and protectors, that have allowed them to endure through the ages.
+Despite their strength, the Kingdoms face numerous challenges, both from within and without. The ever-present threat of the [Dark Horde](Dark%20Horde.md), the lure of power offered by [sorcery](Sorcery.md) and [occult researchers](Occult%20Researchers.md), and the machinations of enigmatic entities like the [Shade Wraiths](Shade%20Wraiths.md) all pose significant dangers. It is the unity and resilience of the Kingdoms, along with their champions and protectors, that have allowed them to endure through the ages.
 
 In conclusion, the Kingdoms of Aesheron are a reflection of the land itself—majestic, diverse, and filled with endless possibilities. They are the cradle of heroes and the birthplace of legends, where every stone, river, and tree has a story to tell. The Kingdoms beckon to those with the heart of an adventurer and the soul of a dreamer, for within their borders, the saga of Aesheron continues to unfold.
