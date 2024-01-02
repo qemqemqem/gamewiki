@@ -16,7 +16,10 @@ I want to write more articles with more details later, so any time it would be a
 * Named people, places, or events
 * Important nouns, like [[Elf]] or [[Wizard]]
 * List items, if you're listing proper nouns or important topics
+
+Link guidelines:
 * Prefer to link articles in place, rather that at the end of the article, like in a wikipedia article
+* Capitalization doesn't matter, so you can write [[Elf]] or [[elf]], and it will link to the same article
 
 Otherwise, aim for a wikipedic style. You can use headings, lists, and other markdown features to organize your article.
 

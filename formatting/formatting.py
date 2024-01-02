@@ -29,7 +29,7 @@ def convert_markdown_to_wikitext_links(markdown_text: str) -> str:
     # Find all links like [[\1|\1]] and replace them with just [[\1]], but only in cases where the text before and after the '|' are the same
     pipe_links = re.findall(r"\[\[([^\]]*?)\|([^\]]*?)\]\]", t)
     for pl in pipe_links:
-        if pl[0] == sanitize_article_name(pl[1]):
+        if custom_title_case(pl[0]) == custom_title_case(sanitize_article_name(pl[1])):
             t = t.replace(f"[[{pl[0]}|{pl[1]}]]", f"[[{reverse_sanitize_article_name(pl[0])}]]")
 
     return t
@@ -52,8 +52,8 @@ def convert_wikitext_to_markdown_links(wikitext: str) -> str:
         sanitized_name = sanitize_article_name(article_name)
         t = t.replace(f"[{article_name}]({article_name}.md)", f"[{article_name}]({sanitized_name}.md)")
 
-    # # Upper case the link portion of the markdown link
-    # t = re.sub(r"\[(.*?)\]\((.*?)\)", lambda m: f"[{m.group(1)}]({m.group(2).capitalize()})", t)
+    # Upper case the link portion of the Markdown link
+    t = re.sub(r"\[(.*?)\]\((.*?)\)", lambda m: f"[{m.group(1)}]({custom_title_case(m.group(2))})", t)
 
     return t
 
