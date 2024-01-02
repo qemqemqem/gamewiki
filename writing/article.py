@@ -1,5 +1,5 @@
 import re
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 from formatting.formatting import convert_markdown_to_wikitext_links, convert_wikitext_to_markdown_links, \
     custom_title_case
@@ -61,18 +61,28 @@ class Article:
 
         return snippets
 
-    def get_sections(self) -> List[str]:
+    def get_sections(self) -> List[Tuple[str, str]]:
         """
         Returns a list of sections in the article, where sections are started by lines that start with a "#"
+
+        Output: List[Tuple[section_title, section_content]]
         """
-        sections: List[str] = []
+        sections: List[Tuple[str, str]] = []
+        current_section = ""
+        current_section_name = ""
 
         # Split the content into paragraphs
-        paragraphs = self.content_wikitext.split("\n\n")
+        lines = self.content_wikitext.split("\n")
 
-        # Find all paragraphs that mention the article name
-        for paragraph in paragraphs:
-            if paragraph.startswith("#"):
-                sections.append(paragraph)
+        for line in lines:
+            if line.startswith("#"):
+                if current_section:
+                    sections.append((current_section_name, current_section))
+                current_section = line
+            else:
+                current_section += "\n" + line
+
+        if current_section:
+            sections.append((current_section_name, current_section))
 
         return sections
