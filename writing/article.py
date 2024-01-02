@@ -60,3 +60,19 @@ class Article:
                 snippets.append(paragraph)
 
         return snippets
+
+    def get_sections(self) -> List[str]:
+        """
+        Returns a list of sections in the article, where sections are started by lines that start with a "#"
+        """
+        sections: List[str] = []
+
+        # Split the content into paragraphs
+        paragraphs = self.content_wikitext.split("\n\n")
+
+        # Find all paragraphs that mention the article name
+        for paragraph in paragraphs:
+            if paragraph.startswith("#"):
+                sections.append(paragraph)
+
+        return sections
