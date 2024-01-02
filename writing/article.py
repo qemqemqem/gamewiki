@@ -1,12 +1,13 @@
 import re
 from typing import List, Optional
 
-from formatting.formatting import convert_markdown_to_wikitext_links, convert_wikitext_to_markdown_links
+from formatting.formatting import convert_markdown_to_wikitext_links, convert_wikitext_to_markdown_links, \
+    custom_title_case
 
 
 class Article:
     def __init__(self, title: str, content_markdown: Optional[str] = None, content_wikitext: Optional[str] = None):
-        self.title = title
+        self.title = custom_title_case(title)
 
         if content_markdown is None and content_wikitext is None:
             raise Exception("Must provide either content_markdown or content_wikitext.")
@@ -40,7 +41,7 @@ class Article:
         links = [l for l in links if l not in pipe_links]
         # for pl in pipe_links:
         #     links.append()
-        links.extend([l.split("|")[1] for l in pipe_links])
+        links.extend([l.split("|")[0] for l in pipe_links])
 
         return links
 
