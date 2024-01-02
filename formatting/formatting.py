@@ -70,6 +70,11 @@ def custom_title_case(s: str) -> str:
     # capitalized in the middle of a title, but it should be capitalized if it is the first word
     # of the title. This function does that.
     # https://en.wikipedia.org/wiki/Title_case
+
+    put_funny_spaces_back = "%20" in s
+    if put_funny_spaces_back:
+        s = s.replace("%20", " ")
+
     s = s.title()
     non_title_words: List[str] = ["a", "an", "the", "and", "but", "or", "for", "nor", "on", "at", "to", "from", "by", "of", "in", "with", "as"]
     for word in non_title_words:
@@ -78,28 +83,46 @@ def custom_title_case(s: str) -> str:
     if len(s) > 0:
         s = s[0].upper() + s[1:]
 
+    if put_funny_spaces_back:
+        s = s.replace(" ", "%20")
+
     return s
 
 
 def fix_link_cases():
+    # I had to write this because I accidentally generated a bunch of articles without title case names
     # Change the file name of all `.md` files in the current directory to be title case
     path = "../multiverse/world1/wiki/docs"
-    for filename in os.listdir(path):
-        if filename.endswith(".md"):
-            new_filename = custom_title_case(filename)
-            new_filename = new_filename[:-3] + ".md"
-
-            if filename == new_filename:
-                # print(f"Skipping {filename} because it is already title case")
-                continue
-
-            # Check if the renamed file already exists
-            if os.path.exists(path + "/" + new_filename):
-                # print(f"WARNING: {new_filename} already exists! Skipping...")
-                continue
-
-            # os.rename(path + "/" + filename, path + "/" + new_filename)
-            print(f"{filename} -> {new_filename}")
+    # for filename in os.listdir(path):
+    #     if filename.endswith(".md"):
+    #         new_filename = custom_title_case(filename)
+    #         new_filename = new_filename[:-3] + ".md"
+    #
+    #         if filename == new_filename:
+    #             # print(f"Skipping {filename} because it is already title case")
+    #             continue
+    #
+    #         # Check if the renamed file already exists
+    #         if os.path.exists(path + "/" + new_filename):
+    #             # print(f"WARNING: {new_filename} already exists! Skipping...")
+    #             continue
+    #
+    #         # os.rename(path + "/" + filename, path + "/" + new_filename)
+    #         print(f"{filename} -> {new_filename}")
+    for file_name in os.listdir(path):
+        if file_name.endswith(".md"):
+            with open(path + "/" + file_name, "r") as f:
+                contents = f.read()
+                contents_orig = contents
+            # Find all links like [\1](\2.md) and uppercase the \2 portion using the custom_title_case function
+            links = re.findall(r"\[(.*?)\]\((.*?)\.md\)", contents)
+            for link in links:
+                new_link = (link[0], custom_title_case(link[1]))
+                contents = contents.replace(f"[{link[0]}]({link[1]}.md)", f"[{new_link[0]}]({new_link[1]}.md)")
+            if contents_orig != contents:
+                print(f"Writing {file_name}")
+                with open(path + "/" + file_name, "w") as f:
+                    f.write(contents)
 
 
 if __name__ == "__main__":
