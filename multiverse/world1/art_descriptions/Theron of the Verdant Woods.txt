@@ -1,0 +1,37 @@
+## Role in the Ancient War
+visual_purpose: What did Theron's stand against chaos look like, and how did he rally the creatures of the forest?
+ideas_for_art_content: Theron in the midst of battle, commanding woodland creatures and casting spells, with the Battlefield of Forgotten Kings or the Fallen Temple of the Moon in the background.
+ideas_for_style: Painting, with a dynamic and vibrant style reminiscent of classic fantasy artwork.
+art_prompt: "Theron commanding woodland creatures in the heat of battle, vibrant and dynamic, done in oil painting"
+art_prompt_detailed: "An elf with a commanding presence, surrounded by a menagerie of fantastical forest creatures, in the midst of a chaotic and vibrant battle scene, depicted in a classic fantasy oil painting style"
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Event, character, narrative
+difficulties: Named characters, multipart, instructions unclear
+
+## Theron's Teachings
+visual_purpose: What do Theron's teachings and texts look like, and how do they inspire current and future generations of magic users?
+ideas_for_art_content: A collection of ancient tomes and scrolls, with Theron's writings visible, possibly a scene of a wizard or druid studying the texts intently.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricacy of the ancient texts and the focused expression of the reader.
+art_prompt: "Ancient tomes and scrolls detailing Theron's teachings, intricate and focused, done in pencil sketch"
+art_prompt_detailed: "A series of aged scrolls and books, filled with elvish script and arcane symbols, with a figure poring over them with a look of intense concentration, rendered in a detailed pencil sketch"
+orientation: Portrait
+artistic_value: Intricate design, interesting person
+descriptive_value: Object, historical, character
+difficulties: Named characters, obscure style
+
+## The Verdant Woods Today
+visual_purpose: What does Theron's sanctuary look like now, and how do his followers and acolytes maintain it?
+ideas_for_art_content: A serene depiction of the Verdant Woods, with followers of Theron tending to the forest or engaged in a ritual.
+ideas_for_style: Painting, with a style that captures the enchanting and mystical quality of the woods.
+art_prompt: "The Verdant Woods as Theron's sanctuary, serene and enchanting, done in watercolor painting"
+art_prompt_detailed: "A lush, vibrant forest teeming with life, with figures in ceremonial garb tending to the flora and fauna, all depicted in an enchanting watercolor style"
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Location, person, background
+difficulties: Named location, instructions unclear
+
+Given the limited budget, it's important to prioritize which images will add the most value to the article. The "Role in the Ancient War" section is likely the most valuable in terms of both artistic and descriptive value, as it can bring to life a pivotal moment in Theron's story. The other sections, while they would benefit from illustrations, may not be as essential if budget constraints require a more selective approach.
+
+Retrieved at: 2024-01-02 17:41:51.542842
+Used: False

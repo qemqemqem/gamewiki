@@ -41,6 +41,8 @@ The use of artifacts is not limited to the battlefield or arcane study. They per
 
 ## Preservation and Discovery
 
+![Artifacts](../../images/Artifacts_S_Preservation and Discovery.png "Artifacts")
+
 The search for lost artifacts is a common quest for adventurers and scholars alike. Organizations such as the [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) dedicate themselves to uncovering these relics, while [conservationists](Conservationists.md) work to protect and preserve them for future generations.
 
 ### Known Locations of Artifacts

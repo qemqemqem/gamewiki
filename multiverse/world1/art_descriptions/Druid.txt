@@ -1,0 +1,38 @@
+## Origins and Beliefs
+visual_purpose: What do the ancient origins of the Druidic tradition look like, and how do they commune with nature?
+ideas_for_art_content: A Druid in ceremonial attire, surrounded by the ancient forests, possibly with the Singing Willows in the background. The Druid could be performing a ritual or simply meditating.
+ideas_for_style: Painting, with a mystical and ethereal style to convey the sacred and ancient aspect of the Druids.
+art_prompt: "A Druid in ancient ceremonial attire, surrounded by the mystical forests of Aesheron, ethereal and solemn, done in watercolor."
+art_prompt_detailed: "A robed figure with symbols of nature on their attire, in a dense, ancient forest with uniquely shaped willow trees, painted in a mystical and ethereal style, using watercolor."
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Location, person, historical, narrative
+difficulties: Named location, multipart, obscure style
+
+## Role in Society
+visual_purpose: How do Druids interact with society and what role do they play in cultural events?
+ideas_for_art_content: A Druid leading a ceremony at the Moonflower Festival, with villagers gathered around in a vibrant community setting.
+ideas_for_style: Sketch, with a focus on capturing the lively atmosphere and the central role of the Druid in the event.
+art_prompt: "A Druid leading the Chant of the Silver Bloom at the Moonflower Festival, lively and central, done in pencil sketch."
+art_prompt_detailed: "A figure in Druidic robes at the center of a festive gathering, leading a chant with villagers attentively surrounding them, sketched to capture the energy and importance of the moment."
+orientation: Landscape
+artistic_value: Exciting, appropriate style
+descriptive_value: Event, character, narrative
+difficulties: Named characters, named event, multipart
+
+## Druid Circles
+visual_purpose: What do the various Druid Circles look like and how do they differ in their customs and environments?
+ideas_for_art_content: A collection of Druids from different circles, each with distinct attire and symbols, set against a backdrop that represents their specific environment (e.g., a glade, mountainous region).
+ideas_for_style: Computer graphics, to allow for the detailed depiction of different environments and the intricate designs of the Druids' attire.
+art_prompt: "Druids from various circles in their unique attire, set against the diverse environments of Aesheron, detailed and symbolic, done in digital art."
+art_prompt_detailed: "Figures in distinct ceremonial clothes, each representing a different aspect of nature, with backgrounds ranging from a serene glade to snowy mountain peaks, created with detailed digital art."
+orientation: Landscape
+artistic_value: Intricate design, style match
+descriptive_value: Location, person, object, background
+difficulties: Named location, multipart
+
+Given the limited budget, it would be wise to prioritize the sections that offer the most artistic and descriptive value. The "Origins and Beliefs" and "Role in Society" sections seem particularly valuable as they provide insight into the Druids' connection with nature and their societal impact, which are central to understanding their role in the campaign. The "Druid Circles" section could also be visually appealing, but it may be more complex and costly due to the variety of environments and characters.
+
+Retrieved at: 2024-01-02 17:38:25.075438
+Used: False
+Used: True

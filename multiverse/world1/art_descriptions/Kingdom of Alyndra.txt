@@ -1,0 +1,41 @@
+## Geography
+
+visual_purpose: What does the diverse landscape of the Kingdom of Alyndra look like?
+ideas_for_art_content: A panoramic view of the kingdom showing the rolling hills, fertile plains, Crystal Lake, Enchanted Grove, and the foreboding mountains in the background.
+ideas_for_style: Painting, with a fantasy-realism style that captures the magical essence of the land.
+art_prompt: "A panoramic view of the Kingdom of Alyndra, showcasing its diverse landscapes, with a magical and enchanting atmosphere, done in oil painting."
+art_prompt_detailed: "A sweeping landscape showing rolling hills, a serene body of water with rumored healing properties, a mystical forest area where nature's spirits are said to dwell, and imposing mountains guarding the territory's edge, all portrayed with a sense of wonder and magic, executed in oil painting."
+orientation: Landscape
+artistic_value: Landscape, wondrous, style match
+descriptive_value: Location, background, narrative
+difficulties: Named location, multipart
+
+## Stormhold Castle
+
+visual_purpose: What does the legendary Stormhold Castle look like as it overlooks the kingdom?
+ideas_for_art_content: The castle perched atop a mountain, with banners flying, and perhaps a knight or two visible on the ramparts.
+ideas_for_style: Sketch, with detailed pencil work to bring out the stonework and grandeur of the castle.
+art_prompt: "Stormhold Castle atop its mountainous perch, detailed and grand, with banners flying in the wind, sketched in pencil."
+art_prompt_detailed: "An imposing castle situated on a mountain peak, its architecture exuding ancient power and nobility, with banners of the realm fluttering above the battlements, captured in a detailed pencil sketch."
+orientation: Landscape
+artistic_value: Interesting person, intricate design, style match
+descriptive_value: Location, object, historical
+difficulties: Named characters, named location
+
+## Culture
+
+visual_purpose: What does a cultural festival in the Kingdom of Alyndra look like?
+ideas_for_art_content: A scene from the Festival of Shields, with knights in a jousting tournament, mages performing spells, and crowds of onlookers.
+ideas_for_style: Watercolor painting, to give a vibrant yet dreamy depiction of the festivities.
+art_prompt: "The Festival of Shields in the Kingdom of Alyndra, vibrant and bustling, with knights jousting and mages casting spells, painted in watercolors."
+art_prompt_detailed: "A lively festival scene, where armored warriors on horseback compete in a display of martial skill, spellcasters weave their magic for the crowd, and a multitude of spectators from across the realm watch in awe, all rendered in the vivid and fluid medium of watercolors."
+orientation: Landscape
+artistic_value: Fun, exciting, style match
+descriptive_value: Event, character, background
+difficulties: Named characters, multipart
+
+Given the limited budget, these three sections provide a good balance between artistic and descriptive value, offering visual insights into the geography, a key landmark, and the culture of the Kingdom of Alyndra. They are also likely to be of high interest to players, enhancing their immersion in the game world.
+
+Retrieved at: 2024-01-02 17:35:49.389836
+Used: False
+Used: True

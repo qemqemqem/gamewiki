@@ -13,6 +13,7 @@ from writing.wiki_manager import WikiManager
 import concurrent.futures
 import os
 import datetime
+import glob
 
 
 def description_file_exists(wiki_name: str, article_title: str) -> bool:
@@ -21,7 +22,8 @@ def description_file_exists(wiki_name: str, article_title: str) -> bool:
 
 def image_file_exists(wiki_name: str, article_title: str, section_name: Optional[str] = None) -> bool:
     if section_name is None:
-        return os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}.png") or os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}_S_top.png")
+        # return os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}.png") or os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}_S_top.png")
+        return len(glob.glob(f"multiverse/{wiki_name}/images/{article_title}*.png")) > 0
     else:
         return os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}_S_{section_name}.png")
 
@@ -50,7 +52,18 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     save_loc = f"multiverse/{wiki_name}/images/{article_file_name}_S_{section}.png"
     get_picture_and_download(save_loc, prompt, size=orientation)
 
-    # TODO: Add the image to the article
+    # Add the image to the article
+    article_file_path = f"multiverse/{wiki_name}/wiki/docs/{article_file_name}.md"
+    with open(article_file_path, 'r') as file:
+        lines = file.readlines()
+    for i, line in enumerate(lines):
+        if section.lower() in line.lower():
+            # Insert new_text right after the line containing search_text
+            lines.insert(i + 1, f"\n![{section}](../../images/{article_file_name}_S_{section}.png)\n\n")
+            break
+    # Write the updated lines back to the file
+    with open(article_file_path, 'w') as file:
+        file.writelines(lines)
 
     return save_loc
 

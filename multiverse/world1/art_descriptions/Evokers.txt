@@ -1,0 +1,38 @@
+## History and Origins
+visual_purpose: What did the earliest evokers and their practices look like?
+ideas_for_art_content: An ancient druid or shaman invoking elemental spirits, with ethereal forms of elements like fire, water, air, and earth around them. A backdrop of an ancient, mystical landscape.
+ideas_for_style: Painting, with a mystical and ethereal style reminiscent of classical fantasy art.
+art_prompt: "An ancient druid in a mystical forest, ethereal and elemental, done in oil painting"
+art_prompt_detailed: "A robed figure with a staff standing in an ancient forest, surrounded by faint elemental spirits of fire, water, air, and earth, depicted with a mystical and ethereal ambiance, executed in oil painting style."
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Historical, background, narrative
+difficulties: Named location, multipart, obscure style
+
+## The Role of Evokers
+visual_purpose: How do evokers apply their magic in different aspects of life?
+ideas_for_art_content: A triptych showing an evoker in battle casting a fireball, another using light to guide travelers at night, and a third creating a spectacle with elemental lights at a festival.
+ideas_for_style: Sketch, with dynamic lines to convey movement and energy.
+art_prompt: "Evoker triptych showing battle, utility, and spectacle, dynamic and energetic, in pencil sketch"
+art_prompt_detailed: "Three-panel sketch: one panel depicting a mage casting a fireball on a battlefield, another showing a mage lighting a dark path for travelers, and the last panel featuring a mage creating a dazzling display of lights at a crowded festival, all drawn with dynamic lines to convey movement and energy."
+orientation: Landscape
+artistic_value: Exciting, intricate design
+descriptive_value: Event, character, narrative
+difficulties: Named characters, multipart
+
+## Artifacts and Tools
+visual_purpose: What do the tools and artifacts used by evokers look like?
+ideas_for_art_content: An evoker's workbench with various arcane foci, including wands, staves, and enchanted jewelry, alongside rare artifacts glowing with magical energy.
+ideas_for_style: Photographic, with a focus on the intricate details of the magical items.
+art_prompt: "Evoker's workbench with arcane tools, detailed and glowing, in high-resolution photography"
+art_prompt_detailed: "A wooden table laden with various magical implements such as intricately carved wands, rune-etched staves, and glowing enchanted rings and amulets, all captured in high-resolution photography with an emphasis on the fine details and magical glow."
+orientation: Landscape
+artistic_value: Intricate design, appropriate style
+descriptive_value: Object, character
+difficulties: None
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the world.
+
+Retrieved at: 2024-01-02 17:36:48.081973
+Used: False
+Used: True

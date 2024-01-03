@@ -1,0 +1,37 @@
+## Origins
+visual_purpose: What do the origins of wraiths look like, and how do they come into being?
+ideas_for_art_content: A battlefield from the [[Ancient War]] with spirits rising as wraiths, a mage's ritual gone wrong with dark energy swirling.
+ideas_for_style: Painting, with a dark and moody atmosphere, reminiscent of classical battle scenes but with a supernatural twist.
+art_prompt: "Fallen warriors on an ancient battlefield, becoming wraiths, in a somber and eerie style, done in oil painting"
+art_prompt_detailed: "Armored figures lying on a war-torn landscape, with ethereal spirits rising from their bodies, in a dark and haunting oil painting style"
+orientation: Landscape
+artistic_value: Wondrous, exciting
+descriptive_value: Event, historical, narrative
+difficulties: Named location, multipart
+
+## Characteristics
+visual_purpose: What does a wraith look like, and how does it differ from other spectral entities?
+ideas_for_art_content: A wraith with dark, flowing robes and hollow eyes, emanating a chilling aura in the [[Shadowfell]].
+ideas_for_style: Sketch, detailed pencil work with emphasis on shading to create depth and a ghostly appearance.
+art_prompt: "A wraith in the Shadowfell, detailed and haunting, done in pencil sketch"
+art_prompt_detailed: "A shadowy figure with empty eye sockets and tattered robes, surrounded by a faintly glowing aura, sketched in pencil with a focus on shading"
+orientation: Portrait
+artistic_value: Intricate design, interesting person
+descriptive_value: Person, monster, character
+difficulties: Named location
+
+## Defense Against Wraiths
+visual_purpose: How do individuals protect themselves from wraiths, and what do these protective measures look like?
+ideas_for_art_content: A paladin holding a glowing talisman, herbs with protective properties, a cleric performing a binding ritual.
+ideas_for_style: Computer graphics, with a vibrant color palette to contrast the darkness of the wraiths, highlighting the protective elements.
+art_prompt: "A paladin with a radiant talisman warding off a wraith, in a vibrant and dynamic style, done in digital art"
+art_prompt_detailed: "An armored warrior holding a brightly glowing amulet, with a shadowy figure recoiling in the background, depicted in a colorful and dynamic digital art style"
+orientation: Portrait
+artistic_value: Exciting, style match
+descriptive_value: Object, event, character
+difficulties: Named characters
+
+Given the limited budget, it may be best to prioritize the "Origins" section for artwork, as it provides a strong historical and narrative context which can be visually compelling and set the tone for the wraiths' place in the campaign. The "Characteristics" section could be next in priority, as it helps players visualize what they might be up against. The "Defense Against Wraiths" section could be lower priority unless it is a central theme in the campaign that players will encounter frequently.
+
+Retrieved at: 2024-01-02 17:41:05.118250
+Used: False

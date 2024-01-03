@@ -1,0 +1,41 @@
+## Origin and Purpose
+visual_purpose: What do the original Holy Texts look like, and how were they created or inspired?
+ideas_for_art_content: A prophet or scribe writing under divine inspiration, with a deity's presence looming over them, possibly in an ethereal form. The setting could be an ancient study or a celestial plane.
+ideas_for_style: Painting, with a style reminiscent of classical religious art to convey the sacred nature of the event.
+art_prompt: "A prophet writing the Holy Texts in an ancient study, with the divine presence of a deity, ethereal and luminous, classical religious painting style, reverent, inspired, done in oil on canvas."
+art_prompt_detailed: "A robed figure writing on parchment in a candlelit room filled with scrolls and tomes, with a translucent, glowing figure symbolizing a deity's presence, in the style of classical religious art, conveying a sense of reverence and divine inspiration, executed in oil on canvas."
+orientation: Portrait
+artistic_value: interesting person, intricate design, wondrous
+descriptive_value: person, historical, narrative
+difficulties: named characters, obscure style
+
+## Notable Holy Texts
+
+### The Luminous Codex
+visual_purpose: What does the Luminous Codex look like, and how does it relate to Light magic?
+ideas_for_art_content: The Luminous Codex itself, possibly open to a page showing an illustration of a battle between light and darkness, with a Paladin or Priest using Light magic.
+ideas_for_style: Sketch, with detailed line work to show the intricacies of the magical illustrations within the codex.
+art_prompt: "The Luminous Codex open to an illustration of a Paladin combating a Shadow Dragon, detailed sketch, symbolic, intricate, done in pencil."
+art_prompt_detailed: "An ancient book open to a page with a detailed drawing of an armored warrior casting a spell of light against a serpentine dragon made of shadows, executed as a detailed pencil sketch, symbolizing the struggle between light and darkness."
+orientation: Landscape
+artistic_value: intricate design, exciting, style match
+descriptive_value: object, event, monster
+difficulties: named characters, multipart
+
+## Role in Society
+visual_purpose: How do Holy Texts influence the education and leadership of society?
+ideas_for_art_content: A scene of a young noble being tutored by a Priest or Scholar, with Holy Texts spread out before them, in a grand library setting.
+ideas_for_style: Painting, with a style that captures the grandeur and importance of education and leadership.
+art_prompt: "A young noble learning from Holy Texts in a grand library, with a Priest or Scholar, opulent, educational, done in a Renaissance painting style."
+art_prompt_detailed: "A well-dressed youth studying ancient scriptures under the guidance of a robed figure, surrounded by shelves of books in a luxurious library, painted in the grand and detailed style of the Renaissance, emphasizing the importance of education and leadership."
+orientation: Landscape
+artistic_value: interesting person, intricate design, appropriate style
+descriptive_value: person, location, narrative
+difficulties: named location, multipart
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to aid an artist unfamiliar with the campaign world.
+
+Retrieved at: 2024-01-02 16:43:54.318050
+Used: False
+Used: True
+Used: True

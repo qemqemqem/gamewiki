@@ -1,0 +1,38 @@
+## Tournaments of Arms
+visual_purpose: What does a medieval fantasy tournament look like in the Kingdom of Alyndra?
+ideas_for_art_content: Knights in ornate armor jousting, a melee battle with various warriors, archers in a tense competition, a crowd of spectators cheering.
+ideas_for_style: Painting, with a dynamic and colorful style reminiscent of medieval tapestries.
+art_prompt: "Knights jousting in the grand arena of Alyndra, vibrant and action-packed, done in oil painting"
+art_prompt_detailed: "Armored figures on horseback with lances clashing in the center of a bustling, circular tournament ground, surrounded by vibrant flags and an enthralled audience, depicted in a richly colored oil painting"
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Event, character, background
+difficulties: Named location, multipart
+
+## The Silvermane Parade
+visual_purpose: What do Silvermane Horses look like, and how do they move during the parade?
+ideas_for_art_content: Ethereal-looking Silvermane Horses performing stunts, riders in ceremonial garb, a captivated audience.
+ideas_for_style: Sketch, with an ethereal and dreamlike quality to capture the beauty of the Silvermanes.
+art_prompt: "Silvermane Horses prancing in the parade, ethereal and majestic, sketched in pencil"
+art_prompt_detailed: "Graceful, shimmering horses with flowing manes performing coordinated stunts with riders in ornate attire, in front of an enchanted crowd, captured in a detailed pencil sketch"
+orientation: Landscape
+artistic_value: Wondrous, intricate design
+descriptive_value: Person, object, event
+difficulties: Named characters, obscure style
+
+## Harmony of the Singing Willows
+visual_purpose: How do the Singing Willows inspire musicians and what does this musical collaboration look like?
+ideas_for_art_content: Bards and musicians playing instruments under willow trees, ethereal willows with musical notes emanating from them, an audience immersed in the performance.
+ideas_for_style: Watercolor painting, to capture the fluidity and enchantment of the scene.
+art_prompt: "Musicians performing with the Singing Willows, enchanting and serene, in watercolor"
+art_prompt_detailed: "Artists with a variety of instruments seated beneath willow trees with elongated, flowing branches, musical notes visually represented as floating through the air, all rendered in a soft watercolor style"
+orientation: Landscape
+artistic_value: Wondrous, appropriate style
+descriptive_value: Person, object, narrative
+difficulties: Named location, obscure style
+
+Given the limited budget, I would prioritize the "Tournaments of Arms" section for its potential to excite and engage the players with a depiction of action and competition, which is central to the theme of the festival. The "Silvermane Parade" could also be a strong visual addition due to the unique and magical nature of the Silvermane Horses, which could spark the players' imaginations. The "Harmony of the Singing Willows" might be lower priority unless the mystical and musical elements are a significant aspect of your campaign's storytelling.
+
+Retrieved at: 2024-01-02 16:37:12.336400
+Used: False
+Used: True

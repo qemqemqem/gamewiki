@@ -1,0 +1,40 @@
+## Physical Characteristics
+visual_purpose: What do elves look like in this world, and how do they differ from humans or other races?
+ideas_for_art_content: An elf standing in a natural setting, showcasing the pointed ears, vibrant eye colors, and slender build. The elf could be positioned in a way that highlights their grace, perhaps in a mid-stride or a poised stance.
+ideas_for_style: Sketch, with a focus on fine lines to capture the delicate features and ethereal beauty of the elves.
+art_prompt: "An elf with pointed ears and vibrant eyes, standing gracefully in the Verdant Woods, sketched with fine lines, ethereal, elegant, done in pencil."
+art_prompt_detailed: "A slender figure with elongated, pointed ears and eyes that shimmer with hues of the forest, poised elegantly amidst towering trees and lush undergrowth, captured in a sketch with fine lines that convey an otherworldly grace, using pencil."
+orientation: Portrait
+artistic_value: Interesting person, intricate design, style match
+descriptive_value: Person, character
+difficulties: Named characters, named location
+
+## Culture and Society
+visual_purpose: What does elven architecture look like, and how do they celebrate their connection to nature?
+ideas_for_art_content: An elven treehouse structure within the Verdant Woods, possibly with elves engaging in artistic activities like playing music or painting.
+ideas_for_style: Watercolor painting, to give a soft and natural feel that complements the elven aesthetic.
+art_prompt: "Elven treehouse architecture in the Verdant Woods, with elves creating music and art, painted in watercolor, harmonious, serene, done in a naturalistic style."
+art_prompt_detailed: "Elegant arboreal dwellings nestled among the branches of ancient trees, with figures engaged in the creation of music and visual arts, their forms blending with the surrounding foliage, all depicted in a watercolor painting that emphasizes the tranquil and harmonious essence of the scene."
+orientation: Landscape
+artistic_value: Landscape, appropriate style, wondrous
+descriptive_value: Location, background, narrative
+difficulties: Named location, multipart
+
+## Festivals and Celebrations
+visual_purpose: What do elven celebrations look like, and how do they incorporate magic into their festivities?
+ideas_for_art_content: Elves gathered around a luminous lake during the Solara festival, with magical fireworks and intricate rituals being performed.
+ideas_for_style: Computer graphics, to capture the vibrancy and magical elements of the festival with dynamic lighting and effects.
+art_prompt: "Elves celebrating the Solara festival by Crystal Lake, with magical fireworks in the sky, vibrant, enchanting, done in computer graphics."
+art_prompt_detailed: "Figures with delicate features and flowing garments gathered around a radiant body of water, their faces lit by the glow of magical fireworks that burst in the sky above, all rendered in computer graphics to capture the dynamic and mesmerizing atmosphere of the celebration."
+orientation: Landscape
+artistic_value: Exciting, wondrous
+descriptive_value: Event, story event, narrative
+difficulties: Named event, named location, multipart
+
+Given the limited budget, it would be wise to prioritize the sections with the highest artistic and descriptive value, which in this case would be "Culture and Society" and "Festivals and Celebrations." These visuals would greatly enhance the players' immersion in the world and provide a clearer understanding of elven life and customs. The "Physical Characteristics" section, while valuable, might be less of a priority if budget constraints require a choice to be made.
+
+Retrieved at: 2024-01-02 17:00:13.929468
+Used: False
+Used: True
+Used: True
+Used: True

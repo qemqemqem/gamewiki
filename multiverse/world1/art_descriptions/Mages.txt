@@ -1,0 +1,40 @@
+## Schools of Magic
+visual_purpose: What do the different schools of magic look like in practice?
+ideas_for_art_content: Illustrate a mage for each school, performing a spell unique to their discipline; elemental fire for Evocation, a shimmering shield for Abjuration, a summoned creature for Conjuration, a crystal ball or ethereal eyes for Divination, glowing runes for Enchantment, a deceptive mirage for Illusion, a reanimated skeleton for Necromancy, and an object mid-transmutation for Transmutation.
+ideas_for_style: A painting with a magical and ethereal quality, vibrant colors for the spells, and a more subdued palette for the background to make the magic stand out.
+art_prompt: "Eight mages, each demonstrating a different school of magic, in a grand hall with high ceilings and mystical symbols, vibrant and ethereal, done in watercolor."
+art_prompt_detailed: "Eight robed figures, each casting a unique spell, in an expansive room adorned with arcane sigils, with the spells brightly colored and the surroundings in muted tones, created with watercolor techniques."
+orientation: landscape
+artistic_value: interesting person, intricate design, wondrous, style match
+descriptive_value: person, object, event, historical, narrative
+difficulties: named characters, named location, multipart
+
+## Notable Mages
+visual_purpose: Who are these notable mages and what makes them distinctive?
+ideas_for_art_content: Portraits of Morath in regal mage robes with a backdrop of the Principality, Grimbeorn with a model of Stormhold Castle, and a shadowy figure from the Order of the Veiled Eye with a new moon symbol.
+ideas_for_style: A triptych of detailed sketches, each capturing the essence of the mage's character and achievements.
+art_prompt: "Portraits of Morath, Grimbeorn, and a Veiled Eye sorcerer, each with symbols of their legacy, in detailed pencil sketches, evocative and character-rich, done in graphite."
+art_prompt_detailed: "Three detailed sketches: a dignified figure in ornate robes before a scholarly cityscape, a robust artisan with a miniature fortress, and an enigmatic cloaked figure with a crescent emblem, all rendered in graphite with attention to personality and historical significance."
+orientation: portrait
+artistic_value: interesting person, intricate design, style match
+descriptive_value: person, character, background, historical
+difficulties: named characters, multipart
+
+## Challenges and Perils
+visual_purpose: What are the dangers that mages face?
+ideas_for_art_content: A chaotic scene showing a mage losing control of a spell during the Battle of Broken Spears, and the Dark Horde looming menacingly in the background.
+ideas_for_style: A dynamic painting capturing the intensity of the moment, contrasting the bright, wild magic with the dark, oppressive forces of the Dark Horde.
+art_prompt: "A mage in the throes of a spell gone awry at the Battle of Broken Spears, with the Dark Horde's shadowy figures in the background, intense and dramatic, painted in oils."
+art_prompt_detailed: "A robed spellcaster with a spell exploding in unpredictable patterns, set against a battlefield strewn with spears, and silhouetted figures representing an oppressive enemy force, depicted with oil paints to convey the chaos and danger."
+orientation: landscape
+artistic_value: exciting, style match
+descriptive_value: event, historical, narrative, monster
+difficulties: named characters, named location, multipart, confusing
+
+Given the limited budget, it would be wise to prioritize the art pieces that offer the highest descriptive and artistic value. The "Schools of Magic" section seems to be the most valuable in terms of both artistic and descriptive potential, providing a visual representation of the core concepts of magic in your campaign. The "Notable Mages" section is also valuable for giving faces to important historical figures, while the "Challenges and Perils" section could be impactful but might be less necessary if the budget is tight.
+
+Retrieved at: 2024-01-02 16:35:57.886499
+Used: False
+Used: True
+Used: True
+Used: True

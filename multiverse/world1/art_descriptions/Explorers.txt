@@ -1,0 +1,50 @@
+## The Call to Explore
+visual_purpose: What does the allure of the unknown look like, and how can an explorer's readiness be depicted?
+ideas_for_art_content: An explorer standing on a high vantage point looking out over a vast, uncharted landscape; possibly a map and compass in hand, or a spyglass.
+ideas_for_style: Painting, with a style reminiscent of classic adventure novel covers.
+art_prompt: "An explorer on the brink of the unknown, in a romanticized painting style, adventurous, contemplative, done in oil on canvas."
+art_prompt_detailed: "A lone figure clad in rugged travel attire stands atop a cliff, gazing out over a sprawling, mysterious landscape dotted with fantastical features, rendered in a romanticized painting style, evoking a sense of adventure and contemplation, executed in oil on canvas."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, person, event
+difficulties: Named location
+
+## Notable Explorers
+visual_purpose: Who are these explorers, and what makes them stand out?
+ideas_for_art_content: Portraits of the most famous explorers, perhaps with a background that hints at their achievements or discoveries.
+ideas_for_style: Sketches, detailed pencil drawings with a historical feel.
+art_prompt: "Portraits of legendary explorers against backgrounds that reflect their achievements, in detailed pencil sketches, historic, distinguished, done in graphite."
+art_prompt_detailed: "A series of portraits showcasing individuals in exploratory attire, each set against a backdrop that alludes to their unique discoveries or adventures, crafted in detailed pencil sketches that convey a sense of history and distinction, created with graphite."
+orientation: Portrait
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, historical, character
+difficulties: Named characters
+
+## Exploration and the Elements
+visual_purpose: How do explorers interact with the natural elements, and what does their partnership look like?
+ideas_for_art_content: An explorer communicating or working alongside an Air Elemental, perhaps while navigating through the sky or discovering a hidden pathway.
+ideas_for_style: Computer graphics, with a dynamic and ethereal quality to capture the essence of the elements.
+art_prompt: "An explorer in alliance with an Air Elemental, in a dynamic computer graphic, ethereal, harmonious, done in digital art."
+art_prompt_detailed: "A cloaked figure with navigation tools stands amidst swirling winds, alongside a semi-transparent being made of air and storm, depicted in a dynamic and ethereal digital art style, symbolizing harmony and cooperation."
+orientation: Landscape
+artistic_value: Wondrous, exciting
+descriptive_value: Person, event, monster
+difficulties: Named characters, multipart
+
+## The Shadowfell and Exploration
+visual_purpose: What are the dangers and atmosphere of the Shadowfell that challenge explorers?
+ideas_for_art_content: A scene showing the bleak and perilous landscape of the Shadowfell, with an explorer cautiously traversing the terrain, possibly encountering Shadar-Kai.
+ideas_for_style: Painting, with a dark and moody atmosphere, using a palette of deep blues and grays.
+art_prompt: "An explorer braving the ominous Shadowfell, in a dark and atmospheric painting, foreboding, mysterious, done in watercolor."
+art_prompt_detailed: "A solitary adventurer, equipped for harsh conditions, navigates through a desolate landscape shrouded in mist and darkness, with shadowy figures lurking in the background, captured in a dark and atmospheric watercolor painting that evokes a sense of foreboding and mystery."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, person, background
+difficulties: Named location, obscure style
+
+Given the limited budget, it would be wise to prioritize the sections that would benefit most from visual representation and where the artistic and descriptive value is highest. The "The Call to Explore" and "The Shadowfell and Exploration" sections seem particularly ripe for visual enhancement, as they can greatly benefit from the evocative imagery that would help players immerse themselves in the world.
+
+Retrieved at: 2024-01-02 17:09:17.854868
+Used: False
+Used: True
+Used: True
