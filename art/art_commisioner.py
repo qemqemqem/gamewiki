@@ -3,6 +3,7 @@ from pathlib import Path
 from threading import Thread
 from typing import List, Optional
 
+from art.process_response import process_art_response
 from config.globals import LLM_MODEL
 from utils.dalle import get_picture_and_download
 from utils.gpt import prompt_completion_chat
@@ -39,12 +40,15 @@ def get_description(article: Article) -> str:
 
 
 def use_description(wiki_name: str, article_file_name: str, description: str) -> str:
-    # TODO Process the description
-    section = "top"
-    prompt = "Cool fantasy art"
+    suggestions = process_art_response(description)
+    if len(suggestions) == 0:
+        raise Exception("No suggestions found")
+    section = suggestions[0].section
+    prompt = suggestions[0].prompt
+    orientation = suggestions[0].orientation
 
     save_loc = f"multiverse/{wiki_name}/images/{article_file_name}_S_{section}.png"
-    get_picture_and_download(save_loc, prompt)
+    get_picture_and_download(save_loc, prompt, size=orientation)
 
     # TODO: Add the image to the article
 
