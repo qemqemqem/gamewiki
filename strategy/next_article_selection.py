@@ -1,4 +1,5 @@
 import math
+from typing import Dict
 
 from writing.wiki_manager import WikiManager
 
@@ -18,7 +19,7 @@ def find_penalty_for_article_commonality(wiki: WikiManager, article_name: str) -
     return penalty
 
 
-def select_next_article(wiki: WikiManager) -> str:
+def rank_articles(wiki: WikiManager, remove_existing: bool = True, only_include_existing: bool = False) -> Dict[str, float]:
     # Get all links
     links = wiki.get_all_links()
 
@@ -37,9 +38,23 @@ def select_next_article(wiki: WikiManager) -> str:
     # TODO: Revisit existing articles that need updating
 
     # Remove articles that already exist
-    for article in wiki.articles:
-        if article.title in scores:
-            del scores[article.title]
+    if remove_existing:
+        for article in wiki.articles:
+            if article.title in scores:
+                del scores[article.title]
+
+    if only_include_existing:
+        scores_copy = scores.copy()
+        for article_name, _ in scores_copy.items():
+            try:
+                wiki.get_article_by_title(article_name)
+            except Exception:
+                del scores[article_name]
+
+    return scores
+
+def select_next_article(wiki: WikiManager) -> str:
+    scores = rank_articles(wiki, remove_existing=True)
 
     # Return highest scoring article name
     best = max(scores, key=scores.get)

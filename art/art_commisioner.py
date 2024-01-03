@@ -6,6 +6,7 @@ from typing import List, Optional
 from art.process_response import process_art_response
 from config.globals import LLM_MODEL
 from formatting.formatting import sanitize_article_name
+from strategy.next_article_selection import rank_articles
 from utils.dalle import get_picture_and_download
 from utils.gpt import prompt_completion_chat
 from writing.article import Article
@@ -124,8 +125,8 @@ def process_images(wiki: WikiManager, executor: concurrent.futures.Executor, pol
 
         time.sleep(polling_interval)  # Wait for a second before checking again
 
-def create_art_for_articles(wiki: WikiManager, max_num_fetch_parallel: int = 1, max_num_process_parallel: int = 1) -> None:
-    articles: List[Article] = wiki.articles
+
+def create_art_for_articles(wiki: WikiManager, articles: List[Article], max_num_fetch_parallel: int = 1, max_num_process_parallel: int = 1) -> None:
     os.makedirs("descriptions", exist_ok=True)
     os.makedirs("images", exist_ok=True)
 
@@ -135,9 +136,10 @@ def create_art_for_articles(wiki: WikiManager, max_num_fetch_parallel: int = 1, 
 
     # Fetch descriptions in the main thread
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_num_fetch_parallel) as fetch_executor:
-        fetch_descriptions(wiki, wiki.articles, fetch_executor)
+        fetch_descriptions(wiki, articles, fetch_executor)
 
     process_thread.join()  # Wait for the processing thread to finish
+
 
 def suggest_art_for_articles(wiki: WikiManager):
     """
@@ -158,4 +160,9 @@ if __name__ == "__main__":
     # Load all articles
     wiki = WikiManager(wiki_name, wiki_path)
 
-    create_art_for_articles(wiki)
+    articles = wiki.articles
+    articles_by_score = rank_articles(wiki, remove_existing=False, only_include_existing=True)
+    ranked_articles: List[Article] = [wiki.get_article_by_name(a[0]) for a in sorted(articles_by_score.items(), key=lambda x: x[1], reverse=True)]
+    print("\n".join([article.title for article in ranked_articles[:10]]))
+
+    create_art_for_articles(wiki, ranked_articles)

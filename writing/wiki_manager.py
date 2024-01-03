@@ -61,3 +61,9 @@ class WikiManager:
         if alphabetize:
             article_names.sort()
         return article_names
+
+    def get_article_by_name(self, article_name: str) -> Article:
+        for article in self.articles:
+            if article.title == article_name:
+                return article
+        raise Exception(f"Article with name {article_name} not found.")
