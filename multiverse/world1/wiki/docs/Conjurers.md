@@ -14,6 +14,9 @@ Conjurers play pivotal roles across the lands, their talents shaping the world i
 
 ## Training and Education
 
+![Training and Education](../../images/Conjurers_S_Training%20and%20Education.png)
+A conjurer's apprentice honing their craft within the esteemed halls of the Mages of the Crystal Tower.
+
 Aspiring Conjurers must embark on a rigorous journey to master their craft. This path typically involves:
 
 - **Mentorship**: Learning under the tutelage of an experienced [Summoner](Summoner.md) who provides guidance and wisdom.

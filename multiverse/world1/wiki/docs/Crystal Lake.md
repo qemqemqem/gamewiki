@@ -8,6 +8,9 @@ Nestled within the heart of [Silverlake Valley](Silverlake%20Valley.md), the [Cr
 
 ## Properties and Significance
 
+![Properties and Significance](../../images/Crystal%20Lake_S_Properties%20and%20Significance.png)
+"The mystical moonlight reflecting on Crystal Lake, enhancing the magical aura of the waters.
+
 The lake's waters are renowned for their clarity, so much so that they mirror the sky and the surrounding landscape with an almost supernatural precision. It is this reflective quality that has earned the lake its name and the attention of those who believe in its magical properties. The [moon deities](Moon%20Deities.md) are said to have blessed the lake, weaving their influence into its essence, which is most potent during the night when the moon's silver light dances upon the water's surface.
 
 Many [rituals](Rituals.md) have been performed on the banks of [Crystal Lake](Crystal%20Lake.md), as its waters are believed to enhance the potency of magical workings. The [Caverns of Echo](Caverns%20of%20Echo.md), located nearby, contain a hidden extension of the lake, where the reflection of bioluminescent fungi creates a mesmerizing light show that has captivated the hearts of adventurers and poets alike.

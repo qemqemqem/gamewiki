@@ -13,6 +13,9 @@ Silverlake Valley has been a silent witness to the rise and fall of civilization
 ## Settlements and Structures
 
 ### Stormhold Castle
+
+![Stormhold Castle](../../images/Silverlake%20Valley_S_Stormhold%20Castle.png)
+Stormhold Castle, the ancient bastion of defense for Silverlake Valley.
 Perched atop a craggy hill, [Stormhold Castle](Stormhold%20Castle.md) stands as a formidable fortress, its ancient stones weathered by time and conflict. It serves as a bastion of defense for the valley and a reminder of the strategic importance this land once held.
 
 ### The Shrouded City

@@ -1,0 +1,44 @@
+## Overview
+
+visual_purpose: What did the grandeur of the Age of Wonders look like?
+ideas_for_art_content: The Great Library of Eldara, the Enchanted Grove, the Fallen Temple of the Moon, and figures of the Ancients in the background.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art, rich in color and detail.
+art_prompt: "The Great Library of Eldara in the foreground with the Enchanted Grove and the Fallen Temple of the Moon in the distance, in a classical fantasy painting style, vibrant, detailed, done in oil on canvas."
+art_prompt_detailed: "A grand library with towering spires in the foreground, a mystical grove with glowing flora and a crumbling temple with moon motifs in the distance, in a classical fantasy painting style, vibrant, detailed, done in oil on canvas."
+caption: "The Age of Wonders: The Great Library of Eldara, the Enchanted Grove, and the Fallen Temple of the Moon."
+orientation: Landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, historical, background]
+difficulties: [named location, multipart]
+
+## Magic and Technology
+
+visual_purpose: How did magic and technology integrate during the Age of Wonders?
+ideas_for_art_content: Mages of the Crystal Tower manipulating reality, Dwarven Mines with glowing metals and gems, enchanted caravans on the Silk Road.
+ideas_for_style: Computer graphics, to give a clean, magical glow and sharpness to the technological elements.
+art_prompt: "Mages in the Crystal Tower bending reality, with the Dwarven Mines in the background and an enchanted caravan on the Silk Road, in a sharp and magical computer graphics style."
+art_prompt_detailed: "Robed figures in a crystalline spire altering the space around them, with miners in deep caverns extracting glowing ores, and a caravan with magical protections on a bustling trade route, in a sharp and magical computer graphics style."
+caption: "The fusion of magic and technology during the Age of Wonders: Mages, Dwarven Mines, and the Silk Road."
+orientation: Landscape
+artistic_value: [intricate design, exciting, style match]
+descriptive_value: [object, event, technology]
+difficulties: [named characters, named location]
+
+## Decline and Legacy
+
+visual_purpose: What remnants of the Age of Wonders still inspire the people of Aesheron?
+ideas_for_art_content: Ruins of ancient structures, scholars like Morath the Wise studying relics, adventurers seeking treasures.
+ideas_for_style: Sketch, to convey a sense of the past and the ongoing quest for knowledge.
+art_prompt: "Ruins from the Age of Wonders with Morath the Wise studying a relic and adventurers searching for treasures, in a detailed pencil sketch style."
+art_prompt_detailed: "Crumbling stone structures overgrown with vegetation, a wise figure examining an ancient artifact, and a group of explorers digging for hidden treasures, all rendered in a detailed pencil sketch style."
+caption: "The enduring legacy of the Age of Wonders: Ruins that continue to inspire scholars and adventurers alike."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [location, person, object, historical, narrative]
+difficulties: [named characters]
+
+Given the limited budget, it would be wise to prioritize the "Overview" section for its potential to capture the essence of the Age of Wonders in a single, impactful image. The "Magic and Technology" section could be considered next for its ability to showcase the unique blend of arcane and craftsmanship. The "Decline and Legacy" section, while valuable, could be depicted through less expensive means such as sketches or even in-game descriptions to convey the sense of history and mystery.
+
+Retrieved at: 2024-01-02 18:59:32.255870
+Used: False
+Used: True

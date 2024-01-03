@@ -1,0 +1,41 @@
+## The Role of Conjurers
+visual_purpose: What do the summoned creatures and magical effects look like during a conjurer's spellcasting?
+ideas_for_art_content: A conjurer summoning a majestic creature in the midst of a battlefield, with ethereal chains or runes linking them. The background could show glimpses of the Battle of Broken Spears.
+ideas_for_style: Painting, with a dynamic and dramatic composition to capture the intensity of the moment.
+art_prompt: "A conjurer in elaborate robes, standing on a chaotic battlefield, summoning a powerful creature with glowing runes, in a dramatic and intense style, done in oil painting."
+art_prompt_detailed: "A robed figure with an air of authority, amidst a war-torn landscape, calling forth a formidable beast surrounded by shimmering magical symbols, portrayed with vigor and a sense of urgency, created with oil on canvas."
+caption: A conjurer turning the tide of the Battle of Broken Spears with a powerful summoning spell.
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Event, character, narrative
+difficulties: Named characters, named location, multipart
+
+## Training and Education
+visual_purpose: What does the environment of a prestigious magical institution look like?
+ideas_for_art_content: A young apprentice practicing summoning under the watchful eye of a mentor in the grand halls of the Mages of the Crystal Tower.
+ideas_for_style: Sketch, with detailed linework to emphasize the grandeur of the institution and the focus of the apprentices.
+art_prompt: "An apprentice conjurer practicing summoning spells in the vast, ornate library of the Crystal Tower, in a detailed sketch style, focused and studious, done in pencil."
+art_prompt_detailed: "A novice spellcaster, surrounded by ancient tomes and magical paraphernalia, conjuring a small elemental creature in a grand and intricately designed library, depicted with precision and attention to detail, sketched in graphite."
+caption: A conjurer's apprentice honing their craft within the esteemed halls of the Mages of the Crystal Tower.
+orientation: Portrait
+artistic_value: Intricate design, appropriate style
+descriptive_value: Location, person, object
+difficulties: Named location
+
+## Conjurers and Artifacts
+visual_purpose: How do artifacts enhance a conjurer's abilities, and what do these artifacts look like?
+ideas_for_art_content: A conjurer holding an artifact that glows with power, perhaps a gem or amulet, with ethereal sound waves emanating from it to represent the Siren's Call.
+ideas_for_style: Computer graphics, with a focus on lighting effects to showcase the magical properties of the artifacts.
+art_prompt: "A conjurer with a focused gaze, holding a glowing artifact that emits mystical sound waves, in a vibrant and detailed computer graphic, mystical and powerful, rendered digitally."
+art_prompt_detailed: "A spellcaster with an intense expression, clutching a radiant talisman that releases spectral audio ripples into the surrounding air, portrayed with luminous effects and sharp detail, digitally illustrated."
+caption: A conjurer channeling the power of a Siren's Call artifact to captivate their audience.
+orientation: Square
+artistic_value: Wondrous, style match
+descriptive_value: Object, character
+difficulties: None
+
+Given the limited budget, it's important to prioritize the sections that would benefit most from visual aids. The sections chosen above are likely to have the highest impact on the players' immersion and understanding of the conjurers' role, training, and interaction with artifacts.
+
+Retrieved at: 2024-01-02 19:12:27.906460
+Used: False
+Used: True

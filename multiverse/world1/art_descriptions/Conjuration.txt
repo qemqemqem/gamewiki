@@ -1,0 +1,44 @@
+## Overview
+
+visual_purpose: What does the interaction between different planes look like?
+ideas_for_art_content: A conjurer with arms raised, various ethereal entities and objects emerging from swirling portals around them.
+ideas_for_style: Sketch with vibrant colors to emphasize the otherworldly nature of the entities and objects.
+art_prompt: "A conjurer in the midst of summoning, with vibrant colors, dynamic, ethereal, done in watercolor and ink."
+art_prompt_detailed: "A robed figure with arms raised in a summoning gesture, surrounded by swirling portals of various sizes, from which fantastical creatures and shimmering objects emerge, all depicted with vibrant colors and dynamic strokes, created with watercolor and ink."
+caption: A Conjurer bridging the realms, summoning entities and objects from other planes.
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, event, narrative
+difficulties: Named characters, multipart, instructions unclear
+
+## Notable Conjurers
+
+visual_purpose: Who is Grimbeorn the Builder, and what might his magical constructs look like?
+ideas_for_art_content: Grimbeorn standing before a grand structure made of otherworldly materials, with a magical aura indicating his power.
+ideas_for_style: Detailed painting, reminiscent of classical fantasy art.
+art_prompt: "Grimbeorn the Builder in front of his magical constructs, majestic, intricate, powerful, done in oil painting."
+art_prompt_detailed: "A bearded mage dressed in a masterfully crafted robe stands before a grand, glowing structure composed of materials that seem to defy the laws of physics, with a magical aura encircling his hands, rendered in a majestic and intricate style, created with oil paints."
+caption: Grimbeorn the Builder, with his otherworldly architectural creations.
+orientation: Portrait
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, object, historical
+difficulties: Named characters, obscure style
+
+## Applications of Conjuration
+
+visual_purpose: How are the various applications of Conjuration manifested in the world?
+ideas_for_art_content: A collage or series of vignettes showing different applications: a summoned creature in battle, ethereal workers constructing a building, a silent conversation bubble, a teleportation circle, and researchers with a conjured artifact.
+ideas_for_style: A series of digital illustrations with a consistent style to unify the different applications.
+art_prompt: "A series of vignettes depicting the diverse applications of Conjuration, detailed, immersive, magical, done in digital art."
+art_prompt_detailed: "A collection of scenes including a fierce beast appearing on a battlefield, ghostly figures assisting in the construction of a tower, two individuals conversing within a bubble of silence, a glowing teleportation circle activated in a dense forest, and scholars examining a floating, glowing artifact, all depicted with attention to detail and a sense of immersion, created digitally."
+caption: The myriad applications of Conjuration magic, from warfare to discovery.
+orientation: Landscape
+artistic_value: Intricate design, fun, wondrous
+descriptive_value: Event, object, map, narrative
+difficulties: Named location, multipart
+
+Please note that the value ratings are harsh due to the limited budget, and the artistic and descriptive values are chosen to reflect the most significant aspects that the art would contribute to the article. The difficulties listed are considerations for the artist, who may need more detailed descriptions or clarifications to accurately depict the scenes.
+
+Retrieved at: 2024-01-02 19:09:22.806183
+Used: False
+Used: True

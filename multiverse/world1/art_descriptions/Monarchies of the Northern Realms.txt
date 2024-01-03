@@ -1,0 +1,53 @@
+## Geography
+visual_purpose: What do the diverse landscapes of the Northern Realms look like?
+ideas_for_art_content: A panoramic view showing the contrast between the Frostspire Mountains and the Verdant Woods, with the Crystal Sea in the distance and perhaps a castle or village indicative of a realm.
+ideas_for_style: Painting, with a fantasy-realism style to capture the magical essence of the landscapes.
+art_prompt: "The Frostspire Mountains towering over the lush Verdant Woods, with the shimmering Crystal Sea in the background, in a vibrant, detailed fantasy-realism painting."
+art_prompt_detailed: "Snow-capped towering peaks with jagged edges over a dense, green forest, with a sparkling sea in the background, depicted in a vibrant and detailed fantasy-realism painting."
+caption: The diverse landscapes of the Northern Realms, from the icy peaks to the verdant forests and the glistening sea.
+orientation: Landscape
+artistic_value: [landscape, wondrous, style match]
+descriptive_value: [location, background]
+difficulties: [named location]
+
+## Culture
+visual_purpose: What does cultural expression look like in the Northern Realms?
+ideas_for_art_content: A collage or a scene depicting Elves engaged in music and art, Dwarves showcasing their crafts, and a glimpse of the Fallen Temple of the Moon.
+ideas_for_style: Sketch, with a focus on intricate designs to highlight the cultural richness.
+art_prompt: "Elves playing ethereal music, Dwarves displaying masterful crafts, and the ruins of the Fallen Temple of the Moon, in an intricate sketch."
+art_prompt_detailed: "Graceful figures with pointed ears playing haunting melodies, stout artisans surrounded by their exquisite metalwork, and crumbled ancient pillars overgrown with vines, all captured in a detailed sketch."
+caption: The rich tapestry of cultural expression in the Northern Realms, from Elven music to Dwarven craftsmanship.
+orientation: Landscape
+artistic_value: [intricate design, interesting person, style match]
+descriptive_value: [person, object, historical]
+difficulties: [named characters, multipart]
+
+## Notable Monarchies
+visual_purpose: Who are the rulers and what are the landmarks of the notable monarchies?
+ideas_for_art_content: Portraits of the rulers of Alyndra, Morath, and Aesheron, with iconic landmarks like the Battlefield of Forgotten Kings in the background.
+ideas_for_style: Painting, with a semi-realistic style to capture the essence of each ruler and their domain.
+art_prompt: "Portraits of the rulers of Alyndra, Morath, and Aesheron, with the Battlefield of Forgotten Kings looming in the semi-realistic painting."
+art_prompt_detailed: "Regal figures adorned in royal attire, each with a distinct aura of power, with a haunting battlefield strewn with ancient armor and weapons in the background, all depicted in a semi-realistic painting."
+caption: The rulers of the most notable monarchies, set against the backdrop of their legendary lands.
+orientation: Portrait
+artistic_value: [interesting person, style match]
+descriptive_value: [person, location, historical]
+difficulties: [named characters, named location]
+
+## Challenges and Threats
+visual_purpose: What do the threats facing the monarchies look like?
+ideas_for_art_content: A dramatic scene showing Shade Wraiths emerging from the shadows, with a backdrop of a political council in session, hinting at internal strife.
+ideas_for_style: Computer graphics, to give a modern, dynamic feel to the supernatural and political elements.
+art_prompt: "Ethereal Shade Wraiths creeping out from the darkness, with a tense political council in session, rendered in dynamic computer graphics."
+art_prompt_detailed: "Ghostly, shadowy figures with menacing presence emerging from an abyss, juxtaposed with a group of stern-faced leaders engaged in heated debate, all depicted with modern computer graphics."
+caption: The dual threats of the Northern Realms: the spectral Shade Wraiths and the ever-present political intrigue.
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [monster, event]
+difficulties: [named characters, confusing]
+
+Please note that the value ratings are harsh due to the limited budget, and the suggestions are made with the assumption that not all sections will be illustrated. Prioritize the sections that will have the most impact on your players' immersion and understanding of the world.
+
+Retrieved at: 2024-01-02 19:06:57.174970
+Used: False
+Used: True

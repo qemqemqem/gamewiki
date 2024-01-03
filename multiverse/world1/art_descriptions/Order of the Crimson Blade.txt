@@ -1,0 +1,41 @@
+## Structure and Hierarchy
+visual_purpose: What does the hierarchy of the Order look like, and how do the different ranks visually distinguish themselves?
+ideas_for_art_content: The Crimson Lord in regal armor, High Commanders with distinct banners, Captains and Lieutenants in a council setting, Bladesmen in formation.
+ideas_for_style: Painting, with a style reminiscent of classical military portraits.
+art_prompt: "The Crimson Lord and High Commanders in a grand war room, with Captains and Lieutenants gathered, in a classical painting style, regal, commanding, done in oil on canvas."
+art_prompt_detailed: "A figure in ornate armor at the center of a grand, strategically detailed war room, surrounded by commanders with distinct banners, and a group of uniformed officers, in a classical painting style, regal and commanding, done in oil on canvas."
+caption: "The Hierarchy of the Order: From the Crimson Lord to the Bladesmen."
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design]
+descriptive_value: [person, object, historical, character, background]
+difficulties: [named characters, multipart]
+
+## Notable Engagements
+visual_purpose: What were the pivotal battles the Order fought in, and what did they look like?
+ideas_for_art_content: The Battlefield of Forgotten Kings with spectral remnants of past warriors, Stormhold Castle under siege with the Order's forces breaking the lines.
+ideas_for_style: Dynamic sketch, capturing the movement and chaos of battle.
+art_prompt: "The Order of the Crimson Blade at the Battlefield of Forgotten Kings, in a dynamic sketch style, chaotic, heroic, done in pencil."
+art_prompt_detailed: "Armored warriors with crimson cloaks clashing with enemies amidst ghostly echoes of ancient soldiers on a war-torn landscape, in a dynamic sketch style, chaotic and heroic, done in pencil."
+caption: "The Order's Valor: Turning the Tides at the Battlefield of Forgotten Kings."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, historical, story event, character, narrative]
+difficulties: [named location, multipart]
+
+## Relations with Other Orders
+visual_purpose: How does the Order interact with other groups, and what do these temporary alliances look like?
+ideas_for_art_content: Representatives of the Order and the Order of the Veiled Eye in a tense, yet respectful negotiation or joint mission planning.
+ideas_for_style: Computer graphics, with a focus on detail and the contrast between the different Orders' attire.
+art_prompt: "Members of the Order of the Crimson Blade and the Order of the Veiled Eye in strategic alliance talks, in a detailed computer graphic style, tense, collaborative, done digitally."
+art_prompt_detailed: "Figures in crimson armor and others shrouded in cloaks with obscured faces, standing over a map-laden table, in a detailed computer graphic style, tense and collaborative, done digitally."
+caption: "Alliance of Necessity: The Order and the Veiled Eye in Council."
+orientation: Portrait
+artistic_value: [appropriate style, intricate design]
+descriptive_value: [person, object, event, character, narrative]
+difficulties: [named characters, named location]
+
+Please note that the value of the art should be judged based on the impact it will have on the players' immersion and understanding of the world. Since the budget is limited, prioritize the pieces that will add the most to the players' experience.
+
+Retrieved at: 2024-01-02 19:03:50.941433
+Used: False
+Used: True

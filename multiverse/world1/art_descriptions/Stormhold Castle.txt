@@ -1,0 +1,41 @@
+## Architecture
+visual_purpose: What does the grandeur of Stormhold Castle's ancient architecture look like?
+ideas_for_art_content: The central keep (Heart of Stormhold) with its throne room and private chambers, surrounding courtyards, training grounds, gardens, and the Throne of the Mountain King.
+ideas_for_style: Painting, with a style reminiscent of high fantasy concept art to capture the epic scale and detail.
+art_prompt: "The Heart of Stormhold with towering spires and massive stone walls, in a high fantasy concept art style, majestic and ancient, done in digital painting"
+art_prompt_detailed: "A massive central keep with towering spires and thick stone walls, surrounded by various courtyards and lush gardens, in a high fantasy concept art style, majestic and ancient, depicted in digital painting"
+caption: The Heart of Stormhold, the architectural marvel of Stormhold Castle.
+orientation: Landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [location, object, background]
+difficulties: [named location, multipart]
+
+## Cultural Significance
+visual_purpose: What does the cultural heart of Stormhold Castle look like during a significant event?
+ideas_for_art_content: Scholars and wizards in the library, the Moonflower Festival in the gardens with moonflowers in bloom, visitors from various cultures.
+ideas_for_style: Sketch, with a lively and detailed style to show the vibrancy of the event.
+art_prompt: "The Moonflower Festival in the gardens of Stormhold Castle, in a lively sketch style, vibrant and detailed, done in pencil"
+art_prompt_detailed: "A bustling festival with rare moonflowers in bloom, scholars, wizards, and visitors from diverse cultures mingling in the castle's gardens, depicted in a lively and detailed sketch style, vibrant and intricate, created with pencil"
+caption: The Moonflower Festival, a time of cultural celebration within Stormhold Castle.
+orientation: Landscape
+artistic_value: [appropriate style, fun, exciting]
+descriptive_value: [event, character, background]
+difficulties: [named event, multipart]
+
+## Current Role
+visual_purpose: Who are the current key figures and what does the castle's role as a beacon of stability look like?
+ideas_for_art_content: Queen Alyndra in the throne room, the Crimson Lord overseeing the garrison, travelers along the Silk Road with the castle in the background.
+ideas_for_style: Painting, with a realistic and regal style to emphasize the importance of the characters and the castle's role.
+art_prompt: "Queen Alyndra presiding over the realm in the throne room, with the Crimson Lord and the garrison, in a realistic and regal style, done in oil painting"
+art_prompt_detailed: "A regal queen in royal attire sitting on a grand throne, with a commanding knight in armor nearby, and the silhouette of the castle's garrison against the backdrop of the castle, all depicted in a realistic and regal style, created with oil paints"
+caption: Queen Alyndra and the Crimson Lord, the guardians of peace in Stormhold Castle.
+orientation: Portrait
+artistic_value: [interesting person, appropriate style]
+descriptive_value: [person, character, narrative]
+difficulties: [named characters, named location]
+
+Given the limited budget, the "Architecture" section is likely the most valuable to illustrate, as it sets the scene for the entire castle and can be used across multiple contexts. The "Cultural Significance" section could also benefit from an illustration to show the vibrancy of the castle's cultural events. The "Current Role" section is less critical to illustrate due to budget constraints, as it focuses more on specific characters whose depictions might be more costly and less reusable.
+
+Retrieved at: 2024-01-02 19:03:03.945336
+Used: False
+Used: True

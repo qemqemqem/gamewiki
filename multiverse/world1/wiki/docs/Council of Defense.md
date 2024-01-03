@@ -8,6 +8,9 @@ The Council of Defense was established in the aftermath of the [War of the Shado
 
 ## Structure and Membership
 
+![Structure and Membership](../../images/Council%20of%20Defense_S_Structure%20and%20Membership.png)
+Notable members of the Council of Defense, including General Tharion and Lady Seraphine.
+
 The council's structure is designed to promote equal representation and to facilitate the swift mobilization of forces in times of crisis. Each member state appoints a councilor, typically a seasoned military leader or strategist, to represent its interests. The council is headed by a chairperson, a role that rotates among the member states on a biennial basis to maintain a balance of power.
 
 Notable members of the Council of Defense have included the likes of General [Tharion](Tharion.md) of the [Free Cities](Free%20Cities.md), whose tactical brilliance turned the tide in the [Battle of Broken Spears](Battle%20of%20Broken%20Spears.md), and Lady [Seraphine](Seraphine.md), the mastermind behind the fortifications of [Stormhold Castle](Stormhold%20Castle.md).

@@ -1,0 +1,27 @@
+## The Tower's Architecture
+visual_purpose: What does the Crystal Tower look like, and how does its magical architecture set it apart from ordinary buildings?
+ideas_for_art_content: The Crystal Tower with its shimmering spires, a view of the surrounding landscape, the inner light glowing from within, and possibly a mage or two in the foreground for scale.
+ideas_for_style: A painting with a fantastical and ethereal quality, reminiscent of classical high fantasy art.
+art_prompt: "The Crystal Tower with its spires reaching towards the sky, bathed in an ethereal glow, majestic and awe-inspiring, done in a classical painting style."
+art_prompt_detailed: "A towering structure with crystalline spires ascending into the clouds, emanating a soft inner light that illuminates the surrounding area, with robed figures standing before it, all depicted in a classical fantasy painting style."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, object, background
+difficulties: Named location, multipart
+
+## Notable Mages
+visual_purpose: Who are Morath the Wise and Theron of the Verdant Woods, and what do they look like?
+ideas_for_art_content: Portraits of Morath the Wise and Theron of the Verdant Woods, each with elements that reflect their magical specialties and historical significance.
+ideas_for_style: Detailed sketches or paintings that capture the character and essence of each mage.
+art_prompt: "Portraits of Morath the Wise with symbols of magical theory and Theron of the Verdant Woods surrounded by life magic, in a detailed and character-revealing style, done as sketches or paintings."
+art_prompt_detailed: "Portraits of a venerable mage adorned with arcane symbols and another mage cloaked in foliage and vibrant life energy, each captured in a style that highlights their mystical attributes, rendered as detailed sketches or classical paintings."
+orientation: Portrait
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, character
+difficulties: Named characters
+
+Given the limited budget, these two sections offer the most value in terms of adding visual depth to the article. The Tower's Architecture provides a grand, sweeping visual that can set the tone for the entire piece, while the Notable Mages section offers a more personal touch, giving faces to the names that have shaped the tower's history.
+
+Retrieved at: 2024-01-02 18:31:51.764206
+Used: False
+Used: True

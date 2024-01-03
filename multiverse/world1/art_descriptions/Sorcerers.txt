@@ -1,0 +1,41 @@
+## Origins and Nature
+visual_purpose: What do sorcerers draw their power from, and what does this mystical connection look like?
+ideas_for_art_content: A sorcerer with arcane symbols glowing on their skin, a dragon or celestial being in the background hinting at their lineage, a depiction of a magical experiment or divine blessing taking place.
+ideas_for_style: Painting, with a mystical and ethereal style, using vibrant colors to depict the magic.
+art_prompt: "A sorcerer with glowing arcane symbols on their skin, standing before a majestic dragon, in a mystical and vibrant painting style, capturing the essence of their magical lineage."
+art_prompt_detailed: "A figure with glowing symbols on their skin, standing before a large, majestic creature that seems to be made of stars and nebulae, in a mystical and vibrant painting style, capturing the essence of an otherworldly connection."
+caption: "A sorcerer channels their ancient, mystical lineage, as the ethereal form of a dragon looms behind them."
+orientation: Portrait
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Role in Society
+visual_purpose: How do sorcerers influence the world around them, and what is their place in society?
+ideas_for_art_content: A sorcerer advising a king in a grand throne room, a scene from the Mage Wars with sorcerers casting spells, a sorcerer turning the tide in the Battle of Broken Spears.
+ideas_for_style: Sketch, with a focus on dynamic action to depict the intensity of their roles.
+art_prompt: "A sorcerer advising a king in a grand throne room, with dynamic sketch lines, emphasizing the weight of their counsel."
+art_prompt_detailed: "A robed figure with an air of authority stands beside a throne, gesturing towards an open tome, with sketch lines that convey the gravity of their advice in a regal setting."
+caption: "A sorcerer provides counsel to the ruler of Stormhold Castle, their wisdom shaping the kingdom's fate."
+orientation: Landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, event, historical]
+difficulties: [named characters, named location]
+
+## Places of Power
+visual_purpose: What are the mystical locations that sorcerers are drawn to, and what do they look like?
+ideas_for_art_content: The Singing Willows with sorcerers studying the trees, the Verdant Woods with a thin veil between worlds, a hidden temple with sorcerers in meditation or study.
+ideas_for_style: Painting, with a focus on lush, natural landscapes and a touch of the fantastical.
+art_prompt: "Sorcerers studying the enigmatic Singing Willows in a lush, fantastical painting, capturing the allure of these magical trees."
+art_prompt_detailed: "Figures in robes gather around towering willow trees that seem to hum with energy, in a painting that blends the natural and the magical, highlighting the trees' allure."
+caption: "Sorcerers seek the arcane secrets of the Singing Willows, a place of great power and mystery."
+orientation: Landscape
+artistic_value: [landscape, wondrous, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location]
+
+Given the limited budget, it would be wise to prioritize the art pieces that would add the most value to the understanding and immersion of the players. The "Origins and Nature" section could benefit greatly from a visual representation, as it sets the foundation for what sorcerers are and where their powers originate. The "Places of Power" section is also a strong candidate, as it can help players visualize important locations that are central to the lore of sorcerers. The "Role in Society" section might be less critical, as it describes the impact of sorcerers rather than their intrinsic qualities or settings.
+
+Retrieved at: 2024-01-02 18:45:49.972437
+Used: False
+Used: True

@@ -4,6 +4,9 @@ Shade Wraiths are enigmatic and spectral entities that have permeated the folklo
 
 ## Origins and Nature
 
+![Origins and Nature](../../images/Shade%20Wraiths_S_Origins%20and%20Nature.png)
+"A Shade Wraith materializes from the remnants of the Age of Twilight, surrounded by ancient magic.
+
 The true origins of the Shade Wraiths are shrouded in mystery. Some scholars of the arcane, particularly the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), speculate that Shade Wraiths are the result of powerful magical experiments conducted by the Ancients. Others believe they are the souls of those who were bound to protect sacred sites and treasures beyond their mortal lives. Despite numerous theories, their exact nature remains a topic of debate and fascination among [Wizards](Wizards.md), historians, and [occult researchers](Order of the Veiled Eye.md).
 
 ## Characteristics

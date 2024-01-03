@@ -1,0 +1,49 @@
+## Prelude to War
+visual_purpose: What did the world look like during the Age of Wonders before the Ancient War?
+ideas_for_art_content: Depict a bustling city of the Ancients with advanced magical and technological wonders, citizens of various races coexisting, grand architecture, and a sense of impending conflict.
+ideas_for_style: Painting, with a style reminiscent of classical epic fantasy art to capture the grandeur and scale.
+art_prompt: "A panoramic view of an Ancient city in the Age of Wonders, with grandiose architecture and a vibrant populace, in a classical epic fantasy painting style, majestic and detailed, done in oil on canvas."
+art_prompt_detailed: "A panoramic view of a bustling city with grand spires and advanced magical artifacts, citizens of various fantastical races coexisting, in a classical epic fantasy painting style, majestic and detailed, done in oil on canvas."
+orientation: Landscape
+artistic_value: Wondrous, intricate design
+descriptive_value: Location, background, historical
+difficulties: Named location, multipart
+
+## The Conflict
+visual_purpose: How intense and devastating were the magical battles during the Ancient War?
+ideas_for_art_content: Illustrate a scene of a cataclysmic battle with Ancients wielding powerful magic, elemental storms, and the landscape being reshaped.
+ideas_for_style: Dynamic sketch or computer graphics to capture the movement and energy of the battle.
+art_prompt: "Ancients locked in a fierce magical battle, with elemental storms and the landscape altering around them, in a dynamic and energetic style, chaotic and powerful, done as a digital painting."
+art_prompt_detailed: "Mystical beings wielding powerful spells, with lightning storms and mountains being formed or destroyed in the background, in a dynamic and energetic style, chaotic and powerful, done as a digital painting."
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Event, monster, character
+difficulties: Named characters, multipart, confusing
+
+### Notable Battles and Sites
+visual_purpose: What are the key locations that hold historical significance from the Ancient War?
+ideas_for_art_content: Create a series of smaller illustrations for each notable site, showing the Battlefield of Forgotten Kings with statues and relics, the Fallen Temple of the Moon in ruins, and the Verdant Woods untouched by war.
+ideas_for_style: A mix of sketch and watercolor to give each site a distinct feel and emotional weight.
+art_prompt: "A series of illustrations depicting the Battlefield of Forgotten Kings with ghostly echoes of the past, the Fallen Temple of the Moon in desolate ruins, and the Verdant Woods in serene contrast, each in a mix of sketch and watercolor, evocative and atmospheric, done on paper."
+art_prompt_detailed: "A series of illustrations showing a battlefield with weathered statues and forgotten relics, a once-holy temple now in ruins, and a lush forest untouched by war's corruption, each in a mix of sketch and watercolor, evocative and atmospheric, done on paper."
+orientation: Portrait or square for each illustration
+artistic_value: Intricate design, appropriate style
+descriptive_value: Location, object, map, historical
+difficulties: Named location, multipart
+
+## Aftermath and Legacy
+visual_purpose: What does the world look like after the Ancient War, and how do people commemorate it?
+ideas_for_art_content: A collage or montage showing the rise of new powers, people gathering at memorials, and artists creating works inspired by the war.
+ideas_for_style: A painting with a style that blends realism with a touch of fantasy to show the world's transformation and the cultural impact.
+art_prompt: "A collage depicting the rise of new kingdoms, communities honoring the fallen, and artists inspired by the war, in a blend of realism and fantasy, reflective and poignant, done in acrylic."
+art_prompt_detailed: "A collage showing the emergence of new powers from the ruins, people gathered at memorials for the fallen, and various forms of art being created in remembrance, in a blend of realism and fantasy, reflective and poignant, done in acrylic."
+orientation: Landscape
+artistic_value: Interesting person, appropriate style
+descriptive_value: Person, event, historical, narrative
+difficulties: Named characters, named location, multipart
+
+Given the limited budget, it might be best to prioritize the sections that offer the most descriptive value and artistic impact. The "Prelude to War" and "The Conflict" sections seem particularly valuable for setting the scene and mood of the campaign. The "Notable Battles and Sites" could be simplified into one representative image to save costs. The "Aftermath and Legacy" section could be depicted through a single powerful image that encapsulates the new era and its remembrance of the past.
+
+Retrieved at: 2024-01-02 18:33:01.315193
+Used: False
+Used: True

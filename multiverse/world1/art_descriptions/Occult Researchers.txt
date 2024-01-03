@@ -1,0 +1,53 @@
+## History and Purpose
+visual_purpose: What did the Great Library of Eldara and the Fallen Temple of the Moon look like?
+ideas_for_art_content: The Great Library with scholars studying ancient texts, the Fallen Temple of the Moon with researchers examining ruins.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art.
+art_prompt: "Scholars in the Great Library of Eldara, surrounded by towering bookshelves and ancient tomes, in a classical fantasy style, detailed and atmospheric, done in oil painting"
+art_prompt_detailed: "Researchers surrounded by towering shelves filled with old books and scrolls, in a grand hall with arched windows, in a classical fantasy style, detailed and atmospheric, done in oil painting"
+caption: Scholars study in the Great Library of Eldara, amidst the remnants of ancient knowledge.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, intricate design, wondrous]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, multipart]
+
+## Notable Occult Researchers
+visual_purpose: Who are Theron of the Verdant Woods and Morath the Wise, and what might they look like?
+ideas_for_art_content: Portraits of Theron and Morath, possibly with a background that hints at their areas of expertise or their fates.
+ideas_for_style: Sketch, detailed pencil drawings with a focus on character.
+art_prompt: "Portrait of Theron of the Verdant Woods with a backdrop of ancient ruins, in detailed pencil sketch, insightful and character-rich, done in graphite"
+art_prompt_detailed: "Portrait of a wise-looking individual with a backdrop of overgrown ancient ruins, in detailed pencil sketch, insightful and character-rich, done in graphite"
+caption: Theron of the Verdant Woods, the legendary occult researcher known for his detailed writings.
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, character]
+difficulties: [named characters]
+
+## Research Areas
+visual_purpose: What do the Caverns of Echo and the Ruins of Eldara look like?
+ideas_for_art_content: The Caverns of Echo with researchers mapping the area, the Ruins of Eldara with a focus on the architecture and artifacts.
+ideas_for_style: Computer graphics, to allow for a detailed and realistic depiction of the environments.
+art_prompt: "Explorers mapping the Caverns of Echo, with luminescent fungi and echoing chambers, in a realistic style, immersive and mysterious, done in digital art"
+art_prompt_detailed: "Researchers with parchment and compass in a vast cave system with glowing fungi and reverberating chambers, in a realistic style, immersive and mysterious, done in digital art"
+caption: Occult researchers map the enigmatic Caverns of Echo, a site of many ancient secrets.
+orientation: Landscape
+artistic_value: [landscape, intricate design, wondrous]
+descriptive_value: [location, event, background]
+difficulties: [named location, multipart]
+
+## Impact on the World
+visual_purpose: How do occult researchers influence the world and its defense against arcane threats?
+ideas_for_art_content: A council meeting with occult researchers presenting findings, a battle scene where their knowledge is being used to counter a threat.
+ideas_for_style: Painting, with a dynamic and dramatic composition.
+art_prompt: "Occult researchers advising the Council of Defense, with a tense atmosphere, in a dramatic composition, done in watercolor"
+art_prompt_detailed: "Scholars presenting ancient artifacts and scrolls to a council of armored figures in a grand hall, with a tense atmosphere, in a dramatic composition, done in watercolor"
+caption: Occult researchers provide crucial knowledge to the Council of Defense during times of supernatural danger.
+orientation: Landscape
+artistic_value: [appropriate style, exciting, style match]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, named location, multipart]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the campaign world.
+
+Retrieved at: 2024-01-02 18:43:39.975241
+Used: False
+Used: True

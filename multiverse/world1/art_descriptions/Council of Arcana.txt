@@ -1,0 +1,29 @@
+## Structure and Membership
+visual_purpose: What does the esteemed Council of Arcana look like, and who are its members?
+ideas_for_art_content: Depict the archmages in their regal attire, with Morath the Wise at the center. The background could be the interior of the Crystal Tower, with magical artifacts and tomes visible.
+ideas_for_style: A painting style reminiscent of classical fantasy art, with rich colors and attention to detail.
+art_prompt: "The archmages of the Council of Arcana, led by Morath the Wise, gathered in the Crystal Tower, in a classical fantasy style, regal, detailed, done in oil painting."
+art_prompt_detailed: "A group of wise and powerful mages, adorned in elaborate robes, standing in a grand tower filled with magical books and artifacts, painted in a classical fantasy style with rich colors and meticulous attention to detail, rendered in oil on canvas."
+caption: The Council of Arcana convenes within the Crystal Tower, led by the venerable Morath the Wise.
+orientation: landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [location, person, object, historical, character, background]
+difficulties: [named characters, named location, multipart]
+
+## Contributions to the Realm
+visual_purpose: How has the Council of Arcana positively impacted the realm?
+ideas_for_art_content: Illustrate the Council's mages casting protective spells over the Fields of Golden Grain, with the Silk Road and trade caravans in the background.
+ideas_for_style: A vibrant and dynamic painting that captures the magic and prosperity brought by the Council.
+art_prompt: "Mages of the Council of Arcana casting spells over the Fields of Golden Grain, with the Silk Road in the background, in a vibrant, dynamic style, done in watercolor."
+art_prompt_detailed: "Robed spellcasters weaving enchantments above lush, golden fields, with a bustling trade route and merchant caravans in the distance, depicted in a lively and colorful style, executed in watercolor."
+caption: The Council's mages protect the Fields of Golden Grain, ensuring the prosperity of the realm's trade and agriculture.
+orientation: landscape
+artistic_value: [landscape, interesting person, intricate design, exciting]
+descriptive_value: [location, person, event, character, narrative]
+difficulties: [named location, multipart]
+
+Given the limited budget, these two sections seem to offer the most value in terms of both artistic and descriptive qualities. They provide a visual representation of key aspects of the Council of Arcana, its members, and its impact on the realm. The difficulties listed are considerations for the artist, who will need to create detailed and multipart scenes based on the descriptions provided.
+
+Retrieved at: 2024-01-02 18:52:03.506238
+Used: False
+Used: True

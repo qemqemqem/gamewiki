@@ -1,0 +1,41 @@
+## History
+visual_purpose: What did the aftermath of the Mage Wars look like, and how did the Keepers arise from it?
+ideas_for_art_content: A chaotic battlefield with residual magical energies dissipating, a group of robed figures gathering ancient texts amidst the ruins.
+ideas_for_style: Painting, with a dramatic and somewhat dark atmosphere to convey the gravity of the situation.
+art_prompt: "A group of robed scholars collecting scattered tomes on a war-torn battlefield, in a dramatic and dark oil painting style, evocative, somber, done in oils."
+art_prompt_detailed: "A group of robed figures with an emblem of a book and quill collecting scattered, glowing tomes on a battlefield littered with magical residue and debris, in a dramatic and dark oil painting style, evocative, somber, done in oils."
+caption: "The founding of the Keepers of the Eldara Codex in the aftermath of the Mage Wars."
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Structure and Hierarchy
+visual_purpose: What does the hierarchy of the Keepers look like, and how do they interact within the Great Library of Eldara?
+ideas_for_art_content: A cross-section of the Great Library with different Keepers in their respective roles; Archivists restoring texts, Lorekeepers studying, Sentinels guarding, and Initiates training.
+ideas_for_style: Sketch, detailed line art to clearly define the different areas and activities within the library.
+art_prompt: "Cross-section of a grand library with Keepers in various roles, in detailed line art, intricate, bustling, done in pencil."
+art_prompt_detailed: "Cross-section of a grand, multi-tiered library with figures in robes and armor performing tasks such as restoring texts, studying ancient scrolls, guarding entrances, and receiving instruction, in detailed line art, intricate, bustling, done in pencil."
+caption: "The hierarchy of the Keepers of the Eldara Codex within the Great Library."
+orientation: Portrait
+artistic_value: [intricate design, style match]
+descriptive_value: [location, person, object, narrative]
+difficulties: [named location, multipart]
+
+## Mysteries and Secrets
+visual_purpose: What do the forbidden vaults containing dangerous texts and relics look like?
+ideas_for_art_content: A shadowy vault with a Sentinel standing guard over ominous-looking tomes and artifacts, some emitting a faint glow or sealed with chains and magical wards.
+ideas_for_style: Computer graphics, to achieve a high level of detail and a sense of otherworldly magic.
+art_prompt: "Shadowy vault guarded by a Sentinel, with glowing forbidden tomes and sealed relics, in a detailed CG style, mysterious, foreboding, done in digital art."
+art_prompt_detailed: "A dimly lit, stone-walled vault with a figure in ornate armor standing guard over shelves of ancient, glowing books and chained artifacts, surrounded by magical wards, in a detailed CG style, mysterious, foreboding, done in digital art."
+caption: "The secret vault of the Keepers, where forbidden knowledge is safely contained."
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, object, narrative]
+difficulties: [named characters, obscure style]
+
+Given the limited budget, these three sections offer the most narrative and visual value for art inclusion. They provide a mix of historical context, insight into the organization's structure, and a glimpse into the secretive aspect of the Keepers, which can enhance the players' immersion in the world.
+
+Retrieved at: 2024-01-02 18:51:21.223806
+Used: False
+Used: True

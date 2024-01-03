@@ -1,0 +1,44 @@
+## Role in the Ancient War
+
+visual_purpose: What did Morath the Wise look like when he was casting his protective enchantments during the Ancient War?
+ideas_for_art_content: Morath the Wise in the midst of battle, casting a spell with glowing runes, the Elves of the Verdant Woods in the background, and dark, ominous figures of the Ancients in the distance.
+ideas_for_style: A dynamic painting with a focus on light and shadow to emphasize the magical energy and the tension of war.
+art_prompt: "Morath the Wise casting protective spells in the Verdant Woods, with a dramatic interplay of light and shadow, vibrant and dynamic, done in oil painting"
+art_prompt_detailed: "A robed wizard with a wise and determined expression casting spells with glowing runes, in a lush forest setting, with a dramatic interplay of light and shadow, vibrant and dynamic, done in oil painting"
+caption: Morath the Wise casting his legendary enchantments to protect the Elves during the Ancient War.
+orientation: landscape
+artistic_value: exciting, style match
+descriptive_value: person, event, historical, narrative
+difficulties: named characters, multipart
+
+## The Journey to Eldara
+
+visual_purpose: How did the Ruins of Eldara look when Morath discovered the Well of Stars?
+ideas_for_art_content: Morath standing before the ancient and mysterious Well of Stars, surrounded by crumbling ruins and celestial imagery.
+ideas_for_style: A detailed sketch that captures the intricate designs of the ruins and the ethereal quality of the Well of Stars.
+art_prompt: "Morath the Wise at the Well of Stars in the Ruins of Eldara, with an intricate and ethereal style, mysterious, done in pencil sketch"
+art_prompt_detailed: "A robed wizard standing before an ancient, stone observatory with celestial motifs, surrounded by crumbling structures, with an intricate and ethereal style, mysterious, done in pencil sketch"
+caption: Morath the Wise uncovering the secrets of the Well of Stars in the Ruins of Eldara.
+orientation: portrait
+artistic_value: wondrous, intricate design
+descriptive_value: person, location, object, historical, narrative
+difficulties: named location, intricate design
+
+## Disappearance and Myth
+
+visual_purpose: What might the moment of Morath's disappearance or ascension have looked like?
+ideas_for_art_content: Morath stepping through a mystical portal or being enveloped in a radiant light, with symbols and artifacts of his life's work around him.
+ideas_for_style: A computer graphic that captures a surreal and otherworldly moment, blending reality with the mythical.
+art_prompt: "Morath the Wise in the moment of his mysterious disappearance, surreal and radiant, done in digital art"
+art_prompt_detailed: "A robed wizard stepping through a mystical portal or being enveloped in radiant light, with arcane symbols and artifacts around, surreal and radiant, done in digital art"
+caption: The enigmatic departure of Morath the Wise, as he steps into legend.
+orientation: square
+artistic_value: wondrous, exciting
+descriptive_value: person, event, narrative
+difficulties: named characters, obscure style
+
+Given the limited budget, these sections were chosen for their potential to visually capture key moments in Morath's life that are rich in narrative and historical significance. The artistic value and descriptive value are rated with the understanding that these images would add depth to the storytelling and enhance the reader's immersion in the world. However, the difficulties reflect the challenges in creating these pieces, such as depicting named characters and intricate designs, which may impact the budget.
+
+Retrieved at: 2024-01-02 18:57:25.582045
+Used: False
+Used: True

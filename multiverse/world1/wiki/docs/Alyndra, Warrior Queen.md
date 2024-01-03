@@ -10,6 +10,9 @@ Her ascension to power was marked by a series of trials that tested her mettle b
 
 ## Role in the Ancient War
 
+![Role in the Ancient War](../../images/Alyndra%2C%20Warrior%20Queen_S_Role%20in%20the%20Ancient%20War.png)
+Alyndra, the Warrior Queen, leading her allies and troops into the heart of the Ancient War.
+
 The [Ancient War](Ancient%20War.md) brought forth a darkness that threatened to engulf [Aesheron](Aesheron.md) in chaos. Alyndra's leadership was instrumental in rallying the northern tribes against this common enemy. Her ability to unite disparate groups under a single banner was unprecedented, and it provided a much-needed front against the encroaching shadows.
 
 Alyndra's collaboration with other key figures of the time, such as [Morath the Wise](Morath%20the%20Wise.md) and [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md), created a formidable alliance. Her strategic acumen complemented Morath's sorcery and Theron's knowledge of the natural world, forming a triad of power that was crucial in several pivotal battles.

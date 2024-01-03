@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the Grand Cavern look like, and how is it illuminated by enchanted crystals?
+ideas_for_art_content: The Grand Cavern with its high ceilings, the Throne of the Mountain King, dwarves going about their tasks, and the glow from the crystals.
+ideas_for_style: Painting, with a focus on the fantastical elements and the grandeur of the cavern.
+art_prompt: "The Throne of the Mountain King in the Grand Cavern, majestic and luminous, in a high fantasy painting style, with dwarves and glowing crystals, done in oil on canvas."
+art_prompt_detailed: "A grand throne made of stone and precious metals, situated in an immense underground chamber with high ceilings, illuminated by the glow of magical crystals, with figures of dwarves in traditional garb, painted in a high fantasy style, using oil on canvas."
+caption: The Grand Cavern of the Dwarven Mines, illuminated by enchanted crystals with the Throne of the Mountain King.
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, multipart]
+
+## Economy
+visual_purpose: How do the dwarves trade their goods, and what might these goods look like?
+ideas_for_art_content: Caravans on the Silk Road, ships on the Sea Merchant's Path, dwarven goods like jewelry and weapons, and the bustling trade within the mines.
+ideas_for_style: Sketch, detailed pencil drawing to capture the intricacies of dwarven craftsmanship.
+art_prompt: "Dwarven caravans and ships laden with crafted goods, in a detailed pencil sketch, intricate and lively, done on textured paper."
+art_prompt_detailed: "Caravans of stout wagons pulled by beasts of burden and ships with billowing sails, both laden with finely crafted dwarven goods such as ornate jewelry and robust weapons, depicted in a detailed pencil sketch, showcasing the intricacies of the craftsmanship, on textured paper."
+caption: Dwarven trade caravans and ships carrying precious metals and gems from the Dwarven Mines.
+orientation: Landscape
+artistic_value: [intricate design, interesting person]
+descriptive_value: [object, event, story event]
+difficulties: [none]
+
+## Defense
+visual_purpose: What do the defenses of the Dwarven Mines look like, and how might they function?
+ideas_for_art_content: The fortified entrances, members of the Order of the Crimson Blade, the ancient runes, and the traps and defenses.
+ideas_for_style: Computer graphics, to depict the complexity and mechanical nature of the defenses.
+art_prompt: "Fortified mine entrance guarded by the Order of the Crimson Blade, with ancient runes and hidden defenses, in a detailed CG rendering, imposing and secure, done in 3D modeling software."
+art_prompt_detailed: "A massive stone entrance reinforced with iron, guarded by armored dwarven warriors bearing the insignia of the Order of the Crimson Blade, with mystical runes etched into the doorway and hints of concealed mechanical traps, rendered in a detailed computer graphic, giving a sense of imposing security, created with 3D modeling software."
+caption: The heavily fortified entrance of the Dwarven Mines, guarded by the Order of the Crimson Blade.
+orientation: Portrait
+artistic_value: [exciting, style match]
+descriptive_value: [location, person, object, historical]
+difficulties: [named characters, multipart]
+
+Please note that the value ratings are harsh due to budget constraints, and the suggestions are made with the understanding that not all sections may receive artwork. The chosen sections are those that would benefit most from visual representation to enhance the reader's immersion and understanding of the Dwarven Mines.
+
+Retrieved at: 2024-01-02 19:00:31.208466
+Used: False
+Used: True

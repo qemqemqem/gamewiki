@@ -1,0 +1,54 @@
+## Geography
+visual_purpose: What does the landscape of Silverlake Valley look like?
+ideas_for_art_content: A panoramic view of the valley, showing the Crystal Lake, the verdant hills, the Frostspire Mountains in the distance, and the Great Library of Eldara at the edge.
+ideas_for_style: Painting, with a fantasy-realism style that captures the enchanting atmosphere of the valley.
+art_prompt: "Panoramic view of Silverlake Valley with Crystal Lake in the foreground, surrounded by lush hills and the Frostspire Mountains in the distance, in a fantasy-realism style, serene and captivating, done in digital painting."
+art_prompt_detailed: "A wide view of a serene valley with a clear, shimmering lake in the foreground, surrounded by lush green hills and distant snow-capped mountains, in a fantasy-realism style, serene and captivating, done in digital painting."
+caption: Panoramic view of Silverlake Valley, showcasing its enchanting geography.
+orientation: landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, background]
+difficulties: [none]
+
+## History
+visual_purpose: What remnants of the past can be seen in Silverlake Valley?
+ideas_for_art_content: The Ruins of Eldara with crumbling walls and overgrown vegetation, perhaps with a ghostly figure of Morath the Wise pondering by the lake.
+ideas_for_style: Sketch, with an ethereal and aged look to emphasize the historical aspect.
+art_prompt: "The Ruins of Eldara with overgrown courtyards and a spectral figure of Morath the Wise by the lake, in an ethereal sketch style, haunting and historical, done in pencil."
+art_prompt_detailed: "Ancient, crumbling structures overtaken by nature, with a ghostly figure of a wise person deep in thought by the water's edge, in an ethereal sketch style, haunting and historical, done in pencil."
+caption: The Ruins of Eldara, where Morath the Wise once sought the universe's secrets.
+orientation: landscape
+artistic_value: [interesting person, intricate design, historical]
+descriptive_value: [location, person, historical, narrative]
+difficulties: [named characters]
+
+## Settlements and Structures
+### Stormhold Castle
+visual_purpose: What does the formidable Stormhold Castle look like?
+ideas_for_art_content: Stormhold Castle atop a craggy hill, with banners flying and perhaps a knight or two standing guard.
+ideas_for_style: Computer graphics, with a strong attention to detail to highlight the castle's defensive features.
+art_prompt: "Stormhold Castle on a craggy hill, with banners and guards, in a detailed computer graphic style, imposing and steadfast, done in 3D rendering."
+art_prompt_detailed: "An ancient fortress on a rugged hilltop, with colorful banners and armored figures on watch, in a detailed computer graphic style, imposing and steadfast, done in 3D rendering."
+caption: Stormhold Castle, the ancient bastion of defense for Silverlake Valley.
+orientation: portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [location, person, object, historical]
+difficulties: [none]
+
+## Flora and Fauna
+visual_purpose: What unique wildlife and plants inhabit Silverlake Valley?
+ideas_for_art_content: A scene with the Fields of Golden Grain, the toxic Gardens of Nightshade, and Singing Willows in the sky.
+ideas_for_style: Watercolor painting, to give a soft and natural feel to the diverse life in the valley.
+art_prompt: "Fields of Golden Grain with the perilous Gardens of Nightshade and Singing Willows in the sky, in a soft watercolor style, vibrant and alive, done in watercolor painting."
+art_prompt_detailed: "Expansive fields of tall, golden crops with a dangerous garden of toxic plants and melodious birds flying overhead, in a soft watercolor style, vibrant and alive, done in watercolor painting."
+caption: The diverse flora and fauna of Silverlake Valley, from the nourishing grains to the perilous nightshades.
+orientation: landscape
+artistic_value: [landscape, appropriate style, fun]
+descriptive_value: [location, monster, character, background]
+difficulties: [none]
+
+Given the limited budget, it's important to prioritize the art that will add the most value to the players' experience. The "Geography" section is a prime candidate for artwork, as it sets the scene for the entire campaign and can be referred back to frequently. The "History" and "Settlements and Structures" sections also offer high descriptive value, providing context and depth to the locations the players will explore. The "Flora and Fauna" section could be lower priority unless specific creatures or plants are central to the campaign's plot or setting.
+
+Retrieved at: 2024-01-02 19:14:10.415267
+Used: False
+Used: True

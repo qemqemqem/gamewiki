@@ -1,0 +1,41 @@
+## History
+visual_purpose: What did the cities look like during the Age of Twilight?
+ideas_for_art_content: Ruins of old empires, the first banners of the Free Cities being raised, people celebrating their newfound independence.
+ideas_for_style: Painting, with a style reminiscent of classical historical paintings.
+art_prompt: "The ruins of an ancient empire with the first banners of the Free Cities being raised, in a classical historical painting style, evocative, detailed, done in oil on canvas."
+art_prompt_detailed: "The crumbling stone structures of a fallen empire under a twilight sky, with vibrant banners bearing new emblems being hoisted by a diverse group of people, in a classical historical painting style, evocative, detailed, done in oil on canvas."
+caption: The dawn of the Free Cities era, as they rise from the ruins of the Ancient War.
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [historical, story event]
+difficulties: [named location, multipart]
+
+## Culture
+visual_purpose: What does the cultural melting pot of the Free Cities look like?
+ideas_for_art_content: A bustling city square with various cultural groups, artists, scholars, and explorers sharing their crafts and knowledge.
+ideas_for_style: Sketch, with a lively and dynamic feel to capture the energy of the scene.
+art_prompt: "A bustling city square in a Free City, in a lively sketch style, dynamic, multicultural, done in pencil."
+art_prompt_detailed: "A vibrant city square teeming with people from diverse backgrounds, artists painting, scholars debating, and explorers trading tales, all sketched in a dynamic, energetic style, using pencil on paper."
+caption: The vibrant cultural exchange in the heart of a Free City.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun]
+descriptive_value: [person, object, event, character, background, narrative]
+difficulties: [none]
+
+## Notable Free Cities
+visual_purpose: What makes each notable Free City unique and worth visiting?
+ideas_for_art_content: A triptych featuring Silverlake Valley's serene landscape, The Shrouded City's mystical mist, and Crystal Lake's healing waters.
+ideas_for_style: Watercolor, to give a dreamy and enchanting quality to each unique city.
+art_prompt: "A triptych of Silverlake Valley, The Shrouded City, and Crystal Lake, in a dreamy watercolor style, serene, mystical, enchanting, done in watercolor."
+art_prompt_detailed: "A three-part painting showing a valley with a reflective lake and tranquil surroundings, a city enshrouded in mist with shadowy figures, and a lakeside city with crystal-clear waters and people bathing, all rendered in a dreamy, enchanting watercolor style."
+caption: The distinct charms of Silverlake Valley, The Shrouded City, and Crystal Lake.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, background]
+difficulties: [named location]
+
+Given the limited budget, it would be wise to prioritize sections that offer the most narrative or visual impact. The "History" and "Notable Free Cities" sections are prime candidates for artwork, as they can help players visualize key aspects of the world and feel more connected to the setting. The "Culture" section could also benefit from an illustration to convey the diversity and vibrancy of the Free Cities.
+
+Retrieved at: 2024-01-02 18:50:34.909324
+Used: False
+Used: True

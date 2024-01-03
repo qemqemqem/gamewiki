@@ -4,6 +4,9 @@ Conjuration is one of the most complex and fascinating schools of magic within t
 
 ## Overview
 
+![Overview](../../images/Conjuration_S_Overview.png)
+A Conjurer bridging the realms, summoning entities and objects from other planes.
+
 The art of Conjuration is primarily focused on the interaction with other planes. These planes are vast and varied, each with its own set of rules and inhabitants. The skill of a Conjurer lies in their knowledge of these planes and their ability to navigate and negotiate with the entities that reside within them.
 
 ### Subschools of Conjuration

@@ -18,6 +18,9 @@ While many believe the caverns to be uninhabited, save for the echoing voices of
 
 ### The Whispering Hall
 
+![The Whispering Hall](../../images/Caverns%20of%20Echo_S_The%20Whispering%20Hall.png)
+The Whispering Hall, where the history of the mountains is said to be spoken by the walls.
+
 At the heart of the Caverns of Echo lies the Whispering Hall, a vast chamber where the echoes converge. It is said that one can hear the history of the mountains whispered by the walls, though few have been able to decipher the tales.
 
 ### The Crystal Lake

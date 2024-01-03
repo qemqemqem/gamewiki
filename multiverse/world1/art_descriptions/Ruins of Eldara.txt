@@ -1,0 +1,44 @@
+## The Great Library
+
+visual_purpose: What did the Great Library look like in its prime, and how does it appear now in its ruined state?
+ideas_for_art_content: A juxtaposition of the library's former glory and its current ruinous state, with visible remnants of bookshelves, scattered ancient tomes, and perhaps ghostly echoes of scholars past.
+ideas_for_style: A painting with a style that captures the contrast between past and present, perhaps using a split view or ghostly overlays.
+art_prompt: "The Great Library of Eldara, split between its majestic past and overgrown present, in a hauntingly detailed painting, evoking a sense of lost knowledge."
+art_prompt_detailed: "A grand library hall, split down the middle, with one side showing intact shelves filled with books and scrolls, illuminated by magical light, and the other side depicting the same shelves toppled and overgrown with vines, in a dim, mysterious light."
+caption: "The Great Library of Eldara: A Glimpse Through Time."
+orientation: landscape
+artistic_value: [wondrous, intricate design]
+descriptive_value: [location, historical, background]
+difficulties: [named location, multipart]
+
+## The Skyward Temples
+
+visual_purpose: How did the Skyward Temples align with celestial bodies, and what is their current condition?
+ideas_for_art_content: The temples reaching towards the night sky with constellations visible above, perhaps with a magical aura or light indicating the alignment. The current state could show the temples in ruins but still with a clear view of the stars.
+ideas_for_style: A mystical painting style that emphasizes the connection between the temples and the cosmos.
+art_prompt: "The Skyward Temples reaching towards a starry sky, in a mystical painting style, with an ethereal and ancient atmosphere."
+art_prompt_detailed: "Elevated ruins of ancient sanctuaries with broken pillars and arches, under a clear night sky filled with stars, with faint magical lines suggesting alignment with specific constellations."
+caption: "The Skyward Temples: Ruins Aligned with the Heavens."
+orientation: landscape
+artistic_value: [wondrous, exciting]
+descriptive_value: [location, historical, narrative]
+difficulties: [named location]
+
+## Inhabitants
+
+visual_purpose: What do the Shade Wraiths look like, and how do they interact with the environment of the ruins?
+ideas_for_art_content: A depiction of a Shade Wraith, ethereal and menacing, drifting through the ruins, perhaps with a background of the ruins to provide context.
+ideas_for_style: A sketch or computer graphics rendering that captures the eerie and spectral nature of the Shade Wraiths.
+art_prompt: "A Shade Wraith gliding through the Ruins of Eldara, in a chilling sketch style, ghostly and foreboding."
+art_prompt_detailed: "A translucent, shadowy figure with tattered robes and a vague semblance of a face, hovering above the ground amidst the broken columns and archways of an ancient city."
+caption: "Shade Wraith: Guardian of Eldara's Secrets."
+orientation: portrait
+artistic_value: [interesting person, wondrous]
+descriptive_value: [person, monster, background]
+difficulties: [named characters]
+
+Given the limited budget, it may be best to prioritize the artwork that offers the highest descriptive value and artistic impact. The Great Library and The Skyward Temples are likely to be the most visually compelling and informative for the players, while the Inhabitants section could be lower priority unless the Shade Wraiths play a significant role in the campaign.
+
+Retrieved at: 2024-01-02 19:05:05.250062
+Used: False
+Used: True

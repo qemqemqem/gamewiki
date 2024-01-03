@@ -1,0 +1,55 @@
+## Origins and Nature
+visual_purpose: What do Shade Wraiths look like, and what is their connection to the ancient world?
+ideas_for_art_content: A Shade Wraith emerging from an ancient tome or relic, surrounded by arcane symbols and ethereal wisps.
+ideas_for_style: Sketch with ethereal and ghostly effects, emphasizing the mystical and ancient origins.
+art_prompt: "A Shade Wraith materializing from an ancient tome, with ghostly tendrils and arcane symbols, mysterious and otherworldly, done in pencil sketch."
+art_prompt_detailed: "A shadowy, spectral figure emerging from an old, open book, surrounded by faintly glowing mystical runes and ethereal wisps, rendered in a detailed pencil sketch style."
+caption: "A Shade Wraith materializes from the remnants of the Age of Twilight, surrounded by ancient magic."
+orientation: Portrait
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [person, object, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Known Habitats
+
+### Ruins of Eldara
+visual_purpose: What do the Ruins of Eldara look like, and how do Shade Wraiths interact with this environment?
+ideas_for_art_content: Shade Wraiths patrolling the ruins with crumbling pillars and archways, overgrown with vines.
+ideas_for_style: Painting with a moody, atmospheric style, using dark and muted colors.
+art_prompt: "Shade Wraiths gliding through the Ruins of Eldara, in a moody and atmospheric style, haunting and ancient, done in oil painting."
+art_prompt_detailed: "Shadowy figures with faintly glowing eyes moving silently among overgrown, crumbling stone structures, depicted in a dark and atmospheric oil painting."
+caption: "Shade Wraiths patrol the ancient and overgrown Ruins of Eldara, a sight of eerie beauty."
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, monster, background]
+difficulties: [named location, multipart]
+
+### Fallen Temple of the Moon
+visual_purpose: How do Shade Wraiths protect the Fallen Temple of the Moon, and what does this sacred place look like?
+ideas_for_art_content: A Shade Wraith standing guard in front of the temple's moonlit entrance, with snow-capped mountains in the background.
+ideas_for_style: Computer graphics with a focus on lighting effects to capture the moonlight and the ethereal glow of the Wraith.
+art_prompt: "A Shade Wraith guarding the entrance to the Fallen Temple of the Moon, in a dramatic lighting style, eerie and solemn, done in computer graphics."
+art_prompt_detailed: "A translucent, shadow-like figure standing before a large, ornate doorway bathed in moonlight, with distant snow-covered peaks, created using computer graphics with dynamic lighting effects."
+caption: "A solitary Shade Wraith stands sentinel before the snow-veiled Fallen Temple of the Moon."
+orientation: Landscape
+artistic_value: [landscape, exciting, style match]
+descriptive_value: [location, monster, character, background]
+difficulties: [named location, multipart]
+
+## Cultural Impact
+visual_purpose: How have Shade Wraiths influenced the art and superstitions of various cultures?
+ideas_for_art_content: A tapestry or mural depicting a Shade Wraith as part of a larger scene of folklore, with people reacting in fear or awe.
+ideas_for_style: Painting in a style reminiscent of medieval or renaissance art, rich in symbolism.
+art_prompt: "A mural depicting a Shade Wraith in a scene of folklore, in a symbolic and historical style, evocative and detailed, done in tempera painting."
+art_prompt_detailed: "An elaborate wall painting showing a shadowy, cloaked figure at the center of a bustling medieval village scene, with villagers looking on in a mix of fear and reverence, painted in a style that mimics historical art with symbolic elements."
+caption: "A mural captures the haunting presence of Shade Wraiths in the folklore of an ancient culture."
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design]
+descriptive_value: [event, historical, narrative]
+difficulties: [none, obscure style]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the world.
+
+Retrieved at: 2024-01-02 19:19:42.098373
+Used: False
+Used: True

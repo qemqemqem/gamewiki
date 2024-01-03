@@ -24,6 +24,9 @@ The governance of Shrouded City is as enigmatic as its origins. A council of sha
 
 ## Architecture
 
+![Architecture](../../images/Shrouded%20City_S_Architecture.png)
+The ethereal spires of Shrouded City rise from the mist, crowned by the Fallen Temple of the Moon.
+
 The architecture of Shrouded City is a marvel to behold. Buildings crafted from moon-touched stone rise like specters from the fog, their spires reaching towards the heavens. The most notable structure is the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), a remnant of ancient times, now serving as a place of quiet reflection and worship.
 
 ## Knowledge and Magic

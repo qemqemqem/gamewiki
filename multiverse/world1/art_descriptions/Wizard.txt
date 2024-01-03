@@ -1,0 +1,43 @@
+## Schools of Magic
+
+visual_purpose: What do the different schools of magic look like, and how do they differ from one another?
+ideas_for_art_content: Depict a wizard for each school, with visual cues indicating their specialty (e.g., a shield for Abjuration, flames for Evocation, an eye for Divination, a mask for Illusion, and summoned creatures for Conjuration).
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art to capture the mystical essence of each school.
+art_prompt: "Five wizards representing Abjuration, Evocation, Divination, Illusion, and Conjuration in a grand library of Aesheron, in classical fantasy style, detailed and vibrant, done in oil painting."
+art_prompt_detailed: "Five robed figures, each showcasing a different arcane specialty through gestures and magical effects, standing in an ancient, book-filled chamber with towering shelves and mystical artifacts, in a detailed and vibrant classical fantasy style, rendered in oil painting."
+caption: "Masters of the Arcane: The Diverse Schools of Magic in Aesheron."
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous, style match]
+descriptive_value: [person, object, historical, story event]
+difficulties: [named characters, multipart]
+
+## Artifacts and Foci
+
+visual_purpose: What do the arcane foci and magical artifacts used by wizards look like?
+ideas_for_art_content: A collection of various arcane foci and artifacts, such as crystal balls, wands, staves, amulets, and the Whispering Sirens artifacts, each with unique designs and glowing with magical energy.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricate designs and textures of each item.
+art_prompt: "An assortment of arcane foci and magical artifacts on a velvet cloth, in detailed pencil sketch, intricate and glowing, done in graphite."
+art_prompt_detailed: "A variety of mystical objects, each with elaborate engravings and shimmering with an inner light, arrayed on a plush fabric surface, depicted in a detailed and textured pencil sketch, rendered in graphite."
+caption: "Tools of the Trade: Arcane Foci and Magical Artifacts of Aesheron's Wizards."
+orientation: Landscape
+artistic_value: [intricate design, wondrous]
+descriptive_value: [object, historical]
+difficulties: [named location, multipart]
+
+## Challenges and Perils
+
+visual_purpose: What dangers do wizards face in their pursuit of arcane knowledge?
+ideas_for_art_content: A wizard in battle with dark forces, such as a member of the Dark Horde, with forbidden tomes and otherworldly entities in the background.
+ideas_for_style: Computer graphics, with a dynamic and intense composition to convey the danger and action.
+art_prompt: "A wizard dueling a fearsome adversary from the Dark Horde in the midst of a magical storm, in a dynamic and intense style, action-packed, done in digital art."
+art_prompt_detailed: "A robed spellcaster locked in combat with a shadowy, armored foe, surrounded by swirling magical energies and ominous, forbidden books, depicted in a dynamic and intense digital art style, full of action and energy."
+caption: "The Perils of Power: A Wizard's Confrontation with the Dark Horde."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, monster, narrative]
+difficulties: [named characters, confusing, multipart]
+
+Given the limited budget, it's important to prioritize which images will add the most value to your wiki. The "Schools of Magic" section is central to understanding the different types of wizards and would benefit greatly from an illustration. The "Artifacts and Foci" section could use a detailed sketch to help players visualize the tools of their trade. Lastly, the "Challenges and Perils" section could use an exciting image to convey the dangers wizards face, which could be particularly engaging for players. The other sections might not require images as urgently, given the budget constraints.
+
+Retrieved at: 2024-01-02 19:01:24.640802
+Used: False

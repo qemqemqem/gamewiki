@@ -1,0 +1,38 @@
+## Geography
+visual_purpose: What does the diverse landscape of the Verdant Woods look like, and how does it transition into surrounding areas?
+ideas_for_art_content: A panoramic view showing the dense forest of the Verdant Woods, the bordering Plains of Valor, the Frostspire Mountains in the distance, and the transition to the Fields of Golden Grain. Theron's Glade could be a focal point with a soft glow indicating its magical nature.
+ideas_for_style: Painting, with a style reminiscent of classical landscape artists, capturing the fantasy setting with vivid colors and a touch of mysticism.
+art_prompt: "Panoramic view of the Verdant Woods transitioning into the Plains of Valor, with the Frostspire Mountains in the background, in a classical painting style, vibrant, mystical, done in oil on canvas."
+art_prompt_detailed: "Expansive view of a dense, ancient forest transitioning into vast open plains, with towering, snow-capped mountains in the distance, in a classical painting style, vibrant, mystical, done in oil on canvas."
+orientation: Landscape
+artistic_value: Landscape, appropriate style, wondrous
+descriptive_value: Location, map, background
+difficulties: Named location, multipart
+
+## Flora and Fauna
+visual_purpose: What unique species inhabit the Verdant Woods, and how do they interact with their environment?
+ideas_for_art_content: A detailed illustration of the Ironbark Sentinel and Whispering Willow, with smaller depictions of the Moonpetal Lily, Echo Bat, and forest spirits. Elves could be shown living among the trees.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricacies of the flora and fauna.
+art_prompt: "Ironbark Sentinel and Whispering Willow trees with Moonpetal Lilies blooming at their base, Echo Bats flying above, in a detailed sketch, intricate, naturalistic, done in pencil."
+art_prompt_detailed: "Towering, robust trees with a variety of smaller plants blooming at their base, nocturnal creatures flying above, in a detailed sketch, intricate, naturalistic, done in pencil."
+orientation: Portrait
+artistic_value: Intricate design, interesting person
+descriptive_value: Person, object, monster, character
+difficulties: Named characters, obscure style
+
+## History
+visual_purpose: What historical events have shaped the Verdant Woods, and what remnants of the past can be found there?
+ideas_for_art_content: A scene depicting the Battlefield of Forgotten Kings with worn and overgrown armaments and the Fallen Temple of the Moon partially reclaimed by nature.
+ideas_for_style: Painting, with a style that conveys the passage of time and the resilience of nature, perhaps with a touch of romanticism.
+art_prompt: "Battlefield of Forgotten Kings overgrown with forest flora and the Fallen Temple of the Moon in the background, in a romantic painting style, somber, reclaimed by nature, done in watercolor."
+art_prompt_detailed: "An ancient battlefield now covered with plants and the ruins of a once-sacred temple in the background, in a romantic painting style, somber, reclaimed by nature, done in watercolor."
+orientation: Landscape
+artistic_value: Historical, style match
+descriptive_value: Location, historical, background
+difficulties: Named location, multipart
+
+Given the limited budget, these sections provide a balance between artistic and descriptive value, offering a visual representation of key aspects of the Verdant Woods without requiring an excessive number of illustrations. Prioritize the art that will enhance the players' immersion the most, and consider using the same artist for style consistency if multiple pieces are commissioned.
+
+Retrieved at: 2024-01-02 18:36:00.999292
+Used: False
+Used: True

@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the treacherous journey to Shrouded City look like?
+ideas_for_art_content: Depict the Sea Merchant's Path winding through the Frostspire Mountains, with Windcutter Hawks flying above.
+ideas_for_style: Painting, with a fantasy-realism style to capture the epic landscape.
+art_prompt: "Travelers on the Sea Merchant's Path in the Frostspire Mountains, with Windcutter Hawks soaring overhead, in a fantasy-realism style, majestic, perilous, done in oil painting"
+art_prompt_detailed: "A group of cloaked travelers navigating a narrow mountain path with jagged peaks surrounding them, and large, majestic birds with impressive wingspans flying above, all portrayed in a fantasy-realism style using oil paints."
+caption: Travelers brave the Sea Merchant's Path as Windcutter Hawks patrol the skies.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, event, background]
+difficulties: [named location, multipart]
+
+## Architecture
+visual_purpose: What makes the architecture of Shrouded City unique and awe-inspiring?
+ideas_for_art_content: Illustrate the moon-touched stone buildings with spires piercing the fog, focusing on the Fallen Temple of the Moon.
+ideas_for_style: Sketch, with detailed linework to emphasize the gothic elements of the architecture.
+art_prompt: "Moon-touched stone buildings with spires in Shrouded City, in a detailed sketch style, ethereal, ancient, done in pencil"
+art_prompt_detailed: "Tall, gothic structures made of stone that seems to shimmer with a faint light, their spires disappearing into a low-hanging fog, sketched in detail with pencil."
+caption: The ethereal spires of Shrouded City rise from the mist, crowned by the Fallen Temple of the Moon.
+orientation: Portrait
+artistic_value: [appropriate style, intricate design, style match]
+descriptive_value: [location, architecture, character, background]
+difficulties: [named location, intricate design]
+
+## Notable Locations
+visual_purpose: What are the unique features of the city's most intriguing places?
+ideas_for_art_content: Create a triptych featuring the Veiled Market, the Mistbound Docks, and the Whispering Towers.
+ideas_for_style: Computer graphics, to allow for a cohesive triptych with vibrant colors and magical effects.
+art_prompt: "Triptych of the Veiled Market, Mistbound Docks, and Whispering Towers in Shrouded City, in a vibrant, magical, computer graphics style"
+art_prompt_detailed: "Three separate but connected images: a bustling market with shadowy figures and mysterious wares, a dock with ships enveloped in magical fog, and tall, slender towers with figures gazing at the stars, all rendered in a vibrant, magical style using computer graphics."
+caption: The Veiled Market's enigmatic trades, the Mistbound Docks' enchanted arrivals, and the Whispering Towers' celestial studies.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [location, object, map, event, narrative]
+difficulties: [named location, multipart, style match]
+
+Given the limited budget, these sections offer the highest descriptive and artistic value, providing visual anchors for the players to imagine the city's geography, architecture, and notable locations. The triptych for "Notable Locations" could be particularly engaging, as it showcases several key areas in one piece. However, it's important to prioritize which images will add the most to your players' experience and immersion.
+
+Retrieved at: 2024-01-02 19:15:18.818631
+Used: False
+Used: True

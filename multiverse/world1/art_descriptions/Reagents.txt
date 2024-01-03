@@ -1,0 +1,44 @@
+## Types of Reagents
+
+visual_purpose: What do the various reagents look like, and how are they distinct from one another?
+ideas_for_art_content: A collection of reagents spread out on a table, including a blooming Moonflower, a crystal from the Mistbound Docks, a feather from a Windcutter Hawk, a vial of eternal frost, and a celestial object representing the Lunar Waltz.
+ideas_for_style: Illustration with vibrant colors to differentiate between the types of reagents and to highlight their magical properties.
+art_prompt: "A vibrant collection of reagents on an ancient wooden table, with a blooming Moonflower, a shimmering crystal, a sleek Windcutter Hawk feather, a glowing vial of frost, and a radiant celestial object, all depicted in a detailed, colorful illustration."
+art_prompt_detailed: "A vibrant collection of mystical items on an old wooden table, including a luminous, blooming plant, a sparkling gemstone, a sleek bird feather, a glowing vial containing a frosty substance, and a radiant, star-like object, all depicted in a detailed, colorful illustration."
+caption: "An array of magical reagents used in spellcraft, each with its own unique properties and origins."
+orientation: landscape
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [object, narrative]
+difficulties: [none]
+
+## Acquisition and Trade
+
+visual_purpose: How does the adventurous pursuit of reagents look like, and what are the bustling marketplaces where they are traded?
+ideas_for_art_content: Adventurers in the Ruins of Eldara searching for reagents, and a vibrant scene of the Silk Road marketplace with stalls displaying various reagents.
+ideas_for_style: A dynamic painting with a focus on action for the adventurers, and a bustling market scene with a variety of colors and characters for the Silk Road.
+art_prompt: "Adventurers with torches exploring the ancient Ruins of Eldara, and a lively market scene at the Silk Road with colorful stalls and a diverse crowd, painted in a dynamic, detailed style."
+art_prompt_detailed: "A group of explorers with light sources delving into crumbling, vine-covered ruins, and a busy marketplace filled with vibrant stalls and a multitude of different characters, painted in a dynamic, detailed style."
+caption: "The daring quest for reagents in the Ruins of Eldara and the bustling trade at the Silk Road market."
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [location, event, narrative]
+difficulties: [named location, multipart]
+
+## In Culture and Legend
+
+visual_purpose: What do the legendary uses of reagents look like, and how are they represented in cultural tales?
+ideas_for_art_content: A depiction of the Ancients using powerful reagents during the Age of Twilight, and Theron of the Verdant Woods using natural reagents in a mystical forest setting.
+ideas_for_style: A mythical painting style, reminiscent of classical art, to give a sense of history and legend.
+art_prompt: "The Ancients wielding reagents of immense power under a dusky sky, and Theron of the Verdant Woods surrounded by natural reagents in a lush forest, all depicted in a classical, mythical painting style."
+art_prompt_detailed: "Mystical figures using glowing, powerful items under a twilight sky, and a legendary figure surrounded by natural, glowing plants in a dense, verdant forest, all depicted in a classical, mythical painting style."
+caption: "Legendary tales of the Ancients and Theron of the Verdant Woods, showcasing the power and mystery of reagents in ancient times."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [historical, character, narrative]
+difficulties: [named characters, obscure style]
+
+Given the limited budget, the "Types of Reagents" section is the most valuable for both artistic and descriptive purposes, as it provides a clear visual representation of the items that are central to the article's subject. The "Acquisition and Trade" section could also be valuable, but it may be more complex and costly due to its multipart nature. The "In Culture and Legend" section, while interesting, might be less essential and could be skipped if budget constraints are tight.
+
+Retrieved at: 2024-01-02 18:55:20.979599
+Used: False
+Used: True
