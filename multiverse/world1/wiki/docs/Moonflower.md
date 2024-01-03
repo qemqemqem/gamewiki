@@ -4,6 +4,8 @@ The [Moonflower](Moonflower.md), known in the botanical circles as *Lunaflos noc
 
 ## Botanical Characteristics
 
+![Botanical Characteristics](../../images/Moonflower_S_Botanical%20Characteristics.png)
+
 The Moonflower is a perennial plant, with broad, heart-shaped leaves that provide a dark, velvety backdrop to its radiant blooms. The flowers themselves are large and trumpet-shaped, with a color palette that ranges from ethereal whites and soft blues to gentle lavenders, depending on the region and the specific magical influences present in the soil.
 
 The plant's blooming cycle is governed by the lunar phases, with the most spectacular display occurring during the night of the full [moon](Moon.md). It is during this time that the Moonflower's petals open fully, releasing a delicate fragrance that is said to have calming and restorative properties.

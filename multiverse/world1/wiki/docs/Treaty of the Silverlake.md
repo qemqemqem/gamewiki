@@ -26,6 +26,8 @@ The signing of the treaty heralded a period known as the [Age of Wonders](Age%20
 
 ## Legacy
 
+![Legacy](../../images/Treaty%20of%20the%20Silverlake_S_Legacy.png)
+
 The Treaty of the Silverlake is celebrated annually in the [Silverlake Valley](Silverlake%20Valley.md) during the [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md), a festival that commemorates the peace achieved through unity. The treaty itself is housed in the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), where it is studied by scholars and diplomats alike.
 
 ## Criticism and Controversy

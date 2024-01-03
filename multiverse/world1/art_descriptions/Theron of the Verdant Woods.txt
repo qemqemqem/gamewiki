@@ -36,3 +36,4 @@ Given the limited budget, it's important to prioritize which images will add the
 Retrieved at: 2024-01-02 17:41:51.542842
 Used: False
 Used: True
+Used: True

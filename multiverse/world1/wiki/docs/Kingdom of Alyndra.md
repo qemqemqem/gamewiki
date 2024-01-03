@@ -14,6 +14,8 @@ The Kingdom of Alyndra traces its origins back to the fabled [Alyndra, Warrior Q
 
 ## Geography
 
+![Geography](../../images/Kingdom%20of%20Alyndra_S_Geography.png)
+
 The Kingdom of Alyndra is characterized by its diverse landscapes, ranging from the rolling hills and fertile plains to the foreboding mountains that guard its borders. The kingdom is home to the [Crystal Lake](Crystal%20Lake.md), a serene body of water famed for its healing properties and the [Enchanted Grove](Enchanted%20Grove.md), where [druids](Druids.md) commune with nature's spirits.
 
 ### Key Locations

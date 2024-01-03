@@ -8,6 +8,8 @@ The origins of the Whispering Sirens are as elusive as their spectral forms. Som
 
 ## Nature
 
+![Nature](../../images/Whispering%20Sirens_S_Nature.png)
+
 Whispering Sirens are not corporeal beings but rather exist in a state between the physical and the ethereal. They are capable of influencing the material world through their siren songs, which carry the power to ensnare the minds of the unwary. These melodies can induce a range of effects, from a trance-like state to an irresistible compulsion to follow the sound to its source.
 
 ## Interaction with Magic

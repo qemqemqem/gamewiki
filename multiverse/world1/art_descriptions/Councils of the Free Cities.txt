@@ -1,0 +1,37 @@
+## Structure
+visual_purpose: What do the councils' meeting places look like, and how are the representatives positioned during deliberations?
+ideas_for_art_content: A grand hall with representatives from various Free Cities seated around a circular table, banners representing each city hanging on the walls.
+ideas_for_style: Painting, with a focus on rich colors and attention to detail to convey the grandeur and formality of the scene.
+art_prompt: "Representatives of the Free Cities in a grand council chamber, richly colored, detailed, done in oil painting"
+art_prompt_detailed: "Diverse individuals garbed in their city's traditional attire, seated around an ornate circular table in a vast hall adorned with banners and crests, depicted in an oil painting with a focus on rich colors and intricate details."
+orientation: Landscape
+artistic_value: Intricate design, style match
+descriptive_value: Location, person, background, narrative
+difficulties: Named location, multipart
+
+## Notable Councils
+visual_purpose: What are the emblems or symbols that represent the different councils, and how do they reflect the councils' purposes?
+ideas_for_art_content: Emblems for the Council of Trade (a merchant ship), the Council of Defense (crossed swords), and the Council of Arcana (a crystal orb).
+ideas_for_style: Sketch, with clean lines and a monochromatic palette to focus on the symbolism of each emblem.
+art_prompt: "Emblems of the Notable Councils in a clean sketch, symbolic, monochromatic, done in pencil"
+art_prompt_detailed: "A trio of symbols, each representing a key council: a detailed galleon for trade, a pair of crossed blades for defense, and a glowing orb encased in a geometric framework for arcane matters, all rendered in a detailed pencil sketch with a monochromatic palette."
+orientation: Square
+artistic_value: Intricate design
+descriptive_value: Object, narrative
+difficulties: None
+
+## Cultural and Historical Significance
+visual_purpose: What does a sponsored expedition look like, and who is Theron of the Verdant Woods?
+ideas_for_art_content: An adventurous scene with Theron and his team of explorers at the entrance of the Fallen Temple of the Moon, equipped for their journey.
+ideas_for_style: Painting, in a style reminiscent of classic adventure illustrations, capturing the excitement and danger of the expedition.
+art_prompt: "Theron of the Verdant Woods at the Fallen Temple of the Moon, adventurous, perilous, done in watercolor"
+art_prompt_detailed: "A rugged explorer with a cloak of deep green, leading a group of adventurers as they stand before the ancient, vine-covered entrance of a forgotten temple, depicted in a watercolor painting that captures the essence of classic adventure tales."
+orientation: Landscape
+artistic_value: Exciting, wondrous
+descriptive_value: Person, location, event, character, narrative
+difficulties: Named characters, named location
+
+Given the limited budget, the "Structure" section would likely offer the most value for a visual addition, as it sets the scene for the councils' operations and gives a sense of the environment where critical decisions are made. The "Notable Councils" section could be valuable as well, with a simpler art style that would likely be less expensive to produce. The "Cultural and Historical Significance" section could be the most visually striking and engaging for players, but it might also be the most costly due to its complexity and the need for detailed character representation.
+
+Retrieved at: 2024-01-02 18:31:10.435746
+Used: False

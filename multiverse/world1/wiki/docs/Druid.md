@@ -4,6 +4,8 @@ In the mystical lands of Aesheron, the [Druid](Druid.md)s stand as the venerable
 
 ## Origins and Beliefs
 
+![Origins and Beliefs](../../images/Druid_S_Origins%20and%20Beliefs.png)
+
 The origins of the Druidic tradition are as old as the forests and as deep as the roots of the [Singing Willows](Singing%20Willows.md). It is said that the first Druids were chosen by nature itself, anointed by the whispering winds and the sacred groves to serve as the stewards of the earth. They believe in the sanctity of all living things and the intricate balance that must be maintained to preserve the harmony of the world.
 
 Druids follow a path that is intrinsically linked to the cycles of life, death, and rebirth. They worship the pantheon of [moon deities](Moon%20Deities.md), venerating the celestial bodies that influence the tides of magic and the growth of all flora and fauna. The Druids' philosophy is one of coexistence and respect for the natural order, and they often find themselves opposing forces that seek to disrupt this balance.

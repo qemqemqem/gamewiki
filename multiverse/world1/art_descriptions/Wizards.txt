@@ -1,0 +1,37 @@
+## Training and Abilities
+visual_purpose: What does the training of a Wizard look like, and what are their spellcasting abilities?
+ideas_for_art_content: An apprentice studying ancient tomes in a grand library, a master Wizard teaching a spell, celestial bodies aligning as a Wizard casts a spell.
+ideas_for_style: Sketch (detailed pencil work with shading to emphasize the mystical atmosphere)
+art_prompt: "An apprentice Wizard studying in the Great Library of Eldara, with celestial bodies visible through a grand window, in a detailed pencil sketch, atmospheric, mystical, done in pencil on paper"
+art_prompt_detailed: "A young spellcaster poring over large, open ancient books in a vast, ornate library filled with towering bookshelves, with a grand window in the background showing a night sky where the moon and stars are in alignment, rendered in a detailed pencil sketch that captures an atmospheric and mystical mood, executed on paper"
+orientation: Landscape
+artistic_value: Interesting person, intricate design, wondrous
+descriptive_value: Person, location, object, narrative
+difficulties: Named location, multipart
+
+## Societies and Orders
+visual_purpose: What do the gatherings of Wizards in their orders and societies look like?
+ideas_for_art_content: A meeting of the Order of the Veiled Eye, Wizards in ceremonial robes, a grand hall with arcane symbols.
+ideas_for_style: Painting (oil, with rich colors and dramatic lighting)
+art_prompt: "Members of the Order of the Veiled Eye in a grand hall, in an oil painting, ceremonial, enigmatic, done in oil on canvas"
+art_prompt_detailed: "A group of robed figures, faces partially obscured by hoods, gathered in a large, majestic hall adorned with arcane symbols and lit by the glow of magical orbs, depicted in an oil painting that uses rich colors and dramatic lighting to create a sense of ceremony and mystery, executed on canvas"
+orientation: Landscape
+artistic_value: Intricate design, wondrous, style match
+descriptive_value: Person, location, event
+difficulties: Named characters, named location
+
+## Challenges and Perils
+visual_purpose: What dangers do Wizards face in their pursuit of knowledge?
+ideas_for_art_content: A Wizard confronting a cursed relic in the Ruins of Eldara, magical traps activating, ethereal spirits lurking.
+ideas_for_style: Computer graphics (3D rendering, high detail, dynamic lighting)
+art_prompt: "A Wizard facing a cursed relic in the Ruins of Eldara, in a 3D rendering, perilous, dynamic, done in computer graphics"
+art_prompt_detailed: "A robed spellcaster standing before an ominous, glowing artifact amidst the crumbling stone structures of ancient ruins, with magical traps emitting bursts of light and shadowy figures watching from the darkness, created in a 3D rendering that emphasizes the danger and dynamism of the scene, produced with computer graphics"
+orientation: Landscape
+artistic_value: Exciting, wondrous
+descriptive_value: Person, location, object, event
+difficulties: Named characters, named location, multipart
+
+Given the limited budget, these sections offer the most narrative and descriptive value, providing visual insight into the life and environment of Wizards in your campaign. The artistic value of these images would contribute significantly to the immersion of your players in the world of Aesheron.
+
+Retrieved at: 2024-01-02 18:26:39.791513
+Used: False

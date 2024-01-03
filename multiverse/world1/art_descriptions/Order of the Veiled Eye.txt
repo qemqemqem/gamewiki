@@ -1,0 +1,37 @@
+## History and Beliefs
+visual_purpose: What did the founding members of the Order of the Veiled Eye look like, and what was the atmosphere during the Age of Twilight?
+ideas_for_art_content: Depict founding members in ancient robes, possibly gathered around a relic or tome, with the ruins of the Ancients' civilization in the background.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art, rich in color and detail.
+art_prompt: "Founding members of the Order in ancient robes, gathered in the ruins of the Ancients' civilization, with a mystical and somber atmosphere, done in oil painting."
+art_prompt_detailed: "A group of robed figures, with diverse races, standing solemnly in the crumbling remains of a once-great city, under a dusky sky, portrayed with a sense of mystery and reverence, in an oil painting style."
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Location, person, historical, narrative
+difficulties: Named characters, named location, multipart
+
+## Practices and Rituals
+visual_purpose: How do the Order's members conduct their arcane research and rituals?
+ideas_for_art_content: Illustrate a member performing a ritual with arcane symbols glowing, or an expedition group in one of the magical sites like the Enchanted Grove.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricacies of the rituals and the magical effects.
+art_prompt: "A mystic of the Order performing a ritual in the Enchanted Grove, with arcane symbols and ethereal lighting, detailed pencil sketch."
+art_prompt_detailed: "A cloaked figure stands at the center of a clearing, surrounded by ancient trees, with hands raised and mystical symbols emitting a soft glow around them, depicted in a detailed pencil sketch."
+orientation: Portrait
+artistic_value: Intricate design, exciting
+descriptive_value: Person, event, monster, character, narrative
+difficulties: Named characters, obscure style
+
+## Structure and Membership
+visual_purpose: What does the hierarchy within the Order look like, and how diverse is its membership?
+ideas_for_art_content: A scene showing members of different ranks and races, possibly in a grand hall or library of the Order, engaged in various activities.
+ideas_for_style: Computer graphics, to allow for a clean and detailed representation of characters and environment.
+art_prompt: "Diverse members of the Order in a grand library, showcasing the hierarchy, in a detailed and vibrant computer graphic."
+art_prompt_detailed: "A grand hall filled with individuals of various races, some poring over tomes, others in discussion, with clear indicators of rank such as robes or insignia, rendered in a detailed and colorful computer graphic."
+orientation: Landscape
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, object, character, background
+difficulties: Named characters, named location
+
+Please note that the value ratings are harsh due to the limited budget, and the difficulties listed are to help assess the complexity of the art required. The prompts are detailed to aid an artist unfamiliar with the world in creating a piece that fits the needs of the article.
+
+Retrieved at: 2024-01-02 18:30:22.119921
+Used: False

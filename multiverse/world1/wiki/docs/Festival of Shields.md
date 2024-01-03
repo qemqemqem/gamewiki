@@ -9,6 +9,8 @@ The origins of the Festival of Shields can be traced back to the aftermath of th
 ## Events and Celebrations
 
 ### Tournaments of Arms
+
+![Tournaments of Arms](../../images/Festival%20of%20Shields_S_Tournaments%20of%20Arms.png)
 At the heart of the festival are the tournaments, where knights and warriors from across the [Kingdoms](Kingdoms.md) converge to demonstrate their combat prowess. The clashing of steel and the thunderous applause of spectators fill the air as competitors engage in jousts, melee battles, and archery contests. The champions are awarded not only with lavish prizes but also with the honor of being recognized as protectors of the realm.
 
 ### The Council's Games

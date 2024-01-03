@@ -4,6 +4,8 @@ Explorers are the intrepid individuals who venture beyond the known frontiers of
 
 ## The Call to Explore
 
+![The Call to Explore](../../images/Explorers_S_The%20Call%20to%20Explore.png)
+
 The life of an explorer is not for the faint of heart. It requires a unique blend of courage, curiosity, and resilience. Many are called to this life by a deep-seated need to see what lies beyond the next horizon, whether it be the treacherous depths of the [Caverns of Echo](Caverns%20of%20Echo.md) or the ethereal beauty of the [Feywild](Feywild.md). Others are drawn by the promise of riches, seeking out the [Ruby Crystals](Ruby%20Crystals.md) or the lost [Whispering Sirens Artifacts](Whispering%20Sirens%20Artifacts.md) that are said to be scattered throughout the realms.
 
 ## Notable Explorers

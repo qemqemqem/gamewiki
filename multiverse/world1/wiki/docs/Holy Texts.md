@@ -4,6 +4,8 @@ Holy Texts are the sacred scriptures and divine tomes that hold the spiritual an
 
 ## Origin and Purpose
 
+![Origin and Purpose](../../images/Holy%20Texts_S_Origin%20and%20Purpose.png)
+
 The origins of Holy Texts are as varied as the gods they honor. Many believe these scriptures to be divinely inspired, written by prophets or scribes under the guidance of their deity. Others are said to have been brought forth from the celestial planes themselves, gifted to mortals to spread the wisdom of the gods.
 
 The primary purpose of Holy Texts is to provide guidance and instruction to the followers of a deity. They contain parables, commandments, and teachings that shape the ethical and moral framework of societies. Additionally, they often include rituals, prayers, and [Incantations](Incantations.md) necessary for the practice of [Divine Magic](Divine%20Magic.md).

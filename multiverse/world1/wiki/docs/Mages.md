@@ -8,6 +8,8 @@ The origins of magecraft are shrouded in mystery, with many theories pointing to
 
 ## Schools of Magic
 
+![Schools of Magic](../../images/Mages_S_Schools%20of%20Magic.png)
+
 Mages specialize in different schools of magic, each with its own philosophy and methodology. These schools include but are not limited to:
 
 - **Evocation:** The manipulation of elemental energies to create powerful offensive spells.

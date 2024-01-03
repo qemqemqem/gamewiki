@@ -10,6 +10,8 @@ The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) were pio
 
 ## The Role of Evokers
 
+![The Role of Evokers](../../images/Evokers_S_The%20Role%20of%20Evokers.png)
+
 Evokers are versatile in their abilities, and their skills are sought after in various aspects of life within the realm:
 
 - **Combat**: In times of war, evokers serve as a formidable force on the battlefield. Their mastery over spells like [fireball](Fireball.md), [lightning bolt](Lightning%20Bolt.md), and [ice storm](Ice%20Storm.md) makes them essential assets in any military engagement, particularly as part of the [Council of Defense](Council%20of%20Defense.md) against adversaries such as the [Dark Horde](Dark%20Horde.md).

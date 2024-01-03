@@ -1,0 +1,37 @@
+## Architecture
+visual_purpose: What does the Great Library of Eldara look like, and how does its design inspire awe and a sense of wonder?
+ideas_for_art_content: The towering spires, vast halls lined with books, the central dome with a mosaic of the moon and stars, and the celestial glow in the main reading room.
+ideas_for_style: A detailed painting that captures the grandeur and magical essence of the library.
+art_prompt: "The Great Library of Eldara's towering spires and central dome with a moon and stars mosaic, in a magical and grand painting style, capturing the essence of knowledge and magic, done in watercolor and ink."
+art_prompt_detailed: "A grand library with towering structures and a central dome featuring a celestial mosaic, in a style that conveys magic and grandeur, depicted in watercolor and ink."
+orientation: Landscape
+artistic_value: Wondrous, intricate design, style match
+descriptive_value: Location, object, background, narrative
+difficulties: Named location, multipart
+
+## Collections
+visual_purpose: What kind of rare and ancient texts and artifacts are housed within the library's collections?
+ideas_for_art_content: Ancient scrolls, maps and charts, rare manuscripts, tomes of arcane theory, and historical accounts displayed in an elegant, organized fashion.
+ideas_for_style: A detailed sketch or an intricate painting that showcases the variety and richness of the collections.
+art_prompt: "A collection of ancient scrolls, maps, and tomes within the Great Library, in a detailed and intricate style, showcasing the diversity of knowledge, done in pencil and watercolor."
+art_prompt_detailed: "An assortment of old scrolls, detailed maps, and scholarly books arranged in an elegant library setting, depicted in a detailed and intricate style, created with pencil and watercolor."
+orientation: Portrait
+artistic_value: Intricate design, appropriate style
+descriptive_value: Object, historical, narrative
+difficulties: Named characters, obscure style
+
+## Scholars and Patrons
+visual_purpose: Who frequents the Great Library, and what does the exchange of knowledge among diverse scholars look like?
+ideas_for_art_content: Wizards, occult researchers, druids, nomads, and students from various cultures engaged in study and discussion within the library.
+ideas_for_style: A vibrant painting that captures the diversity of the library's patrons and the lively exchange of knowledge.
+art_prompt: "Diverse scholars and patrons engaged in study and discussion in the Great Library, in a vibrant and lively painting style, depicting the exchange of knowledge, done in acrylic."
+art_prompt_detailed: "A group of varied individuals, including robed wizards, nature-bound druids, and scholarly nomads, conversing and studying in a grand library setting, depicted in a vibrant and lively style, created with acrylic paints."
+orientation: Landscape
+artistic_value: Interesting person, fun, style match
+descriptive_value: Person, character, narrative
+difficulties: Named characters, multipart
+
+Given the limited budget, the section on "Architecture" would likely offer the highest artistic and descriptive value, as it sets the scene for the entire library and can inspire awe and curiosity. The "Collections" section would also be valuable, as it provides a glimpse into the treasures the library holds. The "Scholars and Patrons" section could be skipped if necessary, as it may be more challenging to depict the diversity of characters without specific designs.
+
+Retrieved at: 2024-01-02 18:29:19.297435
+Used: False

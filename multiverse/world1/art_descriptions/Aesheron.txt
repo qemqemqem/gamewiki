@@ -1,0 +1,37 @@
+## Geography
+visual_purpose: What do the diverse landscapes of Aesheron look like, and how do they contrast with one another?
+ideas_for_art_content: The towering Frostspire Mountains, the lush Verdant Woods, the expansive Plains of Valor, and the serene Crystal Sea with the Isles of Whisper in the distance.
+ideas_for_style: Painting, with a fantasy art style that captures the epic and magical essence of the land.
+art_prompt: "A panoramic view of Aesheron, showcasing the Frostspire Mountains, Verdant Woods, Plains of Valor, and Crystal Sea, in a vibrant and detailed fantasy painting style."
+art_prompt_detailed: "A panoramic view of a fantasy realm, showcasing towering snow-capped mountains, a lush green forest, vast grasslands, and a clear blue sea with distant isles, all depicted in a vibrant and detailed fantasy painting style."
+orientation: Landscape
+artistic_value: Landscape, intricate design, wondrous
+descriptive_value: Location, map, background
+difficulties: Named location, multipart
+
+## Notable Locations
+visual_purpose: What do the key landmarks of Aesheron look like, and what atmosphere do they convey?
+ideas_for_art_content: Stormhold Castle overlooking Silverlake Valley, The Shrouded City with its mist and arcane buildings, the Ruins of Eldara with ancient architecture, and the Caverns of Echo with their unique acoustic features.
+ideas_for_style: Sketch, with a focus on architecture and landscape to provide a sense of scale and mystery.
+art_prompt: "The key landmarks of Aesheron, including Stormhold Castle, The Shrouded City, Ruins of Eldara, and Caverns of Echo, sketched with attention to architectural detail and atmospheric landscape."
+art_prompt_detailed: "Sketches of a fortress overlooking a valley, a misty city with arcane structures, ancient city ruins, and a network of caves with acoustic properties, all with attention to architectural detail and atmospheric landscape."
+orientation: Portrait or Square (individual sketches)
+artistic_value: Intricate design, style match
+descriptive_value: Location, object, historical
+difficulties: Named characters, named location
+
+## Magic and Lore
+visual_purpose: How does magic manifest in the world of Aesheron, and what do places of magical significance look like?
+ideas_for_art_content: Mages of the Crystal Tower practicing spellcraft, the Order of the Veiled Eye in their secretive enclave, the Enchanted Grove glowing with magic, and the Well of Stars shimmering with celestial energy.
+ideas_for_style: Computer graphics, to capture the ethereal and otherworldly nature of magic.
+art_prompt: "Scenes of magical significance in Aesheron, including Mages of the Crystal Tower, the Order of the Veiled Eye, the Enchanted Grove, and the Well of Stars, depicted with ethereal computer graphics."
+art_prompt_detailed: "Scenes depicting spellcasters in a crystalline tower, cloaked figures in a secretive enclave, a glowing magical grove, and a celestial energy-filled well, all rendered in ethereal computer graphics."
+orientation: Square (individual scenes)
+artistic_value: Wondrous, exciting
+descriptive_value: Person, object, event, narrative
+difficulties: Named characters, obscure style
+
+Given the limited budget, it would be wise to prioritize the sections with the highest descriptive and artistic value. The "Geography" section is a strong candidate as it sets the stage for the entire campaign world and can be referred to repeatedly. The "Notable Locations" and "Magic and Lore" sections are also valuable for providing visual context to important areas and concepts within the game.
+
+Retrieved at: 2024-01-02 18:27:30.709816
+Used: False
