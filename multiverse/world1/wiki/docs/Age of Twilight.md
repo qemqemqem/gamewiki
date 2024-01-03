@@ -10,6 +10,9 @@ The Age of Twilight is a term that encapsulates the gradual descent of the [Anci
 
 ### Decline of the Ancients
 
+![Decline of the Ancients](../../images/Age%20of%20Twilight_S_Decline%20of%20the%20Ancients.png)
+"The final exodus from an Ancient city, as nature reclaims the once-great civilization.
+
 The Age of Twilight began with the slow erosion of the [Ancients](Ancients.md)' societal structures and the loss of their once-unassailable dominion over the lands. The causes of this decline are manifold, with scholars from the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) suggesting a combination of internal strife, resource depletion, and possibly a series of natural calamities that weakened their hold on power.
 
 ### Preservation of Knowledge

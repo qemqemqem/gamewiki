@@ -4,6 +4,9 @@ The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) are a 
 
 ## History
 
+![History](../../images/Keepers%20of%20the%20Eldara%20Codex_S_History.png)
+"The founding of the Keepers of the Eldara Codex in the aftermath of the Mage Wars.
+
 The Keepers were founded in the aftermath of the [Mage Wars](Mage%20Wars.md), a tumultuous period when the reckless use of magic threatened to tear the very fabric of reality asunder. In the wake of such chaos, the Keepers arose, vowing to safeguard the remnants of arcane wisdom and to prevent such a catastrophe from ever recurring. They established their headquarters within the hallowed halls of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), which has since become the heart of their operations.
 
 ## Structure and Hierarchy

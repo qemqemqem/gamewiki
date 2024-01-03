@@ -4,6 +4,9 @@ Occult researchers are a diverse group of scholars, [wizards](Wizards.md), and [
 
 ## History and Purpose
 
+![History and Purpose](../../images/Occult%20Researchers_S_History%20and%20Purpose.png)
+Scholars study in the Great Library of Eldara, amidst the remnants of ancient knowledge.
+
 The tradition of occult research dates back to the aftermath of the [Ancient War](Ancient%20War.md), when the world was left with countless enigmas and lost knowledge in the wake of the devastation. The earliest occult researchers were those who sought to piece together the history of the [Ancients](Ancients.md) and the true nature of the conflict that had reshaped the world.
 
 In the current age, occult researchers are often found within the halls of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md), sifting through the remnants of the once-great repository of knowledge. They also frequent the ruins of ancient civilizations, such as the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), where they study the remnants of bygone eras to glean insights into the arcane practices and deities of old.

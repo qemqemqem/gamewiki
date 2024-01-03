@@ -8,6 +8,9 @@ The origins of the Elves are as enigmatic as the [Age of Twilight](Age%20of%20Tw
 
 ## Culture and Society
 
+![Culture and Society](../../images/Elves_S_Culture%20and%20Society.png)
+The harmonious blend of nature and magic in Elven society, as seen in the attire and surroundings of an Elven chieftain.
+
 Elven society is deeply rooted in the harmony of nature and the pursuit of arcane wisdom. They are divided into clans, each led by a chieftain who serves as both a political leader and a spiritual guide. The clans are often named after natural phenomena or revered ancestors, such as [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md), a legendary figure in Elven lore.
 
 ### Art and Music

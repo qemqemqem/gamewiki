@@ -12,6 +12,8 @@ The war was a clash of titanic forces, with the Ancients wielding magics that co
 
 ### Notable Battles and Sites
 
+![Notable Battles and Sites](../../images/Ancient%20War_S_Notable%20Battles%20and%20Sites.png)
+
 - **[Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md)**: A site where many noble rulers met their end, their valor immortalized in stone and story.
 - **[Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md)**: A sacred place desecrated by the war's relentless fury, now a silent testament to the conflict's reach.
 - **[Verdant Woods](Verdant%20Woods.md)**: Home to [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md), these woods were fiercely protected against the war's corruption.

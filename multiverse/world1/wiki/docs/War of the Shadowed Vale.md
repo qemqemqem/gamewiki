@@ -26,6 +26,8 @@ The War of the Shadowed Vale has deeply influenced the cultural fabric of Aesher
 
 ## Magic and the War
 
+![Magic and the War](../../images/War%20of%20the%20Shadowed%20Vale_S_Magic%20and%20the%20War.png)
+
 The conflict was also notable for its magical aspects, as detailed in the accounts of the [Mage Wars](Mage%20Wars.md). The [Council of Arcana](Council%20of%20Arcana.md) and powerful [Wizards](Wizards.md) played a significant role, wielding artifacts and spells of great power. The land itself still bears the scars of this sorcery, with areas where shadows linger, a testament to the dark magic that was unleashed.
 
 ## Notable Figures

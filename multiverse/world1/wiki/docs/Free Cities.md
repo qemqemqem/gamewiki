@@ -2,6 +2,9 @@
 
 The [Free Cities](Free%20Cities.md) are a collection of sovereign city-states renowned for their independence, prosperity, and resilience in the face of the ever-changing political and magical landscapes of the world. Each city boasts its unique culture, governance, and economy, yet they are united by a common desire for autonomy and mutual cooperation, as facilitated by the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md).
 
+![Culture](../../images/Free%20Cities_S_Culture.png)
+The vibrant cultural exchange in the heart of a Free City.
+
 ## History
 
 The origins of the Free Cities date back to the tumultuous period following the [Ancient War](Ancient%20War.md), a time when the old empires lay in ruins and the world was ripe for the emergence of new powers. It was during the [Age of Twilight](Age%20of%20Twilight.md) that these cities, once under the yoke of greater empires, declared their independence and began to thrive as centers of trade, magic, and learning.

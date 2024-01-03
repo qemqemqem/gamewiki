@@ -6,6 +6,8 @@ Aesheron, often referred to as the Land of Echoes, is a realm of high fantasy an
 
 ## Geography
 
+![Geography](../../images/Aesheron_S_Geography.png)
+
 The geography of Aesheron is marked by contrasts. In the north, the [Frostspire Mountains](Frostspire%20Mountains.md) tower over the land, their peaks perpetually snow-capped. To the west, the [Verdant Woods](Verdant%20Woods.md) provide a lush, green canopy that is home to the [Elves](Elf.md) and other woodland creatures. The central region is dominated by the [Plains of Valor](Plains%20of%20Valor.md), a vast expanse of grasslands where nomadic tribes roam. The eastern shores are lapped by the [Crystal Sea](Crystal%20Sea.md), famous for its clear blue waters and the mysterious [Isles of Whisper](Isles%20of%20Whisper.md).
 
 ## Notable Locations

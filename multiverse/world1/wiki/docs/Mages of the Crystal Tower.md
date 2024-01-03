@@ -16,6 +16,8 @@ The order is divided into various circles, each specializing in different aspect
 
 ## The Tower's Architecture
 
+![The Tower's Architecture](../../images/Mages%20of%20the%20Crystal%20Tower_S_The%20Tower's%20Architecture.png)
+
 The Crystal Tower is a marvel of magical architecture, its spires reaching towards the heavens, shimmering with an inner light that can be seen for miles around. The tower's construction is a mystery, with some speculating that it was not built but rather conjured into existence through powerful magic.
 
 Within its walls lie vast libraries filled with arcane tomes, laboratories for magical experimentation, and chambers for meditation and the casting of complex spells. The tower's heart contains the Arcanum, a sacred space where the most powerful artifacts and scrolls are kept under constant guard.

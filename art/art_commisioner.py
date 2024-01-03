@@ -50,6 +50,7 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     section = suggestions[0].section
     prompt = suggestions[0].prompt
     orientation = suggestions[0].orientation
+    caption = suggestions[0].caption
 
     save_loc = f"multiverse/{wiki_name}/images/{article_file_name}_S_{section}.png"
     get_picture_and_download(save_loc, prompt, size=orientation)
@@ -61,7 +62,7 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     for i, line in enumerate(lines):
         if section.lower() in line.lower():
             # Insert new_text right after the line containing search_text
-            lines.insert(i + 1, f"\n![{section}](../../images/{sanitize_article_name(article_file_name)}_S_{sanitize_article_name(section)}.png)\n")
+            lines.insert(i + 1, f"\n![{section}](../../images/{sanitize_article_name(article_file_name)}_S_{sanitize_article_name(section)}.png)\n{caption}\n")
             break
     # Write the updated lines back to the file
     with open(article_file_path, 'w') as file:
@@ -141,18 +142,6 @@ def create_art_for_articles(wiki: WikiManager, articles: List[Article], max_num_
     process_thread.join()  # Wait for the processing thread to finish
 
 
-def suggest_art_for_articles(wiki: WikiManager):
-    """
-    Suggests art for articles.
-    """
-    # Iterate over all the articles
-    for article in wiki.articles:
-        # Iterate over the sections in the article, where each section is started by a line that starts with a "#"
-        sections = article.get_sections()
-        for section_name, section_content in sections:
-            pass
-
-
 if __name__ == "__main__":
     wiki_name = "world1"
     wiki_path = Path(f"multiverse/{wiki_name}/wiki/docs")
@@ -163,6 +152,6 @@ if __name__ == "__main__":
     articles = wiki.articles
     articles_by_score = rank_articles(wiki, remove_existing=False, only_include_existing=True)
     ranked_articles: List[Article] = [wiki.get_article_by_name(a[0]) for a in sorted(articles_by_score.items(), key=lambda x: x[1], reverse=True)]
-    print("\n".join([article.title for article in ranked_articles[:10]]))
+    # print("\n".join([article.title for article in ranked_articles[:10]]))
 
-    create_art_for_articles(wiki, ranked_articles)
+    create_art_for_articles(wiki, ranked_articles, max_num_fetch_parallel=4, max_num_process_parallel=6)

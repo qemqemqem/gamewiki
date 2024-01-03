@@ -2,6 +2,9 @@
 
 Nestled within the heart of the [Frostspire Mountains](Frostspire%20Mountains.md), the Dwarven Mines are a marvel of engineering and a testament to the indomitable spirit of the [Dwarves](Dwarves.md). These extensive subterranean networks are not only the source of the dwarves' wealth but also the cradle of their culture, history, and power. The mines are renowned across [Aesheron](Aesheron.md) for producing the finest precious metals and gems, which are as much a cornerstone of the dwarven economy as they are of their identity.
 
+![Economy](../../images/Dwarven%20Mines_S_Economy.png)
+Dwarven trade caravans and ships carrying precious metals and gems from the Dwarven Mines.
+
 ## History
 
 The origins of the Dwarven Mines are as ancient as the mountains themselves. Legend has it that the first dwarves were guided by the [Ancients](Ancients.md) to the heart of the mountains, where they discovered the veins of ore that would become the lifeblood of their civilization. Over centuries, the dwarves expanded their domain, delving deeper into the earth, uncovering riches beyond their wildest dreams, and in the process, carving out a home that was both fortress and sanctuary.

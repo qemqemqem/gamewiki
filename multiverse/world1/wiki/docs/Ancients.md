@@ -10,6 +10,9 @@ The Ancients are believed to have been a diverse and sophisticated society, with
 
 ## Architectural Marvels
 
+![Architectural Marvels](../../images/Ancients_S_Architectural%20Marvels.png)
+"The Architectural Marvels of the Ancients, standing as a testament to their mastery over stone and sky.
+
 The Ancients' architectural prowess is evident in the myriad structures that dot the landscape of Aesheron. From the towering spires of the [Frostspire Mountains](Frostspire%20Mountains.md) to the enigmatic [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md), their constructions were both functional and symbolic, often aligned with celestial patterns and natural ley lines.
 
 ### The Fallen Temple of the Moon

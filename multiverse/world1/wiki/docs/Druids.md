@@ -16,6 +16,8 @@ In the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md), Druids have co
 
 ## Sacred Sites
 
+![Sacred Sites](../../images/Druids_S_Sacred%20Sites.png)
+
 The Druids are closely associated with several sacred sites across [Aesheron](Aesheron.md), each serving as a focal point for their power. The [Enchanted Grove](Enchanted%20Grove.md) is perhaps the most renowned of these, a verdant sanctuary where the Druids commune with the ancient spirits of the land and study the deeper mysteries of life magic.
 
 The [Verdant Woods](Verdant%20Woods.md) also serve as a place of pilgrimage for Druids, who seek to understand the secrets held within its ancient trees. It is here that they often cross paths with [wizards](Wizards.md) and scholars from the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md), sharing knowledge and working together to unravel the forest's arcane wisdom.

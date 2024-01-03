@@ -10,6 +10,9 @@ The temple's decline began with the onset of the [Ancient War](Ancient%20War.md)
 
 ## Architecture
 
+![Architecture](../../images/Fallen%20Temple%20of%20the%20Moon_S_Architecture.png)
+"The Lunarium of the Fallen Temple, with its mystical moonstone columns and the ethereal glow of the selenite orb.
+
 The architecture of the Fallen Temple of the Moon is characterized by its grandiose moonstone columns and the intricate lunar mosaics that adorn its walls. The central chamber, known as the Lunarium, once housed a magnificent orb of selenite that bathed the inner sanctum in a soft, ethereal glow. Surrounding the Lunarium are a series of smaller chambers and passageways, each believed to serve a unique function in the temple's moonlit rites.
 
 The temple's outer precincts are marked by statues of [moon deities](Moon%20Deities.md) and celestial beings, many of which have been worn away by the relentless mountain winds. The [Gardens of Nightshade](Gardens%20of%20Nightshade.md), now overgrown with thorny brambles, were once meticulously tended to reflect the phases of the moon in their layout and choice of nocturnal flora.

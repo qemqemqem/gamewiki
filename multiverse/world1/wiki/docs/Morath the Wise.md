@@ -16,6 +16,9 @@ During the [Ancient War](Ancient%20War.md), Morath the Wise emerged as a pivotal
 
 ## The Journey to Eldara
 
+![The Journey to Eldara](../../images/Morath%20the%20Wise_S_The%20Journey%20to%20Eldara.png)
+Morath the Wise uncovering the secrets of the Well of Stars in the Ruins of Eldara.
+
 Perhaps one of Morath's most famous exploits was his expedition to the [Ruins of Eldara](Ruins%20of%20Eldara.md). There, he uncovered the [Well of Stars](Well%20of%20Stars.md), an ancient observatory that revealed much about the Ancients' understanding of the cosmos. His findings from this journey not only expanded the horizons of astronomical knowledge but also hinted at the existence of other realms beyond the stars.
 
 ## Legacy

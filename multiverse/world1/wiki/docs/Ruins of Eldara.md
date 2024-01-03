@@ -10,6 +10,9 @@ The city of Eldara was believed to have been a pinnacle of the Ancients' archite
 
 The architecture of the [Ruins of Eldara](Ruins%20of%20Eldara.md) is characterized by towering spires, intricate carvings, and expansive plazas. The most notable structures that still stand, albeit in ruin, include the Great Library, the Hall of Echoes, and the Skyward Temples. Each of these edifices exhibits a blend of elegance and arcane craftsmanship, hinting at the advanced knowledge the Ancients possessed.
 
+![The Skyward Temples](../../images/Ruins%20of%20Eldara_S_The%20Skyward%20Temples.png)
+"The Skyward Temples: Ruins Aligned with the Heavens.
+
 ### The Great Library
 
 The Great Library of Eldara, now a labyrinth of toppled bookshelves and scattered tomes, was once the repository of the world's most comprehensive collection of knowledge. It is said that the library's archives contained scrolls and books on subjects ranging from the mundane to the esoteric, including the lost arts of [moon deities](Moon%20Deities.md) worship and the secrets of [occult researchers](Occult%20Researchers.md).

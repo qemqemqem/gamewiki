@@ -4,6 +4,9 @@ Nestled in the western reaches of the realm of [Aesheron](Aesheron.md), the Verd
 
 ## Geography
 
+![Geography](../../images/Verdant%20Woods_S_Geography.png)
+
+
 The Verdant Woods are bordered by the [Plains of Valor](Plains%20of%20Valor.md) to the east and the foothills of the [Frostspire Mountains](Frostspire%20Mountains.md) to the north. To the south, the forest gradually gives way to the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md), where the agrarian communities of Aesheron thrive. The western edge of the woods remains largely uncharted, with explorers and [occult researchers](Occult%20Researchers.md) often returning with tales of hidden glades and enigmatic ruins.
 
 The heart of the Verdant Woods is known as Theron's Glade, a verdant clearing where the legendary [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md) is said to have communed with the spirits of the forest. It is here that the most potent life magic pulses through the land, and many [druids](Druids.md) and [wizards](Wizards.md) journey to the glade seeking enlightenment.

@@ -8,6 +8,8 @@ The formation of the Councils of the Free Cities can be traced back to the after
 
 ## Structure
 
+![Structure](../../images/Councils%20of%20the%20Free%20Cities_S_Structure.png)
+
 The councils are composed of representatives from each Free City, typically chosen for their wisdom, experience, and ability to negotiate. The exact number of representatives can vary, as can the methods of their selection, which range from democratic elections to appointments by local guilds or ruling bodies. The councils convene at predetermined intervals or in times of emergency to deliberate on matters of common interest.
 
 ### Notable Councils

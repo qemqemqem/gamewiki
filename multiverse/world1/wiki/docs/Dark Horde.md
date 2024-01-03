@@ -22,6 +22,9 @@ During the [Ancient War](Ancient%20War.md), the Dark Horde's influence spread ac
 
 ### The Plains of Valor
 
+![The Plains of Valor](../../images/Dark%20Horde_S_The%20Plains%20of%20Valor.png)
+The strategic mastery of the Council of Defense on the Plains of Valor during their stand against the Dark Horde.
+
 The [Plains of Valor](Plains%20of%20Valor.md) stand as a symbol of resilience against the Dark Horde. Here, the [Council of Defense](Council%20of%20Defense.md) orchestrated a masterful defense that repelled the Horde's invasion, solidifying Alyndra's reputation as a military powerhouse. The victory at the Plains of Valor is celebrated in songs and stories, serving as a reminder of the kingdom's strength and unity.
 
 ## Impact on the Realm

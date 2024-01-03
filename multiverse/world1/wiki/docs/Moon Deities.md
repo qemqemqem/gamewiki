@@ -8,6 +8,9 @@ The origins of the Moon Deities are shrouded in the mists of time, with their wo
 
 ## Pantheon and Worship
 
+![Pantheon and Worship](../../images/Moon%20Deities_S_Pantheon%20and%20Worship.png)
+The Moon Deities of Aesheron: Lunara, Selorin, Cresaline, and Noctura, as worshipped by their followers.
+
 The pantheon of the Moon Deities is vast, with each deity governing different aspects of lunar power and the nocturnal world. Their names and attributes vary among the different cultures of the [Kingdoms](Kingdoms.md), but some of the most widely acknowledged among them include:
 
 - **Lunara**: The principal deity, often depicted as a radiant figure cloaked in shimmering moonlight, representing the full moon and the height of lunar magic.

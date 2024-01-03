@@ -8,6 +8,9 @@ A reagent is a substance or mixture used in magical rituals and spellcasting tha
 
 ## Types of Reagents
 
+![Types of Reagents](../../images/Reagents_S_Types%20of%20Reagents.png)
+"An array of magical reagents used in spellcraft, each with its own unique properties and origins.
+
 Reagents come in various forms, each suited to different types of magic and purposes:
 
 - **Elemental Essences**: Extracts from the core of an [elemental being](Elementals.md) or from places with a strong connection to the elemental planes, such as the [Enchanted Grove](Enchanted%20Grove.md) or the [Crystal Waters](Crystal%20Waters.md).

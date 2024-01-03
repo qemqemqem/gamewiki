@@ -8,6 +8,9 @@ The origins of the Monarchies can be traced back to the aftermath of the [Ancien
 
 ## Geography
 
+![Geography](../../images/Monarchies%20of%20the%20Northern%20Realms_S_Geography.png)
+The diverse landscapes of the Northern Realms, from the icy peaks to the verdant forests and the glistening sea.
+
 The Northern Realms span across various landscapes, from the frost-kissed peaks of the [Frostspire Mountains](Frostspire%20Mountains.md) to the lush expanses of the [Verdant Woods](Verdant%20Woods.md). Each kingdom has adapted to its environment, whether it be the seafaring nations along the [Crystal Sea](Crystal%20Sea.md) or the mountain strongholds that guard the realms' borders.
 
 ## Culture

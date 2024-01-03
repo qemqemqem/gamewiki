@@ -8,6 +8,9 @@ The Order's foundation dates back to the aftermath of the [Ancient War](Ancient%
 
 ## Structure and Hierarchy
 
+![Structure and Hierarchy](../../images/Order%20of%20the%20Crimson%20Blade_S_Structure%20and%20Hierarchy.png)
+"The Hierarchy of the Order: From the Crimson Lord to the Bladesmen.
+
 The Order is structured with a strict hierarchy, at the top of which sits the enigmatic figure known only as the [Crimson Lord](Crimson%20Lord.md). Beneath the Crimson Lord are the High Commanders, each responsible for a division of the Order's forces. The ranks continue with Captains, Lieutenants, and the Bladesmen, who form the backbone of the Order's martial strength.
 
 ## Roles and Responsibilities

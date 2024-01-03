@@ -8,6 +8,9 @@ The Council of Arcana was established in the wake of the [Mage Wars](Mage%20Wars
 
 ## Structure and Membership
 
+![Structure and Membership](../../images/Council%20of%20Arcana_S_Structure%20and%20Membership.png)
+The Council of Arcana convenes within the Crystal Tower, led by the venerable Morath the Wise.
+
 The Council is led by a group of archmages, each a master in their respective field of magic. The most notable among them is the venerable [Morath the Wise](Morath%20the%20Wise.md), whose wisdom and experience have guided the Council for decades. Membership is granted only to those who have demonstrated exceptional magical ability, as well as a deep understanding of the ethical implications of their power.
 
 The Council convenes within the hallowed halls of the [Crystal Tower](Crystal%20Tower.md), a place teeming with magical energy and home to the most extensive collection of arcane tomes and artifacts outside of the [Great Library of Eldara](Great%20Library%20of%20Eldara.md). Here, members can conduct research, exchange knowledge, and deliberate on matters of magical import.

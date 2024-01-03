@@ -10,6 +10,8 @@ Members of the Order hold a core belief that the [Ancients](Ancients.md) possess
 
 ## Practices and Rituals
 
+![Practices and Rituals](../../images/Order%20of%20the%20Veiled%20Eye_S_Practices%20and%20Rituals.png)
+
 The Order of the Veiled Eye is known for its rigorous scholarly practices and the mystical rituals it employs to uncover and safeguard arcane knowledge. Their methods include:
 
 - **Arcane Research**: Members spend countless hours studying ancient manuscripts, deciphering forgotten languages, and cross-referencing texts from various sources, including the libraries of the [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md).

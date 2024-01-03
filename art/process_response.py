@@ -9,6 +9,7 @@ class ArtResponseData:
         self.num_good = 0
         self.num_bad = 0
         self.orientation = "square"
+        self.caption = ""
 
 
 def process_art_response(response: str) -> List[ArtResponseData]:
@@ -33,11 +34,14 @@ def process_art_response(response: str) -> List[ArtResponseData]:
             cur_response.num_good = 0 if "none" in line else int(len(line.split(",")))
         elif "difficulties" in line:
             cur_response.num_bad = 0 if "none" in line else int(len(line.split(",")))
+        elif "caption:" in line:
+            cur_response.caption = line.split("caption:")[1].strip("\"").strip()
+            # print("Got caption", cur_response.caption)
         elif "orientation" in line:
             if "landscape" in line:
-                cur_response.orientation = "1024x1792"
-            elif "portrait" in line:
                 cur_response.orientation = "1792x1024"
+            elif "portrait" in line:
+                cur_response.orientation = "1024x1792"
             else:
                 cur_response.orientation = "1024x1024"
 

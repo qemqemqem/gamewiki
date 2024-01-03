@@ -10,6 +10,9 @@ Throughout the ages, Stormhold Castle has been the focal point of many significa
 
 ## Architecture
 
+![Architecture](../../images/Stormhold%20Castle_S_Architecture.png)
+The Heart of Stormhold, the architectural marvel of Stormhold Castle.
+
 The castle's architecture is a marvel of ancient engineering, with its massive stone walls and towering spires that seem to pierce the very heavens. The central keep, known as the Heart of Stormhold, contains the throne room and private chambers of the ruling monarch. Surrounding the keep are various courtyards, each with its own purpose, from training grounds for knights to serene gardens for contemplation.
 
 The [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md), a masterwork of dwarven craftsmanship, sits in the grand hall, a symbol of the alliance between the [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md) and the [Dwarves](Dwarves.md) of the [Dwarven Mines](Dwarven%20Mines.md). The forges of Stormhold Castle are renowned for producing some of the finest weapons and armor in the land, their quality rivaled only by the legendary items crafted beneath the mountains.

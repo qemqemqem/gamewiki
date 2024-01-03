@@ -20,6 +20,9 @@ Attunement is a critical step in the preparation of an Arcane Focus. It involves
 
 ## Role in Spellcasting
 
+![Role in Spellcasting](../../images/Arcane%20Foci_S_Role%20in%20Spellcasting.png)
+"A spellcaster channels arcane energy through their focus to cast a spell.
+
 In spellcasting, an Arcane Focus often replaces the need for [Reagents](Reagents.md), allowing a spellcaster to perform magic without the cumbersome process of gathering and preparing material components. The focus acts as a lens, concentrating and directing magical energy in a controlled and efficient manner.
 
 For example, a [Conjurer](Conjurers.md) might use a staff topped with a crystal orb to summon [Windcutter Hawks](Windcutter%20Hawks.md) from the skies, while a [Sorcerer](Sorcerers.md) could wield a wand of blackened ash to cast bolts of lightning at members of the [Dark Horde](Dark%20Horde.md).

@@ -8,6 +8,8 @@ The origins of the Moonflower Festival are rooted in ancient folklore, tracing b
 
 ## Festival Activities
 
+![Festival Activities](../../images/Moonflower%20Festival_S_Festival%20Activities.png)
+
 ### Rituals and Ceremonies
 
 The festival begins with the traditional [Druids](Druids.md)' ceremony at dusk, where the high [Druid](Druid.md) of [Theron's Glade](Theron'S%20Glade.md) recites the ancient [Chant of the Silver Bloom](Chant%20of%20the%20Silver%20Bloom.md), invoking the moon's blessing. The Druids and [Wizards](Wizards.md) of the [Council of Arcana](Council%20of%20Arcana.md) play a crucial role in orchestrating the rituals, which are believed to ensure a bountiful bloom and a prosperous year ahead.

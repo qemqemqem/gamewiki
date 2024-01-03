@@ -10,6 +10,9 @@ The mountains are riddled with icy crevasses and hidden valleys. Among these sec
 
 ## Flora and Fauna
 
+![Flora and Fauna](../../images/Frostspire%20Mountains_S_Flora%20and%20Fauna.png)
+The resilient flora and fauna of the Frostspire Mountains, with the Snowstalker Lynx and the majestic Frostwing Eagle.
+
 Despite the harsh conditions, life endures in the Frostspire Mountains. Hardy vegetation clings to life, with evergreens such as the Frostpine and Iceberry bushes providing a touch of green amidst the snow. The fauna is equally resilient, with creatures such as the Snowstalker Lynx and the Iceclaw Bear having adapted to the cold climate.
 
 The upper reaches of the mountains are home to the majestic Frostwing Eagles, whose wingspan can reach lengths that rival the tallest of men. These creatures are often seen soaring high above the peaks, their cries echoing across the frozen landscape.

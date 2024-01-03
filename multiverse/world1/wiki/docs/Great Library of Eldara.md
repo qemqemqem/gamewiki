@@ -8,6 +8,8 @@ The origins of the Great Library are as enigmatic as the tomes it houses. It is 
 
 ## Architecture
 
+![Architecture](../../images/Great%20Library%20of%20Eldara_S_Architecture.png)
+
 The architecture of the Great Library is a harmonious blend of artistry and function. Its towering spires reach towards the heavens, while its vast halls are lined with endless shelves of books, scrolls, and artifacts. The central dome, adorned with a mosaic of the [moon](Moon.md) and stars, bathes the main reading room in a celestial glow, inspiring all who enter. Secret chambers and private study rooms are hidden throughout the library, accessible only to those with the knowledge to find them.
 
 ## Collections

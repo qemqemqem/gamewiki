@@ -4,6 +4,8 @@ Rituals are a series of ceremonial actions performed in a prescribed order, ofte
 
 ## Types of Rituals
 
+![Types of Rituals](../../images/Rituals_S_Types%20of%20Rituals.png)
+
 ### Communal Celebrations
 Many rituals in Aesheron are communal, involving entire communities or specific groups such as the [Druids](Druids.md) or [Wizards](Wizards.md). The [Moonflower Festival](Moonflower%20Festival.md) in [Silverlake Valley](Silverlake%20Valley.md) is a prime example, where the blooming of the [Moonflower](Moonflower.md) under the [moon](Moon.md)'s light is celebrated with elaborate rituals, music, and dance. These events not only honor the natural world but also reinforce the bonds between individuals and their shared heritage.
 
