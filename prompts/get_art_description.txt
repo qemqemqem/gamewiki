@@ -1,0 +1,24 @@
+I'm working on creating a wiki for my D&D campaign. I have this article, and I'm wondering if I should add any images to it before I share it with my players.
+
+I want you to look at each section, where a section is labeled with one or more "#" characters, like in a Markdown file.
+
+If a section looks like it would be valuable to add art to it, can you fill this out for me? You can probably skip most of the sections, but maybe fill this out for a few of them.
+
+## Section Title
+visual_purpose: what is the main question a reader will have that could be answered by a visual? Phrase this as a question.
+ideas_for_art_content: Brainstorm some ideas for the content of the art. Suggest possible central figures, possible backgrounds, and possible events or actions to depict
+ideas_for_style: photographic (describe camera), sketch (pencil, outline, etc), computer graphics, painting (describe painting style), or other
+art_prompt: "[central figure or object] in [describe location], in [style description], [several adjectives], done in [artistic medium]"
+art_prompt_detailed: rewrite art_prompt, replacing any named locations or characters with descriptions
+orientation: [landscape, portrait, square]
+artistic_value: list one or more: [none, landscape, appropriate style, interesting person, intricate design, fun, comedic, wondrous, exciting, style match]
+descriptive_value: list one or more: [none, location, person, object, map, event, historical, story event, monster, character, background, narrative]
+difficulties: list one or more: [none, named characters, named location, multipart, confusing, instructions unclear, obscure style]
+
+Remember that the prompt needs to be detailed, because the artist doesn't know much about the world.
+
+Please rate value harshly, because I have a limited budget.
+
+Here's the article:
+
+{article_wikitext}
