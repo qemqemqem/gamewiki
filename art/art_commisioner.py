@@ -64,6 +64,7 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     # Write the updated lines back to the file
     with open(article_file_path, 'w') as file:
         file.writelines(lines)
+    print(f"Added image to {article_file_name} in section {section}!")
 
     return save_loc
 

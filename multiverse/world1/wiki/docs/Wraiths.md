@@ -8,6 +8,9 @@ The origins of wraiths are shrouded in mystery and sorrow. Some believe that wra
 
 ## Characteristics
 
+![Characteristics](../../images/Wraiths_S_Characteristics.png)
+
+
 Wraiths are incorporeal, their forms often appearing as dark, wispy figures with hauntingly hollow eyes. They are bound to the [Shadowfell](Shadowfell.md) but can occasionally find passage to the material plane through tears in the fabric of reality or by the summoning of a powerful [Summoner](Summoner.md) or [Warlock](Warlock.md). Wraiths possess a chilling aura that can freeze the heart of the bravest [Warriors](Warriors.md), and their touch can sap the strength from even the most formidable foes.
 
 ### Abilities
