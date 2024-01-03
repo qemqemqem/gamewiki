@@ -1,0 +1,37 @@
+## Botanical Characteristics
+visual_purpose: What does the Moonflower look like when it blooms under the full moon?
+ideas_for_art_content: A Moonflower in full bloom with broad, heart-shaped leaves and trumpet-shaped petals ranging from whites and soft blues to gentle lavenders.
+ideas_for_style: Painting, with a focus on capturing the luminescent quality of the petals.
+art_prompt: "A radiant Moonflower in full bloom, under the soft glow of the full moon, with luminescent petals in a range of ethereal whites and soft blues to gentle lavenders, painted in a style that captures the magical aura of the plant."
+art_prompt_detailed: "A radiant, trumpet-shaped flower with broad, heart-shaped leaves, glowing in a range of ethereal whites and soft blues to gentle lavenders, under the soft glow of a full moon, painted in a style that captures the magical aura of the plant."
+orientation: Square
+artistic_value: Wondrous, style match
+descriptive_value: Object, location
+difficulties: None
+
+## Cultural Significance
+visual_purpose: What does the Moonflower Festival look like?
+ideas_for_art_content: A scene from the Moonflower Festival with people in ceremonial garb, Moonflowers in the background, and festivities such as dancing or music playing.
+ideas_for_style: Sketch, capturing the energy and movement of the festival.
+art_prompt: "The vibrant Moonflower Festival at Stormhold Castle, with people in ceremonial garb celebrating among blooming Moonflowers, sketched in a lively style that conveys the excitement of the event."
+art_prompt_detailed: "A lively scene with people in ornate, traditional clothing dancing and celebrating among large, glowing trumpet-shaped flowers, sketched in a style that conveys the movement and energy of a vibrant festival."
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Event, character, background
+difficulties: Named location, named characters
+
+## Magical Properties
+visual_purpose: How are Moonflowers used in magical potions and rituals?
+ideas_for_art_content: An alchemist or healer using Moonflower petals and nectar in a potion-making process, with a magical aura emanating from the concoction.
+ideas_for_style: Computer graphics, with a focus on vibrant colors and magical effects.
+art_prompt: "An alchemist carefully adding luminescent Moonflower petals to a potion, with a magical aura emanating from the mixture, depicted in vibrant computer graphics."
+art_prompt_detailed: "A robed figure with a look of concentration, dropping glowing, trumpet-shaped flower petals into a bubbling flask, with a mystical light radiating from the concoction, depicted in vibrant computer graphics."
+orientation: Portrait
+artistic_value: Intricate design, wondrous
+descriptive_value: Person, object, narrative
+difficulties: Named characters
+
+Please note that while the prompts are detailed, they are based on the descriptions provided in the article. The artist may need additional context or clarification on specific elements of the world to accurately depict the scenes.
+
+Retrieved at: 2024-01-02 18:05:35.554625
+Used: False

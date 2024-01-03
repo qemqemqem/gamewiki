@@ -12,6 +12,8 @@ Elves are renowned for their ethereal beauty, slender builds, and pointed ears, 
 
 ## Culture and Society
 
+![Culture and Society](../../images/Elf_S_Culture%20and%20Society.png)
+
 Elven society is deeply rooted in the harmony of nature. They are known to dwell in places of natural beauty, such as the [Verdant Woods](Verdant%20Woods.md), where they live in elegant structures built within the trees, designed to blend seamlessly with their surroundings. Elves are also known for their artistic expressions, creating music and art that mirror the beauty of the natural world, as seen in the celebrations at [Crystal Lake](Crystal%20Lake.md).
 
 Elves value knowledge, wisdom, and the pursuit of magical prowess. Many are drawn to the study of the arcane, and some of the most skilled [wizards](Wizards.md) and enchanters are of elven kind. The [Mages of the Crystal Tower](Mages%20of%20the%20Crystal%20Tower.md) include elves among their esteemed ranks, and figures such as [Theron of the Verdant Woods](Theron%20of%20the%20Verdant%20Woods.md) have made significant contributions to the magical arts.

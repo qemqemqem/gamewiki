@@ -5,6 +5,7 @@ from typing import List, Optional
 
 from art.process_response import process_art_response
 from config.globals import LLM_MODEL
+from formatting.formatting import sanitize_article_name
 from utils.dalle import get_picture_and_download
 from utils.gpt import prompt_completion_chat
 from writing.article import Article
@@ -59,7 +60,7 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     for i, line in enumerate(lines):
         if section.lower() in line.lower():
             # Insert new_text right after the line containing search_text
-            lines.insert(i + 1, f"\n![{section}](../../images/{article_file_name}_S_{section}.png)\n\n")
+            lines.insert(i + 1, f"\n![{section}](../../images/{sanitize_article_name(article_file_name)}_S_{sanitize_article_name(section)}.png)\n")
             break
     # Write the updated lines back to the file
     with open(article_file_path, 'w') as file:

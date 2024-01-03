@@ -1,0 +1,37 @@
+## The Conflict
+visual_purpose: What did the Shade Wraiths look like, and how did they clash with the forces of the Kingdom of Alyndra?
+ideas_for_art_content: Depict Shade Wraiths emerging from a dark mist, clashing with the armored soldiers of Alyndra, led by Alyndra, Warrior Queen.
+ideas_for_style: A dynamic painting style reminiscent of classic fantasy artwork, with a focus on contrast between light and darkness.
+art_prompt: "Alyndra, Warrior Queen leading her soldiers against the ethereal Shade Wraiths in the mystical Shadowed Vale, with a dramatic interplay of light and shadow, done in oil painting."
+art_prompt_detailed: "A regal armored female warrior leading a diverse group of fantasy soldiers against ghostly apparitions in a valley imbued with magical energies, with a dramatic interplay of light and shadow, done in oil painting."
+orientation: landscape
+artistic_value: exciting, style match
+descriptive_value: event, character, narrative
+difficulties: named characters, multipart, instructions unclear
+
+## Magic and the War
+visual_purpose: How did the magical battles manifest in the landscape, and what did the spells and artifacts look like?
+ideas_for_art_content: Illustrate a powerful wizard casting a spell with arcane symbols floating around, with the land around showing signs of magical scarring.
+ideas_for_style: A vivid, high-fantasy computer graphics style that can capture the otherworldly effects of magic.
+art_prompt: "A wizard from the Council of Arcana casting a spell, surrounded by arcane symbols, in a landscape marked by dark magical scars, in a vibrant, high-fantasy computer graphics style."
+art_prompt_detailed: "A robed spellcaster surrounded by glowing mystical runes, in a landscape showing twisted shadows and magical distortions, in a vibrant, high-fantasy computer graphics style."
+orientation: portrait
+artistic_value: wondrous, intricate design
+descriptive_value: person, object, location, narrative
+difficulties: named location, obscure style
+
+## Notable Figures
+visual_purpose: Who were the key heroes of the war, and what did they look like?
+ideas_for_art_content: Portraits of Alyndra, Warrior Queen; Morath the Wise; and Theron of the Verdant Woods, each depicted with their signature attributes.
+ideas_for_style: Detailed sketches that capture the essence of each character, with attention to their attire and weapons.
+art_prompt: "Portraits of the key heroes of the War of the Shadowed Vale, each with their defining features and attire, in detailed pencil sketches."
+art_prompt_detailed: "Portraits of a regal female warrior in armor, an elderly sage with ancient tomes, and an elven archer in forest garb, each with their defining features and attire, in detailed pencil sketches."
+orientation: portrait
+artistic_value: interesting person, style match
+descriptive_value: person, character
+difficulties: named characters
+
+Given the limited budget, it's important to prioritize which images will have the most impact. The "The Conflict" section is central to the story and would benefit greatly from a vivid depiction of the battle. "Magic and the War" could provide a striking visual of the magical elements, which are crucial to the setting. "Notable Figures" could be more affordable as sketches and would help players visualize the key characters. The other sections might not need art as urgently, considering the budget constraints.
+
+Retrieved at: 2024-01-02 17:51:35.266167
+Used: False

@@ -8,9 +8,6 @@ Theron was born an [Elf](Elf.md) amidst the lush canopies of the Verdant Woods, 
 
 ## Role in the Ancient War
 
-![Role in the Ancient War](../../images/Theron of the Verdant Woods_S_Role in the Ancient War.png)
-
-
 The [Ancient War](Ancient%20War.md) was a period of great upheaval, where the forces of darkness sought to corrupt and conquer the lands of Aesheron. Theron, recognizing the threat to his beloved woods and the world at large, took a stand against the encroaching chaos. He rallied the creatures of the forest and allied with influential figures like [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md), forming a bulwark against the war's devastation.
 
 The [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) and the [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md) are but two of the many sites where Theron's influence was felt. His efforts ensured that the Verdant Woods remained a sanctuary, untouched by the war's corruption. His strategic use of life magic not only fortified the woods but also revitalized the weary soldiers and allies who fought alongside him.
