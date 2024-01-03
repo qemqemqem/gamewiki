@@ -3,6 +3,7 @@ import re
 import time
 
 import openai
+import requests
 from openai import OpenAI
 
 
@@ -29,7 +30,13 @@ def get_picture(description: str, model: str = "dall-e-3", size: str = "1024x102
 
 def get_picture_and_download(save_loc: str, description: str, model: str = "dall-e-3", size: str = "1024x1024", quality="standard", n: int = 1):
     image_url = get_picture(description, model, size, quality, n)
-    os.system(f"wget {image_url} -O {save_loc}")
+    print("Got art at URL: ", image_url)
+    # os.system(f"wget {image_url} -O {save_loc}")
+    response = requests.get(image_url)
+    if response.status_code == 200:
+        with open(save_loc, 'wb') as file:
+            file.write(response.content)
+            print(f"Saved file! {save_loc}")
 
 
 if __name__ == "__main__":

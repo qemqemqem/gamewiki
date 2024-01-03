@@ -1,4 +1,6 @@
+import time
 from pathlib import Path
+from threading import Thread
 from typing import List, Optional
 
 from config.globals import LLM_MODEL
@@ -12,11 +14,24 @@ import os
 import datetime
 
 
+def description_file_exists(wiki_name: str, article_title: str) -> bool:
+    return os.path.isfile(f"multiverse/{wiki_name}/art_descriptions/{article_title}.txt")
+
+
+def image_file_exists(wiki_name: str, article_title: str, section_name: Optional[str] = None) -> bool:
+    if section_name is None:
+        return os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}.png") or os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}_S_top.png")
+    else:
+        return os.path.isfile(f"multiverse/{wiki_name}/images/{article_title}_S_{section_name}.png")
+
+
 def get_description(article: Article) -> str:
     with open("prompts/get_art_description.txt", 'r') as f:
         prompt = f.read()
 
     prompt = prompt.format(article_wikitext=article.content_wikitext)
+
+    print(f"Getting description for {article.title}...")
 
     response = prompt_completion_chat(prompt, max_tokens=2048, model=LLM_MODEL)
 
@@ -28,7 +43,7 @@ def use_description(wiki_name: str, article_file_name: str, description: str) ->
     section = "top"
     prompt = "Cool fantasy art"
 
-    save_loc = f"multiverse/{wiki_name}/images/{article_file_name.title}_S_{section}.png"
+    save_loc = f"multiverse/{wiki_name}/images/{article_file_name}_S_{section}.png"
     get_picture_and_download(save_loc, prompt)
 
     # TODO: Add the image to the article
@@ -52,42 +67,58 @@ def fetch_and_save_description(wiki: WikiManager, article: Article) -> Optional[
 
 
 def process_description(wiki: WikiManager, filename: str) -> None:
-    if filename:
-        article_title = os.path.basename(filename).split('.txt')[0]
-        with open(filename, 'r') as file:
-            description = file.read()
-        try:
-            use_description(wiki.wiki_name, article_title, description)
-            # Update the status in the file
-            with open(filename, 'a') as file:
-                file.write("\nUsed: True")
-        except Exception as e:
-            with open("logging/art_errors.txt", 'a') as error_file:
-                error_file.write(f"Error processing description for {article_title}: {e}\n")
+    article_title = os.path.basename(filename).split('.txt')[0]
+    with open(filename, 'r') as file:
+        description = file.read()
+    try:
+        print(f"Generating art for {article_title}...")
+        use_description(wiki.wiki_name, article_title, description)
+        # Update the status in the file
+        with open(filename, 'a') as file:
+            file.write("\nUsed: True")
+    except Exception as e:
+        with open("logging/art_errors.txt", 'a') as error_file:
+            error_file.write(f"Error processing description for {article_title}: {e}\n")
+
+
+def fetch_descriptions(wiki: WikiManager, articles: List[Article], executor: concurrent.futures.Executor) -> List[str]:
+    filenames = []
+    for article in articles:
+        if not description_file_exists(wiki.wiki_name, article.title):
+            future = executor.submit(fetch_and_save_description, wiki, article)
+            filename = future.result()
+            if filename:
+                filenames.append(filename)
+    return filenames
+
+
+def process_images(wiki: WikiManager, executor: concurrent.futures.Executor, polling_interval: int = 1) -> None:
+    processed_articles = set()
+
+    while True:
+        description_files = [f for f in os.listdir(f"multiverse/{wiki.wiki_name}/art_descriptions") if f.endswith(".txt")]
+        for filename in description_files:
+            article_title = filename.split('.txt')[0]
+            if article_title not in processed_articles and not image_file_exists(wiki.wiki_name, article_title):
+                executor.submit(process_description, wiki, f"multiverse/{wiki.wiki_name}/art_descriptions/{filename}")
+                processed_articles.add(article_title)
+
+        time.sleep(polling_interval)  # Wait for a second before checking again
 
 def create_art_for_articles(wiki: WikiManager, max_num_fetch_parallel: int = 1, max_num_process_parallel: int = 1) -> None:
     articles: List[Article] = wiki.articles
     os.makedirs("descriptions", exist_ok=True)
     os.makedirs("images", exist_ok=True)
 
-    # Use separate executors for fetching and processing
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_num_fetch_parallel) as fetch_executor,\
-         concurrent.futures.ThreadPoolExecutor(max_workers=max_num_process_parallel) as process_executor:
-        # Submit fetch tasks
-        future_to_filename = {fetch_executor.submit(fetch_and_save_description, wiki, article): article for article in articles}
+    # Start processing images in a separate thread
+    process_thread = Thread(target=process_images, args=(wiki, concurrent.futures.ThreadPoolExecutor(max_workers=max_num_process_parallel)))
+    process_thread.start()
 
-        # Process descriptions as they are fetched
-        for future in concurrent.futures.as_completed(future_to_filename):
-            article = future_to_filename[future]
-            try:
-                filename = future.result()
-                if filename:
-                    # Submit process tasks
-                    process_executor.submit(process_description, wiki, filename)
-            except Exception as e:
-                with open("logging/art_errors.txt", 'a') as error_file:
-                    error_file.write(f"Error in fetching description for {article.title}: {e}\n")
+    # Fetch descriptions in the main thread
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_num_fetch_parallel) as fetch_executor:
+        fetch_descriptions(wiki, wiki.articles, fetch_executor)
 
+    process_thread.join()  # Wait for the processing thread to finish
 
 def suggest_art_for_articles(wiki: WikiManager):
     """

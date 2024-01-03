@@ -3,6 +3,11 @@ import re
 import time
 
 import openai
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ.get("OPENAI_API_KEY"),
+)
 
 # Set up your OpenAI API key
 openai.api_key = os.environ["OPENAI_API_KEY"]
@@ -48,7 +53,7 @@ def prompt_completion(question, engine="davinci-instruct-beta", max_tokens=64, t
 def prompt_completion_chat(question="", model="gpt-3.5-turbo", n=1, temperature=0.2, max_tokens=256, system_description="You write articles for a wiki. You write text in the markdown `.md` file format, with one change, that you can link [[Articles]] with [[Double Brackets]] like in [[wikitext]]. Any time it would be appropriate to link to another article, you use double brackets to mark it as a link, even if you aren't sure if that article exists. Here are some things that are good to link: Named people, places, or events, Important nouns, Technical concepts.ka", messages=None):
     start_time = time.perf_counter()
     prompt = f"{question} "
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         # https://openai.com/blog/introducing-chatgpt-and-whisper-apis
         model=model,
         messages=messages if messages is not None else [
