@@ -14,6 +14,9 @@ Understanding the lay of the land is crucial for any military campaign. Commande
 
 ### Magical Elements
 
+![Magical Elements](../../images/Military%20Strategy_S_Magical%20Elements.png)
+"Arcane practitioner turning the tide of battle with a powerful flame strike.
+
 The inclusion of [arcane practitioners](Arcane%20Practitioners.md) in military planning cannot be overstated. Their ability to [control weather](Control%20Weather.md), cast [flame strike](Flame%20Strike.md), or create protective barriers with [arcane foci](Arcane%20Foci.md) has revolutionized the battlefield. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) is known for its secretive contributions to military tactics, often turning the tide of battle with unseen forces.
 
 ### Logistics and Supply

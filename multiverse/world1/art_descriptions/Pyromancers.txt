@@ -1,0 +1,53 @@
+## Origins and History
+visual_purpose: What did the first pyromancers and the Age of Wonders look like?
+ideas_for_art_content: Depict an ancient mage drawing energy from a fiery vortex; ancient runes and artifacts in the background.
+ideas_for_style: Painting, with a mystical and ethereal style reminiscent of classical fantasy art.
+art_prompt: "An ancient mage channeling fiery energy from the Elemental Plane, ethereal and mystical, in a classical fantasy painting style."
+art_prompt_detailed: "A robed figure with arcane symbols on their attire, standing before a swirling vortex of fire and energy, with ancient stone tablets and mystical artifacts scattered around, all depicted in a classical fantasy painting style."
+caption: "The birth of pyromancy during the Age of Wonders, as a mage draws upon the raw energy of the Elemental Plane."
+orientation: landscape
+artistic_value: wondrous, style match
+descriptive_value: historical, event
+difficulties: named location, multipart
+
+## Abilities and Practices
+visual_purpose: How do pyromancers' abilities manifest visually?
+ideas_for_art_content: A pyromancer casting a massive inferno spell; elemental symbols glowing on their hands; fire elementals emerging in the background.
+ideas_for_style: Sketch, with dynamic lines and intense contrasts to emphasize the power and movement of fire.
+art_prompt: "A pyromancer casting a massive inferno, dynamic and intense, in a detailed pencil sketch."
+art_prompt_detailed: "A figure with hands outstretched, elemental symbols glowing upon their skin, as a towering inferno bursts forth, with the silhouettes of fire elementals appearing within the flames, all rendered in a dynamic pencil sketch with intense contrasts."
+caption: "A pyromancer unleashes a devastating inferno, showcasing the mastery over fire."
+orientation: portrait
+artistic_value: exciting, intricate design
+descriptive_value: person, event
+difficulties: named characters
+
+## Tools and Artifacts
+visual_purpose: What do the tools and artifacts of pyromancy look like?
+ideas_for_art_content: A collection of pyromantic tools, including a wand with a ruby crystal, the Tome of Embers, and the Circlet of the Inferno.
+ideas_for_style: Still life painting, with a focus on detail and texture to give a sense of age and power.
+art_prompt: "Pyromantic artifacts including a ruby-encrusted wand, an ancient tome, and a fiery circlet, detailed and textured, in a still life painting."
+art_prompt_detailed: "A wooden table holding a wand with a glowing red crystal at its tip, beside an open book filled with arcane script and fiery illustrations, and a golden circlet with flames etched into its surface, all depicted with fine detail and rich texture in a still life painting."
+caption: "The tools of the pyromancer: Ruby Crystals, Tome of Embers, and Circlet of the Inferno."
+orientation: landscape
+artistic_value: intricate design
+descriptive_value: object
+difficulties: none
+
+## Notable Pyromancers
+visual_purpose: Who are these notable pyromancers and what did they look like?
+ideas_for_art_content: Portraits of Seraphine the Bright with a phoenix, Grimbeorn the Builder at his forge, and the Warrior Queen Alyndra with pyromancers in her ranks.
+ideas_for_style: Triptych painting, with each figure captured in a heroic and legendary style.
+art_prompt: "Portraits of Seraphine with a phoenix, Grimbeorn at his forge, and Queen Alyndra with her pyromancers, heroic and legendary, in a triptych painting."
+art_prompt_detailed: "Three separate portraits: a woman with radiant attire and a fiery bird perched beside her, a burly man with a hammer in front of an anvil surrounded by flames, and a regal figure in armor with robed figures casting fire spells behind her, all depicted in a grand and legendary painting style."
+caption: "Seraphine the Bright, Grimbeorn the Builder, and Warrior Queen Alyndra: Legends of pyromancy."
+orientation: landscape
+artistic_value: interesting person, style match
+descriptive_value: person, character
+difficulties: named characters
+
+Please note that the artistic value and descriptive value are rated harshly, and only the sections with the highest potential impact have been selected for art suggestions.
+
+Retrieved at: 2024-01-02 21:24:36.214166
+Used: False
+Used: True

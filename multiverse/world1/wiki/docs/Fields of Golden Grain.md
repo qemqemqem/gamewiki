@@ -8,6 +8,9 @@ The Fields of Golden Grain stretch from the southern edge of the [Verdant Woods]
 
 ## Agriculture
 
+![Culture](../../images/Fields%20of%20Golden%20Grain_S_Culture.png)
+The Harvest Moon Festival, a time of joy and thanksgiving in the Fields of Golden Grain.
+
 Agriculture in the Fields of Golden Grain is a testament to the ingenuity and dedication of the Aesheronian people. The grains produced here are of the highest quality, sought after by bakers and brewers across the land. The most common crops are wheat, barley, and rye, but there are also fields of oats, millet, and the rare golden amaranth, a plant believed to have magical properties.
 
 The farming techniques employed are a blend of traditional methods passed down through generations and innovative practices developed by the [Druids](Druids.md) and [Wizards](Wizards.md) who study the natural world. Crop rotation, soil enrichment rituals, and weather prediction spells ensure bountiful harvests year after year.

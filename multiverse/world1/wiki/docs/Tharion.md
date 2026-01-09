@@ -4,6 +4,9 @@ Tharion is a name that resonates through the annals of history, bearing multiple
 
 ## Tharion, the Deity
 
+![Tharion, the Deity](../../images/Tharion_S_Tharion%2C%20the%20Deity.png)
+"Worshippers seek the guidance of Tharion within the grand temple, a sanctuary of knowledge and foresight.
+
 In the pantheon of revered deities, Tharion stands as the god of knowledge and foresight. Worshippers of Tharion, often scholars, [Wizards](Wizards.md), and [sorcerers](Sorcerers.md), seek his divine guidance to gain wisdom and to peer into the possible futures. Temples dedicated to Tharion are repositories of knowledge, featuring vast libraries and halls for divinatory [rituals](Rituals.md). The most famous of these temples is said to be hidden within the [Verdant Woods](Verdant%20Woods.md), a place where the veil between the mortal realm and the divine is thin.
 
 ## Tharion, the General

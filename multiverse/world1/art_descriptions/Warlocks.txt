@@ -1,0 +1,44 @@
+## Patrons
+
+visual_purpose: What do the various patrons of warlocks look like, and how do they differ from one another?
+ideas_for_art_content: Depict a warlock in the foreground with a representation of each type of patron (Fiend, Archfey, Great Old One, Shadowfell Entity) in the background, showing their distinct realms and characteristics.
+ideas_for_style: Painting, with a mystical and ethereal quality to capture the otherworldliness of the patrons.
+art_prompt: "A warlock standing at a crossroads with the Fiend, Archfey, Great Old One, and Shadowfell Entity looming in their respective realms behind them, painted in a mystical and ethereal style, vibrant, haunting, and surreal, done in watercolor."
+art_prompt_detailed: "A cloaked figure standing at a crossroads with a fiery demon, an enchanting fairy-like creature, a tentacled cosmic entity, and a shadowy ghost-like figure looming in their respective realms behind them, painted in a mystical and ethereal style, vibrant, haunting, and surreal, done in watercolor."
+caption: "A warlock at the crossroads of destiny, flanked by the diverse patrons of their dark pacts."
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, event, historical, monster, character, background]
+difficulties: [named characters, multipart]
+
+## Warlock Abilities
+
+visual_purpose: How do warlock invocations manifest, and what do they look like when used?
+ideas_for_art_content: Illustrate a warlock using various invocations, such as eyes glowing with supernatural vision, reading ancient runes, or fading into invisibility.
+ideas_for_style: Sketch, with dynamic lines to show motion and energy, emphasizing the supernatural aspect of the abilities.
+art_prompt: "A warlock with eyes aglow casting eldritch invocations, sketched with dynamic lines, energetic, mysterious, and powerful, done in charcoal."
+art_prompt_detailed: "A figure cloaked in darkness with eyes emitting an otherworldly light, hands outstretched as ancient runes hover before them, and their form beginning to vanish into thin air, sketched with dynamic lines, energetic, mysterious, and powerful, done in charcoal."
+caption: "A warlock channels the forbidden powers of their patron through eldritch invocations."
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, event, character, narrative]
+difficulties: [named characters, multipart]
+
+## Known Warlock Orders
+
+visual_purpose: What distinguishes the different warlock orders from each other?
+ideas_for_art_content: Create a triptych showing members of each order (The Ashen Brotherhood, The Order of the Starry Gaze, The Covenant of the Thorn) in their respective environments, with symbols or artifacts that represent their patrons.
+ideas_for_style: Computer graphics, with a detailed and emblematic approach to clearly differentiate each order and their patron's influence.
+art_prompt: "Members of The Ashen Brotherhood, The Order of the Starry Gaze, and The Covenant of the Thorn in their respective environments, detailed and emblematic, symbolic, distinct, and representative, done in digital art."
+art_prompt_detailed: "A dark-robed figure standing amidst smoldering trees, a star-cloaked mystic gazing into a celestial orb, and a thorn-armored enchanter in a verdant glade, each surrounded by symbols of their order, detailed and emblematic, symbolic, distinct, and representative, done in digital art."
+caption: "The diverse orders of warlocks, each bound to their unique patrons and powers."
+orientation: Landscape
+artistic_value: [appropriate style, intricate design, style match]
+descriptive_value: [location, person, object, event, character, background]
+difficulties: [named characters, multipart, style match]
+
+Please note that the value ratings are harsh due to the limited budget, and the suggestions are made with the assumption that only a few key sections will be illustrated. The artist will need to use creativity and research to fill in the gaps of the world's lore.
+
+Retrieved at: 2024-01-02 21:38:25.230583
+Used: False
+Used: True

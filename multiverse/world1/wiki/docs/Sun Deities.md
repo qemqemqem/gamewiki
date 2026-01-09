@@ -4,6 +4,9 @@ The [sun deities](Sun%20Deities.md) of Aesheron are a pantheon of gods revered a
 
 ## Worship and Temples
 
+![Worship and Temples](../../images/Sun%20Deities_S_Worship%20and%20Temples.png)
+The Cathedral of Radiant Dawn, the pinnacle of worship for the sun deities in Aesheron.
+
 Throughout the region, the sun deities are honored in various forms and names, each culture attributing its unique characteristics and legends to these celestial beings. The most prominent temples dedicated to the sun deities are architectural marvels, designed to capture the essence of the sun's power. The grandest of these is the [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md), located in the heart of the [Silverlake Valley](Silverlake%20Valley.md), where the sun's first light is said to touch the land each morning.
 
 The clergy, consisting of devoted [priests](Priests.md) and [paladins](Paladins.md), lead the worship and maintain the temples. They conduct [rituals](Rituals.md) and ceremonies to honor the sun deities, often during significant celestial events such as the [Lunar Waltz](Lunar%20Waltz.md) or the [Festival of Shields](Festival%20of%20Shields.md). These events are not only religious in nature but also serve as communal gatherings that reinforce the social fabric of Aesheron's people.

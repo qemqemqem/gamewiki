@@ -8,6 +8,9 @@ The act of summoning is not merely a display of magical prowess but a profound r
 
 ## Types of Summonings
 
+![Types of Summonings](../../images/Summonings_S_Types%20of%20Summonings.png)
+"A summoner channels the arcane to call forth a myriad of beings from different realms.
+
 Summonings can be broadly categorized into several types, each with its own complexities and purposes:
 
 ### Elemental Summoning

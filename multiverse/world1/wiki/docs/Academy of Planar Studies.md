@@ -8,6 +8,9 @@ The Academy's origins can be traced back to the pioneering work of the [Lunar An
 
 ## Campus and Location
 
+![Campus and Location](../../images/Academy%20of%20Planar%20Studies_S_Campus%20and%20Location.png)
+The Academy of Planar Studies, with its iconic Ethereal Observatory, nestled atop the Singing Willows.
+
 Nestled atop the mystical [Singing Willows](Singing%20Willows.md), the Academy's towers and libraries spiral skyward, their architecture a blend of eldritch design and functional magic. The campus is divided into various halls and wings, each dedicated to a specific aspect of planar studies. The most notable of these is the Ethereal Observatory, a marvel of magical engineering that allows for direct observation and interaction with the Ethereal Plane.
 
 ## Curriculum and Research

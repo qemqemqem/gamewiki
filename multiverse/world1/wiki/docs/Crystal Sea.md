@@ -12,6 +12,9 @@ The Crystal Sea is a central hub for the maritime trade route known as the [Sea 
 
 ## Isles of Whisper
 
+![Isles of Whisper](../../images/Crystal%20Sea_S_Isles%20of%20Whisper.png)
+The enigmatic Isles of Whisper, where sailors hear strange voices and see enchanting lights through the fog.
+
 Among the most mysterious features of the Crystal Sea are the [Isles of Whisper](Isles%20of%20Whisper.md). These islands are shrouded in legend, with sailors often speaking of strange voices and enchanting songs that emanate from their fog-enshrouded shores. The isles are a navigational challenge for even the most experienced sailors, and many believe them to be enchanted by ancient magics.
 
 ## Flora and Fauna

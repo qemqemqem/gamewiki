@@ -10,6 +10,9 @@ As the [Age of Twilight](Age%20of%20Twilight.md) waned, the Crystal Tower became
 
 ## Architecture
 
+![Architecture](../../images/Crystal%20Tower_S_Architecture.png)
+"The Crystal Tower, a beacon of ancient magic and knowledge, stands tall against the backdrop of Aesheron's landscape.
+
 The Crystal Tower is a marvel of architectural prowess, its spires reaching towards the heavens as if to grasp the very stars. The exterior is fashioned from a translucent, crystalline material that captures the light of the [sun](Sun.md) and the [moon](Moon.md), casting an ethereal glow that can be seen from miles around. The interior is no less impressive, with vast halls lined with towering bookshelves, intricate mosaics depicting the history of Aesheron, and statues of notable figures such as [Morath the Wise](Morath%20the%20Wise.md).
 
 At the heart of the tower lies the Grand Arcanum, a chamber said to house the most powerful artifacts and tomes of the Ancients, including the legendary "Arcanum Celestis" penned by Morath himself. The chamber is sealed by ancient magic, accessible only to those who possess the knowledge and purity of purpose to bypass its wards.

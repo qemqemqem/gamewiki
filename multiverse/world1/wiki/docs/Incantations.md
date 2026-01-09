@@ -14,6 +14,9 @@ The pronunciation of an incantation is crucial. Mispronunciation can lead to uni
 
 ### Rhythm and Cadence
 
+![Rhythm and Cadence](../../images/Incantations_S_Rhythm%20and%20Cadence.png)
+"Harmony of Protection: An abjurer's chant weaves a shield in perfect rhythm.
+
 The rhythm and cadence with which an incantation is recited can affect the potency and control of the resulting spell. Certain spells may require a steady, rhythmic chant, while others might demand a rapid-fire succession of syllables. The [abjurers](Abjurers.md), for example, are known to use measured, deliberate incantations to weave stronger protective spells.
 
 ### Emotional Resonance

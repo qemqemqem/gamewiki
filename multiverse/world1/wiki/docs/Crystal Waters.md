@@ -4,6 +4,9 @@ Nestled within the heart of the [Whispering Woods](Whispering%20Woods.md), the C
 
 ## Geography
 
+![Geography](../../images/Crystal%20Waters_S_Geography.png)
+"The Crystal Waters: A serene lake of healing and magic, embraced by the ancient Whispering Woods.
+
 The Crystal Waters is surrounded by ancient trees whose leaves whisper secrets of old. The lake itself is fed by underground springs that are rumored to originate from the elemental plane of [Water](Water.md), giving the waters their restorative properties. The shores of the lake are lined with smooth pebbles and rare [Silent Orchids](Silent%20Orchids.md), which bloom in response to the lake's enchanting melodies.
 
 ## Healing Properties

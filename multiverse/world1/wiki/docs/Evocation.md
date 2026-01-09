@@ -12,6 +12,9 @@ To become an evoker, one must undergo rigorous training, often at esteemed insti
 
 ## Applications of Evocation
 
+![Applications of Evocation](../../images/Evocation_S_Applications%20of%20Evocation.png)
+"The versatile applications of Evocation magic: from the fury of battle to the wonders of peaceful creation.
+
 The applications of Evocation are as varied as the elements themselves. In times of conflict, evokers can unleash devastating spells such as the fearsome [lightning bolt](Lightning%20Bolt.md) or conjure barriers of flame to protect allies. In peace, the same energies can be used to light the darkened halls of the [Shrouded City](Shrouded%20City.md) or to power the mechanisms within the [Crystal Tower](Crystal%20Tower.md).
 
 ### Combat and Warfare

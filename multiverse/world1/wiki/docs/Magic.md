@@ -8,6 +8,9 @@ The nature of magic in Aesheron is as diverse as the landscape itself. It is an 
 
 ### The Arcane and the Divine
 
+![The Arcane and the Divine](../../images/Magic_S_The%20Arcane%20and%20the%20Divine.png)
+"The contrasting essences of arcane and divine magic as channeled by Aesheron's spellcasters.
+
 Magic is typically divided into two broad categories: arcane and divine. Arcane magic is the study and manipulation of the mystical energies inherent in the world and the cosmos. It is the realm of [Wizards](Wizards.md), [sorcerers](Sorcerers.md), and other [spellcasters](Spellcasters.md) who seek to understand and control these forces through rigorous study and practice.
 
 Divine magic, on the other hand, is derived from the deities of Aesheron, such as the [moon deities](Moon%20Deities.md) and the [sun](Sun.md). It is channeled through faith and devotion, allowing [priests](Priests.md), [clerics](Clerics.md), and [paladins](Paladins.md) to perform miracles and wield the power granted by their divine patrons.

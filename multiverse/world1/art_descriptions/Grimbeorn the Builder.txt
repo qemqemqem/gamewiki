@@ -1,0 +1,44 @@
+## Architectural Marvels
+
+visual_purpose: What do the architectural creations of Grimbeorn look like, and how do they embody the spirit of their respective cultures?
+ideas_for_art_content: The Throne of the Mountain King with intricate carvings and dwarven motifs, the magical and awe-inspiring buildings of the Principality of Morath with magical auras or energy coursing through them.
+ideas_for_style: Painting, with a focus on rich textures and a sense of grandeur to capture the epic scale of Grimbeorn's works.
+art_prompt: "The Throne of the Mountain King, situated in the heart of a grand dwarven hall, with a high level of detail and ornamentation, in a dramatic and epic painting style, showcasing the throne's majesty and the dwarven kingdom's strength."
+art_prompt_detailed: "A grand throne carved from mountain stone, adorned with dwarven runes and symbols, in the center of a vast underground hall illuminated by torchlight, depicted in a dramatic and epic painting style, emphasizing the throne's intricate design and the hall's monumental architecture."
+caption: The Throne of the Mountain King, a masterpiece of dwarven craftsmanship by Grimbeorn the Builder.
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, object, historical
+difficulties: Named location, multipart
+
+## Legacy
+
+visual_purpose: How has Grimbeorn's work influenced the fields of architecture and magic?
+ideas_for_art_content: A collage or montage showing various buildings inspired by Grimbeorn's designs, with elements of nature seamlessly integrated, and wizards studying his blueprints with magical elements visible.
+ideas_for_style: Sketch, to convey the concept of designs and blueprints coming to life through the work of wizards and architects.
+art_prompt: "A montage of Grimbeorn-inspired buildings with natural elements integrated into their design, alongside wizards examining blueprints and casting spells, in a detailed sketch style, capturing the fusion of magic and architecture."
+art_prompt_detailed: "A series of buildings that blend with their natural surroundings, featuring trees, waterfalls, and cliffs as part of their structure, with figures in wizardly attire poring over intricate blueprints and channeling magical energy, all depicted in a detailed sketch style that highlights the innovative blend of organic and constructed elements."
+caption: The enduring influence of Grimbeorn's designs on modern architecture and magical practices.
+orientation: Landscape
+artistic_value: Intricate design, interesting person
+descriptive_value: Person, object, event, historical, narrative
+difficulties: Named characters, multipart
+
+## Disappearance and Myth
+
+visual_purpose: What might the mysterious circumstances of Grimbeorn's disappearance look like?
+ideas_for_art_content: Grimbeorn standing at the edge of the Mistbound Docks, looking out into the unknown, or a hidden workshop filled with unfinished projects and magical artifacts.
+ideas_for_style: Computer graphics, to create a mystical and ethereal atmosphere that suits the mystery of his disappearance.
+art_prompt: "Grimbeorn at the Mistbound Docks, shrouded in mist, with a contemplative expression, in a mystical computer graphic style, capturing the moment of his disappearance."
+art_prompt_detailed: "A lone figure, identifiable as a master builder by his attire, stands at the edge of a fog-enshrouded dock, gazing into the distance with a look of determination, rendered in a mystical computer graphic style that emphasizes the enigmatic nature of his vanishing."
+caption: Grimbeorn's last known moments at the Mistbound Docks before his mysterious disappearance.
+orientation: Portrait
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, location, event, narrative
+difficulties: Named characters, obscure style
+
+Please note that the value ratings are harsh due to the limited budget, and the artistic and descriptive values are chosen to reflect the most significant aspects of each section that would benefit from visual representation. The difficulties listed are considerations for the artist to ensure clarity in the final artwork.
+
+Retrieved at: 2024-01-02 20:13:32.366283
+Used: False
+Used: True

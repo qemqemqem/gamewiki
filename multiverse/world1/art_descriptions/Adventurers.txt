@@ -1,0 +1,41 @@
+## Definition and Role
+visual_purpose: What do adventurers look like when they are preparing for a journey?
+ideas_for_art_content: A diverse group of adventurers with various gear, standing at the edge of a wild and untamed landscape, possibly with a map or compass in hand.
+ideas_for_style: Painting, with a focus on vibrant colors and dynamic composition to capture the essence of adventure.
+art_prompt: "A group of adventurers at the brink of the Caverns of Echo, vibrant and dynamic, in the style of a fantasy concept art painting."
+art_prompt_detailed: "A group of diverse individuals equipped with medieval fantasy gear, standing at the entrance of a vast and mysterious cave system, depicted in vibrant colors and a dynamic composition, reminiscent of high fantasy concept art."
+caption: A party of adventurers readying themselves for the perils of the Caverns of Echo.
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, location, narrative
+difficulties: Named location, multipart
+
+## Impact on the World
+visual_purpose: How do adventurers affect their world, both positively and negatively?
+ideas_for_art_content: A split scene showing adventurers fighting off dark creatures on one side and on the other, a disrupted ecosystem with disturbed Echo Bats.
+ideas_for_style: Sketch, with a clear contrast between the heroic actions and the unintended consequences.
+art_prompt: "Adventurers battling the Dark Horde on one side, with disturbed Echo Bats on the other, in a contrasting sketch style."
+art_prompt_detailed: "A split scene sketch depicting a group of heroic figures engaged in combat with ominous, shadowy creatures on one side, and a flock of agitated, nocturnal flying mammals disrupted from their habitat on the other."
+caption: The dual impact of adventurers: Defenders of civilization and unwitting disruptors of nature.
+orientation: Landscape
+artistic_value: Intricate design, exciting, style match
+descriptive_value: Event, monster, background, narrative
+difficulties: Named characters, multipart, confusing
+
+## Notable Adventurers
+visual_purpose: Who are these notable adventurers and what makes them stand out?
+ideas_for_art_content: Portraits of Alyndra, Warrior Queen, and Morath the Wise, each depicted with their signature armor or artifacts and a backdrop that hints at their achievements.
+ideas_for_style: Painting, with a detailed and realistic style to bring these legendary figures to life.
+art_prompt: "Portraits of Alyndra, Warrior Queen, and Morath the Wise, detailed and realistic, in the style of a fantasy oil painting."
+art_prompt_detailed: "Detailed and lifelike portraits of a regal female warrior in ornate armor and a scholarly figure surrounded by ancient tomes and artifacts, rendered in the rich textures of an oil painting."
+caption: Alyndra, Warrior Queen, and Morath the Wise, legends among adventurers.
+orientation: Portrait
+artistic_value: Interesting person, intricate design, style match
+descriptive_value: Person, historical, character
+difficulties: Named characters
+
+Please note that while the artistic and descriptive values are rated harshly, the suggestions provided aim to balance visual appeal with informative content. The difficulties listed are considerations for the artist and may affect the cost and time required to produce the artwork.
+
+Retrieved at: 2024-01-02 20:15:34.951652
+Used: False
+Used: True

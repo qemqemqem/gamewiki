@@ -20,6 +20,9 @@ The governance of Aesheron is a model of enlightened monarchy, with [Alyndra](Al
 
 ## Military
 
+![Military](../../images/Queendom%20of%20Aesheron_S_Military.png)
+"The elite forces of Aesheron, guardians of peace and defenders of the realm.
+
 The Queendom's military might is renowned, with elite units like the [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md) and the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) ensuring the safety of Aesheron's borders. The [Battlefield of Forgotten Kings](Battlefield%20of%20Forgotten%20Kings.md) and the [Plains of Valor](Plains%20of%20Valor.md) are historical sites where the Queendom's forces have demonstrated their valor and strategic brilliance. The presence of [Stormhold Castle](Stormhold%20Castle.md) as a military stronghold further solidifies Aesheron's defensive capabilities.
 
 ## Economy

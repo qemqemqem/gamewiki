@@ -18,6 +18,9 @@ In the [Principality of Morath](Principality%20of%20Morath.md), Grimbeorn's infl
 
 ## Legacy
 
+![Legacy](../../images/Grimbeorn%20the%20Builder_S_Legacy.png)
+The enduring influence of Grimbeorn's designs on modern architecture and magical practices.
+
 Grimbeorn's contributions to the world extend beyond mere buildings. His philosophy of integrating the natural world with structured design has influenced countless generations of architects and [wizards](Wizardry.md). The [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md) often cite Grimbeorn's principles when planning urban expansions, ensuring that the balance between nature and civilization is maintained.
 
 ### Influence on Magic

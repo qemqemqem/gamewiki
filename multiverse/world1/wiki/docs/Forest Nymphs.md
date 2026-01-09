@@ -4,6 +4,9 @@ Forest Nymphs are ethereal and elusive beings that inhabit the verdant realms of
 
 ## Origins and Nature
 
+![Origins and Nature](../../images/Forest%20Nymphs_S_Origins%20and%20Nature.png)
+A Forest Nymph born from the heart of the forest, embodying the woodland's vitality.
+
 The origins of the Forest Nymphs are shrouded in mystery, with some legends tracing their existence back to the [Age of Wonders](Age%20of%20Wonders.md), a time when magic flowed more freely across the land. They are often considered to be the offspring of ancient spirits of nature, the [Ancients](Ancients.md), who wove the fabric of the forests with threads of enchantment.
 
 Unlike other creatures of flesh and blood, Forest Nymphs are born from the heart of the forest itself. They are spirits of tree, flower, and brook, with appearances that mirror the beauty of the natural world. Their forms are graceful and appear almost translucent, with skin that shimmers with the hues of leaves and hair that cascades like the weeping willows of the [Enchanted Grove](Enchanted%20Grove.md).

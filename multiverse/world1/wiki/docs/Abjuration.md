@@ -12,6 +12,9 @@ The principles of Abjuration are rooted in the manipulation of magical energies 
 
 ### Protective Wards
 
+![Protective Wards](../../images/Abjuration_S_Protective%20Wards.png)
+"The Mistbound Docks, safeguarded by the magical wards of the Shrouded City's abjurers.
+
 One of the most common uses of Abjuration is the creation of wards. These magical protections are employed by the [councils](Councils.md) of the [Shrouded City](Shrouded%20City.md) to safeguard the [Mistbound Docks](Mistbound%20Docks.md) from external threats. Wards can be placed on objects, such as the enchanted hulls of ships, or around entire districts, creating a safe haven for the citizens within.
 
 ### Banishment

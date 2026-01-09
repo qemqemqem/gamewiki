@@ -1,0 +1,41 @@
+## Origin and Creation
+visual_purpose: What did the creation of a Whispering Sirens artifact look like?
+ideas_for_art_content: Artisans and sorcerers crafting an artifact, using reagents and crystals, with the Moonflower Festival in the background.
+ideas_for_style: Painting, with a mystical and ethereal style, reminiscent of classical fantasy art.
+art_prompt: "Artisans and sorcerers crafting a Whispering Sirens artifact, under the ethereal glow of the Moonflower Festival, mystical, detailed, in oil painting style"
+art_prompt_detailed: "Robed figures with obscured faces, surrounded by arcane symbols, crafting a glowing artifact, under the light of a fantastical blooming moonflower, in a style that evokes a sense of mystery and ancient magic, done in oil painting"
+caption: Artisans and sorcerers during the Dawn of the New Light, creating a Whispering Sirens artifact under the Moonflower Festival.
+orientation: Landscape
+artistic_value: Wondrous, intricate design, style match
+descriptive_value: Event, historical, narrative
+difficulties: Named location, multipart, obscure style
+
+## Properties and Abilities
+visual_purpose: What do the Whispering Sirens artifacts look like when they are being used?
+ideas_for_art_content: An occult researcher using an artifact to record arcane languages, a figure moving silently with the essence of Echo Bats, and someone using the Siren's Call ability.
+ideas_for_style: Sketch, with dynamic lines to show movement and sound waves to represent the abilities.
+art_prompt: "A robed occult researcher recording ancient incantations, a shadowy figure moving with silent grace, and a charismatic individual emitting an entrancing sound, dynamic, in pencil sketch"
+art_prompt_detailed: "A figure draped in scholarly attire, speaking into a glowing artifact, another cloaked in darkness moving without a sound, and a third with an alluring presence, sound waves radiating from them, sketched with energy and motion"
+caption: Various Whispering Sirens artifacts being utilized for their magical properties.
+orientation: Landscape
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, object, narrative
+difficulties: Named characters, multipart
+
+## Known Artifacts
+visual_purpose: What are some of the most famous Whispering Sirens artifacts and how do they appear?
+ideas_for_art_content: The Conch of Echoes in use on the Plains of Valor, The Silencer's Veil worn by a spy, and The Siren's Locket soothing a beast.
+ideas_for_style: Computer graphics, with a focus on realism to bring the artifacts to life.
+art_prompt: "The Conch of Echoes being used in the vast Plains of Valor, The Silencer's Veil worn by a shadowy spy, and The Siren's Locket calming a ferocious creature, realistic, in digital art"
+art_prompt_detailed: "A horn-like device amplifying sounds across an expansive battlefield, a cloaked figure with a nearly invisible veil, and an ornate pendant glowing as it pacifies a snarling beast, rendered with lifelike detail in digital art"
+caption: The Conch of Echoes, The Silencer's Veil, and The Siren's Locket - renowned Whispering Sirens artifacts.
+orientation: Landscape
+artistic_value: Appropriate style, exciting
+descriptive_value: Object, character, narrative
+difficulties: Named characters, named location
+
+Given the limited budget, the section "Origin and Creation" might be the most valuable to illustrate, as it sets the stage for the entire concept of the artifacts and can be rich in visual lore. The "Known Artifacts" section is also a strong candidate, as it showcases specific items that players may encounter. The "Properties and Abilities" section could be skipped if necessary, as the text itself is quite descriptive.
+
+Retrieved at: 2024-01-02 20:34:39.877271
+Used: False
+Used: True

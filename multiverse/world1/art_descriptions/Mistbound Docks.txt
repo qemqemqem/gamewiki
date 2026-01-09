@@ -1,0 +1,53 @@
+## Geography
+visual_purpose: What does a magical, mist-covered dock look like?
+ideas_for_art_content: A panoramic view of the docks with ships moored in the fog, silhouettes of sailors and merchants, crates and barrels on the slick stone pathways, and the distant outline of the Shrouded City.
+ideas_for_style: Painting, with a focus on atmospheric effects to capture the mood of the mist and the sea.
+art_prompt: "The Mistbound Docks at dawn, with ships emerging from the fog, painted in a moody, ethereal style, capturing the essence of the sea's briny kiss."
+art_prompt_detailed: "A panoramic view of ancient wooden docks at dawn, with silhouetted ships emerging from a thick, magical fog, painted in a moody, ethereal style, highlighting the slick stone pathways and the distant, shadowy outline of an enigmatic city."
+caption: "The Mistbound Docks: Where the sea whispers secrets to those who listen."
+orientation: Landscape
+artistic_value: [landscape, wondrous, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, multipart]
+
+## Notable Goods
+visual_purpose: What kinds of exotic goods might one find at a magical marketplace?
+ideas_for_art_content: Stalls and merchants displaying the notable goods such as Moonflowers, Singing Willows, gemstones, metals, and vials of eternal frost, with a bustling crowd of diverse characters.
+ideas_for_style: Sketch, with detailed line work to showcase the intricacy of the goods and the diversity of the crowd.
+art_prompt: "A bustling marketplace at the docks, with stalls of Moonflowers, gemstones, and vials of frost, sketched in fine detail."
+art_prompt_detailed: "A lively, crowded marketplace on the docks, with detailed stalls showcasing exotic plants, sparkling gemstones, and mysterious vials of frost, all sketched with precise line work to capture the diversity of goods and characters."
+caption: "The myriad treasures of the Mistbound Docks: a merchant's paradise."
+orientation: Landscape
+artistic_value: [intricate design, exciting]
+descriptive_value: [object, event, character]
+difficulties: [none]
+
+## The Veiled Navigators
+visual_purpose: Who are the Veiled Navigators, and what makes their ships unique?
+ideas_for_art_content: A ship of the Veiled Navigators with distinctive sails, moored at the docks, with crew members in cloaks and veils performing mysterious rituals or preparing for a voyage.
+ideas_for_style: Computer graphics, to allow for a detailed and mystical depiction of the ship and its crew.
+art_prompt: "A ship of the Veiled Navigators with enchanted sails, crewed by cloaked figures, rendered in computer graphics, mysterious and captivating."
+art_prompt_detailed: "A detailed rendering of a unique ship with glowing, enchanted sails, docked at a foggy pier, with crew members draped in cloaks and veils, performing enigmatic rituals or preparing for a voyage, depicted in computer graphics."
+caption: "The Veiled Navigators: Masters of the mists and guardians of the unknown."
+orientation: Landscape
+artistic_value: [interesting person, wondrous]
+descriptive_value: [person, object, narrative]
+difficulties: [named characters]
+
+## In Literature and Lore
+visual_purpose: How do the mists of the docks inspire astronomers and poets?
+ideas_for_art_content: A scene with a poet or astronomer gazing at the night sky where the stars peek through the mist, perhaps with a quill in hand or a telescope nearby, capturing the romantic aspect of the docks.
+ideas_for_style: Painting, in a style reminiscent of romanticism, to evoke the sense of wonder and inspiration.
+art_prompt: "An astronomer at the Mistbound Docks, under a starlit sky with mists swirling, painted in a romantic style, evocative and dreamy."
+art_prompt_detailed: "A lone figure, perhaps a poet or an astronomer, stands at the edge of the fog-enshrouded docks, gazing up at a night sky where stars peek through the mist, with a quill in hand or a telescope nearby, all painted in a style reminiscent of romanticism, to evoke a sense of wonder and inspiration."
+caption: "Where mist meets starlight: The ethereal muse of the Mistbound Docks."
+orientation: Portrait
+artistic_value: [wondrous, style match]
+descriptive_value: [person, background, historical, narrative]
+difficulties: [none]
+
+Given the limited budget, it would be wise to prioritize the sections with the highest artistic and descriptive value that can add the most to the players' immersion. The "Geography" and "The Veiled Navigators" sections seem particularly valuable for setting the scene and introducing key elements of the world.
+
+Retrieved at: 2024-01-02 20:43:08.204115
+Used: False
+Used: True

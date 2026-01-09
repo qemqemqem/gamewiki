@@ -8,6 +8,9 @@ Control Weather is a powerful and highly sought-after [arcane](Arcane.md) spell 
 
 ## Applications
 
+![Applications](../../images/Control%20Weather_S_Applications.png)
+"The strategic use of weather control in military operations, as fog engulfs the battlefield.
+
 ### Military Use
 
 As noted in the "Military Strategy" article, [arcane practitioners](Arcane%20Practitioners.md) have become indispensable in military campaigns. The ability to [control weather](Control%20Weather.md) can provide a strategic advantage, such as creating fog for cover, summoning winds to disperse [gas](Gas.md) attacks, or inducing harsh weather to hinder enemy movements. The [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) has been particularly effective in utilizing weather control in warfare, often employing it to orchestrate ambushes or to retreat under the veil of a sudden downpour.

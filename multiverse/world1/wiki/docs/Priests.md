@@ -4,6 +4,9 @@ In the mystical realm of Aesheron, [priests](Priests.md) stand as intermediaries
 
 ## Divine Magic and Worship
 
+![Divine Magic and Worship](../../images/Priests_S_Divine%20Magic%20and%20Worship.png)
+A priest of Aesheron invoking the power of the moon deities and the sun through divine magic.
+
 The source of a priest's power is their unwavering faith in the divine. Unlike [wizards](Wizards.md) who draw upon the arcane or [sorcerers](Sorcerers.md) whose power is innate, priests channel the might of the gods through prayers, [rituals](Rituals.md), and [incantations](Incantations.md). This divine magic is a gift from the gods, accessible to those who prove their devotion. The most prominent deities that empower priests in Aesheron are the [moon deities](Moon%20Deities.md) and the [sun](Sun.md), each bestowing different abilities and spells aligned with their domains.
 
 ## Roles and Responsibilities

@@ -4,6 +4,9 @@ Nestled in the heart of the [Verdant Woods](Verdant%20Woods.md), Theron's Glade 
 
 ## Geographic Location
 
+![Geographic Location](../../images/Theron'S%20Glade_S_Geographic%20Location.png)
+The serene and secluded Theron's Glade, as seen from the heart of the Verdant Woods
+
 Theron's Glade is situated in a secluded part of the [Verdant Woods](Verdant%20Woods.md), surrounded by ancient trees whose canopies intertwine to form a natural dome. The glade is characterized by its lush grass, vibrant wildflowers, and the serene ambiance that pervades the air. A clear stream, known to some as the [Moonflower](Moonflower.md) Brook, meanders through the glade, its waters believed to have healing properties.
 
 ## Historical Significance

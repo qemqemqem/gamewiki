@@ -1,0 +1,41 @@
+## Healing and Medicine
+visual_purpose: What do the healing remedies and processes used by Herbalists look like?
+ideas_for_art_content: An Herbalist preparing remedies with various plants and herbs spread around, mortar and pestle, vials of tinctures, and a patient being treated.
+ideas_for_style: Painting, with a focus on natural and earthy tones to reflect the organic nature of the work.
+art_prompt: "An Herbalist in their apothecary, surrounded by vibrant herbs, in a detailed and naturalistic style, focused, serene, done in watercolor"
+art_prompt_detailed: "A healer in a rustic workshop, surrounded by a variety of colorful plants and herbs, using a mortar and pestle, with glass vials of liquids nearby, treating a reclining figure, all depicted in a detailed and naturalistic style, with an atmosphere of calm concentration, created with watercolor paints"
+caption: An Herbalist preparing natural remedies in their apothecary.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design]
+descriptive_value: [person, object, event]
+difficulties: [none]
+
+## Alchemical Contributions
+visual_purpose: How do Herbalists contribute to the field of Alchemy?
+ideas_for_art_content: An Herbalist and an Alchemist working together, handling exotic plants like the Moonshade Blossom, with alchemical equipment such as alembics and retorts.
+ideas_for_style: Sketch, with dynamic lines to show the collaboration and the magical aspect of their work.
+art_prompt: "An Herbalist and an Alchemist collaborating in a mystical laboratory, in a dynamic sketch style, focused, collaborative, done in pencil"
+art_prompt_detailed: "Two figures, one with botanical expertise and the other with alchemical knowledge, working together in an arcane workshop filled with alchemical apparatus and exotic plants, depicted in a dynamic sketch style that captures the essence of their collaboration, drawn with pencil"
+caption: An Herbalist and Alchemist working together on a new potion.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [person, object, event]
+difficulties: [named characters, multipart]
+
+## Challenges and Adventures
+visual_purpose: What dangers do Herbalists face in their quest for rare plants?
+ideas_for_art_content: An Herbalist in a dangerous environment, such as a dark forest, with a Chameleon Drake lurking, and the Herbalist holding a Moonshade Blossom.
+ideas_for_style: Computer graphics, to capture the fantastical elements and the tension of the scene.
+art_prompt: "An Herbalist in the treacherous Whispering Woods, with a lurking Chameleon Drake, in a suspenseful and vivid style, cautious, brave, done in digital art"
+art_prompt_detailed: "A botanical adventurer in a dark and ominous forest, with a camouflaged predatory creature barely visible among the foliage, the adventurer holding a luminescent flower, all depicted in a suspenseful and vivid style that highlights the danger and bravery of the scene, created using digital art techniques"
+caption: An Herbalist braving the dangers of the Whispering Woods in search of the rare Moonshade Blossom.
+orientation: Landscape
+artistic_value: [exciting, wondrous]
+descriptive_value: [person, event, monster]
+difficulties: [named location, named characters]
+
+Given the limited budget, it is important to prioritize the sections that would benefit most from visual representation. The "Healing and Medicine" section is central to the role of an Herbalist and would greatly benefit from an illustration. The "Alchemical Contributions" section could also use a visual to depict the collaboration between Herbalists and Alchemists. Lastly, the "Challenges and Adventures" section would be enhanced by an image showing the perils Herbalists face, adding excitement and depth to the article.
+
+Retrieved at: 2024-01-02 21:23:40.477725
+Used: False
+Used: True

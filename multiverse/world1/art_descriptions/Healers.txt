@@ -1,0 +1,42 @@
+## Origins and Training
+visual_purpose: What do the ancient healing practices look like, and where do healers receive their training?
+ideas_for_art_content: An ancient healer surrounded by a light aura tending to the injured, the Cathedral of Radiant Dawn, and the Great Library of Eldara with students studying.
+ideas_for_style: Painting, with a style reminiscent of classical high fantasy art.
+art_prompt: "An ancient healer in the Ruins of Eldara, surrounded by a mystical aura, in a classical high fantasy painting style, detailed and vibrant, done in oil on canvas."
+art_prompt_detailed: "A robed figure with hands aglow, standing amidst crumbling stone structures covered in ivy, with an ethereal light surrounding them, depicted in a classical high fantasy painting style, rich in detail and color, created with oil paints."
+caption: "An ancient healer channels mystical energies in the Ruins of Eldara, as depicted in ancient texts."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [location, person, historical]
+difficulties: [named location, multipart]
+
+## Types of Healers
+### Clerical Healers
+visual_purpose: What does the divine inspiration for clerical healers look like?
+ideas_for_art_content: A clerical healer with a holy symbol, performing a healing ritual with divine light shining upon them.
+ideas_for_style: Stained glass window style to emphasize the divine aspect.
+art_prompt: "A clerical healer in the Cathedral of Radiant Dawn, in stained glass window style, radiant and reverent, done in digital art."
+art_prompt_detailed: "A figure in ceremonial robes, holding a prominent holy symbol, bathed in a beam of light from above, with the intricate interior of a grand cathedral as the backdrop, rendered in the colorful and segmented style of a stained glass window, created digitally."
+caption: "A clerical healer invokes the blessings of Solara within the Cathedral of Radiant Dawn."
+orientation: Portrait
+artistic_value: [appropriate style, wondrous]
+descriptive_value: [person, object, character]
+difficulties: [named characters, named location]
+
+## Role in Society
+visual_purpose: How do healers integrate with and impact society?
+ideas_for_art_content: A healer working in a community setting, perhaps a market or village square, with people and the environment showing signs of well-being.
+ideas_for_style: Watercolor painting to give a sense of community and softness.
+art_prompt: "A healer in a bustling village square, in a watercolor style, harmonious and lively, done in watercolor on paper."
+art_prompt_detailed: "A compassionate figure in healer's attire, tending to a child's wound in a lively village square, surrounded by townsfolk and vibrant stalls, all depicted in the fluid and gentle strokes of watercolor."
+caption: "A healer tends to the needs of villagers, ensuring the health and harmony of the community."
+orientation: Landscape
+artistic_value: [landscape, interesting person, fun]
+descriptive_value: [location, person, event]
+difficulties: [none]
+
+Given the limited budget, I would prioritize the "Origins and Training" section for its potential to capture the imagination and provide a historical context for the healers. The "Clerical Healers" section could also be valuable for its ability to convey the spiritual aspect of healing. The "Role in Society" section, while important, might be better represented through descriptive text rather than art due to the complexity of depicting a bustling community scene.
+
+Retrieved at: 2024-01-02 20:43:55.480243
+Used: False
+Used: True

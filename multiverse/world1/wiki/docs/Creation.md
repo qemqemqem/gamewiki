@@ -6,6 +6,9 @@ In the annals of history and the echoes of the cosmos, the concept of [Creation]
 
 ## The Act of Creation
 
+![The Act of Creation](../../images/Creation_S_The%20Act%20of%20Creation.png)
+"The Primordial Spark: An artist's rendition of the universe's first moment.
+
 The act of Creation is believed to be the first event in the universe, the spark that ignited the fires of existence. It is a subject of great study among [scholars](Scholars.md), [mystics](Mystics.md), and [occult researchers](Occult Researchers.md), who seek to understand the forces that brought the world into being. While the true nature of this event remains shrouded in mystery, many cultures have their own myths and legends that attempt to explain it.
 
 ### Myths and Deities

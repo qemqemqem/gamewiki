@@ -4,6 +4,9 @@ Silvermane Horses are a breed of equine renowned throughout the realms for their
 
 ## Origin and Habitat
 
+![Origin and Habitat](../../images/Silvermane%20Horses_S_Origin%20and%20Habitat.png)
+A harmonious herd of Silvermane Horses graces the Plains of Valor under the moonlit sky.
+
 The true origin of the Silvermane Horses is shrouded in mystery, with legends dating back to the [Age of Twilight](Age%20of%20Twilight.md). Some tales speak of their creation by the [Lunar Ancients](Lunar%20Ancients.md), beings of immense power who blessed these horses with the ability to traverse both land and sea, embodying the fluidity of the [moon deities](Moon%20Deities.md) themselves. 
 
 Silvermane Horses are most commonly found in the [Plains of Valor](Plains%20of%20Valor.md), where they roam freely in harmonious herds. The vast grasslands provide an ideal environment for these steeds, allowing them to develop their remarkable speed and agility. However, they are also known to frequent the shores of the [Crystal Sea](Crystal%20Sea.md), where during the [Lunar Waltz](Lunar%20Waltz.md), they perform their namesake dance upon the waves, a sight of unparalleled grace and enchantment.

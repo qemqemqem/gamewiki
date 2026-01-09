@@ -1,0 +1,29 @@
+## Architecture
+visual_purpose: What does the Crystal Tower look like, and how does its architecture embody the ancient and magical qualities described?
+ideas_for_art_content: The Crystal Tower itself as the central figure, with its spires reaching skyward, the exterior made of crystalline material, and the surrounding landscape that shows its prominence. Include details like the ethereal glow and possibly a glimpse of the interior through a grand entrance or window.
+ideas_for_style: A painting with a fantasy art style, rich in color and detail, to capture the magical essence of the tower.
+art_prompt: "The Crystal Tower in Aesheron, with spires reaching towards a starry sky, glowing ethereally, in a detailed fantasy painting style, majestic and ancient, done in digital painting."
+art_prompt_detailed: "A towering structure made of translucent crystal, rising above a fantastical landscape, with spires that seem to touch the night sky filled with stars, the structure glowing with an inner light, depicted in a detailed fantasy art style, conveying a sense of age and magic, created as a digital painting."
+caption: "The Crystal Tower, a beacon of ancient magic and knowledge, stands tall against the backdrop of Aesheron's landscape."
+orientation: [landscape]
+artistic_value: [landscape, appropriate style, wondrous, exciting, style match]
+descriptive_value: [location, architecture, background]
+difficulties: [named location, multipart]
+
+## The Mages of the Crystal Tower
+visual_purpose: Who are the Mages of the Crystal Tower, and what does their scholarly environment look like?
+ideas_for_art_content: A group of Mages in the library of the Crystal Tower, with one mage (possibly Theron of the Verdant Woods) as the central figure, surrounded by books, artifacts, and possibly a magical demonstration or lesson in progress.
+ideas_for_style: A sketch or computer graphics to illustrate the scene with clarity and focus on the characters and their environment.
+art_prompt: "Theron of the Verdant Woods among the Mages of the Crystal Tower, in a grand library filled with books and artifacts, in a detailed sketch style, scholarly and mystical, done in pencil."
+art_prompt_detailed: "A wise figure with a commanding presence, surrounded by other robed individuals, in a vast library with towering shelves and ancient artifacts, engaged in the study of arcane knowledge, depicted in a detailed sketch style, evoking a sense of scholarship and magic, created with pencil on paper."
+caption: "The Mages of the Crystal Tower, led by Theron of the Verdant Woods, delve into the depths of arcane study within the tower's grand library."
+orientation: [portrait]
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, character, narrative]
+difficulties: [named characters, multipart]
+
+Given the limited budget and the need for harsh value assessment, these two sections, "Architecture" and "The Mages of the Crystal Tower," are the most visually compelling and central to the article's themes. They provide a strong sense of place and character, which are essential for immersing players in the world. Additional artwork could be considered for other sections if the budget allows, but these two would likely offer the most significant impact.
+
+Retrieved at: 2024-01-02 19:46:00.814105
+Used: False
+Used: True

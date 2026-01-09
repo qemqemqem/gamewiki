@@ -1,0 +1,41 @@
+## Origins and Transformation
+visual_purpose: What does the transformation from a regular dragon to a Shadow Dragon look like?
+ideas_for_art_content: Depict a dragon amidst the dark energies of the Shadowfell, with parts of its body already transformed into shadowy essence while others still retain their original color.
+ideas_for_style: Painting, with a style that captures the contrast between light and shadow, perhaps reminiscent of chiaroscuro.
+art_prompt: "A majestic dragon caught in the throes of transformation within the Shadowfell, chiaroscuro style, with a stark contrast between light and shadow, done in oil painting."
+art_prompt_detailed: "A majestic dragon, with scales that are a mix of vibrant original colors and new spectral shadowy essence, caught in the throes of transformation within a realm of dark energy, chiaroscuro style, with a stark contrast between light and shadow, done in oil painting."
+caption: "The Gradual and Torturous Transformation of a Dragon in the Shadowfell."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Event, historical, monster, narrative
+difficulties: Named location, multipart
+
+## Habitat and Behavior
+visual_purpose: Where do Shadow Dragons live, and what does their lair look like?
+ideas_for_art_content: Illustrate a Shadow Dragon in its lair, which could be a cavern or ruins with thin veils between worlds, shadowy and foreboding.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricate designs of the lair and the ethereal qualities of the dragon.
+art_prompt: "A Shadow Dragon in its lair within the Gardens of Nightshade, detailed pencil sketch, eerie and mysterious, done in graphite."
+art_prompt_detailed: "A Shadow Dragon, ethereal and smoky, in its lair that resembles a cavern or ancient ruins with elements suggesting a thin veil between worlds, detailed pencil sketch, eerie and mysterious, done in graphite."
+caption: "A Shadow Dragon's Lair in the Gardens of Nightshade, Where the Veil Between Worlds is Thin."
+orientation: Landscape
+artistic_value: Intricate design, wondrous
+descriptive_value: Location, monster, background
+difficulties: Named location
+
+## Known Shadow Dragons
+visual_purpose: What do notable Shadow Dragons like Nyxathid the Eclipsed and Shademaw the Whisperer look like?
+ideas_for_art_content: Portraits of Nyxathid and Shademaw, showcasing their unique features and the shadowy essence that defines them.
+ideas_for_style: Computer graphics, to achieve a high level of detail and a surreal, otherworldly quality.
+art_prompt: "Portraits of Nyxathid the Eclipsed and Shademaw the Whisperer, in computer graphics, haunting and detailed."
+art_prompt_detailed: "Portraits of two notable Shadow Dragons, one known for its scourge upon a kingdom and the other for its insidious whispers, in computer graphics, haunting and detailed."
+caption: "Nyxathid the Eclipsed and Shademaw the Whisperer: Notable Shadow Dragons of Aereth."
+orientation: Portrait
+artistic_value: Interesting person, style match
+descriptive_value: Person, character
+difficulties: Named characters
+
+Please note that the value ratings are harsh due to the limited budget, and the prompts are detailed to aid an artist unfamiliar with the world. The suggested art could significantly enhance the reader's experience by providing visual context to the written content.
+
+Retrieved at: 2024-01-02 21:12:18.382498
+Used: False
+Used: True

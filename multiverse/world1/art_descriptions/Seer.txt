@@ -1,0 +1,40 @@
+## Origins and Abilities
+visual_purpose: What do the diverse abilities of a seer look like in practice?
+ideas_for_art_content: A seer in the midst of a divination session with Tarot Cards spread out; a Scrying Pool with images forming; Astrological Charts hanging on the walls; a spirit materializing nearby.
+ideas_for_style: Sketch with mystical and ethereal qualities, light pencil shading to give depth and a sense of otherworldliness.
+art_prompt: "A seer surrounded by Tarot Cards, a Scrying Pool, and Astrological Charts, in a dimly lit chamber, ethereal, mysterious, done in pencil sketch."
+art_prompt_detailed: "A cloaked figure with eyes closed, surrounded by mystical artifacts such as cards, a reflective pool, and star maps, in a shadowy room, with an ethereal and otherworldly atmosphere, sketched in pencil."
+caption: A seer harnessing their diverse abilities to peer into the future.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [person, object, event, historical]
+difficulties: [named characters, multipart]
+
+## Role in Society
+visual_purpose: How does a seer's influence manifest in the halls of power and arcane circles?
+ideas_for_art_content: A seer advising a king or queen in a grand throne room; a council of mages with a seer presenting a vision; the Oracle of Morath in the Sanctum of Visions with political figures listening intently.
+ideas_for_style: Painting with a rich, detailed style reminiscent of classical art to convey the gravity and influence of seers.
+art_prompt: "A seer advising nobility in a grand throne room, detailed, authoritative, done in oil painting."
+art_prompt_detailed: "A robed figure with an air of wisdom speaking to regal individuals seated on ornate thrones, in a vast hall adorned with tapestries and heraldic symbols, painted with rich detail and classical technique."
+caption: A seer providing counsel to the rulers of Aesheron.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, style match]
+descriptive_value: [person, location, historical, narrative]
+difficulties: [named characters, named location]
+
+## Challenges and Controversies
+visual_purpose: What kind of threats and skepticism do seers face in their line of work?
+ideas_for_art_content: A seer struggling with a vision as Shadow Prowlers lurk in the background; a debate between a seer and a skeptic with a crowd watching; a Shadar-Kai deceiving a seer.
+ideas_for_style: Dark and moody computer graphics to capture the tension and danger surrounding seers.
+art_prompt: "A seer grappling with a deceptive vision, shadowy figures in the background, tense, ominous, done in digital art."
+art_prompt_detailed: "A figure cloaked in robes with a furrowed brow, concentrating on a misleading apparition, as dark, wispy entities hover in the shadows behind, creating a scene of tension and foreboding, rendered in digital art."
+caption: A seer faces the perils of deception and doubt.
+orientation: Portrait
+artistic_value: [wondrous, exciting]
+descriptive_value: [person, event, monster, character, narrative]
+difficulties: [named characters, confusing]
+
+Given the limited budget, the value of each piece should be considered carefully. The "Origins and Abilities" section is likely the most valuable in terms of both artistic and descriptive value, as it directly illustrates the core concept of what a seer is and does. The "Role in Society" section could also benefit from an illustration to emphasize the seer's importance in the world. The "Challenges and Controversies" section, while interesting, might be less critical to visualize due to the abstract nature of skepticism and deception, which could be conveyed through text. Prioritize the first two sections for artwork to get the most value for your budget.
+
+Retrieved at: 2024-01-02 21:21:08.738071
+Used: False

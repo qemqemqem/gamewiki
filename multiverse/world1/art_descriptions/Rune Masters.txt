@@ -1,0 +1,53 @@
+## History and Origins
+visual_purpose: What did the earliest runes and the Lost Temple of the Moon look like?
+ideas_for_art_content: Depict the interior of the Lost Temple of the Moon with primal runes inscribed on the walls, possibly with an ancient enchanter in the process of inscribing them.
+ideas_for_style: Painting, with an ancient and mystical feel, using a palette of dark, earthy tones highlighted by the glowing runes.
+art_prompt: "An ancient enchanter inscribing primal runes inside the Lost Temple of the Moon, in a mystical and ancient style, glowing, ethereal, done in oil painting"
+art_prompt_detailed: "A robed figure with tools of inscription, etching glowing symbols onto the stone walls of a decrepit and vine-covered temple interior, illuminated by the ethereal light of the runes, in an oil painting style."
+caption: An ancient enchanter inscribes the first runes within the Lost Temple of the Moon.
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, historical, narrative]
+difficulties: [named location, multipart]
+
+## Training and Skills
+visual_purpose: How does the training of a Rune Master look, and what is the atmosphere of the Great Library of Eldara?
+ideas_for_art_content: A scene showing a young aspirant studying ancient texts under the guidance of a seasoned Rune Master in the grand halls of the Great Library of Eldara.
+ideas_for_style: Sketch, with fine details to emphasize the grandeur of the library and the concentration of the characters.
+art_prompt: "A young aspirant and a seasoned Rune Master studying in the Great Library of Eldara, detailed, studious, grand, done in pencil sketch"
+art_prompt_detailed: "A young individual with focused eyes pouring over ancient tomes, with a wise, cloaked figure pointing to a significant passage, surrounded by towering bookshelves and arcane artifacts, sketched in pencil."
+caption: An aspirant studies under the tutelage of a Rune Master in the Great Library of Eldara.
+orientation: portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, location, object, narrative]
+difficulties: [named characters, named location]
+
+## The Vale of Shadows
+visual_purpose: What is the mysterious atmosphere of the Vale of Shadows, and how does it look as a nexus of arcane power?
+ideas_for_art_content: A mystical landscape showing the Vale of Shadows with ethereal energies swirling around, and a Rune Master in a contemplative pose, possibly interacting with the energies.
+ideas_for_style: Computer graphics, with vibrant colors to contrast the dark shadows and to highlight the magical energies.
+art_prompt: "A Rune Master in the Vale of Shadows, contemplative, ethereal, vibrant, done in computer graphics"
+art_prompt_detailed: "A cloaked figure stands amidst a shadowy glen, with tendrils of vibrant arcane energy swirling around, the air thick with the power of a world beyond, rendered in computer graphics."
+caption: A Rune Master harnesses the ethereal energies of the Vale of Shadows.
+orientation: landscape
+artistic_value: [wondrous, exciting]
+descriptive_value: [location, person, background, narrative]
+difficulties: [named location]
+
+## Contributions to Society
+visual_purpose: What do the magical creations of Rune Masters look like, and how do they impact society?
+ideas_for_art_content: A montage of Rune Master creations, such as Ironbark Runestones, Enchanted Vessels, and Warding Glyphs, each showing their use in society.
+ideas_for_style: Painting, with a realistic style to showcase the practical applications of these creations.
+art_prompt: "Ironbark Runestones, Enchanted Vessels, and Warding Glyphs in use, practical, detailed, realistic, done in watercolor painting"
+art_prompt_detailed: "A collection of scenes including a warrior holding an amulet glowing with power, a ship with runes on its hull cutting through waves, and a shimmering glyph protecting a regal doorway, all painted in watercolors."
+caption: The diverse and impactful creations of Rune Masters.
+orientation: landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [object, event, character, background]
+difficulties: [multipart]
+
+Given the limited budget, it's important to prioritize which images would add the most value to the article. The "History and Origins" and "The Vale of Shadows" sections are prime candidates for artwork due to their potential to visually captivate and enhance the reader's understanding of the world's lore and the mystical nature of Rune Masters.
+
+Retrieved at: 2024-01-02 21:36:30.735512
+Used: False
+Used: True

@@ -10,6 +10,9 @@ The Dwarves' role in the [Age of Twilight](Age%20of%20Twilight.md) is less clear
 
 ## Culture and Society
 
+![Culture and Society](../../images/Dwarves_S_Culture%20and%20Society.png)
+Dwarven artisans at work in the heart of the Frostspire Mountains, showcasing their legendary craftsmanship.
+
 Dwarven society is structured around their clans, each governed by a council of elders and led by a chieftain. The clans are united under the [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md), a symbol of their collective strength and unity. The Dwarves are known for their strict adherence to tradition, valuing honor, loyalty, and the bonds of kinship above all else.
 
 Their craftsmanship is legendary, with Dwarven-made goods being highly prized across the lands. From the intricate jewelry forged from the finest gems to the unbreakable weapons and armor crafted from rare metals, the work of Dwarven hands is without equal. The [Silk Road](Silk%20Road.md) and the [Sea Merchant's Path](Sea%20Merchant'S%20Path.md) are vital trade routes that facilitate the exchange of these treasures with the outside world.

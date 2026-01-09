@@ -8,6 +8,9 @@ The origins of wizardry are as old as the first civilizations that dotted the la
 
 ## Schools of Wizardry
 
+![Schools of Wizardry](../../images/Wizardry_S_Schools%20of%20Wizardry.png)
+"The diverse schools of wizardry and their practitioners.
+
 Wizardry is divided into various schools of thought, each focusing on a different aspect of magical theory and application. These schools include, but are not limited to:
 
 - [Abjuration](Abjuration.md): The magic of protection and warding.

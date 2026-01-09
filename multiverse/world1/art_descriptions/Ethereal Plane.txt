@@ -1,0 +1,41 @@
+## Nature of the Ethereal Plane
+visual_purpose: What does the Ethereal Plane look like, and how does it differ from the material world?
+ideas_for_art_content: A landscape of swirling mists and muted colors, with ghostly silhouettes of familiar landmarks appearing and disappearing.
+ideas_for_style: Painting, with an ethereal and dreamlike quality, using watercolors or soft pastels.
+art_prompt: "A panorama of the Ethereal Plane, with swirling mists and ghostly landmarks, dreamlike and serene, painted in watercolors."
+art_prompt_detailed: "A wide view of a realm filled with swirling mists in pastel shades, with faint outlines of trees and structures appearing and disappearing, capturing a dreamlike and serene atmosphere, rendered in watercolors."
+caption: "The Ethereal Plane: A realm of swirling mists and elusive landscapes."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, multipart]
+
+## The City of Lumina
+visual_purpose: What does the City of Lumina look like during the Solstice of the Blazing Sky?
+ideas_for_art_content: The city's architecture glowing with ethereal energy, with light and shadow playing across the buildings in a symphony of colors.
+ideas_for_style: Computer graphics, to capture the intricate play of light and the fantastical architecture.
+art_prompt: "The City of Lumina during the Solstice of the Blazing Sky, with buildings aglow in ethereal light, vibrant and mystical, created in computer graphics."
+art_prompt_detailed: "An urban landscape during a celestial event, with fantastical structures bathed in otherworldly light that shifts in color and intensity, depicted in a vibrant and mystical style using computer graphics."
+caption: "Lumina: A nexus of spiritual energy during the Solstice of the Blazing Sky."
+orientation: landscape
+artistic_value: [exciting, intricate design]
+descriptive_value: [location, event, character, background]
+difficulties: [named characters, named location]
+
+## Threats and Dangers
+visual_purpose: What dangers lurk within the Ethereal Plane, and what do they look like?
+ideas_for_art_content: A traveler or group of adventurers facing off against a Shade Wraith or other malevolent entity, with the ethereal mist swirling around them.
+ideas_for_style: Sketch, with dynamic lines and shading to emphasize the tension and danger of the encounter.
+art_prompt: "Adventurers confronting a Shade Wraith in the Ethereal Plane, tense and dramatic, sketched with dynamic lines."
+art_prompt_detailed: "A group of travelers, armed and alert, facing a spectral entity with malevolent intent, surrounded by swirling ethereal mist, captured in a tense and dramatic scene sketched with dynamic lines and shading."
+caption: "Confronting the dangers of the Ethereal Plane: Adventurers vs. Shade Wraith."
+orientation: landscape
+artistic_value: [exciting, interesting person]
+descriptive_value: [person, monster, narrative, event]
+difficulties: [named characters, multipart, confusing]
+
+Given the limited budget, the value of adding art to these sections should be weighed against the cost. The "Nature of the Ethereal Plane" and "The City of Lumina" sections would benefit the most from visuals, as they help establish the setting and mood of the campaign. The "Threats and Dangers" section could be valuable for illustrating the potential perils that players might face, but it might be less essential if budget constraints are tight.
+
+Retrieved at: 2024-01-02 20:22:22.545979
+Used: False
+Used: True

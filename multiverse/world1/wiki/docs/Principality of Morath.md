@@ -16,6 +16,9 @@ The governance of the Principality is unique, as it is led by a council of the m
 
 ## Culture
 
+![Culture](../../images/Principality%20of%20Morath_S_Culture.png)
+The rich culture of Morath, from the scholarly pursuits in the Great Library to the magical Moonflower Festival.
+
 The culture within the Principality of Morath is heavily influenced by the pursuit of enlightenment. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md), located at the heart of the principality, houses an immense collection of tomes, scrolls, and artifacts, attracting scholars from all over the world. The [Moonflower Festival](Moonflower%20Festival.md) is a significant event celebrated here, where the blooming of the rare [moonflower](Moonflower.md)s is believed to enhance magical abilities and is accompanied by the haunting melody of the [Lunar Waltz](Lunar%20Waltz.md).
 
 ## Notable Figures and Groups

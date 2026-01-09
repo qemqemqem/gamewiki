@@ -1,0 +1,44 @@
+## Roles and Responsibilities
+
+visual_purpose: What do the daily roles and responsibilities of nobles in Aesheron look like?
+ideas_for_art_content: A noble overseeing the collection of taxes, administering justice in a court setting, or leading a group of soldiers. A background of a manor or castle could be included to emphasize their domain.
+ideas_for_style: Painting, with a style reminiscent of classical portraits to convey the historical and prestigious nature of the nobility.
+art_prompt: "A noble in their grand estate, authoritative and composed, overseeing the collection of taxes, depicted in a classical painting style."
+art_prompt_detailed: "A regal figure dressed in period-appropriate attire, standing in a lavishly decorated room of a grand manor, with subjects presenting their taxes, painted in the style of a classical portrait."
+caption: "A noble of Aesheron fulfilling their responsibilities, collecting taxes within their grand estate."
+orientation: landscape
+artistic_value: [appropriate style, interesting person]
+descriptive_value: [person, object, event]
+difficulties: [named characters, multipart]
+
+## Culture and Lifestyle
+
+visual_purpose: What does the luxurious lifestyle of Aesheron's nobility entail?
+ideas_for_art_content: Nobles at a grand ball, wearing luxurious garments and jewelry, with a castle's grand hall as the background.
+ideas_for_style: Painting, with a rich and detailed Baroque style to capture the opulence of the nobility's lifestyle.
+art_prompt: "Nobles at a lavish ball, elegantly dressed in Moonflower silk, in a Baroque style, opulent and grand, painted in oil."
+art_prompt_detailed: "Elegantly dressed figures in flowing garments of fine silk, adorned with glittering jewelry, dancing in the grand hall of a castle, depicted in an oil painting with Baroque richness."
+caption: "A glimpse into the opulent lifestyle of Aesheron's nobility during a grand ball."
+orientation: landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [person, background, narrative]
+difficulties: [named location, multipart]
+
+## Challenges and Conflicts
+
+visual_purpose: What kinds of challenges and conflicts do the nobles of Aesheron face?
+ideas_for_art_content: A depiction of a noble caught in a moment of intrigue or betrayal, perhaps in a shadowy council chamber, or a scene from the Mage Wars with nobles in conflict.
+ideas_for_style: Sketch, with dramatic lighting to emphasize the tension and uncertainty of noble conflicts.
+art_prompt: "A noble ensnared in a moment of intrigue, shadowy and tense, sketched with dramatic contrasts."
+art_prompt_detailed: "A cloaked figure whispering in the ear of a noble in a dimly lit council chamber, with expressions of suspicion and conspiracy, sketched in high contrast."
+caption: "The shadow of intrigue falls upon a noble of Aesheron, amidst the ever-present web of alliances and rivalries."
+orientation: portrait
+artistic_value: [interesting person, exciting]
+descriptive_value: [person, event, historical]
+difficulties: [named characters, confusing]
+
+Given the limited budget, I would suggest prioritizing the "Culture and Lifestyle" section for artwork, as it has the highest artistic and descriptive value, capturing the essence of the nobility's opulent lifestyle which is central to their identity. The "Roles and Responsibilities" section could also benefit from an illustration to help visualize the daily life of a noble, but it may be less critical than showcasing their cultural significance. The "Challenges and Conflicts" section could be impactful with the right artwork, but it may be more complex to execute due to its narrative nature.
+
+Retrieved at: 2024-01-02 21:01:01.389353
+Used: False
+Used: True

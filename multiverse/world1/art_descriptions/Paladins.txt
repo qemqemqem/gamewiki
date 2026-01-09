@@ -1,0 +1,53 @@
+## Origins and Training
+visual_purpose: What do the early stages of a paladin's training and the divine intervention that grants them power look like?
+ideas_for_art_content: A young squire in training armor, a seasoned paladin mentor in full regalia, a celestial being bestowing blessings, a training ground of a holy order.
+ideas_for_style: Painting, with a style reminiscent of Renaissance art to capture the historical and divine aspect.
+art_prompt: "A young squire and a seasoned paladin in the courtyard of the Order of the Crimson Blade, in Renaissance painting style, detailed, with a celestial figure bestowing blessings, done in oil on canvas."
+art_prompt_detailed: "A young trainee clad in simple armor and a mentor in elaborate, ornate armor within the training grounds of a renowned holy order, with a divine entity showering them with ethereal light, depicted in the style of Renaissance artistry."
+caption: A squire receives celestial blessings under the watchful eye of a paladin mentor.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, object, event, historical]
+difficulties: [named characters, named location, multipart]
+
+## The Paladin's Code
+visual_purpose: What does the embodiment of the paladin's code look like in practice?
+ideas_for_art_content: A paladin upholding different tenets of the code, such as aiding the weak, battling an undead creature, or showing humility before a deity's altar.
+ideas_for_style: Sketch, with a focus on symbolism and abstract representation of the virtues.
+art_prompt: "A paladin in various acts of courage, compassion, and humility, in a symbolic sketch style, evocative and thought-provoking, done in pencil."
+art_prompt_detailed: "A figure clad in holy armor performing acts of valor, kindness, and modesty, represented symbolically in a sketch that emphasizes the abstract virtues of their code."
+caption: The sacred tenets of a paladin's code depicted through symbolic acts.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, obscure style]
+
+## Divine Magic
+visual_purpose: How does a paladin's divine magic manifest in battle and healing?
+ideas_for_art_content: A paladin casting a spell with radiant light against a shadowy figure, healing the wounded on a battlefield, or a grand depiction of the Cathedral of Radiant Dawn.
+ideas_for_style: Computer graphics, to capture the dynamic and luminous effects of divine magic.
+art_prompt: "A paladin wielding radiant light against darkness, in a dynamic computer graphic style, vibrant and powerful, done in digital art."
+art_prompt_detailed: "A warrior of faith channeling intense, glowing magic to combat an encroaching shadow, with a backdrop of a grand cathedral known for its divine warriors."
+caption: A paladin harnesses the purifying light of their deity to vanquish darkness.
+orientation: Landscape
+artistic_value: [exciting, wondrous]
+descriptive_value: [person, object, event]
+difficulties: [named location]
+
+## Legendary Paladins
+visual_purpose: Who are the legendary paladins, and what are their defining moments?
+ideas_for_art_content: Portraits of Seraphine the Seer and Theron of the Glade, a scene of a legendary battle or act of heroism.
+ideas_for_style: Painting, in a heroic realism style to capture the grandeur of their legends.
+art_prompt: "Portraits of Seraphine the Seer and Theron of the Glade in heroic realism style, majestic and inspiring, done in oil on canvas."
+art_prompt_detailed: "Portraits of two legendary figures, one known for their prophetic abilities and the other for their connection to nature, depicted in a style that emphasizes their heroic stature."
+caption: The legendary paladins whose deeds have inspired countless tales of heroism.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, historical, narrative]
+difficulties: [named characters]
+
+Given the limited budget, it would be wise to prioritize art that adds the most value to the understanding and enjoyment of the content. The sections "Origins and Training" and "Divine Magic" could greatly benefit from visuals, as they depict core aspects of paladins that are central to their role in the world. The "Legendary Paladins" section could also be a good candidate for art, as it can bring to life the figures that players might aspire to emulate. The "Paladin's Code" might be lower priority due to its abstract nature, which could be conveyed through text effectively.
+
+Retrieved at: 2024-01-02 21:11:31.477051
+Used: False
+Used: True

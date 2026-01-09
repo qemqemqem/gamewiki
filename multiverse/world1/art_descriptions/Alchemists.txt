@@ -1,0 +1,44 @@
+## Role in Society
+
+visual_purpose: What do the diverse roles of alchemists in society look like?
+ideas_for_art_content: An alchemist providing potions at a market stall, another working on a construction site with magical tools, and a third collaborating with adventurers or soldiers.
+ideas_for_style: Painting, with a focus on vibrant colors and a touch of whimsy to reflect the magical aspect.
+art_prompt: "An alchemist at a bustling market stall, a vibrant and whimsical painting, offering colorful potions to townsfolk, done in watercolor"
+art_prompt_detailed: "A robed figure with a display of variously shaped and colored vials in front of them, in a busy medieval market scene, with a whimsical and colorful style, painted in watercolor"
+caption: An alchemist offers their magical concoctions at a local market, showcasing their integral role in daily life.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, fun, wondrous]
+descriptive_value: [person, object, event, character, background]
+difficulties: [named characters, multipart]
+
+## Alchemical Locations
+
+visual_purpose: What do the key locations that are significant to alchemists look like?
+ideas_for_art_content: The Enchanted Grove with its magical plants, the Crystal Waters shimmering with elemental energy, and the Whispering Woods with moonlit flowers.
+ideas_for_style: Computer graphics, to capture the fantastical elements with clarity and detail.
+art_prompt: "The Enchanted Grove teeming with magical flora, in crisp computer graphics, ethereal and radiant, rendered in 3D"
+art_prompt_detailed: "A lush, verdant area filled with plants that emit a soft glow, near a body of water that reflects the sky, depicted in a realistic yet ethereal 3D computer graphic style"
+caption: The Enchanted Grove, a treasure trove of magical ingredients for the discerning alchemist.
+orientation: Landscape
+artistic_value: [landscape, intricate design, wondrous]
+descriptive_value: [location, background, narrative]
+difficulties: [named location]
+
+## Notable Alchemists
+
+visual_purpose: Who are the renowned alchemists and what distinguishes them?
+ideas_for_art_content: Portraits of Grimbeorn the Builder with a backdrop of his architectural works, and Helior with solar motifs and light effects.
+ideas_for_style: Sketch, detailed pencil drawings with shading to give depth and character to the figures.
+art_prompt: "Portrait of Grimbeorn the Builder, in detailed pencil sketch, authoritative and wise, with a backdrop of his architectural marvels"
+art_prompt_detailed: "A bearded figure in medieval builder's attire, looking thoughtful, with intricate buildings in the background, sketched in detailed pencil with shading"
+caption: Grimbeorn the Builder, whose alchemical genius is etched into the very stones of Aereth's grandest structures.
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, historical, character]
+difficulties: [named characters]
+
+Please note that the value ratings are harsh due to the limited budget, and the prompts are detailed to assist an artist unfamiliar with the world. The artistic and descriptive values are chosen to prioritize the most impactful visuals that convey the essence of the alchemists' roles, locations, and notable figures within the world of Aereth.
+
+Retrieved at: 2024-01-02 20:29:33.964313
+Used: False
+Used: True

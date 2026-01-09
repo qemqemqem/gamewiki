@@ -1,0 +1,53 @@
+## Origins
+visual_purpose: What did the birth of Pyronus from the first spark look like?
+ideas_for_art_content: Pyronus emerging from a brilliant spark, the nascent sun in the background, cosmic energy swirling around.
+ideas_for_style: Painting, with a mythological and epic feel, reminiscent of classical depictions of creation myths.
+art_prompt: "Pyronus emerging from the first spark against the backdrop of the nascent sun, epic, radiant, done in oil painting"
+art_prompt_detailed: "A majestic, fiery figure emerging from a brilliant spark with a newly formed sun in the background, surrounded by cosmic energy, depicted in an epic and radiant style, executed as an oil painting"
+caption: Pyronus, born of the first spark, as the sun ignites to life.
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [historical, narrative]
+difficulties: [named characters, multipart]
+
+## Role Among the Sun Deities
+visual_purpose: How do Pyronus and Solara complement each other in the pantheon?
+ideas_for_art_content: Pyronus and Solara in a divine embrace, the contrast of their fiery and radiant energies, the Cathedral of Radiant Dawn in the background.
+ideas_for_style: Stained glass window style, to reflect the religious aspect and the setting within a cathedral.
+art_prompt: "Pyronus and Solara in divine embrace, contrasting energies, in stained glass style, vibrant, done in digital art"
+art_prompt_detailed: "A fiery, intense deity and a radiant, nurturing goddess in a divine embrace, their contrasting energies depicted in vibrant colors, styled like a stained glass window, created digitally"
+caption: The divine balance of Pyronus and Solara, as worshipped in the Cathedral of Radiant Dawn.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, background, narrative]
+difficulties: [named characters, named location, style specific]
+
+## Influence on Arcane Practices
+visual_purpose: What does the invocation of Pyronus by an evoker look like?
+ideas_for_art_content: An evoker casting a fireball spell, with the ethereal image of Pyronus looming large behind them, elemental runes glowing.
+ideas_for_style: Sketch, with dynamic lines and a sense of movement, to capture the energy of the spellcasting.
+art_prompt: "Evoker casting fireball with Pyronus's image behind, dynamic, ethereal, done in pencil sketch"
+art_prompt_detailed: "A spellcaster hurling a fireball, with the imposing, ethereal figure of a fiery deity in the background, surrounded by glowing elemental runes, depicted with dynamic lines and a sense of movement, executed as a pencil sketch"
+caption: An evoker calls upon the essence of Pyronus to cast a mighty fireball.
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, character]
+difficulties: [named characters, multipart]
+
+## Artifacts and Rituals
+visual_purpose: What might the Emberstone and the Rite of the Eternal Flame look like?
+ideas_for_art_content: The Emberstone glowing with inner fire, a circle of mages performing the Rite of the Eternal Flame with a bonfire at the center.
+ideas_for_style: Computer graphics, with a focus on lighting effects to capture the glow and magic of the scene.
+art_prompt: "Emberstone glowing, mages performing the Rite of the Eternal Flame, mystical, illuminated, done in computer graphics"
+art_prompt_detailed: "A gem radiating with an inner fire, surrounded by a circle of robed figures conducting a ritual with a central bonfire, the scene imbued with a mystical and illuminated atmosphere, created using computer graphics"
+caption: The Emberstone and the mystical Rite of the Eternal Flame.
+orientation: Square
+artistic_value: [intricate design, wondrous]
+descriptive_value: [object, event]
+difficulties: [named objects, multipart, lighting effects]
+
+Given the limited budget, it's important to prioritize the sections that would benefit most from visual representation. The "Origins" and "Role Among the Sun Deities" sections are central to the mythology and would greatly benefit from visual aids, while the "Influence on Arcane Practices" and "Artifacts and Rituals" sections could help players visualize important aspects of the game world. The "Legacy" section, while important, may not require an illustration as it summarizes Pyronus's impact rather than depicting specific events or objects.
+
+Retrieved at: 2024-01-02 21:05:39.325459
+Used: False
+Used: True

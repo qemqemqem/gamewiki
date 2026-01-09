@@ -1,0 +1,41 @@
+## The Material Plane
+visual_purpose: What does the Material Plane look like, with its diverse and complex landscapes?
+ideas_for_art_content: The Caverns of Echo, the Isles of Whisper, and the City of Evernight as focal points within a vast landscape.
+ideas_for_style: Painting, with a fantasy-realism style to capture the diversity of the Material Plane.
+art_prompt: "A panoramic view of the Material Plane, featuring the Caverns of Echo, the Isles of Whisper, and the City of Evernight, in a detailed and vibrant fantasy-realism style, done in digital painting."
+art_prompt_detailed: "A panoramic view of a diverse fantasy landscape, featuring echoing caverns, whispering isles, and a city shrouded in eternal night, in a detailed and vibrant fantasy-realism style, done in digital painting."
+caption: "The diverse landscapes of the Material Plane: from the echoing depths to the eternal city."
+orientation: landscape
+artistic_value: [landscape, appropriate style, intricate design, wondrous]
+descriptive_value: [location, background]
+difficulties: [named location, multipart]
+
+## The Divine Planes
+visual_purpose: How do the realms of gods and celestial beings appear?
+ideas_for_art_content: Ethereal landscapes representing the radiant fields of Lumina and the expanses overseen by the Lady of Sorrows.
+ideas_for_style: Painting, with an ethereal and surreal style to convey the otherworldliness of the Divine Planes.
+art_prompt: "The Divine Planes depicted as ethereal landscapes, with radiant fields and mournful expanses, in an ethereal and surreal style, done in watercolor."
+art_prompt_detailed: "Otherworldly landscapes depicting areas of radiant light and somber expanses, symbolizing realms of celestial beings, in an ethereal and surreal style, done in watercolor."
+caption: "The ethereal beauty of the Divine Planes, from radiant fields to mournful expanses."
+orientation: landscape
+artistic_value: [appropriate style, wondrous, exciting, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, obscure style]
+
+## The Shadowfell and the Feywild
+visual_purpose: What is the contrast between the dark Shadowfell and the vibrant Feywild?
+ideas_for_art_content: A split scene showing the dark, shadowy landscape of the Shadowfell on one side and the colorful, magical Feywild on the other.
+ideas_for_style: Digital art, with a high-contrast style to emphasize the dichotomy between the two planes.
+art_prompt: "A split view contrasting the dark Shadowfell with the vibrant Feywild, in a high-contrast digital art style, eerie and enchanting, done in computer graphics."
+art_prompt_detailed: "A split view contrasting a shadowy, despair-filled landscape with a colorful, life-infused magical realm, in a high-contrast digital art style, eerie and enchanting, done in computer graphics."
+caption: "The stark contrast between the Shadowfell's gloom and the Feywild's vibrancy."
+orientation: landscape
+artistic_value: [interesting person, intricate design, wondrous, exciting, style match]
+descriptive_value: [location, object, event, background, narrative]
+difficulties: [named location, multipart]
+
+Given the limited budget, these sections have been chosen for their potential to greatly enhance the reader's understanding and immersion through visual representation. The artistic and descriptive values are high, but the difficulties are also considerable due to the need for multipart scenes and the depiction of named locations.
+
+Retrieved at: 2024-01-02 21:25:18.479899
+Used: False
+Used: True

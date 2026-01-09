@@ -4,6 +4,9 @@ Summoners are a unique and enigmatic class of spellcasters within the realm of t
 
 ## Origins and Training
 
+![Origins and Training](../../images/Summoners_S_Origins%20and%20Training.png)
+"An ancient Summoner communes with spirits in the Verdant Woods, a practice that laid the foundation for modern Summoners.
+
 The origins of Summoners trace back to ancient times, where the first practitioners were said to have communed with the spirits of the [Verdant Woods](Verdant%20Woods.md) and the entities residing in the [Crystal Sea](Crystal%20Sea.md). These early Summoners laid the groundwork for the complex rituals and [incantations](Incantations.md) that would define the craft for millennia.
 
 Training to become a Summoner is an arduous path that requires not only innate magical ability but also an unwavering dedication to the study of [arcane languages](Arcane%20Languages.md), [reagents](Reagents.md), and the intricate [rituals](Rituals.md) necessary to safely and effectively call forth otherworldly beings. Many aspirants begin their journey at the esteemed [Sanctum of Whispers](Sanctum%20of%20Whispers.md), where the accumulated knowledge of past Summoners is preserved and taught.

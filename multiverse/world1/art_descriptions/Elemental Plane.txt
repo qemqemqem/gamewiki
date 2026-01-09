@@ -1,0 +1,65 @@
+## The Earthen Realm
+visual_purpose: What does the foundational domain of Earth look like in the Elemental Plane?
+ideas_for_art_content: Towering mountains, endless caverns, stone forests, Earth Elementals, and a depiction of Grimbeorn the Builder.
+ideas_for_style: Painting, with a style reminiscent of classic fantasy art, rich in texture and depth.
+art_prompt: "Grimbeorn the Builder standing amidst towering mountains and stone forests, in a classic fantasy art style, majestic, awe-inspiring, done in oil painting."
+art_prompt_detailed: "A figure of immense strength and craftsmanship standing amidst towering mountains and sprawling stone forests, in a classic fantasy art style, majestic, awe-inspiring, done in oil painting."
+caption: Grimbeorn the Builder shaping the terrain of the Earthen Realm, surrounded by the domain's majestic landscapes.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [location, person, background]
+difficulties: [named characters, multipart]
+
+## The Aquatic Expanse
+visual_purpose: How does the infinite ocean of the Aquatic Expanse appear, and what creatures inhabit it?
+ideas_for_art_content: Vast underwater scenes with diverse marine life, Water Elementals, and a visual representation of the Treaty of the Crystal Waters.
+ideas_for_style: Computer graphics, with a vibrant and ethereal underwater scene.
+art_prompt: "Water Elementals emerging from the depths of an infinite ocean, in a vibrant and ethereal style, mysterious, serene, done in digital art."
+art_prompt_detailed: "Beings of fluidity and adaptability emerging from the depths of an infinite ocean, in a vibrant and ethereal style, mysterious, serene, done in digital art."
+caption: The serene yet mysterious depths of the Aquatic Expanse, home to the Water Elementals and the Treaty of the Crystal Waters.
+orientation: Portrait
+artistic_value: [wondrous, exciting]
+descriptive_value: [location, monster, background]
+difficulties: [named location, multipart]
+
+## The Aerial Heights
+visual_purpose: What is the experience of boundless exploration in the Aerial Heights like?
+ideas_for_art_content: Expansive skies, floating islands, Air Elementals, and perhaps a scene of Astronomers gazing upward.
+ideas_for_style: Sketch, with a dreamy and airy feel, emphasizing the vastness and freedom of the domain.
+art_prompt: "Air Elementals soaring through expansive skies above floating islands, in a dreamy and airy sketch style, liberating, ethereal, done in pencil."
+art_prompt_detailed: "Beings of breeze and storm commanding the atmosphere, soaring through expansive skies above floating islands, in a dreamy and airy sketch style, liberating, ethereal, done in pencil."
+caption: The boundless Aerial Heights, where Air Elementals roam and Astronomers seek ancient secrets.
+orientation: Landscape
+artistic_value: [appropriate style, wondrous]
+descriptive_value: [location, person, background]
+difficulties: [named location, multipart]
+
+## The Inferno Core
+visual_purpose: What does the land of perpetual combustion in the Inferno Core look like?
+ideas_for_art_content: Flames, volcanic landscapes, Fire Elementals dancing amidst fire, and pyromancers attempting to harness the energy.
+ideas_for_style: Painting, with dynamic brush strokes and a vivid color palette to capture the intensity of the domain.
+art_prompt: "Fire Elementals dancing amidst the flames of a volcanic landscape, in a dynamic, intense, vivid style, done in acrylic painting."
+art_prompt_detailed: "Beings of perpetual combustion drawing upon raw energy, dancing amidst the flames of a volcanic landscape, in a dynamic, intense, vivid style, done in acrylic painting."
+caption: The unquenchable fire of the Inferno Core, where Fire Elementals embody the essence of combustion.
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [location, event, background]
+difficulties: [named location, multipart]
+
+## The Ethereal Nexus
+visual_purpose: What does the convergence of elemental energies in the Ethereal Nexus look like?
+ideas_for_art_content: A tranquil and mysterious center with swirling energies, Conjurers, and Summoners tapping into arcane forces.
+ideas_for_style: Computer graphics, with a focus on ethereal light effects and a sense of convergence.
+art_prompt: "Conjurers and Summoners amidst the swirling energies of the Ethereal Nexus, in a luminous, mystical, digital art style."
+art_prompt_detailed: "Mages amidst the swirling energies of a tranquil and mysterious center, where elemental forces intertwine, in a luminous, mystical, digital art style."
+caption: The Ethereal Nexus, a place of balance where arcane energies converge and are sought after by Conjurers and Summoners.
+orientation: Square
+artistic_value: [wondrous, style match]
+descriptive_value: [location, character, narrative]
+difficulties: [named location, multipart]
+
+Given the limited budget, prioritize the art pieces that have the highest descriptive and artistic value, which seem to be "The Earthen Realm" and "The Inferno Core". These two domains offer the most visually striking and conceptually rich opportunities for artwork that will enhance the players' immersion in the world.
+
+Retrieved at: 2024-01-02 19:48:24.488179
+Used: False
+Used: True

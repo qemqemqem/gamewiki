@@ -4,6 +4,9 @@ The [Chameleon Drake](Chameleon%20Drake.md) is a creature of legend and mystery,
 
 ## Description
 
+![Description](../../images/Chameleon%20Drake_S_Description.png)
+A Chameleon Drake using its color-shifting scales to blend into the forest.
+
 Chameleon Drakes are medium-sized draconic beings, known for their distinctive scales that shimmer with a multitude of colors. These scales are not only a marvel of beauty but also serve a critical function: they allow the Chameleon Drake to camouflage itself with almost any environment. The scales act in harmony with the creature's magic, creating an illusion so convincing that even the most trained eye can be fooled.
 
 The physiology of the Chameleon Drake is a subject of great interest. They possess a serpentine body, supported by four short but muscular limbs, each ending in sharp claws that aid in climbing and hunting. Their heads are adorned with a crown of small, horn-like protrusions, which vary in number and shape among individuals. The drake's eyes are particularly captivating, with irises that seem to hold the depth of the very [Aether](Aether.md) itself.

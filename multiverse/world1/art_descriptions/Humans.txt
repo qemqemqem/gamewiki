@@ -1,0 +1,41 @@
+## Society and Culture
+visual_purpose: What does a vibrant Human celebration look like in the world of Aesheron?
+ideas_for_art_content: A bustling marketplace during the Moonflower Festival, with stalls decorated with flowers and lanterns, people dancing, musicians playing, and a variety of Human characters in festive attire.
+ideas_for_style: Painting, with a focus on bright colors and a lively atmosphere, reminiscent of a Renaissance festival painting.
+art_prompt: "A lively Moonflower Festival in the heart of a Human city, vibrant and colorful, done in oil painting"
+art_prompt_detailed: "A bustling marketplace filled with stalls adorned with moonflowers and glowing lanterns, with diverse groups of people dancing and celebrating, musicians with medieval instruments, all depicted in a vibrant and colorful oil painting style"
+caption: "The Moonflower Festival, a celebration of life and community in Human society."
+orientation: [landscape]
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, cultural]
+difficulties: [multipart, instructions unclear]
+
+## Magic and Religion
+visual_purpose: How do Humans express their magical abilities and religious diversity?
+ideas_for_art_content: A Human spellcaster channeling magic with glowing runes in the air, a shrine dedicated to Tharion with worshippers, and a Druid in a natural setting showing reverence to nature.
+ideas_for_style: Sketch, with a mystical and ethereal feel to the magical elements, and a more grounded, earthy style for the religious aspects.
+art_prompt: "A Human wizard casting a spell with ethereal runes, a shrine to Tharion with devotees, and a Druid in a serene forest, all in a detailed sketch."
+art_prompt_detailed: "A robed figure with hands outstretched, mystical runes floating and glowing around them, a simple altar adorned with symbols of knowledge and foresight surrounded by cloaked figures, and a lone individual in a tranquil forest clearing, surrounded by wildlife, all captured in a detailed pencil sketch."
+caption: "The spectrum of Human spirituality: from the arcane to the divine."
+orientation: [portrait]
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, religious]
+difficulties: [named characters, named location]
+
+## Notable Humans
+visual_purpose: Who are some of the legendary Humans that have shaped Aesheron's history?
+ideas_for_art_content: Portraits of Alyndra, Warrior Queen in battle regalia, and Morath the Wise surrounded by ancient tomes and artifacts.
+ideas_for_style: Computer graphics, with a heroic and legendary feel, akin to character concept art for a high-fantasy game.
+art_prompt: "Portraits of Alyndra, Warrior Queen in her regal armor, and Morath the Wise among his scholarly collections, in a high-fantasy concept art style."
+art_prompt_detailed: "A regal figure clad in ornate armor, brandishing a sword, with a commanding presence, and an elderly figure in a library, surrounded by books and magical relics, both rendered in a detailed and realistic computer graphics style."
+caption: "Alyndra, Warrior Queen, and Morath the Wise, legendary Humans of Aesheron."
+orientation: [portrait]
+artistic_value: [interesting person, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters]
+
+Given the limited budget, I would suggest prioritizing the "Society and Culture" section for artwork, as it encapsulates the vibrancy of Human life and can serve as a visual representation of their cultural richness, which is central to the players' understanding of the world. The "Magic and Religion" section could be the next priority, as it visually demonstrates the range of Human spirituality and magical practices. The "Notable Humans" section, while interesting, could be lower priority due to the potential cost of character-specific art and the fact that descriptions of these characters can be conveyed through text.
+
+Retrieved at: 2024-01-02 20:53:45.332705
+Used: False
+Used: True

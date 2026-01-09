@@ -1,0 +1,41 @@
+## The Role of Gestures in Magic
+visual_purpose: What do the intricate hand movements required for casting spells look like?
+ideas_for_art_content: A wizard or sorcerer in the midst of casting a spell, with arcane symbols and energy flowing from their fingertips. The background could be a mystical library or a magical landscape.
+ideas_for_style: Sketch with vibrant colors to emphasize the magic, or a digital painting with dynamic lighting to capture the energy of the spell.
+art_prompt: "A wizard channeling raw energies with complex hand gestures in a mystical library, vibrant, dynamic, done in digital painting"
+art_prompt_detailed: "A robed figure with an air of concentration channeling glowing energies with complex hand movements, surrounded by ancient tomes and arcane symbols, in a vibrant and dynamic digital painting"
+caption: "A wizard harnesses the arcane energies through precise gestures, as required for spellcasting."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, object, event, character, narrative
+difficulties: Named characters, multipart, obscure style
+
+## Ritualistic Significance
+visual_purpose: How do the sacred gestures look during a divine ritual?
+ideas_for_art_content: Priests or mystics performing a ritual with specific hand movements, possibly in front of an altar or a large congregation. The setting could be a temple with celestial iconography.
+ideas_for_style: Painting with a classical or renaissance style to give a sense of timelessness and divinity.
+art_prompt: "Priests performing sacred gestures during a solstice ritual in a temple, reverent, solemn, done in classical painting style"
+art_prompt_detailed: "Robed figures with hands raised in intricate patterns, standing before an altar in a temple adorned with celestial motifs, captured in a reverent and solemn classical painting style"
+caption: "Priests invoke divine favor with sacred gestures during a celestial ritual."
+orientation: Portrait
+artistic_value: Intricate design, wondrous
+descriptive_value: Person, event, historical, narrative
+difficulties: Named location, multipart
+
+## Gestures in Combat and Navigation
+visual_purpose: What do battle and nautical gestures look like in action?
+ideas_for_art_content: A scene of a battle with warriors using hand signals to coordinate, or sailors on a ship's deck using gestures to communicate. The background could be a chaotic battlefield or a ship braving stormy seas.
+ideas_for_style: Dynamic sketch or a detailed computer graphic to capture the urgency and movement.
+art_prompt: "Warriors using battle gestures on a chaotic battlefield, urgent, coordinated, done in detailed sketch"
+art_prompt_detailed: "Armored figures amidst a tumultuous battle scene, using hand signals to communicate over the din of war, depicted in an urgent and coordinated detailed sketch"
+caption: "Warriors employ battle gestures to command and strategize amidst the chaos of war."
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Event, character, background, narrative
+difficulties: Named location, multipart, confusing
+
+Please note that the value ratings are harsh due to the limited budget, and the prompts are detailed to aid an artist unfamiliar with the world. The artistic and descriptive values are chosen to reflect the potential impact and relevance of the art to the article sections, while the difficulties highlight challenges an artist may face in creating the visuals.
+
+Retrieved at: 2024-01-02 21:25:54.444709
+Used: False
+Used: True

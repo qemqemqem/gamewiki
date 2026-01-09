@@ -20,6 +20,9 @@ Travel to the Ethereal Plane is a perilous endeavor, typically achieved through 
 
 ### The City of Lumina
 
+![The City of Lumina](../../images/Ethereal%20Plane_S_The%20City%20of%20Lumina.png)
+"Lumina: A nexus of spiritual energy during the Solstice of the Blazing Sky.
+
 The city of [Lumina](Lumina.md), with its deep connections to the Ethereal Plane, is a nexus of spiritual energy. The [Elven](Elven.md) sages of Lumina have long studied the ethereal tides and have developed unique rituals and enchantments that allow them to commune with the energies of the plane. It is said that during the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md), the city's architecture itself resonates with the ethereal energy, creating a symphony of light and shadow.
 
 ## Cultural Significance

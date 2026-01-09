@@ -1,0 +1,40 @@
+## Training and Abilities
+visual_purpose: What does the training environment of an arcane practitioner look like?
+ideas_for_art_content: A young apprentice practicing with a glowing orb, a mentor like Morath the Wise overseeing the training, shelves lined with reagents and ancient tomes, magical symbols etched into the ground.
+ideas_for_style: Sketch with detailed linework to capture the intricacies of the magical environment.
+art_prompt: "A young apprentice with a glowing orb in a mystical study room, detailed, done in pencil sketch"
+art_prompt_detailed: "A young apprentice, concentration etched on their face, holding a softly glowing orb in a dimly lit study room filled with shelves of colorful reagents and ancient, leather-bound tomes. Intricate magical symbols are etched into the ground around them, and a figure that exudes wisdom watches over the training session."
+caption: An apprentice arcane practitioner hones their skills under the watchful eye of a master.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+## Role in Society
+visual_purpose: How do arcane practitioners interact with and impact society?
+ideas_for_art_content: An arcane practitioner casting a spell over farmland, a council of mages advising a king, a group of practitioners defending a city from a natural disaster.
+ideas_for_style: Painting with a dynamic composition to show the energy and influence of the practitioners.
+art_prompt: "An arcane practitioner blessing farmland with a spell, dynamic, done in watercolor painting"
+art_prompt_detailed: "A robed figure stands with arms outstretched, a vibrant aura of magic emanating from their hands, hovering over lush farmland. In the background, a council of mages can be seen advising a regal figure seated upon a throne, while another group of practitioners conjures a protective barrier around a city threatened by dark, swirling clouds."
+caption: Arcane practitioners serve crucial roles, from nurturing the land to advising rulers and safeguarding cities.
+orientation: Landscape
+artistic_value: [landscape, exciting, style match]
+descriptive_value: [location, person, event]
+difficulties: [named location, multipart]
+
+## Notable Arcane Practitioners
+visual_purpose: Who are the legendary figures in the world of arcane magic, and what did they look like?
+ideas_for_art_content: Portraits of famous practitioners, a scene depicting the Dawn of the New Light event with practitioners channeling the moonflower's power.
+ideas_for_style: A series of detailed character portraits in a classical painting style.
+art_prompt: "Portraits of legendary arcane practitioners in a classical painting style"
+art_prompt_detailed: "A series of portraits showcasing individuals of various ages and attire, each exuding a sense of power and wisdom. One figure stands out, holding a radiant bloom that seems to emit a soft light, symbolizing the historic event known as the Dawn of the New Light."
+caption: The faces of magic: Portraits of the arcane practitioners who shaped history.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters, multipart, style match]
+
+Given the limited budget, the "Training and Abilities" section would be the most valuable to illustrate, as it provides a direct look into the world of arcane practitioners and can enrich the players' understanding of their training and environment. The "Role in Society" could be the next priority, as it shows the practitioners' impact on the world, which is central to the game's narrative. The "Notable Arcane Practitioners" section, while interesting, may be less critical as it focuses on historical figures rather than the immediate game world.
+
+Retrieved at: 2024-01-02 20:48:20.999441
+Used: False

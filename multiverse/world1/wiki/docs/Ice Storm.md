@@ -10,6 +10,9 @@ Over the centuries, the spell has been refined by countless [wizard](Wizards.md)
 
 ## Casting the Spell
 
+![Casting the Spell](../../images/Ice%20Storm_S_Casting%20the%20Spell.png)
+"A spellcaster invoking the ancient Ice Storm, as the skies respond with a fury of ice and wind.
+
 To cast an [Ice Storm](Ice%20Storm.md), the spellcaster must invoke the necessary [incantations](Incantations.md) and [reagents](Reagents.md), often including rare crystals that resonate with cold energy or vials of water from the frozen [Plains of Valor](Plains%20of%20Valor.md). The caster must also possess an [arcane focus](Arcane Foci.md), such as a staff or wand, imbued with the essence of winter.
 
 Upon completion of the ritual, the skies darken as clouds coalesce, and a barrage of sleet and hail descends upon the targeted area. The temperature plummets, coating the landscape in a layer of frost and ice, turning the terrain into a treacherous, slippery expanse.

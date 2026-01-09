@@ -1,0 +1,53 @@
+## Origins and Abilities
+visual_purpose: What do Seers look like when they are receiving visions or using their abilities?
+ideas_for_art_content: A Seer in a trance-like state with eyes glowing, celestial or arcane symbols floating around them, a backdrop of the cosmos or ethereal plane, and faint images of past or future events surrounding them.
+ideas_for_style: Painting, with a mystical and ethereal art style, using vibrant colors to depict the magical essence.
+art_prompt: "A Seer with glowing eyes, surrounded by celestial symbols, in a mystical and vibrant style, done in watercolor"
+art_prompt_detailed: "An individual with eyes emitting a soft light, encircled by floating arcane glyphs, set against a backdrop that suggests a blend of the night sky and otherworldly dimensions, portrayed in a vivid and otherworldly watercolor style"
+caption: A Seer taps into the flow of time, their eyes aglow with the light of foresight.
+orientation: Portrait
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, event, historical]
+difficulties: [named characters, multipart]
+
+## Role in Society
+visual_purpose: How do Seers interact with society and what is their place in social events?
+ideas_for_art_content: A Seer advising a ruler, a group of common folk gathered around a Seer during a festival, or a Seer blessing objects with magical energy.
+ideas_for_style: Sketch, with a focus on capturing the moment and the expressions of the characters involved.
+art_prompt: "A Seer advising a monarch, in a detailed sketch, expressive, done in pencil"
+art_prompt_detailed: "A robed figure with an air of wisdom speaking to a regally dressed individual on a throne, with onlookers observing the exchange, sketched in expressive pencil strokes"
+caption: A Seer imparts wisdom to a ruler, their counsel sought for matters of state and fate.
+orientation: Landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters]
+
+## Training and Lifestyle
+visual_purpose: What does the daily life or training environment of a Seer look like?
+ideas_for_art_content: A Seer studying ancient texts under the guidance of a mentor, practicing divination with orbs or crystals, or in meditation within a serene and scholarly setting.
+ideas_for_style: Computer graphics, with a focus on clarity and detail to showcase the environment and tools of the trade.
+art_prompt: "A Seer studying ancient texts with a mentor, in a clear and detailed computer graphic, focused, done in digital art"
+art_prompt_detailed: "A figure engrossed in reading timeworn scrolls, with another figure pointing out specific passages, both surrounded by artifacts of divination in a room filled with books and mystical paraphernalia, rendered in a sharp and detailed digital art style"
+caption: A Seer delves into the mysteries of the arcane, guided by the wisdom of a mentor.
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, named location]
+
+## Notable Seers
+visual_purpose: Who are some of the most famous Seers and what moments in their lives stand out?
+ideas_for_art_content: Portraits of Seraphine the Seer and the Oracle of Morath, possibly depicting a pivotal moment in their lives such as a major prophecy or a teaching session.
+ideas_for_style: Painting, with a classical and timeless feel, capturing the essence and importance of these figures.
+art_prompt: "Portrait of Seraphine the Seer in a classical painting style, insightful, done in oil on canvas"
+art_prompt_detailed: "A portrait of a revered figure, known for their legendary foresight, depicted in a moment of profound revelation, with a timeless and classical oil painting technique"
+caption: Seraphine the Seer, whose visions have guided the fates of many.
+orientation: Portrait
+artistic_value: [interesting person, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters]
+
+Given the limited budget, it's important to prioritize the sections that would benefit most from visual representation. The "Origins and Abilities" and "Notable Seers" sections are likely the most valuable in terms of both artistic and descriptive value, as they can help players visualize the Seers and their importance in the world. The "Role in Society" and "Training and Lifestyle" sections could also be enhanced with visuals but may be considered secondary priorities.
+
+Retrieved at: 2024-01-02 21:10:18.903061
+Used: False
+Used: True

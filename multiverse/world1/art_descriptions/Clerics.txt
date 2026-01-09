@@ -1,0 +1,41 @@
+## Divine Magic and Worship
+visual_purpose: What does the divine connection between a cleric and their deity look like?
+ideas_for_art_content: A cleric in prayer or meditation, a visual representation of their deity's presence (like a glowing symbol or ethereal figure), ritual objects around them.
+ideas_for_style: Painting, with a style that captures the ethereal and mystical nature of divine magic.
+art_prompt: "A cleric in deep prayer, surrounded by symbols of their deity, in a mystical and ethereal style, serene and powerful, done in watercolor."
+art_prompt_detailed: "A robed figure kneeling in contemplation, surrounded by glowing symbols that represent an otherworldly patron, painted in a style that emphasizes the mystical connection, with a serene yet potent aura, created with watercolor techniques."
+caption: A cleric channels the divine essence of their deity through prayer and ritual.
+orientation: Portrait
+artistic_value: [wondrous, style match]
+descriptive_value: [person, object, event]
+difficulties: [named characters, multipart]
+
+## Roles and Responsibilities
+visual_purpose: How do clerics fulfill their varied roles in society?
+ideas_for_art_content: A collage showing a cleric healing a wounded soldier, advising a ruler, and leading a ceremony.
+ideas_for_style: Sketch, to capture the dynamic nature of a cleric's responsibilities.
+art_prompt: "A collage of a cleric healing, advising, and leading a ceremony, in a dynamic sketch style, detailed and engaging, done with pencil."
+art_prompt_detailed: "A series of sketches depicting a robed healer tending to a fallen warrior, a wise figure counseling a regal leader, and a ceremonial leader orchestrating a grand event, all portrayed in a lively and detailed pencil style."
+caption: The many roles of clerics: healers, advisors, and spiritual leaders.
+orientation: Landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, multipart]
+
+## Sacred Sites and Pilgrimages
+visual_purpose: What do sacred sites significant to clerics look like, and how are they visited during pilgrimages?
+ideas_for_art_content: The Cathedral of Radiant Dawn or the Echoing Basin, with pilgrims traveling towards or gathered at the site.
+ideas_for_style: Painting, with a style that captures the grandeur and reverence of the sacred sites.
+art_prompt: "Pilgrims journeying towards the majestic Cathedral of Radiant Dawn, in a grand and reverent style, awe-inspiring and solemn, done in oil paint."
+art_prompt_detailed: "A procession of devoted travelers moving towards a grand cathedral bathed in sunlight, painted in a style that conveys the awe and solemnity of the pilgrimage, with an inspiring and respectful atmosphere, created using oil paints."
+caption: Faithful pilgrims gather at the Cathedral of Radiant Dawn during a holy event.
+orientation: Landscape
+artistic_value: [wondrous, appropriate style]
+descriptive_value: [location, event, narrative]
+difficulties: [named location]
+
+Given the limited budget, I would prioritize the "Sacred Sites and Pilgrimages" section for artwork, as it provides a strong visual representation of the clerics' faith and the importance of sacred locations in your campaign. This image could serve as a powerful backdrop for storytelling and help players visualize the setting more vividly.
+
+Retrieved at: 2024-01-02 20:30:35.088967
+Used: False
+Used: True

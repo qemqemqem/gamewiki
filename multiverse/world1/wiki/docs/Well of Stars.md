@@ -8,6 +8,9 @@ The origins of the Well of Stars are lost to the ages, with only fragments of it
 
 ## Architecture
 
+![Architecture](../../images/Well%20of%20Stars_S_Architecture.png)
+"The Well of Stars Observatory, where the heavens mirror in the ancient basin.
+
 The Well of Stars is a marvel of ancient engineering, featuring a vast, open-air amphitheater that focuses the heavens into a single point of observation. At its center lies a deep, water-filled basin that reflects the night sky, creating a mirror image of the stars above. Surrounding the basin are intricate mechanisms of unknown metals, which scholars believe were used to track the movement of celestial bodies and to amplify magical energies.
 
 ## Magical Significance

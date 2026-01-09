@@ -10,6 +10,9 @@ Over the centuries, the Sanctum has become a legend, its location lost to all bu
 
 ## Architecture and Defenses
 
+![Architecture and Defenses](../../images/Sanctum%20of%20Whispers_S_Architecture%20and%20Defenses.png)
+The impenetrable architecture and magical defenses of the Sanctum of Whispers.
+
 The architecture of the Sanctum of Whispers is a marvel of magical construction, rumored to exist in a space between the physical and the ethereal. Its walls are said to be inscribed with ancient runes that resonate with the power of [abjuration](Abjuration.md), forming an impenetrable barrier against both physical and magical intrusions.
 
 The defenses of the Sanctum are legendary, comprising the most intricate and powerful wards ever conceived. These wards are not only designed to protect against external threats but also to prevent the knowledge within from escaping. It is believed that the very air within the Sanctum is imbued with magic that silences any attempt to speak of its secrets outside its hallowed halls.

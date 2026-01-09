@@ -1,0 +1,41 @@
+## History and Role in Society
+visual_purpose: What did the era of the Age of Twilight look like, and how do enchanters fit into the fabric of contemporary society?
+ideas_for_art_content: Depict an enchanter using magic during the Age of Twilight with ethereal boundaries in the background; modern enchanters in roles as diplomats, spies, and entertainers.
+ideas_for_style: Painting, with a mystical and ethereal style for the Age of Twilight; a more realistic and detailed style for contemporary society.
+art_prompt: "An enchanter casting a spell during the Age of Twilight, with thin boundaries between realms, in a mystical and ethereal painting style, and modern enchanters in various societal roles, detailed and realistic, in oil on canvas."
+art_prompt_detailed: "A robed figure with a glowing hand, casting a spell in an ancient, mystical landscape where the sky and earth seem to blend, in a mystical and ethereal painting style, and figures in various attire representing diplomats, spies, and entertainers in a bustling cityscape, detailed and realistic, in oil on canvas."
+caption: "Enchanters: From the Age of Twilight to Key Figures in Society"
+orientation: [landscape]
+artistic_value: [wondrous, style match]
+descriptive_value: [location, person, historical, narrative]
+difficulties: [named location, multipart]
+
+## Tools and Artifacts
+visual_purpose: What do the tools and artifacts used by enchanters look like, especially the crystals?
+ideas_for_art_content: An enchanter's workshop with various arcane foci, crystals of different shapes and sizes, and the Mistbound Docks marketplace in the background.
+ideas_for_style: Sketch, with detailed pencil outlines to show the intricate designs of the tools and artifacts.
+art_prompt: "An enchanter's workshop filled with arcane foci and resonating crystals, in a detailed pencil sketch, intricate and atmospheric, on textured paper."
+art_prompt_detailed: "A cluttered table with various magical tools, including shimmering, multifaceted crystals, in a room that hints at a bustling marketplace beyond its windows, in a detailed pencil sketch, intricate and atmospheric, on textured paper."
+caption: "Enchanter's Workshop: Arcane Foci and Resonating Crystals"
+orientation: [landscape]
+artistic_value: [intricate design]
+descriptive_value: [object, background]
+difficulties: [none]
+
+## Notable Enchanters
+visual_purpose: Who was Morath the Wise, and what did he look like?
+ideas_for_art_content: A portrait of Morath the Wise in his study, surrounded by books and magical paraphernalia, with a thoughtful expression.
+ideas_for_style: Painting, in a classical portrait style that conveys wisdom and authority.
+art_prompt: "Portrait of Morath the Wise in his study, classical style, wise and authoritative, in oil on canvas."
+art_prompt_detailed: "A bearded figure in elaborate robes, seated at a desk covered with ancient tomes and magical instruments, gazing into the distance, in a classical portrait style, wise and authoritative, in oil on canvas."
+caption: "Morath the Wise: Master Enchanter and Scholar"
+orientation: [portrait]
+artistic_value: [interesting person]
+descriptive_value: [person, character]
+difficulties: [named characters]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the world. The decision to include artwork should be weighed against the cost and the potential impact on the players' experience.
+
+Retrieved at: 2024-01-02 20:07:33.842688
+Used: False
+Used: True

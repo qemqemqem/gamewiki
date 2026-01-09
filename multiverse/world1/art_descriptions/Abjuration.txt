@@ -1,0 +1,46 @@
+## Applications of Abjuration
+
+### Protective Wards
+
+visual_purpose: What do protective wards look like when they are in use?
+ideas_for_art_content: A bustling dock scene with translucent magical barriers surrounding the area, ships with glowing hulls, and citizens going about their business with a sense of security.
+ideas_for_style: Painting, with a focus on light and color to emphasize the magical nature of the wards.
+art_prompt: "The Mistbound Docks surrounded by shimmering protective wards, vibrant and bustling, in a watercolor style, ethereal and secure, done in digital painting."
+art_prompt_detailed: "A busy dock scene with merchants and sailors, surrounded by translucent, shimmering barriers of light, depicted in a watercolor style, giving an ethereal and secure feeling, created as a digital painting."
+caption: "The Mistbound Docks, safeguarded by the magical wards of the Shrouded City's abjurers."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, object, background, narrative]
+difficulties: [named location, multipart]
+
+### Banishment
+
+visual_purpose: How does the act of banishing an extraplanar creature appear?
+ideas_for_art_content: An abjurer casting a spell with a creature like a Shade Wraith or Whispering Siren being forcibly returned to its plane, shown in the midst of a dramatic expulsion.
+ideas_for_style: Sketch, with dynamic lines to capture the motion and intensity of the banishment.
+art_prompt: "An abjurer banishing a Whispering Siren back to its plane, in a dynamic sketch style, intense and focused, done in pencil."
+art_prompt_detailed: "A robed figure with arms outstretched, casting a spell that sends a ghostly, ethereal creature spiraling back into a portal, depicted in a dynamic sketch style, intense and focused, rendered in pencil."
+caption: "The forceful banishment of a Whispering Siren by a master abjurer."
+orientation: portrait
+artistic_value: [exciting, intricate design]
+descriptive_value: [person, event, monster, character]
+difficulties: [named characters, named location, multipart]
+
+### Magical Shields
+
+visual_purpose: What does it look like when an abjurer conjures a magical shield in battle?
+ideas_for_art_content: An abjurer in the midst of combat, with a visible, glowing shield protecting them from arrows or spells, with a battlefield scene in the background.
+ideas_for_style: Computer graphics, to capture the clarity and precision of the magical shield.
+art_prompt: "An abjurer conjuring a glowing magical shield in battle, crisp and protective, in computer graphics, vivid and detailed, done in 3D rendering."
+art_prompt_detailed: "A mage in ornate robes standing firm on a chaotic battlefield, with a bright, crystalline barrier deflecting arrows and spells, depicted in a crisp and protective manner, created with 3D computer graphics."
+caption: "An abjurer's magical shield provides a bulwark against the chaos of battle."
+orientation: landscape
+artistic_value: [exciting, appropriate style]
+descriptive_value: [person, event, character, narrative]
+difficulties: [named characters, multipart, confusing]
+
+Please note that the value ratings are harsh, as requested, due to budget constraints. The artistic value is focused on the elements that would most enhance the reader's experience and understanding of the content, while the descriptive value highlights the importance of depicting key aspects of the Abjuration magic within the world of Aesheron. The difficulties listed are considerations for the complexity and specificity required for the artwork.
+
+Retrieved at: 2024-01-02 19:59:21.135983
+Used: False
+Used: True

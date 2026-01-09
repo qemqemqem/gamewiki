@@ -14,6 +14,9 @@ Crystals are formed over eons, deep within the earth of Aesheron, or in rare cas
 
 ## Magical Properties
 
+![Magical Properties](../../images/Crystals_S_Magical%20Properties.png)
+A mage channels arcane energy through a quartz crystal, enhancing the potency of their spell.
+
 Crystals are not only admired for their beauty but also for their inherent magical properties. They serve as conduits for arcane energy, making them essential components in a variety of magical applications:
 
 - **Spellcasting Focus**: Many spellcasters use crystals as [arcane foci](Arcane Foci.md) to channel and refine their magical energies.

@@ -10,6 +10,9 @@ Temples dedicated to Lumina are often adorned with gold and crystal, designed to
 
 ## The Ethereal Plains of Lumina
 
+![The Ethereal Plains of Lumina](../../images/Lumina_S_The%20Ethereal%20Plains%20of%20Lumina.png)
+The Silvermane Horses of Lumina's realm, captured in their radiant glory at twilight.
+
 The ethereal plains of Lumina are said to be a realm of perpetual twilight, where the horizon is painted with the soft hues of dawn and dusk. This otherworldly expanse serves as a sanctuary for celestial creatures such as the [Silvermane Horses](Silvermane%20Horses.md), known for their shimmering coats and the trails of luminescent mist they leave in their wake. It is within these plains that Lumina's essence is most potent, and where the most devout followers hope to transcend during their spiritual journeys.
 
 ## Influence on the Arts and Healing

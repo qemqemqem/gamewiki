@@ -8,6 +8,9 @@ The origin of orbs traces back to ancient times when the first [Mages](Mages.md)
 
 ## Types of Orbs
 
+![Types of Orbs](../../images/Orbs_S_Types%20of%20Orbs.png)
+"The various orbs of power: Orbs of Destiny, Elemental Orbs, Scrying Orbs, and Summoning Orbs, each with its own unique aura and design.
+
 ### Orbs of Destiny
 
 [Orbs of Destiny](Orbs%20of%20Destiny.md) are among the most sought-after magical items. These orbs are said to be infused with the power to reveal the future or hidden truths to those who gaze into their depths. Crafted by skilled [Enchanters](Enchanters.md) and often used during rituals such as the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md), these orbs are treasured by seers and [diviners](Divination.md).

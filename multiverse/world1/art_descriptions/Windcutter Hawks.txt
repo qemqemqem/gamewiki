@@ -1,0 +1,53 @@
+## Habitat and Behavior
+visual_purpose: What does the natural environment of the Windcutter Hawks look like, and how do they interact with it?
+ideas_for_art_content: A Windcutter Hawk perched in its nest high in the ancient trees of the Verdant Woods, surrounded by collected trinkets and treasures.
+ideas_for_style: Painting, with a focus on vibrant colors and a magical, ethereal quality to capture the fantasy setting.
+art_prompt: "A Windcutter Hawk in its nest among the ancient trees of the Verdant Woods, vibrant, ethereal, done in watercolor."
+art_prompt_detailed: "A large, predatory bird with deep blue and purple feathers, perched in an intricately constructed nest high in the branches of towering, ancient trees, with various shiny trinkets and treasures scattered around, depicted in vibrant, ethereal watercolor."
+caption: A Windcutter Hawk rests in its treasure-laden nest within the ancient trees of the Verdant Woods.
+orientation: Landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, object, background]
+difficulties: [named location]
+
+## Role in Society
+visual_purpose: How are Windcutter Hawks perceived and utilized by different cultures in society?
+ideas_for_art_content: A scene depicting Elven sky-knights riding Windcutter Hawks, or the hawks being used as transportation in the Shrouded City.
+ideas_for_style: Sketch, with dynamic lines to convey movement and the grandeur of the hawks in flight.
+art_prompt: "Elven sky-knights on Windcutter Hawks patrolling the aerial domain, dynamic, grand, done in pencil sketch."
+art_prompt_detailed: "Armored elves with elegant weapons riding on large, majestic birds with impressive wingspans, patrolling the skies above a fantastical landscape, depicted with dynamic lines and grandeur in a detailed pencil sketch."
+caption: Elven sky-knights ride Windcutter Hawks, patrolling the skies with grace and vigilance.
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, historical, character]
+difficulties: [named characters, multipart]
+
+## In Warfare
+visual_purpose: What role do Windcutter Hawks play in battle, and how do they impact warfare?
+ideas_for_art_content: A dramatic scene showing Windcutter Hawks descending from the sky during the Battle of Broken Spears.
+ideas_for_style: Computer graphics, to capture the intensity and chaos of battle with clarity and detail.
+art_prompt: "A squadron of Windcutter Hawks descending in the Battle of Broken Spears, intense, chaotic, done in digital art."
+art_prompt_detailed: "A group of large, predatory birds with striking blue and purple feathers diving towards a chaotic battlefield, their presence turning the tide of the conflict, depicted with intense detail and clarity in digital art."
+caption: Windcutter Hawks descend upon the Battle of Broken Spears, their intervention a turning point in the conflict.
+orientation: Landscape
+artistic_value: [exciting, intricate design]
+descriptive_value: [event, historical, narrative]
+difficulties: [named event, multipart]
+
+## Conservation
+visual_purpose: What efforts are being made to protect the Windcutter Hawks, and what does a sanctuary look like?
+ideas_for_art_content: A serene image of a Windcutter Hawk sanctuary within the Verdant Woods, with members of the Order of the Crimson Blade or Mages of the Crystal Tower caring for the hawks.
+ideas_for_style: Painting, with a focus on tranquility and the harmonious relationship between the hawks and their protectors.
+art_prompt: "A Windcutter Hawk sanctuary in the Verdant Woods, tranquil, harmonious, done in oil painting."
+art_prompt_detailed: "A peaceful glade within a lush forest, where large birds with shimmering feathers are tended to by robed figures, the scene embodying tranquility and the harmonious relationship between protectors and creatures, depicted in rich oil paints."
+caption: Protectors from the Order of the Crimson Blade tend to Windcutter Hawks in a sanctuary among the Verdant Woods.
+orientation: Landscape
+artistic_value: [wondrous, appropriate style]
+descriptive_value: [location, person, object, narrative]
+difficulties: [named characters, named location]
+
+Given the limited budget, the "Habitat and Behavior" and "Role in Society" sections are the most valuable for adding visual elements, as they provide significant insight into the Windcutter Hawks' natural environment and their importance in the world's cultures. The "In Warfare" section could also be impactful, but it may be more complex and costly due to the dynamic nature of the scene. The "Conservation" section, while important, may not be as visually striking or essential as the others.
+
+Retrieved at: 2024-01-02 21:07:35.502028
+Used: False
+Used: True

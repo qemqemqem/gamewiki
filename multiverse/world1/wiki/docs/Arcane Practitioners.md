@@ -6,6 +6,9 @@ Arcane practitioners are a diverse group of individuals in the world of Aesheron
 
 Arcane practitioners come from various backgrounds and disciplines, each bringing their unique perspective to the study and application of magic. They might be [wizards](Wizard.md) cloistered in ancient libraries, [sorcerers](Sorcerer.md) with innate magical abilities, or even [artisans](Artisans.md) who imbue their crafts with magical properties. Regardless of their origin, all arcane practitioners share a common goal: to expand their knowledge and mastery of the arcane arts.
 
+![Wizards](../../images/Arcane%20Practitioners_S_Wizards.png)
+A wizard meticulously prepares spells in the seclusion of an ancient library.
+
 ## Types of Arcane Practitioners
 
 ### Wizards

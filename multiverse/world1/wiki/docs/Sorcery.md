@@ -10,6 +10,9 @@ Throughout history, sorcery has played pivotal roles in shaping the destinies of
 
 ## Practice and Application
 
+![Practice and Application](../../images/Sorcery_S_Practice%20and%20Application.png)
+A sorcerer channeling the raw power of the elements through sheer willpower.
+
 Sorcery is a diverse field, with its applications ranging from the benign to the malevolent. Practitioners, often referred to as sorcerers, are known to channel their power through emotion, willpower, or by tapping into the natural magics of the world, such as those studied by the [Druids](Druids.md).
 
 ### Common Uses of Sorcery:

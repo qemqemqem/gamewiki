@@ -1,0 +1,41 @@
+## Moonflower Festival
+visual_purpose: What does the Moonflower Festival look like, especially during the opening ceremony with the Chant of the Silver Bloom?
+ideas_for_art_content: The high Druid in ceremonial robes, a crowd of people gathered in Theron's Glade, the moonflowers in full bloom under a moonlit sky.
+ideas_for_style: Painting, with a mystical and ethereal quality, reminiscent of classical romanticism.
+art_prompt: "The high Druid of Theron's Glade in mystical robes, surrounded by a captivated audience and blooming moonflowers, under a luminous full moon, painted in a romantic style."
+art_prompt_detailed: "A figure in ornate, flowing robes standing in a moonlit forest clearing, with an audience of various races in awe, and luminescent flowers opening around them, depicted in a classical romantic painting style."
+caption: The high Druid of Theron's Glade performing the Chant of the Silver Bloom during the Moonflower Festival.
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Event, location, character, narrative
+difficulties: Named characters, named location, multipart
+
+## Shrouded City
+visual_purpose: What is the unique aesthetic of the Shrouded City, and how is the Chant of the Silver Bloom incorporated into its culture?
+ideas_for_art_content: Bards and minstrels in the streets of the Shrouded City, with architecture that reflects its enigmatic beauty, and visual motifs of the chant in the background.
+ideas_for_style: Sketch, with a focus on intricate line work to capture the city's mysterious vibe.
+art_prompt: "Minstrels performing in the winding streets of the Shrouded City, with chant-inspired motifs adorning the ethereal architecture, sketched with intricate lines."
+art_prompt_detailed: "Musicians with medieval instruments playing in narrow, cobblestone streets lined with fog-enshrouded, gothic buildings, with symbols from an ancient chant subtly integrated into the surroundings, drawn in a detailed sketch style."
+caption: Bards drawing inspiration from the Chant of the Silver Bloom in the hauntingly beautiful Shrouded City.
+orientation: Portrait
+artistic_value: Intricate design, style match
+descriptive_value: Location, person, background
+difficulties: Named location, multipart
+
+## Treaty of the Crystal Waters
+visual_purpose: How did the Chant of the Silver Bloom symbolize unity during the Treaty of the Crystal Waters?
+ideas_for_art_content: Representatives of the signatory nations gathered around a ceremonial table, with the chant being performed in the background.
+ideas_for_style: Computer graphics, with a focus on clarity and detail to depict the historic moment.
+art_prompt: "Dignitaries from various nations seated around a grand table, with a performer reciting the Chant of the Silver Bloom, rendered in detailed computer graphics."
+art_prompt_detailed: "Figures in diverse, formal attire representing different cultures seated around an ornate table, with an individual in the background performing an ancient chant, depicted in a high-resolution digital illustration."
+caption: The ceremonial sealing of the Treaty of the Crystal Waters, unified by the Chant of the Silver Bloom.
+orientation: Landscape
+artistic_value: Historical, exciting
+descriptive_value: Event, historical, narrative
+difficulties: Named event, multipart
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist artists unfamiliar with the campaign world.
+
+Retrieved at: 2024-01-02 20:18:39.930765
+Used: False
+Used: True

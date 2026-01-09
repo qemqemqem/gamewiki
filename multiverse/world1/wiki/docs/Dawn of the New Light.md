@@ -12,6 +12,9 @@ Astronomers from the [Shrouded City](Shrouded%20City.md) to the [Frostspire Moun
 
 ## Cultural Celebrations
 
+![Cultural Celebrations](../../images/Dawn%20of%20the%20New%20Light_S_Cultural%20Celebrations.png)
+The diverse celebrations of the Dawn of the New Light across cultures.
+
 Cultures across the land celebrate the [Dawn of the New Light](Dawn%20of%20the%20New%20Light.md) in various ways. The [Kingdom of Alyndra](Kingdom%20of%20Alyndra.md) holds a grand festival where citizens light lanterns and set them afloat on the [Crystal Waters](Crystal%20Waters.md), symbolizing the journey from darkness to light. In contrast, the [Druids](Druids.md) of the [Verdant Woods](Verdant%20Woods.md) engage in silent reflection, communing with nature to embrace the changing energies.
 
 ## Magical Discoveries

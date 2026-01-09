@@ -4,6 +4,9 @@ The **Order of the Veiled Eye** is an enigmatic assembly of sorcerers and arcane
 
 ## History and Influence
 
+![History and Influence](../../images/Members%20of%20the%20Order%20of%20the%20Veiled%20Eye_S_History%20and%20Influence.png)
+"The architectural marvels of the Principality of Morath, inspired by Grimbeorn the Builder and magically enhanced by the Order of the Veiled Eye.
+
 The origins of the Order of the Veiled Eye are shrouded in mystery, with some accounts tracing their lineage back to the aftermath of the [Ancient War](Ancient%20War.md). It is said that the order was founded by a group of [wizard](Wizard.md)s who sought to preserve arcane knowledge that was at risk of being lost in the chaos of the war's end. Over time, they evolved from a mere scholarly collective into a powerful faction with significant influence over the magical landscape of the realm.
 
 The order's influence can be seen in the architectural marvels of the Principality of Morath, many of which were inspired by the legendary [Grimbeorn the Builder](Grimbeorn%20the%20Builder.md). The members have ingeniously woven [magic](Magic.md) into the structures, creating buildings that are not only aesthetically pleasing but also imbued with enchantments that serve various protective and utilitarian purposes.

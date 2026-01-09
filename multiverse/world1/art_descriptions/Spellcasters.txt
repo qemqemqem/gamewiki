@@ -1,0 +1,55 @@
+## Types of Spellcasters
+
+### Wizards
+visual_purpose: What do wizards look like when they are studying or casting spells?
+ideas_for_art_content: A wizard in a study, surrounded by books and scrolls, holding an arcane focus with magical energy swirling around.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art.
+art_prompt: "A wizard in a cluttered study, with a richly detailed background, casting a spell, in a classical fantasy painting style."
+art_prompt_detailed: "A robed figure with a pointed hat, surrounded by shelves of ancient tomes and parchment, channels magical energy through a crystal-tipped staff, in a classical fantasy painting style."
+caption: A wizard channels the arcane, surrounded by tomes of knowledge.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+### Druids
+visual_purpose: How do druids interact with the natural world when they use their magic?
+ideas_for_art_content: A druid in a forest or mountainous area, using magic to communicate with animals or plants, with visible magical energy connecting them.
+ideas_for_style: Sketch, with a focus on the connection between the druid and nature.
+art_prompt: "A druid in the Frostspire Mountains, in a detailed pencil sketch, harmoniously interacting with nature, using a sketch style."
+art_prompt_detailed: "A figure in earth-toned robes stands amidst towering snow-capped peaks, extending a hand as vines and wildlife respond to their call, sketched in fine detail."
+caption: A druid calls upon the spirits of the Frostspire Mountains.
+orientation: Landscape
+artistic_value: [landscape, intricate design, wondrous]
+descriptive_value: [person, location, narrative]
+difficulties: [named location]
+
+## Economy and Trade
+visual_purpose: What does a marketplace that caters to spellcasters look like?
+ideas_for_art_content: Stalls and shops in a bustling market, with vendors selling reagents, arcane foci, and magical artifacts.
+ideas_for_style: Watercolor painting, with vibrant colors to emphasize the variety of goods and the liveliness of the market.
+art_prompt: "The Silk Road market bustling with spellcasters, in a vibrant watercolor style, colorful and lively, painted in watercolors."
+art_prompt_detailed: "A busy marketplace with tents and tables laden with glowing crystals, exotic plants, and ancient relics, depicted in a vibrant watercolor style."
+caption: The bustling markets of the Silk Road, a haven for spellcasters.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun]
+descriptive_value: [location, object, event]
+difficulties: [named location, multipart]
+
+## Rituals and Collaborative Spellcraft
+visual_purpose: What does a powerful magical ritual performed by multiple spellcasters look like?
+ideas_for_art_content: A group of spellcasters in a circle, each contributing to a complex spell, with magical symbols and energy in the air.
+ideas_for_style: Computer graphics, to capture the dynamic and otherworldly nature of the magic.
+art_prompt: "Spellcasters performing the Lunar Waltz ritual, in a computer graphic style, dynamic and ethereal, rendered in 3D."
+art_prompt_detailed: "An assembly of robed figures forms a circle under a night sky, with hands raised as arcane symbols glow and dance between them, rendered in a dynamic 3D computer graphic style."
+caption: Spellcasters unite in the Lunar Waltz, a display of collaborative magic.
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [named event, multipart, confusing]
+
+Given the limited budget, the sections chosen for art are those that would benefit most from visual representation to enhance the reader's understanding and immersion. The artistic and descriptive values have been rated with this in mind, and the difficulties highlight potential challenges for the artist.
+
+Retrieved at: 2024-01-02 20:05:33.241911
+Used: False
+Used: True

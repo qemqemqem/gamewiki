@@ -1,0 +1,41 @@
+## Rise to Power
+visual_purpose: What did the Crimson Lord's ascent to power look like?
+ideas_for_art_content: The Crimson Lord in the foreground, commanding knights and mercenaries, with a banner of the Order of the Crimson Blade unfurling behind them. A scene of the Crimson Lord in battle or a strategic meeting where they are uniting the factions.
+ideas_for_style: Painting, with a dramatic and heroic style reminiscent of classical epic paintings.
+art_prompt: "The Crimson Lord uniting factions under the Order of the Crimson Blade banner, heroic, commanding, in oil painting style"
+art_prompt_detailed: "A figure in ornate crimson armor standing before a gathering of knights and mercenaries, a banner with a distinctive crimson blade emblem unfurling in the background, depicted in a heroic and commanding manner, reminiscent of classical epic paintings, executed in oil on canvas."
+caption: The Crimson Lord's rise to power, as they unite the factions under the Order of the Crimson Blade.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, exciting, style match]
+descriptive_value: [person, event, historical]
+difficulties: [named characters, multipart]
+
+## Governance and Influence
+visual_purpose: How does the Crimson Lord maintain control and influence from Stormhold Castle?
+ideas_for_art_content: The Crimson Lord overlooking a map of the region, with advisors around them. The castle's formidable walls and garrison in the background.
+ideas_for_style: Sketch, with detailed linework to emphasize strategic and authoritative elements.
+art_prompt: "The Crimson Lord strategizing within Stormhold Castle, detailed, authoritative, in pencil sketch"
+art_prompt_detailed: "A cloaked figure with an air of authority, surrounded by advisors, leaning over a map of a vast region, with the high walls and garrison of a formidable castle visible through a window in the background, all rendered in detailed pencil linework."
+caption: The Crimson Lord overseeing the governance of their lands from the strategic vantage of Stormhold Castle.
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, location, narrative]
+difficulties: [named characters, named location]
+
+## Legacy and Rumors
+visual_purpose: What are the visual elements of the Crimson Lord's legacy and the rumors surrounding them?
+ideas_for_art_content: A montage of scenes depicting the Crimson Lord's victories and rumored dark deeds, such as a ship on the Sea Merchant's Path and a shadowy figure in the Great Library of Eldara.
+ideas_for_style: Computer graphics, allowing for a collage of different scenes and a slightly ethereal quality to the rumors.
+art_prompt: "Montage of the Crimson Lord's legacy, victorious, mysterious, in digital art"
+art_prompt_detailed: "A collage of scenes including a ship braving stormy seas, a shadowy figure perusing ancient tomes in a grand library, and a battlefield with a victorious warrior standing tall, all rendered in digital art with an ethereal quality to suggest the mysterious nature of rumors."
+caption: The multifaceted legacy of the Crimson Lord, as told by sailors and scholars alike.
+orientation: Landscape
+artistic_value: [wondrous, exciting]
+descriptive_value: [event, historical, story event]
+difficulties: [named location, multipart]
+
+Given the limited budget, these sections are chosen for their potential to add significant visual impact and narrative depth to the article. The artistic and descriptive values are rated with the understanding that the visuals should complement the text and enhance the reader's engagement with the content.
+
+Retrieved at: 2024-01-02 20:08:22.778430
+Used: False
+Used: True

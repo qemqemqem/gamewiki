@@ -2,6 +2,9 @@
 
 The tapestry of [Aesheron](Aesheron.md) is woven with the threads of its [Kingdoms](Kingdoms.md), each a realm unto itself, with its own customs, cultures, and histories. The Kingdoms of Aesheron are as diverse as the landscape they inhabit, ranging from the frost-kissed peaks of the Northern Realms to the sun-drenched shores of the [Crystal Sea](Crystal%20Sea.md). They are the pillars of civilization in a land where magic and mystery still hold sway, and they stand as testaments to the resilience and ingenuity of their peoples.
 
+![The Northern Realms](../../images/Kingdoms_S_The%20Northern%20Realms.png)
+"The Northern Realms: A bastion of strength amidst the frost-kissed peaks.
+
 ## The Northern Realms
 
 In the north, the Kingdoms are characterized by their rugged terrain and hearty inhabitants. The most notable among them is the lineage established by [Alyndra, Warrior Queen](Alyndra%2C%20Warrior%20Queen.md), whose descendants continue to rule with a blend of strength and wisdom. The Northern Realms are known for their formidable warriors and the legendary [Battle of Broken Spears](Battle%20of%20Broken%20Spears.md), where the combined forces of the north stood against the encroaching [Dark Horde](Dark%20Horde.md).

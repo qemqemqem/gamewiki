@@ -4,6 +4,9 @@ The [Infernal Planes](Infernal%20Planes.md) are a series of interconnected realm
 
 ## Geography and Environment
 
+![Geography and Environment](../../images/Infernal%20Planes_S_Geography%20and%20Environment.png)
+"The diverse and perilous landscape of the Infernal Planes, where fire and brimstone shape the terrain.
+
 The landscape of the Infernal Planes is as diverse as it is dangerous. It ranges from vast deserts of smoldering ash to towering volcanoes that spew rivers of molten lava. The sky is often obscured by thick, black smoke, and the air is stiflingly hot, making it a harsh environment for all but the most resilient or well-prepared travelers.
 
 ### Notable Locations

@@ -1,0 +1,41 @@
+## Culture and Society
+visual_purpose: What does the unique Dwarven craftsmanship look like, and how do their traditions manifest in their daily life?
+ideas_for_art_content: Depict a bustling Dwarven forge with artisans at work, a family gathering where traditions are being passed down, or a council of elders in deliberation.
+ideas_for_style: Painting, with a focus on warm, earthy tones and rich textures to reflect the Dwarven affinity for stone and metal.
+art_prompt: "A Dwarven forge in the heart of the mountain, with artisans crafting legendary weapons and armor, painted in warm, earthy tones, detailed, done in oil on canvas."
+art_prompt_detailed: "A forge nestled deep within a mountain, with stout, bearded figures hammering at anvils and shaping glowing metal, surrounded by stone walls and illuminated by the warm glow of the forge, painted in a realistic style with a focus on texture and detail, done in oil on canvas."
+caption: Dwarven artisans at work in the heart of the Frostspire Mountains, showcasing their legendary craftsmanship.
+orientation: landscape
+artistic_value: [appropriate style, interesting person, intricate design]
+descriptive_value: [person, object, background, narrative]
+difficulties: [named location, multipart]
+
+## Architecture and Engineering
+visual_purpose: How do the architectural marvels of the Dwarves reflect their engineering prowess?
+ideas_for_art_content: Illustrate the grand entrance to the Dwarven Mines, the intricate labyrinths within, or the Caverns of Echo with their natural beauty and resonating acoustics.
+ideas_for_style: Sketch or computer graphics, with an emphasis on geometric precision and the grandeur of Dwarven structures.
+art_prompt: "The grand entrance to the Dwarven Mines, with its massive stone doors and intricate carvings, in a detailed sketch, grandiose, done in digital medium."
+art_prompt_detailed: "A colossal stone gateway, adorned with ancient runes and bas-relief sculptures, set into the side of a towering mountain, depicted in a precise and detailed sketch, conveying the scale and craftsmanship of Dwarven engineering, created digitally."
+caption: The majestic entrance to the Dwarven Mines, a testament to the engineering mastery of the Dwarves.
+orientation: landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [location, object, background]
+difficulties: [named location]
+
+## Military and Defense
+visual_purpose: What do Dwarven warriors and their fortifications look like?
+ideas_for_art_content: A scene of Dwarven warriors in their distinctive armor, training or standing guard at a fortified entrance, with the mountainous terrain in the background.
+ideas_for_style: Painting, with a focus on the contrast between the sturdy, well-crafted armor and the rugged natural landscape.
+art_prompt: "Dwarven warriors clad in their unbreakable armor, guarding the fortified entrance to their city, painted with a focus on contrast and detail, done in watercolor."
+art_prompt_detailed: "Stout warriors in intricately designed metal armor, standing resolute before a stone fortification that blends seamlessly with the surrounding rocky terrain, painted with attention to the interplay of light and shadow, done in watercolor."
+caption: The stalwart defenders of the Dwarven realm, ever vigilant in their duty.
+orientation: landscape
+artistic_value: [appropriate style, interesting person, exciting]
+descriptive_value: [person, object, event, background]
+difficulties: [named characters, multipart]
+
+Please note that the value ratings are harsh due to the limited budget, and the prompts are detailed to provide clear guidance to the artist who may not be familiar with the world. The artistic and descriptive values are chosen to best represent the content of the sections and the overall theme of the Dwarves in the campaign.
+
+Retrieved at: 2024-01-02 19:40:31.316571
+Used: False
+Used: True

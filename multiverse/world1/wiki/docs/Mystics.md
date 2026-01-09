@@ -4,6 +4,9 @@ Mystics are individuals who seek to understand and harness the esoteric forces o
 
 ## Origins and Beliefs
 
+![Origins and Beliefs](../../images/Mystics_S_Origins%20and%20Beliefs.png)
+A mystic channeling the energies of the universe, surrounded by symbols of their diverse beliefs.
+
 The origins of mysticism are as varied as the practitioners themselves, with many tracing their roots back to the time of [Creation](Creation.md). Mystics often believe that magic is a living force that connects all things, and that by attuning themselves to this force, they can achieve a state of enlightenment. This belief is shared by many [occult researchers](Occult%20Researchers.md) who study the nature of magic and its applications.
 
 Mystics are known to follow diverse paths, with some venerating the [sun deities](Sun%20Deities.md) and [moon deities](Moon%20Deities.md), while others may seek knowledge from the [Lunar Ancients](Lunar%20Ancients.md) or the primordial energies of places like the [Enchanted Grove](Enchanted%20Grove.md). Their practices may involve meditation, [rituals](Rituals.md), and the interpretation of ancient texts or [Arcane foci](Arcane%20Foci.md).

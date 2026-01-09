@@ -4,6 +4,9 @@ Arcane Scripts are the intricate and esoteric symbols used by practitioners of t
 
 ## Origins and History
 
+![Origins and History](../../images/Arcane%20Scripts_S_Origins%20and%20History.png)
+An ancient wizard transcribing the first Arcane Scripts from the raw energy of the Arcane Veins.
+
 The origins of Arcane Scripts can be traced back to the [Age of Wonders](Age%20of%20Wonders.md), a period marked by the unbridled flow of magical energy and the rise of the first great [wizards](Wizard.md) and [sorcerers](Sorcerer.md). It was during this time that the [Sanctum of Whispers](Sanctum%20of%20Whispers.md) was established, and its founders began the arduous task of transcribing the raw energy of the [Arcane Veins](Arcane%20Veins.md) into tangible forms. These early scripts were rudimentary but potent, capturing the essence of magic in a way that could be replicated and harnessed by others.
 
 As civilizations evolved, so too did the complexity and diversity of Arcane Scripts. The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) became a repository for this knowledge, safeguarding countless tomes and scrolls filled with these powerful symbols. Scholars and mages from across the lands, such as the [elven](Elves.md) [seers](Seer.md) and [dwarven](Dwarves.md) [Rune Masters](Rune%20Masters.md), contributed to the expansion of this arcane lexicon, each culture adding its unique touch to the scripts.

@@ -22,6 +22,9 @@ In addition to crystals, abjurers may utilize specially crafted wands, staves, a
 
 ## Societal Impact
 
+![Societal Impact](../../images/Abjurers_S_Societal%20Impact.png)
+An abjurer weaves protective wards to ensure the safety of the townsfolk.
+
 The presence of abjurers within a community is a sign of security and stability. They are often members of the [Council of Defense](Council%20of%20Defense.md) or serve in advisory roles to rulers and leaders, such as those within the [Councils of the Free Cities](Councils%20of%20the%20Free%20Cities.md). Their expertise is not only sought in times of war but also in the construction of defenses for important structures, like the [Crystal Tower](Crystal%20Tower.md) or [Stormhold Castle](Stormhold%20Castle.md).
 
 During times of peace, abjurers contribute to society by enchanting public spaces with wards to prevent accidents and by teaching the principles of self-defense to citizens. Their knowledge of protective magic is also a key component in the maintenance of peace treaties, such as the [Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md) and the [Treaty of the Silverlake](Treaty%20of%20the%20Silverlake.md), ensuring that magical safeguards are in place to uphold the agreements.

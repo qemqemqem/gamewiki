@@ -8,6 +8,9 @@ The Moonshade Blossom is distinguished by its luminescent petals that emit a sof
 
 ## Habitat and Growth
 
+![Habitat and Growth](../../images/Moonshade%20Blossom_S_Habitat%20and%20Growth.png)
+The Moonshade Blossom thrives in the moonlit undergrowth of the Whispering Woods.
+
 Thriving in the shadowy undergrowth of the [Ironbark Trees](Ironbark%20Trees.md), the Moonshade Blossom requires the unique conditions provided by the Whispering Woods. It is believed that the flower draws its power from the whispered secrets of the woods, growing in places where the moon's reflection is strongest. The blossoms are a rare sight, blooming only during the nights of the full moon, making their collection a task for only the most dedicated of [Herbalists](Herbalists.md) or [Alchemists](Alchemists.md).
 
 ## Healing Properties

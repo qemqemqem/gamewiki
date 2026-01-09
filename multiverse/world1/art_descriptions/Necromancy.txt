@@ -1,0 +1,53 @@
+## Overview
+visual_purpose: What does the essence of necromancy look like, and how do necromancers harness it?
+ideas_for_art_content: A necromancer channeling energy, with symbols of life and death, possibly a visual representation of spirits or life force.
+ideas_for_style: Sketch with dark and light contrasts to represent life and death.
+art_prompt: "A necromancer in the midst of a ritual, with contrasting shadows and light, mysterious, done in pencil sketch"
+art_prompt_detailed: "A robed figure with obscured face, standing before an altar adorned with symbols of life and death, channeling a swirling mass of energy that represents spirits or life force, cast in sharp contrast of shadows and light, creating a mysterious atmosphere, rendered in pencil sketch."
+caption: A necromancer harnessing the energies of life and death during a ritual.
+orientation: Portrait
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, object, event, narrative]
+difficulties: [named characters, multipart]
+
+## Techniques
+visual_purpose: What do necromantic spells and rituals look like in action?
+ideas_for_art_content: Different necromantic techniques such as a spirit being summoned, a corpse being animated, or life force being transferred.
+ideas_for_style: A series of vignettes in a detailed ink drawing style.
+art_prompt: "Various necromantic techniques in action, detailed, ominous, done in ink drawing"
+art_prompt_detailed: "A sequence of small scenes depicting a spectral figure emerging from an ethereal plane, a lifeless body rising from the ground with glowing runes, and a necromancer's hands channeling a stream of energy from one vessel to another, all rendered in a detailed and ominous ink drawing style."
+caption: The diverse and controversial techniques of necromancy.
+orientation: Landscape
+artistic_value: [intricate design, wondrous, exciting, style match]
+descriptive_value: [event, historical, monster, character, narrative]
+difficulties: [named characters, multipart, confusing]
+
+## Notable Necromancers
+visual_purpose: Who are these notable necromancers and what makes them memorable?
+ideas_for_art_content: Portraits of the most infamous necromancers, possibly with background elements that hint at their deeds or powers.
+ideas_for_style: A series of painted portraits with a dark, gothic style.
+art_prompt: "Portraits of infamous necromancers, brooding, powerful, done in oil painting"
+art_prompt_detailed: "A series of portraits showing figures with intense gazes and dark attire, each surrounded by subtle elements that reflect their notorious deeds or unique powers, all painted in a brooding and powerful gothic oil painting style."
+caption: The faces of necromancy's most infamous practitioners.
+orientation: Portrait
+artistic_value: [interesting person, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters, style match]
+
+## Places of Power
+visual_purpose: What do these nexus points of necromantic energy look like?
+ideas_for_art_content: The Well of Stars and the Sanctum of Whispers as landscapes or locations imbued with dark energy.
+ideas_for_style: Atmospheric landscape paintings with a surreal, ethereal quality.
+art_prompt: "The Well of Stars and the Sanctum of Whispers, eerie, charged with energy, done in watercolor"
+art_prompt_detailed: "Landscapes depicting a deep, star-filled abyss that seems to pulse with an otherworldly glow, and a silent, mist-shrouded temple with whispers echoing through its halls, both rendered with an eerie and energy-charged atmosphere in watercolor."
+caption: The Well of Stars and the Sanctum of Whispers, nexus points of necromantic power.
+orientation: Landscape
+artistic_value: [landscape, wondrous, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, obscure style]
+
+Given the limited budget, the value of each piece should be considered carefully. The Overview and Techniques sections are likely to have the highest descriptive value, providing insight into the practice of necromancy and its methods. The Notable Necromancers section offers artistic value in capturing the essence of key characters. The Places of Power section could provide a wondrous landscape that enriches the world's lore. Prioritize based on which aspects of the article you want to highlight most for your players.
+
+Retrieved at: 2024-01-02 21:33:21.115101
+Used: False
+Used: True

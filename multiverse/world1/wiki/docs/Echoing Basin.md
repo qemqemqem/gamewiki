@@ -6,6 +6,9 @@ Nestled at the heart of [Echovale Isle](Echovale%20Isle.md), the Echoing Basin i
 
 ## Geography
 
+![Geography](../../images/Echoing%20Basin_S_Geography.png)
+The Echoing Basin, a natural amphitheater of sound and beauty, nestled within Echovale Isle.
+
 The Echoing Basin is a sprawling, bowl-shaped valley surrounded by the dense [Whispering Woods](Whispering%20Woods.md). Its perimeter is lined with jagged cliffs that rise steeply from the basin floor, creating a natural barrier that contributes to the area's isolation. Within the basin, the terrain is a patchwork of grassy knolls, rocky outcrops, and serene ponds, each adding to the acoustic marvels found here.
 
 ## Acoustic Properties

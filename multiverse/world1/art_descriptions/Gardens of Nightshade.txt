@@ -1,0 +1,41 @@
+## Flora and Fauna
+visual_purpose: What do the unique plants and creatures of the Gardens of Nightshade look like?
+ideas_for_art_content: Depiction of the nightshade plants under moonlight, Moonflowers opening, Shade Wraiths among the plants, Windcutter Hawks flying overhead, Singing Willows in the background.
+ideas_for_style: Painting, with a focus on vibrant colors for the flora and a more ethereal, translucent look for the fauna, especially the Shade Wraiths.
+art_prompt: "The nightshade plants and Moonflowers in the foreground, with Shade Wraiths gliding among them, and Windcutter Hawks soaring above in a lush, vibrant painting."
+art_prompt_detailed: "Bioluminescent nightshade plants and Moonflowers opening their petals in the foreground, with translucent spectral entities gliding among them, and sleek predatory birds soaring above in a lush, vibrant painting."
+caption: "The diverse and mystical flora and fauna of the Gardens of Nightshade, where danger and beauty intertwine."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, monster, character, background
+difficulties: Named characters, named location, multipart
+
+## History and Myth
+visual_purpose: What did the Gardens of Nightshade look like during their time of glory?
+ideas_for_art_content: The ancient, well-tended gardens with Moon Deities' followers performing rituals, phases of the moon represented in garden design, remnants of the Fallen Temple of the Moon.
+ideas_for_style: Sketch, with an ancient and mystical feel, perhaps resembling an old scroll or tapestry.
+art_prompt: "Followers of the Moon Deities in the ancient, well-tended Gardens of Nightshade, with the Fallen Temple of the Moon in the background, in a sketch style reminiscent of an old tapestry."
+art_prompt_detailed: "Robed figures performing nocturnal rituals in a meticulously designed garden, with a crumbling temple structure in the background, sketched in a style that suggests an ancient tapestry."
+caption: "The Gardens of Nightshade in an age of devotion and tranquility, under the watchful eyes of the Moon Deities."
+orientation: Landscape
+artistic_value: Intricate design, historical
+descriptive_value: Historical, story event, background
+difficulties: Named characters, named location, multipart
+
+## Cultural Significance
+visual_purpose: How do the surrounding cultures interact with the Gardens of Nightshade?
+ideas_for_art_content: Wizards and healers harvesting rare herbs, a secretive assassin collecting poisons, the Council of Arcana debating or researching.
+ideas_for_style: Computer graphics, to give a clear and detailed depiction of the various characters and their activities.
+art_prompt: "Wizards and healers carefully harvesting herbs, with an assassin lurking in the shadows, all within the Gardens of Nightshade, rendered in detailed computer graphics."
+art_prompt_detailed: "Robed figures with satchels collecting plants, and a cloaked figure stealthily gathering vials of poison, set against the backdrop of a lush, dangerous garden, depicted in detailed computer graphics."
+caption: "The delicate balance of harvesting the Gardens of Nightshade's resources, where knowledge and danger meet."
+orientation: Landscape
+artistic_value: Interesting person, intricate design
+descriptive_value: Person, object, narrative
+difficulties: Named characters, named location
+
+Please note that the value ratings are harsh due to the limited budget, and the suggestions are made with the assumption that not all sections will be illustrated. Prioritize the sections that will add the most to the players' understanding and immersion in the world.
+
+Retrieved at: 2024-01-02 19:47:15.630539
+Used: False
+Used: True

@@ -1,0 +1,41 @@
+## Divine Magic and Worship
+visual_purpose: What does divine magic look like when wielded by a priest?
+ideas_for_art_content: A priest in ceremonial robes channeling divine energy, with symbols of the moon deities and the sun around them, perhaps with a visual representation of their prayers or incantations.
+ideas_for_style: Painting, with a style reminiscent of classical religious art to convey the sacredness of the act.
+art_prompt: "A priest in ornate robes, standing before an altar dedicated to the moon deities and the sun, channeling divine energy in a classical painting style, ethereal, radiant, done in oil on canvas."
+art_prompt_detailed: "A robed figure with an emblem of the moon and sun, in front of a stone altar adorned with celestial symbols, their hands raised as they summon a visible aura of divine magic, painted in a style that evokes the grandeur of classical religious artworks, with a focus on the mystical and the transcendent, executed in oil paint."
+caption: A priest of Aesheron invoking the power of the moon deities and the sun through divine magic.
+orientation: Portrait
+artistic_value: [appropriate style, wondrous, exciting, style match]
+descriptive_value: [person, object, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Temples and Sacred Sites
+visual_purpose: What do the temples and sacred sites of Aesheron look like?
+ideas_for_art_content: A panoramic view of a grand cathedral or a secluded shrine, showcasing the architectural diversity and the natural or urban landscapes they are part of.
+ideas_for_style: Sketch or computer graphics to allow for detailed architectural designs and landscape integration.
+art_prompt: "A grand cathedral of the sun deity in the heart of a bustling city, in a detailed sketch style, majestic, serene, done in pencil."
+art_prompt_detailed: "An imposing structure with tall spires and sun motifs, surrounded by the urban sprawl of a vibrant city, sketched in fine detail to highlight the architectural grandeur and the harmonious blend with its surroundings, rendered in pencil."
+caption: The Cathedral of the Sun, a testament to the architectural marvels dedicated to the gods of Aesheron.
+orientation: Landscape
+artistic_value: [landscape, intricate design, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, multipart]
+
+## Notable Priests
+visual_purpose: Who are these legendary priests and what do they look like?
+ideas_for_art_content: Portraits of several notable priests, each with distinct features and attire that reflect their deity and their own legendary deeds.
+ideas_for_style: Painting, in a style that captures the essence of historical portraiture, giving a sense of depth and character to each figure.
+art_prompt: "Portraits of legendary priests of Aesheron, each depicted in their unique ceremonial attire, in a historical portrait style, dignified, expressive, done in oil on canvas."
+art_prompt_detailed: "A series of portraits showing figures in diverse robes and symbols of their respective deities, each with a backdrop that hints at their legendary deeds, painted with attention to historical accuracy and individual character, executed in oil paint."
+caption: The legendary priests of Aesheron, whose stories inspire the faithful.
+orientation: Portrait
+artistic_value: [interesting person, style match]
+descriptive_value: [person, historical, character, narrative]
+difficulties: [named characters, multipart, style match]
+
+Given the limited budget, it would be wise to prioritize the sections that would benefit most from visual representation. The "Divine Magic and Worship" and "Temples and Sacred Sites" sections are prime candidates for artwork, as they can greatly enhance the reader's understanding and immersion in the world. The "Notable Priests" section could be valuable as well, but may be less critical if budget constraints are tight.
+
+Retrieved at: 2024-01-02 19:41:20.843984
+Used: False
+Used: True

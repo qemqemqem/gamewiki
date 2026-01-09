@@ -4,6 +4,9 @@ The Shadow Prowler is a term that evokes fear and awe across the lands of Aereth
 
 ## The Shadow Prowler Armada
 
+![The Shadow Prowler Armada](../../images/Shadow%20Prowler_S_The%20Shadow%20Prowler%20Armada.png)
+"The Shadow Prowler Armada, a silent menace of the night seas.
+
 In the realm of [Naval Warfare](Naval%20Warfare.md), the Shadow Prowler is synonymous with a fleet of stealth ships, known as the Shadow Prowler Armada. These vessels are the embodiment of silence and secrecy, manned by a crew of the most skilled [Rogues](Rogues.md) and [Assassins](Assassins.md) that the dark underbelly of society has to offer. The ships themselves are marvels of nautical engineering, crafted with dark timbers and sails that blend into the night sky, making them nearly invisible to the unsuspecting eye.
 
 ### Design and Capabilities

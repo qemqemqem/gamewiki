@@ -10,6 +10,9 @@ Throughout history, pyromancers have played pivotal roles in shaping the world. 
 
 ## Abilities and Practices
 
+![Abilities and Practices](../../images/Pyromancers_S_Abilities%20and%20Practices.png)
+"A pyromancer unleashes a devastating inferno, showcasing the mastery over fire.
+
 Pyromancers are known for their ability to perform a variety of fire-based spells and incantations. Their practices include:
 
 - **Flame Conjuration**: The ability to create fire from thin air, ranging from simple sparks to massive infernos.

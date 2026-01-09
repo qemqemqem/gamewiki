@@ -8,6 +8,9 @@ The origins of the Will-o'-the-Wisp are shrouded in the mists of Aesheron's anci
 
 ## Appearance and Behavior
 
+![Appearance and Behavior](../../images/Will-O'-The-Wisp_S_Appearance%20and%20Behavior.png)
+"Traveler's Glimpse: The elusive Will-o'-the-Wisps dance through Theron's Glade at dusk.
+
 Will-o'-the-Wisps appear as soft, flickering lights that can range in color from a pale blue to a warm amber. They are most commonly seen at dusk or during the night, especially when the [moon](Moon.md) is full and the magic in the air is at its peak. Their light is said to have a hypnotic quality, and those who gaze upon it for too long may find themselves lost in a trance.
 
 These creatures are solitary by nature, but they have been known to gather in small numbers when the conditions are right, creating a spectacle of dancing lights that is both mesmerizing and otherworldly. They are silent beings, communicating only through the patterns of their movement and the intensity of their glow.

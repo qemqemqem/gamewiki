@@ -25,6 +25,9 @@ In the realm of magic, artisans are indispensable. The creation of [arcane foci]
 
 ## Patronage and Inspiration
 
+![Patronage and Inspiration](../../images/Artisans_S_Patronage%20and%20Inspiration.png)
+"An artisan receiving divine inspiration, with celestial guidance infusing their work with sacred beauty.
+
 Many artisans draw inspiration from the divine, with deities such as [Lumina](Lumina.md) and [Helior](Helior.md) being particularly influential. Temples and shrines often commission works to honor these celestial patrons, and artisans seek their blessings for guidance in their craft. The [Moonflower Festival](Moonflower%20Festival.md) is one such event where artisans showcase their divinely inspired works to the public.
 
 ## Education and Apprenticeship

@@ -1,0 +1,41 @@
+## Origins and Beliefs
+visual_purpose: What do the diverse paths of mysticism look like, and how do they connect with the magical forces they believe in?
+ideas_for_art_content: A mystic in a meditative pose surrounded by symbols of the sun and moon deities, with ethereal connections to the elements and ancient texts.
+ideas_for_style: Painting, with a mystical and ethereal feel, using vibrant colors to represent the different energies and deities.
+art_prompt: "A mystic in deep meditation, surrounded by symbols of sun and moon deities, in a vibrant and ethereal painting style, invoking a sense of connection and enlightenment, done in watercolor."
+art_prompt_detailed: "A robed figure in deep meditation, encircled by glowing symbols representing celestial bodies, in a vibrant and mystical painting style, conveying a sense of connection and enlightenment, created with watercolor techniques."
+caption: A mystic channeling the energies of the universe, surrounded by symbols of their diverse beliefs.
+orientation: Square
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Practices and Abilities
+visual_purpose: How do mystics engage with their arcane practices and what do these look like?
+ideas_for_art_content: A mystic performing a ritual during the Solstice of the Blazing Sky, with crystals and orbs laid out before them, and elemental energies swirling around.
+ideas_for_style: Sketch, with dynamic lines to capture the movement of the ritual and the flow of energy.
+art_prompt: "A mystic conducting a ritual under the Solstice of the Blazing Sky, with dynamic sketch lines, capturing the essence of the ceremony and the flow of elemental energies, sketched in pencil."
+art_prompt_detailed: "A cloaked figure orchestrating a ceremonial rite under a star-filled sky, with dynamic sketch lines illustrating the movement of the ceremony and the swirling of elemental energies, rendered in pencil."
+caption: A mystic in the midst of a powerful ritual, invoking the elements and peering into the future.
+orientation: Landscape
+artistic_value: [exciting, intricate design]
+descriptive_value: [event, object, narrative]
+difficulties: [named location, multipart]
+
+## Places of Power
+visual_purpose: What do these mystical locations look like, and how do they resonate with magical energy?
+ideas_for_art_content: Panoramic views of Echovale Isle, the Enchanted Grove, and the Sanctum of Whispers, each radiating with its unique mystical energy.
+ideas_for_style: Computer graphics, with a detailed and immersive environment that captures the magical essence of each location.
+art_prompt: "Panoramic views of Echovale Isle, the Enchanted Grove, and the Sanctum of Whispers in a detailed computer graphic style, each location brimming with its unique magical aura."
+art_prompt_detailed: "Expansive vistas of an island of acoustic marvels, a lush grove pulsating with life energy, and a secretive enclave of knowledge, all depicted in a detailed computer graphic style, showcasing the magical aura of each site."
+caption: The resonant Places of Power, each a beacon of mystical energy within the world.
+orientation: Landscape
+artistic_value: [landscape, intricate design, wondrous]
+descriptive_value: [location, background, narrative]
+difficulties: [named location]
+
+Given the limited budget, the value of each piece should be weighed against the potential impact it could have on the players' immersion and understanding of the world. The "Origins and Beliefs" section is central to the understanding of mystics and would benefit greatly from an illustration. The "Practices and Abilities" section could also use a visual to help players imagine the rituals and ceremonies. Lastly, the "Places of Power" section is a prime candidate for artwork, as it can provide a visual anchor for important locations within the campaign.
+
+Retrieved at: 2024-01-02 20:41:23.825890
+Used: False
+Used: True

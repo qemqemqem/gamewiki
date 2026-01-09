@@ -1,0 +1,41 @@
+## Physiology
+visual_purpose: What does a fire elemental look like in its various forms?
+ideas_for_art_content: A humanoid-shaped fire elemental with limbs of flames and an amorphous fire elemental with a shifting, flame-like shape. Both should have a bright, fiery core.
+ideas_for_style: Painting, with a dynamic and vibrant style to capture the movement of flames.
+art_prompt: "Humanoid and amorphous fire elementals in the midst of the Infernal Planes, vibrant and dynamic, done in watercolor"
+art_prompt_detailed: "A figure made of flames with human-like limbs and another with a constantly changing shape, both set against a backdrop of a fiery landscape, painted in watercolor to emphasize the fluidity and vibrancy of fire"
+caption: "Various forms of fire elementals, showcasing their mesmerizing and terrifying nature."
+orientation: [landscape]
+artistic_value: [interesting person, intricate design, wondrous, exciting]
+descriptive_value: [person, object, monster]
+difficulties: [named location, multipart]
+
+## Summoning and Pact
+visual_purpose: How does the intricate process of summoning a fire elemental look?
+ideas_for_art_content: A wizard conducting a ritual with protective runes and circles, a fire elemental emerging from a nexus of flames.
+ideas_for_style: Sketch, with detailed line work to show the complexity of the ritual.
+art_prompt: "A skilled wizard summoning a fire elemental, surrounded by protective runes, in detailed pencil sketch"
+art_prompt_detailed: "A robed figure with an air of concentration, standing within a complex array of runes and circles, as a fiery creature begins to emerge from a central point, all depicted in a detailed pencil sketch"
+caption: "The delicate and dangerous art of summoning a fire elemental."
+orientation: [portrait]
+artistic_value: [intricate design, exciting, style match]
+descriptive_value: [person, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Role in the World
+visual_purpose: In what ways do fire elementals serve in the world?
+ideas_for_art_content: A fire elemental in battle, engulfing enemies in flames, and another aiding a blacksmith by fueling a forge.
+ideas_for_style: Computer graphics, to show the contrast between the elemental's use in war and peace.
+art_prompt: "A fire elemental in battle and another assisting a blacksmith, in contrasting scenes, rendered in computer graphics"
+art_prompt_detailed: "One scene depicting a creature of fire in the midst of combat, flames enveloping adversaries, and another scene showing the same type of creature gently stoking the flames of a large forge, both rendered in detailed computer graphics"
+caption: "Fire elementals as both formidable warriors and invaluable aids in times of peace."
+orientation: [landscape]
+artistic_value: [exciting, appropriate style]
+descriptive_value: [event, character, background]
+difficulties: [named location, multipart]
+
+Given the limited budget, the Physiology section would likely provide the most value, as it directly relates to the reader's understanding of what a fire elemental is and helps them visualize the creature they might encounter in the game. The Summoning and Pact section could also be valuable for setting the scene for an important story event. The Role in the World section, while interesting, might be less essential if budget constraints are tight.
+
+Retrieved at: 2024-01-02 20:58:21.955769
+Used: False
+Used: True

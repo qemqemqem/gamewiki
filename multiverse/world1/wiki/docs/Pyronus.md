@@ -4,6 +4,9 @@ Pyronus, the Blazing Father, is a figure of legend and awe within the annals of 
 
 ## Origins
 
+![Origins](../../images/Pyronus_S_Origins.png)
+Pyronus, born of the first spark, as the sun ignites to life.
+
 The origins of Pyronus are shrouded in the mists of time, with tales of his existence dating back to the era of [Creation](Creation.md). It is said that Pyronus was born from the first spark that ignited the sun, a being of pure fire and energy. His emergence marked the beginning of warmth and light in the world, and thus he is often celebrated during the longest days of the year when the sun's power is at its peak.
 
 ## Role Among the Sun Deities

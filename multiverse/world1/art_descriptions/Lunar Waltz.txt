@@ -1,0 +1,41 @@
+## Moonflower Festival
+visual_purpose: What does the Moonflower Festival look like, and how is the Lunar Waltz performed during this event?
+ideas_for_art_content: Dancers with moonflower garlands, the Crystal Tower in the background, the full moon above, bards playing instruments.
+ideas_for_style: Painting, with a mystical and ethereal style reminiscent of classical romanticism.
+art_prompt: "Dancers adorned with moonflower garlands performing the Lunar Waltz beneath the Crystal Tower, in a romantic and ethereal style, luminescent, captivating, done in oil on canvas."
+art_prompt_detailed: "A group of dancers, their bodies entwined with glowing floral garlands, moving gracefully in a choreographed dance that mimics the phases of the moon. In the background, a towering spire of crystalline structure pierces the night sky, while the full moon bathes the scene in a silvery light. The scene is depicted in a romantic and ethereal style, with a focus on the luminescent quality of the moonflowers and the captivating expressions of the dancers, all rendered in oil on canvas."
+caption: "The Moonflower Festival's Lunar Waltz, a dance of celestial harmony beneath the night sky."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Event, location, character, narrative
+difficulties: Named location, multipart
+
+## Shrouded City
+visual_purpose: What is the atmosphere of the Lunar Waltz in the Shrouded City, and how does it differ from other celebrations?
+ideas_for_art_content: Dancers in the Shrouded City with a reserved demeanor, cityscape shrouded in mist, bards playing in minor keys.
+ideas_for_style: Sketch, with a focus on shadows and a moody, noir-like atmosphere.
+art_prompt: "Dancers performing the Lunar Waltz in the Shrouded City, in a shadowy and moody style, mysterious, somber, done in charcoal sketch."
+art_prompt_detailed: "Figures draped in dark attire move with a reserved grace through a dance, their faces partially obscured by the shadows. The city around them is veiled in a soft mist, with the silhouettes of buildings barely discernible in the background. The scene is captured in a shadowy and moody style, emphasizing the mysterious and somber atmosphere of the city, all depicted in a charcoal sketch."
+caption: "The somber Lunar Waltz of the Shrouded City, where shadows dance with the moon."
+orientation: Portrait
+artistic_value: Intricate design, style match
+descriptive_value: Location, character, background, narrative
+difficulties: Named location, obscure style
+
+## Plains of Valor
+visual_purpose: How do the Silvermane Horses perform their version of the Lunar Waltz on the shores of the Crystal Sea?
+ideas_for_art_content: Silvermane Horses dancing on the waves, the moon reflecting on the Crystal Sea, the natural landscape of the Plains of Valor.
+ideas_for_style: Computer graphics, with a dynamic and vibrant depiction of the scene.
+art_prompt: "Silvermane Horses engaging in the Lunar Waltz on the Crystal Sea's shores, in a dynamic and vibrant style, majestic, harmonious, done in digital art."
+art_prompt_detailed: "Majestic equines with shimmering silver manes prance upon the cresting waves, their hooves casting sprays of luminescent water into the air. The moon's reflection on the sea creates a pathway of light that the horses seem to follow in their dance. The surrounding landscape of open plains is faintly visible in the background. The scene is depicted in a dynamic and vibrant style, capturing the harmony and majesty of the moment in digital art."
+caption: "The majestic dance of the Silvermane Horses, mirroring the moon's glow on the Crystal Sea."
+orientation: Landscape
+artistic_value: Exciting, wondrous, style match
+descriptive_value: Monster, location, narrative
+difficulties: Named characters, multipart
+
+Given the limited budget, the value of each piece should be considered carefully. The Moonflower Festival offers the most narrative and descriptive value, capturing a central event of the Lunar Waltz. The Shrouded City provides a contrasting atmosphere that could be depicted with a simpler sketch, offering high artistic but lower descriptive value. The Plains of Valor scene is visually stunning but might be more complex and costly to produce due to the dynamic nature of the horses and the environment. Prioritize based on the impact each image will have on the players' immersion and understanding of the world.
+
+Retrieved at: 2024-01-02 19:45:01.519864
+Used: False
+Used: True

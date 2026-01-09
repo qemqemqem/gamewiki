@@ -1,0 +1,41 @@
+## Principles of Illusion
+visual_purpose: What does an Illusion spell look like when cast by an Illusionist?
+ideas_for_art_content: An Illusionist casting a spell with various types of illusions around them, such as a phantom image, a disguised figure, a mesmerizing pattern, and a shadowy form.
+ideas_for_style: A dynamic, semi-realistic fantasy painting style with vibrant colors to emphasize the magical effects.
+art_prompt: "An Illusionist in the midst of casting, surrounded by a myriad of Illusions, in a vibrant, dynamic style, magical and captivating, done in digital painting"
+art_prompt_detailed: "A robed spellcaster with an enigmatic expression, standing in a library or study, surrounded by ghostly images, a figure cloaked in deceptive light, intricate glowing patterns in the air, and a semi-tangible shadowy creature, all depicted in a colorful and dynamic digital painting style."
+caption: An Illusionist demonstrates the various forms of Illusion magic, from figments to shadows.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, event, monster]
+difficulties: [named characters, multipart]
+
+## Applications of Illusion
+visual_purpose: How are Illusion spells practically applied in different scenarios?
+ideas_for_art_content: A collage showing an Illusionist in various situations: enhancing a theatrical performance, sneaking past guards, intimidating enemies in battle, and aiding in an interrogation.
+ideas_for_style: A comic book or storyboard style that can depict multiple scenes in one cohesive piece.
+art_prompt: "An Illusionist using spells in different scenarios, in a detailed comic style, versatile and intriguing, done in ink and digital color"
+art_prompt_detailed: "A cloaked figure casting spells in four separate vignettes: on stage with ethereal effects, slipping by armored guards unnoticed, causing adversaries to hallucinate monstrous threats, and projecting a crime scene hologram-like image during an interrogation, all illustrated in a detailed comic book style with ink outlines and digital coloring."
+caption: The versatile applications of Illusion magic in entertainment, stealth, warfare, and investigation.
+orientation: landscape
+artistic_value: [interesting person, intricate design, fun, style match]
+descriptive_value: [person, event, historical, story event]
+difficulties: [named characters, multipart]
+
+## Illusion in Aesheron
+visual_purpose: What unique aspects of Illusion magic are found in Aesheron?
+ideas_for_art_content: An Illusionist drawing inspiration from the Echo Bats, with the Whispering Sirens artifacts in the foreground and Echovale Isle in the background.
+ideas_for_style: A mystical, atmospheric painting that captures the essence of Aesheron's Illusion magic.
+art_prompt: "An Illusionist channeling the essence of Echo Bats, with Whispering Sirens artifacts and Echovale Isle, in an atmospheric style, mysterious and alluring, done in watercolor"
+art_prompt_detailed: "A spellcaster with an aura of mystery, holding a delicate artifact that glows with an inner light, with ghostly bats flitting around, and a mist-shrouded island looming in the distance, all rendered in a watercolor style that enhances the mystical atmosphere."
+caption: An Illusionist of Aesheron harnesses the elusive nature of Echo Bats with the aid of Whispering Sirens artifacts, with Echovale Isle in the backdrop.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, person, object, background]
+difficulties: [named location, obscure style]
+
+Given the limited budget, these sections have been chosen for their potential to visually enrich the article and provide readers with a deeper understanding of Illusion magic within the context of your D&D campaign. The artistic value and descriptive value have been rated with the intent to prioritize visuals that will have the most significant impact on the reader's experience.
+
+Retrieved at: 2024-01-02 20:31:22.757531
+Used: False
+Used: True

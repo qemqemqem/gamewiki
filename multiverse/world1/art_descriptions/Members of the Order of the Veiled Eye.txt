@@ -1,0 +1,41 @@
+## History and Influence
+visual_purpose: What did the architectural marvels inspired by Grimbeorn the Builder look like, and how is magic integrated into them?
+ideas_for_art_content: Depict a grand building with magical runes and enchantments visibly woven into its structure, perhaps with a member of the Order overseeing the construction or casting a spell.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art that captures the grandeur and mystique of the Order's influence.
+art_prompt: "A grand building in the Principality of Morath, with visible magical runes, majestic, imbued with enchantments, done in oil painting"
+art_prompt_detailed: "A grand, ancient building with towering spires and arches, adorned with glowing magical runes and symbols, with a cloaked figure casting a spell, all rendered in a classical fantasy oil painting style"
+caption: "The architectural marvels of the Principality of Morath, inspired by Grimbeorn the Builder and magically enhanced by the Order of the Veiled Eye."
+orientation: landscape
+artistic_value: [landscape, appropriate style, intricate design, wondrous]
+descriptive_value: [location, object, historical, background]
+difficulties: [named location, multipart]
+
+## Beliefs and Practices
+visual_purpose: What does the Order's research into ancient texts and experimentation with rare reagents look like?
+ideas_for_art_content: Illustrate a scene within the Sanctum of Whispers showing members of the Order studying ancient texts and using magical reagents in their experiments.
+ideas_for_style: Sketch, with detailed pencil work to capture the intricate details of the texts, reagents, and the focused expressions of the members.
+art_prompt: "Members of the Order in the Sanctum of Whispers, detailed pencil sketch, studious, immersed in arcane research, done in pencil"
+art_prompt_detailed: "Hooded figures poring over large, ancient tomes and conducting experiments with glowing reagents in a dimly lit, book-lined chamber, all captured in a detailed pencil sketch"
+caption: "The pursuit of knowledge within the Sanctum of Whispers, where the Order of the Veiled Eye delves into ancient texts and magical experiments."
+orientation: portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, event, narrative]
+difficulties: [named location, multipart]
+
+## Relations with Other Factions
+visual_purpose: How do the Order's interactions with other factions manifest, and what does a key event influenced by the Order look like?
+ideas_for_art_content: A scene depicting members of the Order in a clandestine meeting with representatives of other factions, or their involvement in a significant event like the signing of the Treaty of the Silverlake.
+ideas_for_style: Computer graphics, to create a vivid and detailed scene that can capture the tension and significance of the Order's political maneuvers.
+art_prompt: "A clandestine meeting between the Order and other factions, in computer graphics, tense, politically charged, done digitally"
+art_prompt_detailed: "Cloaked figures of the Order in a dimly lit chamber, negotiating with elaborately dressed representatives of various factions, with a parchment bearing the Treaty of the Silverlake on the table, all depicted in a detailed digital art style"
+caption: "The Order of the Veiled Eye engaging in delicate negotiations with other factions, shaping the realm's political landscape."
+orientation: landscape
+artistic_value: [appropriate style, exciting, style match]
+descriptive_value: [person, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+Given the limited budget, I have selected sections that would greatly benefit from visual representation and have high descriptive value, while also considering the potential difficulties and costs associated with creating these pieces of art. The artistic and descriptive values have been rated with the understanding that the visuals should add significant context and depth to the article, enhancing the reader's engagement and understanding of the Order of the Veiled Eye.
+
+Retrieved at: 2024-01-02 21:31:15.534464
+Used: False
+Used: True

@@ -1,0 +1,41 @@
+## Appearance and Composition
+visual_purpose: What do Earth Elementals look like, and what variety of forms can they take?
+ideas_for_art_content: A range of Earth Elementals, from small stone sprites to a colossal Mountain Sentinel, with different geological textures (rock, gemstones, metals).
+ideas_for_style: Sketch, with detailed textures to emphasize the diversity of materials.
+art_prompt: "A variety of Earth Elementals in a mountainous terrain, detailed sketch, textured, done in pencil"
+art_prompt_detailed: "A range of elemental beings made from earth materials, varying from small to immense, situated in a rugged landscape, intricately textured, sketched in pencil"
+caption: "The diverse forms of Earth Elementals, from pebble-sized sprites to towering Mountain Sentinels."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+## Role in Society
+visual_purpose: How do Earth Elementals interact with and impact societies on Aereth?
+ideas_for_art_content: An Earth Elemental reshaping a battlefield with soldiers around, or an Arcane Practitioner channeling energy from an Elemental.
+ideas_for_style: Painting, with a dynamic and dramatic style to capture the action.
+art_prompt: "An Earth Elemental aiding Soldiers in battle, dynamic, dramatic, done in oil painting"
+art_prompt_detailed: "A towering stone being altering the landscape amidst clashing warriors, portrayed with energy and movement, rendered in oil paint"
+caption: "An Earth Elemental reshapes the battlefield under the command of Alyndra's Soldiers."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, person, character]
+difficulties: [named characters, multipart, instructions unclear]
+
+## Cultural Significance
+visual_purpose: What is the symbolic meaning of Earth Elementals in different cultures?
+ideas_for_art_content: Depictions of Earth Elementals in various cultural artifacts, such as statues, tapestries, or carvings.
+ideas_for_style: Computer graphics, to create a collage of cultural representations.
+art_prompt: "A collage of Earth Elemental representations in different cultural artifacts, symbolic, diverse, done in digital art"
+art_prompt_detailed: "A collection of artistic interpretations of elemental beings as seen in statues, woven fabrics, and stone carvings, symbolically rich, created digitally"
+caption: "Earth Elementals as depicted in the myths and legends of Aereth's cultures."
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [object, historical, background]
+difficulties: [none]
+
+Given the limited budget, these sections were chosen for their potential to greatly enhance the reader's understanding and immersion in the world. The artistic value and descriptive value are high, while the difficulties are manageable. The visual elements in these sections can answer important questions, provide narrative depth, and enrich the storytelling experience for the players.
+
+Retrieved at: 2024-01-02 21:35:37.972321
+Used: False
+Used: True

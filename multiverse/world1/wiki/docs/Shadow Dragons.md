@@ -4,6 +4,9 @@ Shadow Dragons are among the most feared and enigmatic creatures in the realm of
 
 ## Origins and Transformation
 
+![Origins and Transformation](../../images/Shadow%20Dragons_S_Origins%20and%20Transformation.png)
+"The Gradual and Torturous Transformation of a Dragon in the Shadowfell.
+
 The origins of Shadow Dragons can be traced back to dragons that ventured into the [Shadowfell](Shadowfell.md) and were consumed by its malevolent forces. The process of transformation is gradual and torturous, stripping away the vibrant hues of their scales and replacing them with a spectral, shadowy essence. These dragons lose much of their former identity, gaining new abilities and a connection to the plane of shadow that forever alters their being.
 
 ## Characteristics

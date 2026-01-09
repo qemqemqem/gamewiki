@@ -1,0 +1,44 @@
+## The Echoing Basin
+
+visual_purpose: What does the Echoing Basin look like, and how does it amplify sound in such a unique way?
+ideas_for_art_content: A vast depression filled with unusual rock formations that could visually represent acoustic properties, with adventurers or scholars in the scene for scale.
+ideas_for_style: Painting, with a focus on mystical and ethereal qualities to capture the magical atmosphere.
+art_prompt: "Adventurers standing at the edge of the Echoing Basin, in a painting style, mystical, ethereal, done in watercolor"
+art_prompt_detailed: "A small group of adventurers standing at the edge of a vast, bowl-like depression filled with spiraling rock formations and a faint glow, in a painting style that emphasizes the mystical and ethereal qualities of the scene, done in watercolor"
+caption: Adventurers gaze upon the Echoing Basin, where sounds resonate with the magic of the isle.
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, event, narrative]
+difficulties: [named location, multipart]
+
+## The Whispering Woods
+
+visual_purpose: How do the Whispering Woods create an atmosphere of communication and mystery?
+ideas_for_art_content: Trees with faces or shapes suggesting they are whispering to each other, with a path leading deeper into the forest that invites the viewer to explore.
+ideas_for_style: Sketch, with an emphasis on shadows and light to create a sense of depth and secrecy.
+art_prompt: "Trees with faces along a winding path in the Whispering Woods, in a sketch style, shadowy, inviting, done in pencil"
+art_prompt_detailed: "Ancient trees with faces and shapes that suggest they are whispering to each other, with a narrow, winding path leading deeper into the forest, depicted in a sketch style that plays with shadows and light to create a sense of depth and secrecy, done in pencil"
+caption: The Whispering Woods, where every tree has a secret to share.
+orientation: portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [location, character, background]
+difficulties: [named location, obscure style]
+
+## Grimbeorn's Tower
+
+visual_purpose: What does Grimbeorn's Tower look like, and what mysteries might it hold?
+ideas_for_art_content: A tall, imposing tower with magical symbols and possibly visible conjured creatures or artifacts around it.
+ideas_for_style: Computer graphics, to give a sharp, detailed, and magical look to the tower and its surroundings.
+art_prompt: "Grimbeorn's Tower rising above the forest canopy, in computer graphics, sharp, detailed, magical"
+art_prompt_detailed: "A tall, imposing spire with intricate magical symbols etched into its stone, rising above a dense forest canopy, with faint images of conjured creatures or artifacts visible around it, depicted in sharp, detailed computer graphics"
+caption: Grimbeorn's Tower, a relic of conjuration and mystery amidst the Whispering Woods.
+orientation: portrait
+artistic_value: [exciting, style match]
+descriptive_value: [location, object, historical]
+difficulties: [named location, named characters]
+
+Given the limited budget, it's important to prioritize which images will add the most value to the article. The Echoing Basin and Grimbeorn's Tower are likely to be key visual elements that will enhance the reader's understanding and immersion in the world. The Whispering Woods could also benefit from an image, but if the budget is very tight, it might be the one to skip as it is a more common fantasy trope and may not require as much visual aid for the reader's imagination.
+
+Retrieved at: 2024-01-02 20:00:14.965479
+Used: False
+Used: True

@@ -16,6 +16,9 @@ The wars were characterized by the creation and use of powerful magical artifact
 
 ## Impact on the Realm
 
+![Impact on the Realm](../../images/Mage%20Wars_S_Impact%20on%20the%20Realm.png)
+The varied and far-reaching impacts of the Mage Wars on the realm of Aesheron.
+
 The Mage Wars left an indelible mark on Aesheron. The [Crystal Sea](Crystal%20Sea.md), once a tranquil expanse of water, became a battleground for naval conflicts, as the [Dark Horde](Dark%20Horde.md) and other malevolent forces took advantage of the chaos. The [Monarchies of the Northern Realms](Monarchies%20of%20the%20Northern%20Realms.md) and the [Free Cities](Free%20Cities.md) were forced to unite in their efforts to protect the sea and its surrounding environments from further harm.
 
 In the mountains, the [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md) stood as a bastion against the turmoil. The dwarves, under the leadership of their council of elders, rallied their legions to defend their homeland and preserve the stability of their society amidst the upheaval.

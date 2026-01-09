@@ -1,0 +1,44 @@
+## The Shadow Prowler Armada
+
+visual_purpose: What does a fleet of stealth ships designed for silence and secrecy look like?
+ideas_for_art_content: A fleet of dark, sleek ships with sails that blend into the night sky, crewed by shadowy figures.
+ideas_for_style: Painting, with a focus on dark, muted colors to convey the stealth aspect, and a touch of luminescence to highlight the arcane enchantments.
+art_prompt: "A fleet of Shadow Prowler ships under a starless night sky, with muted and dark tones, sails glowing faintly, in a realistic oil painting style."
+art_prompt_detailed: "A fleet of dark, sleek ships with sails that seem to absorb the surrounding darkness, under a starless night sky, with muted and dark tones, sails glowing faintly with an otherworldly light, depicted in a realistic oil painting style."
+caption: "The Shadow Prowler Armada, a silent menace of the night seas."
+orientation: Landscape
+artistic_value: [appropriate style, wondrous, exciting, style match]
+descriptive_value: [location, object, narrative]
+difficulties: [named location, multipart]
+
+## The Creature of the Whispering Woods
+
+visual_purpose: What might a shapeshifting beast that blends with the shadows look like?
+ideas_for_art_content: A creature with indistinct, shifting forms partially hidden among the trees, with glowing eyes.
+ideas_for_style: Sketch, using pencil or charcoal to create a sense of mystery and fear, with emphasis on the glowing eyes.
+art_prompt: "The Shadow Prowler creature lurking in the Whispering Woods, with a form that seems to merge with the shadows, eyes glowing, in a charcoal sketch style."
+art_prompt_detailed: "A creature with an indistinct, shifting form that appears to be part of the forest's darkness, with two glowing eyes that stand out, depicted in a charcoal sketch style."
+caption: "The elusive Shadow Prowler of the Whispering Woods, a predator of the night."
+orientation: Portrait
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [person, monster, background, narrative]
+difficulties: [named characters, obscure style]
+
+### In Popular Culture
+
+visual_purpose: How is the Shadow Prowler represented in the arts and stories of Aereth?
+ideas_for_art_content: Bards and storytellers performing with a backdrop that features the Shadow Prowler, either as a ship or a creature.
+ideas_for_style: Painting, in a style reminiscent of medieval manuscripts, to give a sense of timelessness and folklore.
+art_prompt: "Bards and storytellers in a tavern with tapestries depicting the Shadow Prowler in the background, in a medieval manuscript painting style."
+art_prompt_detailed: "Performers in a lively tavern, with colorful tapestries in the background that illustrate the dual nature of the Shadow Prowler, depicted in a style reminiscent of medieval manuscripts."
+caption: "Tales of the Shadow Prowler come to life in the hands of Aereth's bards and storytellers."
+orientation: Landscape
+artistic_value: [appropriate style, fun, style match]
+descriptive_value: [event, character, background, narrative]
+difficulties: [none]
+
+Given the limited budget, it would be wise to prioritize the art that adds the most narrative and descriptive value. The Shadow Prowler Armada and The Creature of the Whispering Woods sections are prime candidates for illustrations, as they directly depict the central subjects of the article. The In Popular Culture section could be considered if additional budget allows, as it adds cultural context and shows the impact of the Shadow Prowler on society.
+
+Retrieved at: 2024-01-02 21:41:38.780624
+Used: False
+Used: True

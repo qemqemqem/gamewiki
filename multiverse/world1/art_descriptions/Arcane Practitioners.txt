@@ -1,0 +1,56 @@
+## Types of Arcane Practitioners
+
+### Wizards
+visual_purpose: What does a typical wizard look like while studying or casting a spell?
+ideas_for_art_content: A wizard in a library surrounded by magical tomes, casting a spell with arcane symbols floating around.
+ideas_for_style: Sketch with detailed pencil work to show texture of the books and the flowing robes of the wizard.
+art_prompt: "A wizard in an ancient library, detailed sketch, focused, surrounded by floating arcane symbols, done in pencil."
+art_prompt_detailed: "A robed figure with a pointed hat, in a room lined with shelves of old books, detailed sketch, focused expression, surrounded by floating symbols of magic, done in pencil."
+caption: A wizard meticulously prepares spells in the seclusion of an ancient library.
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+### Sorcerers
+visual_purpose: How does a sorcerer's innate magical ability manifest visually?
+ideas_for_art_content: A sorcerer with eyes glowing, hands outstretched with crackling energy, possibly with a faint ancestral spirit or cosmic aura in the background.
+ideas_for_style: Painting with vibrant colors to capture the dynamic energy and the ethereal quality of their power.
+art_prompt: "A sorcerer with glowing eyes, in a dynamic pose, vibrant painting, ethereal, done in watercolor."
+art_prompt_detailed: "A figure with eyes emitting light, standing with arms raised as energy crackles between their hands, with a faint outline of a mystical creature or cosmic pattern in the background, vibrant painting, ethereal, done in watercolor."
+caption: A sorcerer channels their innate magical energy, surrounded by the echoes of their mysterious lineage.
+orientation: Portrait
+artistic_value: [wondrous, exciting]
+descriptive_value: [person, background, narrative]
+difficulties: [named characters, obscure style]
+
+### Artificers
+visual_purpose: What kind of magical items or contraptions might an artificer create?
+ideas_for_art_content: An artificer at a workbench with various magical items, such as a glowing sword, a clockwork familiar, and enchanted goggles.
+ideas_for_style: Computer graphics to show the intricate details and the glow of the magical items with a steampunk aesthetic.
+art_prompt: "An artificer at a workbench, computer graphics, detailed, glowing magical items, done in digital painting."
+art_prompt_detailed: "A craftsman at a cluttered table, working on a sword that emits light, with a mechanical creature beside them and various tools and enchanted objects scattered around, computer graphics, detailed, glowing effects, done in digital painting."
+caption: An artificer meticulously crafts magical artifacts, blending enchantment with innovation.
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+## The Role of Arcane Practitioners in Society
+
+visual_purpose: What role do arcane practitioners play in the governance and defense of society?
+ideas_for_art_content: An arcane practitioner advising a monarch in a throne room, or a group of mages casting protective spells over a city during a festival.
+ideas_for_style: Painting with a classical style to convey the historical and societal importance of the scene.
+art_prompt: "An arcane practitioner in a throne room, classical painting, authoritative, protective spells, done in oil."
+art_prompt_detailed: "A robed figure with a staff, standing beside a throne where a regal person sits, with a cityscape visible through a window where magical shields shimmer over the buildings, classical painting, authoritative, protective spells, done in oil."
+caption: Arcane practitioners serve as trusted advisors and protectors within the realms of Aesheron.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person]
+descriptive_value: [person, location, event, historical]
+difficulties: [named characters, named location]
+
+Given the limited budget, it would be wise to prioritize images that offer the highest descriptive value and can be used in multiple contexts. The art for "Wizards" and "Artificers" would likely be the most valuable, as they depict central figures of the arcane world and their environments, which can be referenced repeatedly throughout the campaign.
+
+Retrieved at: 2024-01-02 19:36:38.098768
+Used: False
+Used: True

@@ -10,6 +10,9 @@ Arcane Veins vary in concentration and potency. Some areas, known as [Ley Lines]
 
 ## Interaction with the Material World
 
+![Interaction with the Material World](../../images/Arcane%20Veins_S_Interaction%20with%20the%20Material%20World.png)
+The rich influence of Arcane Veins on the ecosystem, with a mage using an arcane focus to tap into their power.
+
 While Arcane Veins themselves are intangible, their influence on the material world is undeniable. Regions rich in arcane energy may give rise to unique flora and fauna, such as the elusive [Moonshade Blossom](Moonshade%20Blossom.md) or the enigmatic [Echo Bat](Echo%20Bat.md). These organisms often possess extraordinary properties that make them highly sought after by [alchemists](Alchemists.md) and [herbalists](Herbalists.md) for their potent [alchemical](Alchemy.md) potential.
 
 Certain [arcane foci](Arcane Foci.md) and [artifacts](Artifacts.md) are designed to tap directly into Arcane Veins, channeling their power to enhance magical abilities or perform feats that would otherwise be impossible. The creation of such items is a closely guarded secret, known only to the most skilled [mages](Mages of the Crystal Tower.md) and [conjurers](Conjurers.md).

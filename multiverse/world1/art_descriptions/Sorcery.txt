@@ -1,0 +1,53 @@
+## Origins and History
+visual_purpose: What did the first sorcerers and the Lunar Ancients look like, and how did they interact?
+ideas_for_art_content: A depiction of the first sorcerers drawing power from the Lunar Ancients, who are grand, ethereal beings.
+ideas_for_style: Painting, with a mystical and ancient atmosphere.
+art_prompt: "The first sorcerers receiving arcane knowledge from the Lunar Ancients on a moonlit night, ethereal, mystical, in a watercolor style"
+art_prompt_detailed: "Human figures cloaked in ancient robes, standing on a craggy moonlit landscape, receiving glowing arcane symbols from towering, luminous beings of magic, in a watercolor style"
+caption: The first sorcerers drawing power from the Lunar Ancients during the Age of Wonders.
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Historical, event
+difficulties: Named characters, multipart, obscure style
+
+## Practice and Application
+visual_purpose: How does a sorcerer look when channeling their power through emotion or willpower?
+ideas_for_art_content: A sorcerer in the midst of casting, with visible emotional energy and elemental magic swirling around.
+ideas_for_style: Sketch, to capture the raw energy and emotion of the moment.
+art_prompt: "A sorcerer channeling elemental magic with intense emotion, dynamic, powerful, in a detailed pencil sketch"
+art_prompt_detailed: "A figure with an intense expression, hands outstretched as fire, water, air, and earth elements swirl in a chaotic dance around them, in a detailed pencil sketch"
+caption: A sorcerer channeling the raw power of the elements through sheer willpower.
+orientation: Portrait
+artistic_value: Exciting, intricate design
+descriptive_value: Person, object, magic
+difficulties: None
+
+## Cultural Impact
+visual_purpose: What does a place that values sorcery, like the Gardens of Nightshade, look like?
+ideas_for_art_content: The Gardens of Nightshade filled with magical flora, students, and sorcerers practicing their craft.
+ideas_for_style: Computer graphics, to create a vibrant and detailed scene.
+art_prompt: "The Gardens of Nightshade bustling with sorcerous activity, vibrant, detailed, in a digital painting"
+art_prompt_detailed: "A lush garden with exotic, glowing plants, with figures in robes studying and practicing arcane arts amidst the foliage, in a digital painting"
+caption: The Gardens of Nightshade, a center of magical study and sorcerous rituals.
+orientation: Landscape
+artistic_value: Wondrous, appropriate style
+descriptive_value: Location, character, background
+difficulties: Named location
+
+## Threats and Misuse
+visual_purpose: What does the corruption of sorcery look like, and how does it affect the land?
+ideas_for_art_content: A landscape showing the aftermath of sorcery misuse, with Shade Wraiths or Dark Horde members in the foreground.
+ideas_for_style: Painting, dark and foreboding to convey the danger and corruption.
+art_prompt: "A blighted landscape with Shade Wraiths looming, ominous, corrupted, in an oil painting style"
+art_prompt_detailed: "A desolate terrain with dead trees and a dark sky, shadowy figures with malevolent auras in the foreground, in an oil painting style"
+caption: The land bears the scars of sorcery's misuse, with Shade Wraiths as harbingers of devastation.
+orientation: Landscape
+artistic_value: Exciting, style match
+descriptive_value: Location, monster, narrative
+difficulties: Named characters, confusing
+
+Given the limited budget, I would suggest prioritizing the "Origins and History" section for its historical value and the "Practice and Application" section for its depiction of sorcery in action. These two pieces of art would provide a strong visual foundation for the concept of sorcery in your campaign.
+
+Retrieved at: 2024-01-02 20:28:38.539180
+Used: False
+Used: True

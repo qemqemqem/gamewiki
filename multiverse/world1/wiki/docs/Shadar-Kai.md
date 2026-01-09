@@ -10,6 +10,9 @@ Regardless of their beginnings, the Shadar-Kai are beings who have embraced the 
 
 ## Culture and Society
 
+![Culture and Society](../../images/Shadar-Kai_S_Culture%20and%20Society.png)
+"Shadar-Kai participating in a traditional ritual, showcasing their resilience and cultural heritage.
+
 The Shadar-Kai are known for their grim determination and the stoic acceptance of their fate. They have built a society that values strength, resilience, and the ability to thrive in an environment that is inherently hostile to life. Their communities are often found in the more stable regions of the Shadowfell, such as the [City of Evernight](City%20of%20Evernight.md), where they gather under the rule of the enigmatic [Lady of Sorrows](Lady%20of%20Sorrows.md).
 
 Their culture is rich with traditions that celebrate the endurance of the spirit and the acceptance of the inevitable. Rituals and ceremonies are common, many of which involve tests of pain tolerance and emotional fortitude, serving as reminders of their constant struggle against the encroaching despair of their realm.

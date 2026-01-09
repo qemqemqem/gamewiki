@@ -8,6 +8,9 @@ The Whispering Woods cover a vast area, with its borders often shrouded in mist,
 
 ## Flora and Fauna
 
+![Flora and Fauna](../../images/Whispering%20Woods_S_Flora%20and%20Fauna.png)
+The diverse flora and mystical fauna of the Whispering Woods come to life under the moon's glow.
+
 The flora within the Whispering Woods is as diverse as it is unique. Towering [Ironbark Trees](Ironbark%20Trees.md) dominate the skyline, their leaves whispering secrets to those who listen. Beneath them, a variety of undergrowth thrives, including the rare [Moonshade Blossom](Moonshade%20Blossom.md), known for its luminescent petals that glow softly in the moonlight.
 
 The woods are home to an array of creatures, some mundane, others magical. [Elves](Elves.md) and [Druids](Druids.md) are known to dwell within, living in harmony with the forest. The elusive [Forest Wisp](Forest%20Wisp.md) can sometimes be seen flitting between the trees, leading travelers astray or towards hidden wonders. Predators such as the [Shadow Prowler](Shadow%20Prowler.md) lurk in the darker corners of the woods, making it a place where only the brave or foolish venture without caution.

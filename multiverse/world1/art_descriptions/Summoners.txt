@@ -1,0 +1,41 @@
+## Origins and Training
+visual_purpose: What did the ancient Summoners who communed with spirits look like, and what does the training environment at the Sanctum of Whispers entail?
+ideas_for_art_content: Depict an ancient Summoner in the Verdant Woods or by the Crystal Sea, surrounded by spirits. Show a modern training session at the Sanctum of Whispers with apprentices practicing rituals.
+ideas_for_style: Painting, with a mystical and ethereal feel, reminiscent of classical fantasy art.
+art_prompt: "An ancient Summoner in the Verdant Woods, surrounded by ethereal spirits, in a classical fantasy painting style, mystical, serene, done in oil on canvas."
+art_prompt_detailed: "A robed figure with arcane symbols stands in a lush, green forest, surrounded by translucent, glowing entities, depicted in a classical fantasy painting style, with an air of mystery and tranquility, executed in oil on canvas."
+caption: "An ancient Summoner communes with spirits in the Verdant Woods, a practice that laid the foundation for modern Summoners."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [person, location, historical]
+difficulties: [named location, multipart]
+
+## The Summoning Process
+visual_purpose: How does the intricate and dangerous act of summoning look in practice?
+ideas_for_art_content: A Summoner in the midst of a summoning ritual, using arcane foci and reagents, with a portal opening and a creature beginning to emerge.
+ideas_for_style: Sketch, with dynamic lines to convey the energy and tension of the moment.
+art_prompt: "A Summoner in the midst of a ritual, with a portal opening, in a dynamic sketch style, intense, focused, done in pencil."
+art_prompt_detailed: "A cloaked figure stands within a circle of arcane symbols, holding a glowing focus, as a swirling portal opens before them, sketched with energetic lines to capture the intensity of the moment, rendered in pencil."
+caption: "A Summoner calls forth a being from another realm, the precise and perilous art of conjuration."
+orientation: portrait
+artistic_value: [exciting, intricate design]
+descriptive_value: [person, object, event]
+difficulties: [named characters, multipart]
+
+## Future of Summoning
+visual_purpose: What might the evolving relationship between Summoners and the beings they summon look like?
+ideas_for_art_content: A Summoner and a summoned creature standing side by side, looking towards a horizon that symbolizes the future, possibly with a scene that hints at the potential for catastrophic events.
+ideas_for_style: Computer graphics, with a modern and sleek look to represent the future.
+art_prompt: "A Summoner and a summoned being standing together, looking towards the future, in a sleek computer graphic style, hopeful yet cautious, done digitally."
+art_prompt_detailed: "A figure draped in ceremonial robes stands shoulder to shoulder with a majestic, otherworldly creature, both gazing towards a horizon that glows with the promise and peril of the future, depicted in a modern, digital graphic style."
+caption: "A Summoner and a summoned ally face the uncertain future of their craft, as the realms draw ever closer."
+orientation: landscape
+artistic_value: [wondrous, appropriate style]
+descriptive_value: [person, character, narrative]
+difficulties: [none]
+
+Given the limited budget, the sections chosen for art are those that would most benefit from visual representation to enhance understanding and immersion. The value ratings are harsh, focusing on sections that provide significant artistic and descriptive value while considering the potential difficulties in creating the art.
+
+Retrieved at: 2024-01-02 19:20:35.440322
+Used: False
+Used: True

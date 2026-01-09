@@ -1,0 +1,53 @@
+## Role and Importance
+visual_purpose: What does the esteemed environment of a scholar's workspace look like?
+ideas_for_art_content: A grand library within an academy, scholars in deep study or discussion, magical artifacts on display, celestial charts, and ancient scrolls.
+ideas_for_style: A detailed painting style reminiscent of classical art to convey the richness of the academic setting.
+art_prompt: "A scholar in the grand library of the Academy of Planar Studies, detailed and atmospheric, surrounded by ancient tomes and celestial charts, done in oil painting"
+art_prompt_detailed: "A robed figure with a thoughtful expression standing in a vast library filled with towering bookshelves, intricate celestial charts on the walls, and a few mystical artifacts on pedestals, all rendered in a classical oil painting style."
+caption: A scholar delves into ancient tomes within the Academy of Planar Studies.
+orientation: landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [location, person, object, background]
+difficulties: [named location, multipart]
+
+## Areas of Study
+visual_purpose: What do the various fields of scholarly study look like in action?
+ideas_for_art_content: Scholars in different settings such as a historical archive, a magical laboratory, a theological library, a naturalist's study, and a cultural museum, each with relevant artifacts and tools.
+ideas_for_style: A series of sketches, each capturing the essence of the different fields of study.
+art_prompt: "Scholars engaged in various fields of study, sketched with precision and clarity, showcasing the diversity of their pursuits, done in pencil"
+art_prompt_detailed: "A series of five sketches depicting scholars in distinct environments: one poring over ancient scrolls, another surrounded by magical instruments, a third in contemplation before a religious icon, the fourth examining botanical specimens, and the last conversing with representatives of different races."
+caption: Scholars of history, arcane arts, theology, natural sciences, and cultural studies in their respective realms of expertise.
+orientation: portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, event, character, background]
+difficulties: [multipart, instructions unclear]
+
+## Notable Scholars and Contributions
+visual_purpose: Who are these notable scholars and what do their contributions look like?
+ideas_for_art_content: Portraits of Seraphine the Seer, a member of the Order of the Veiled Eye with a hidden artifact, and an astronomer with a telescope and star chart.
+ideas_for_style: A triptych of paintings, each with a distinct style that reflects the scholar's era and field.
+art_prompt: "Portraits of Seraphine the Seer, a Veiled Eye scholar, and an astronomer, each rich in character and historical context, done in a triptych of paintings"
+art_prompt_detailed: "Three painted portraits: one of a mystical seer with eyes gazing into the distance, another cloaked figure holding a concealed relic, and the third a stargazer beside a brass telescope, each set against a backdrop that hints at their respective legacies."
+caption: Seraphine the Seer, a member of the Order of the Veiled Eye, and an astronomer, each immortalized for their scholarly contributions.
+orientation: portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters, multipart]
+
+## Challenges and Endeavors
+visual_purpose: What do the challenges faced by scholars look like, and how do they overcome them?
+ideas_for_art_content: A scholar standing amidst the ruins of a library, another in debate with a ruler, and a group working to restore a crumbling monument.
+ideas_for_style: A dramatic painting that captures the tension and resolve of scholars in the face of adversity.
+art_prompt: "Scholars confronting challenges, painted with a sense of drama and determination, depicting their resilience in the face of adversity, done in watercolor"
+art_prompt_detailed: "A painting showing a scholar with a look of resolve standing in the midst of a library devastated by fire, another in heated discussion with a regal figure, and a team of scholars and workers collaborating on the restoration of an ancient, weathered monument."
+caption: Scholars persevere through the challenges of lost knowledge, censorship, and the restoration of history.
+orientation: landscape
+artistic_value: [exciting, wondrous]
+descriptive_value: [person, event, historical, story event]
+difficulties: [named location, multipart, confusing]
+
+Given the limited budget, I would suggest prioritizing the "Role and Importance" section for visual addition, as it sets the stage for the entire article and can encapsulate the essence of scholarly life in your D&D campaign. The "Notable Scholars and Contributions" section could also be valuable, as it provides faces to the names and stories within your world, making them more memorable for your players.
+
+Retrieved at: 2024-01-02 19:38:29.356710
+Used: False
+Used: True

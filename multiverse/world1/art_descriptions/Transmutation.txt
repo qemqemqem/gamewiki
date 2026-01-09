@@ -1,0 +1,41 @@
+## Applications of Transmutation
+visual_purpose: What do the various applications of Transmutation magic look like in practice?
+ideas_for_art_content: Alchemical transformation showing base metals turning into gold, a craftsman working with glowing materials, a creature undergoing a physical change, a mage summoning elemental forces.
+ideas_for_style: A dynamic, magical illustration with vibrant colors and a sense of movement.
+art_prompt: "A mage performing alchemical transformation in a mystical workshop, with vibrant colors and dynamic energy flows, illustrated in a high-fantasy style."
+art_prompt_detailed: "A robed figure with a staff standing before an ancient, rune-inscribed table in a dimly lit, mysterious workshop, surrounded by vials and arcane objects. The table glows with a magical light as metals transmute from lead to gold, illustrated in a high-fantasy style with vibrant colors and dynamic energy flows."
+caption: A Transmuter mage converting base metals into gold using alchemical magic.
+orientation: landscape
+artistic_value: [interesting person, intricate design, wondrous, exciting, style match]
+descriptive_value: [person, object, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Notable Transmuters
+visual_purpose: Who are these notable Transmuters and what distinguishes them?
+ideas_for_art_content: Portraits of Grimbeorn the Builder and a member of the Order of the Veiled Eye, each depicted with symbols of their achievements or magical prowess.
+ideas_for_style: Detailed, character-focused paintings with a touch of mystery and grandeur.
+art_prompt: "Portraits of Grimbeorn the Builder and a cloaked figure from the Order of the Veiled Eye, painted with a sense of history and magical significance."
+art_prompt_detailed: "A stern, bearded figure clad in masterwork artisan's garb, standing before a backdrop of grandiose buildings, alongside a portrait of a shadowy figure whose eyes glint with arcane knowledge, shrouded in a cloak embroidered with esoteric symbols, both painted with a sense of history and magical significance."
+caption: Grimbeorn the Builder alongside a mysterious member of the Order of the Veiled Eye, two of Aesheron's most renowned Transmuters.
+orientation: portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, character, historical]
+difficulties: [named characters, obscure style]
+
+## Learning Transmutation
+visual_purpose: What does the process of learning Transmutation entail?
+ideas_for_art_content: A scene of a young apprentice practicing Transmutation under the guidance of a Wizard, with magical tomes and artifacts around them.
+ideas_for_style: A warm, inviting illustration that captures the mentorship and dedication involved in the learning process.
+art_prompt: "An apprentice Transmuter practicing under the watchful eye of a Wizard in a library filled with arcane books and artifacts, illustrated in a warm and detailed style."
+art_prompt_detailed: "A focused young apprentice with an open spellbook, surrounded by floating objects and shimmering magical energy, as a robed mentor with a staff observes and instructs within a library brimming with ancient tomes and mystical relics, illustrated in a warm and detailed style."
+caption: An apprentice learning the art of Transmutation from a seasoned Wizard in the Mages of the Crystal Tower.
+orientation: landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, character, narrative]
+difficulties: [named location, multipart]
+
+Given the limited budget, these sections were chosen for their potential to visually enrich the article and provide readers with a deeper understanding of Transmutation's role in the world of Aesheron. The artistic value and descriptive value were rated with a focus on the importance of each image in enhancing the reader's experience and understanding of the content.
+
+Retrieved at: 2024-01-02 21:09:21.094196
+Used: False
+Used: True

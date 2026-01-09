@@ -8,6 +8,9 @@ Little is known about the inception of the Veiled Navigators. Some speculate tha
 
 ## Practices and Abilities
 
+![Practices and Abilities](../../images/Veiled%20Navigators_S_Practices%20and%20Abilities.png)
+The Veiled Navigator's ship emerges from the mists at the Mistbound Docks, guided by the stars.
+
 The Veiled Navigators are renowned for their ability to chart courses through the most perilous of waters, navigating with an almost supernatural precision. They are said to read the stars with an ancient understanding, interpreting celestial patterns that have long been forgotten by the civilizations of the land.
 
 Their ships, often seen at the [Mistbound Docks](Mistbound%20Docks.md) of the [Shrouded City](Shrouded%20City.md), are legendary for their ghostly appearance, crafted with enchantments that blend with the sea mists. These vessels are capable of traversing the [Isles of Whisper](Isles%20of%20Whisper.md) without harm, a feat that many seasoned sailors deem impossible due to the treacherous maelstroms and deceptive currents that surround the isles.

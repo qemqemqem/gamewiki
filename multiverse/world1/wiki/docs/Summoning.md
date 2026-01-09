@@ -4,6 +4,9 @@ Summoning is an arcane practice that involves calling forth entities, creatures,
 
 ## History of Summoning
 
+![History of Summoning](../../images/Summoning_S_History%20of%20Summoning.png)
+Morath the Wise performing the first recorded summoning of the Silvermane Horses.
+
 The art of summoning has been practiced since the ancient times of the [Aesheron](Aesheron.md) epoch. The earliest recorded summoning was by the legendary [Morath the Wise](Morath%20the%20Wise.md), who is said to have called forth the Silvermane Horses from the ethereal plains of [Lumina](Lumina.md). Throughout history, summoning has been a tool for both creation and destruction, as seen in the [Mage Wars](Mage%20Wars.md) where summoned creatures fought alongside their conjurers.
 
 ## Types of Summoning

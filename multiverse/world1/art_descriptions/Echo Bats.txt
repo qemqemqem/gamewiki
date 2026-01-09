@@ -1,0 +1,41 @@
+## Description
+visual_purpose: What do Echo Bats look like, especially their distinctive eyes and fur color?
+ideas_for_art_content: An Echo Bat in flight with its wings fully extended, showcasing the indigo fur and luminescent silver eyes.
+ideas_for_style: Sketch with detailed shading to highlight the texture of the fur and the glow of the eyes.
+art_prompt: "An Echo Bat in flight, with detailed shading, luminescent eyes, and indigo fur, done in pencil sketch."
+art_prompt_detailed: "A medium-sized bat with a wingspan of two to three feet, in flight, with detailed shading to emphasize the deep shade of indigo fur and the reflective quality of its luminescent silver eyes, done in pencil sketch."
+caption: An Echo Bat glides silently through the twilight, its luminescent eyes piercing through the fog.
+orientation: [landscape]
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, character]
+difficulties: [none]
+
+## Mysterious Sense
+visual_purpose: How do Echo Bats navigate through the magical energies of the Isles of Whisper?
+ideas_for_art_content: An Echo Bat with a visual representation of magical energies surrounding it, possibly with a faint glow or ethereal trails indicating its unique sense.
+ideas_for_style: Computer graphics with a mystical or ethereal quality to depict the magical energies.
+art_prompt: "An Echo Bat surrounded by magical energies, in a mystical style, ethereal, done in computer graphics."
+art_prompt_detailed: "A bat with a unique navigation sense, surrounded by visual representations of magical energies, possibly with a faint glow or ethereal trails, in a mystical and ethereal style, done in computer graphics."
+caption: An Echo Bat harnesses the unseen magical currents of the Isles to navigate the dense fogs.
+orientation: [portrait]
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, character, narrative]
+difficulties: [named characters, obscure style]
+
+## Cultural Significance
+visual_purpose: What role do Echo Bats play in the local folklore and festivals?
+ideas_for_art_content: A scene from the Festival of Shields with Echo Bat effigies, locals celebrating, and banners displaying the bat symbol.
+ideas_for_style: Painting in a folk art style to capture the cultural essence of the festival and the significance of the Echo Bats.
+art_prompt: "Festival of Shields scene with Echo Bat effigies, in folk art style, vibrant, done in painting."
+art_prompt_detailed: "A local festival scene with effigies resembling medium-sized indigo bats, locals celebrating, and banners with bat symbols, in a vibrant folk art style, done in painting."
+caption: The Festival of Shields, where Echo Bats are celebrated as guardians of the night and symbols of vigilance.
+orientation: [landscape]
+artistic_value: [fun, exciting, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [named location, multipart]
+
+Please note that the value ratings are harsh due to budget constraints, and only sections with the highest descriptive and artistic value have been selected for potential art additions.
+
+Retrieved at: 2024-01-02 20:57:33.663313
+Used: False
+Used: True

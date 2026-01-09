@@ -18,6 +18,9 @@ Aereth is home to a plethora of races and societies, each with its own customs a
 
 ## Magic and Arcane Arts
 
+![Magic and Arcane Arts](../../images/Aereth_S_Magic%20and%20Arcane%20Arts.png)
+"The Arcane Practitioners of Aereth harnessing the vibrant energies of magic.
+
 Magic is the lifeblood of Aereth, pulsing through the land and its inhabitants. The [Arcane Practitioners](Arcane%20Practitioners.md), including [Wizards](Wizards.md), [Sorcerers](Sorcerers.md), and [Druids](Druids.md), study the arcane arts, seeking to harness the energies that permeate the world. [Conjuration](Conjuration.md), [Necromancy](Necromancy.md), and [Incantations](Incantations.md) are but a few of the mystical practices that are both revered and feared.
 
 ## Elemental Balance

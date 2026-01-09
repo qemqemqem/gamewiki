@@ -4,6 +4,9 @@ Conservationists are a revered group of individuals and organizations within Aes
 
 ## Origins and Philosophy
 
+![Origins and Philosophy](../../images/Conservationists_S_Origins%20and%20Philosophy.png)
+"The ancient druidic circle of Aesheron, invoking the spirit of conservation.
+
 The roots of conservation in Aesheron can be traced back to the teachings of ancient druidic circles and the reverence for nature held by the [Lunar Ancients](Lunar%20Ancients.md). Over time, the principles of conservation have been adopted by a wider array of groups, including scholars, healers, and even some [monarchs](Monarchs.md) who recognize the importance of preserving the balance of nature.
 
 Conservationists believe that all aspects of the natural world are interconnected and that the disruption of one element can lead to unforeseen consequences for the whole. They often invoke the blessings of deities like [Solara](Solara.md), who embodies nurturing and compassion, to aid in their endeavors.

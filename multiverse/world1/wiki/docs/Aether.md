@@ -4,6 +4,9 @@ Aether, often referred to as the fifth element or quintessence, is a mysterious 
 
 ## Nature of Aether
 
+![Nature of Aether](../../images/Aether_S_Nature%20of%20Aether.png)
+A mage channeling the elusive essence of Aether, the fifth element, as it interacts with the classical elements.
+
 The nature of Aether is elusive and multifaceted. It is at once the source of all magic and the binding force that connects the myriad [Planes of Existence](Planes%20of%20Existence.md). Aether is neither solid nor liquid, neither gas nor plasma; it is a state of being unto itself, suffusing the cosmos with its subtle influence.
 
 ### Properties

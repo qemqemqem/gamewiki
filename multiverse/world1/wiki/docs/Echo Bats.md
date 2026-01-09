@@ -4,6 +4,9 @@ Echo Bats are a fascinating and enigmatic species native to the [Isles of Whispe
 
 ## Description
 
+![Description](../../images/Echo%20Bats_S_Description.png)
+An Echo Bat glides silently through the twilight, its luminescent eyes piercing through the fog.
+
 Echo Bats are medium-sized with wingspans averaging between two to three feet. Their fur is a deep shade of indigo, which helps them blend into the twilight skies of the [Isles of Whisper](Isles%20of%20Whisper.md). Their most distinctive feature, however, is their eyes, which are a luminescent silver, reflecting the faintest glimmers of light and enabling them to see in the low visibility of their habitat.
 
 ## Behavior and Ecology

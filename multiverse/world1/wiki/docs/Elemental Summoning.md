@@ -34,6 +34,9 @@ Once an Elemental appears, the summoner must quickly establish a pact, binding t
 
 ## Applications of Elemental Summoning
 
+![Applications of Elemental Summoning](../../images/Elemental%20Summoning_S_Applications%20of%20Elemental%20Summoning.png)
+Elementals at work, showcasing their diverse abilities to shape and protect the world.
+
 Elemental Summoning has a variety of applications, both practical and esoteric:
 
 - **Aid in [Agriculture](Agriculture.md)**: Earth Elementals can enrich soil, while Water Elementals can provide irrigation.

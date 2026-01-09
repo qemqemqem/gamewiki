@@ -1,0 +1,41 @@
+## Origins and History
+visual_purpose: What did the first arcane scripts look like, and where were they preserved?
+ideas_for_art_content: Ancient wizards transcribing scripts, the Great Library of Eldara, the Sanctum of Whispers, old scrolls and tomes
+ideas_for_style: painting (classical, with attention to light and shadow)
+art_prompt: "Ancient wizards transcribing the first arcane scripts in the Great Library of Eldara, classical painting style, detailed, atmospheric, done in oil on canvas"
+art_prompt_detailed: "Robed figures bent over scrolls, quills in hand, in a grand library filled with towering bookshelves, in classical painting style, detailed, atmospheric, done in oil on canvas"
+caption: The birth of arcane languages in the hallowed halls of the Great Library of Eldara.
+orientation: landscape
+artistic_value: [interesting person, intricate design, wondrous, style match]
+descriptive_value: [location, historical, narrative]
+difficulties: [named location, multipart]
+
+## Characteristics
+visual_purpose: How do the different arcane languages look and feel?
+ideas_for_art_content: Symbols and script of Draconic, Sylvan, Celestial, and Infernal languages; a visual comparison of their styles
+ideas_for_style: sketch (detailed ink sketches with annotations)
+art_prompt: "Intricate symbols of Draconic, Sylvan, Celestial, and Infernal languages, detailed ink sketches, annotated, on aged parchment"
+art_prompt_detailed: "A series of detailed ink sketches showing the unique symbols and script styles of four ancient arcane languages, annotated, on aged parchment"
+caption: The complex syntax and symbols of the primary arcane languages.
+orientation: portrait
+artistic_value: [intricate design, educational]
+descriptive_value: [object, educational]
+difficulties: [none]
+
+## Practical Applications
+visual_purpose: What do the uses of arcane languages in spellcraft look like in action?
+ideas_for_art_content: A spellcaster casting a spell, a ritual in progress, an enchanted object being inscribed, communication with a magical creature
+ideas_for_style: computer graphics (dynamic, vibrant colors)
+art_prompt: "A spellcaster invoking a spell in Draconic, mid-incantation, with vibrant magical energies, in dynamic computer graphics"
+art_prompt_detailed: "A robed figure with arms outstretched, mouth open in the midst of a spell, surrounded by vibrant, swirling magical energies, depicted in dynamic computer graphics"
+caption: The multifaceted use of arcane languages in spellcasting, rituals, enchantment, and communication.
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, character, narrative]
+difficulties: [named characters]
+
+Given the limited budget, the "Origins and History" section seems to offer the most value for an illustration, as it sets the foundation for the entire concept of arcane languages and can be rich in detail and narrative. The "Characteristics" section could be valuable as well, especially for educational purposes, but it may not require as much artistic investment. The "Practical Applications" section could be visually striking and help players visualize the use of arcane languages, but it might be less essential if the budget is tight.
+
+Retrieved at: 2024-01-02 20:42:06.479507
+Used: False
+Used: True

@@ -8,6 +8,9 @@ Silent Orchids are characterized by their delicate, translucent petals that shim
 
 ## Habitat
 
+![Habitat](../../images/Silent%20Orchids_S_Habitat.png)
+Silent Orchids flourishing in the mystical Enchanted Grove, with the Frostspire Mountains in the distance.
+
 The primary habitat of Silent Orchids is the [Enchanted Grove](Enchanted%20Grove.md), located in the vicinity of the [Shrouded City](Shrouded%20City.md). The grove, protected by the formidable [Frostspire Mountains](Frostspire%20Mountains.md), provides the perfect environment for these flowers to thrive. The Silent Orchids also grow in the mystical [Isles of Whisper](Isles%20of%20Whisper.md), where their sound-absorbing properties contribute to the islands' signature quietude.
 
 ## Properties and Uses

@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the landscape of the Principality of Morath look like?
+ideas_for_art_content: The verdant valleys, the shimmering Crystal Lake, dense whispering forests with Forest Nymphs, the Fallen Temple of the Moon, and the Ruins of Eldara.
+ideas_for_style: Painting, with a fantasy-realism style that captures the magical essence of the land.
+art_prompt: "The verdant valleys of the Principality of Morath, with the Crystal Lake glistening in the distance, surrounded by the mystical forests, under a sky of twilight hues, done in a fantasy-realism painting style."
+art_prompt_detailed: "A lush green valley with a sparkling lake in the distance, bordered by mysterious woods, with ancient ruins and a temple visible, under a sky of purples and blues, depicted in a fantasy-realism painting style."
+caption: The breathtaking landscape of the Principality of Morath, where magic and nature intertwine.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, background]
+difficulties: [none]
+
+## Culture
+visual_purpose: What are the cultural highlights of the Principality of Morath?
+ideas_for_art_content: The Great Library of Eldara filled with scholars, the Moonflower Festival with blooming moonflowers and people dancing to the Lunar Waltz.
+ideas_for_style: Sketch, with a lively and detailed depiction of the festival and library.
+art_prompt: "Scholars studying in the Great Library of Eldara and the vibrant Moonflower Festival with dancers under the moonlight, in a detailed sketch style."
+art_prompt_detailed: "A grand library filled with ancient books and focused individuals, alongside a festive scene with unique flowers and joyous dancers under a moonlit sky, all captured in a detailed sketch style."
+caption: The rich culture of Morath, from the scholarly pursuits in the Great Library to the magical Moonflower Festival.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun, wondrous]
+descriptive_value: [person, event, historical, story event, character]
+difficulties: [named characters, multipart]
+
+## Notable Figures and Groups
+visual_purpose: Who are the influential characters and groups within the Principality of Morath?
+ideas_for_art_content: Portraits of Alyndra, Warrior Queen; members of the Order of the Veiled Eye in their sanctuary; and Grimbeorn the Builder with his architectural creations.
+ideas_for_style: Painting, with a focus on character details and expressions.
+art_prompt: "Portraits of the Warrior Queen Alyndra, the enigmatic Order of the Veiled Eye, and Grimbeorn the Builder with his architectural masterpieces, in a detailed painting style."
+art_prompt_detailed: "A regal female warrior in armor, a group of secretive sorcerers in a mystical sanctuary, and a visionary architect with his grand structures, all depicted in a detailed painting style."
+caption: The faces of Morath: Warrior Queen Alyndra, the Order of the Veiled Eye, and Grimbeorn the Builder.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, character]
+difficulties: [named characters]
+
+Given the limited budget, the Geography section would likely offer the most value for a single piece of art, as it sets the scene for the entire principality and can be referenced repeatedly throughout the campaign. The Culture section would also be valuable, but it might be more complex and costly due to the detail required for the festival and library scenes. The Notable Figures and Groups could be valuable if these characters are central to the campaign, but individual portraits may be less necessary if the descriptions in the text are vivid.
+
+Retrieved at: 2024-01-02 20:25:05.868711
+Used: False
+Used: True

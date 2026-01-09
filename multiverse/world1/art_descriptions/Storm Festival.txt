@@ -1,0 +1,31 @@
+## Celebratory Practices
+
+visual_purpose: What do the arcane displays and rituals of the Storm Festival look like?
+ideas_for_art_content: Mages casting spells with vibrant colors in the sky, a group of druids preparing herbs for rituals, a competition with mages demonstrating their magical prowess.
+ideas_for_style: A dynamic painting style, reminiscent of classical fantasy artwork, with a focus on the contrast between light and dark to emphasize the magical elements.
+art_prompt: "A group of mages casting spells in the City of Evernight, with a dynamic and contrast-rich painting style, vibrant, mystical, done in oil on canvas."
+art_prompt_detailed: "A diverse group of spellcasters in ornate robes, standing on a grand plaza surrounded by gothic architecture, casting spells that send colorful, glowing patterns into the night sky, depicted in a dynamic and contrast-rich painting style, with the vibrant energy of the spells contrasting against the dark backdrop of the city, executed in oil on canvas."
+caption: Mages of Evernight performing dazzling arcane displays during the Storm Festival.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, character, background, narrative]
+difficulties: [named location, multipart]
+
+## Impact on the City
+
+visual_purpose: How does the Storm Festival affect the bustling life of the City of Evernight?
+ideas_for_art_content: Crowded streets with visitors from various factions, local businesses thriving, and the presence of powerful mages among the populace.
+ideas_for_style: A detailed sketch that captures the liveliness and diversity of the festival's impact on the city, with attention to the expressions and interactions of characters.
+art_prompt: "The bustling streets of the City of Evernight during the Storm Festival, in a detailed sketch style, lively, diverse, done in pencil."
+art_prompt_detailed: "Crowded cobblestone streets lined with medieval-style buildings, filled with characters from different factions identifiable by their distinct attire, local vendors selling exotic goods, and powerful mages mingling with the citizens, all captured in a detailed sketch style, with a focus on the lively expressions and diverse interactions, executed in pencil."
+caption: The City of Evernight bustling with life during the vibrant Storm Festival.
+orientation: landscape
+artistic_value: [interesting person, intricate design, fun]
+descriptive_value: [location, person, object, event, character, background]
+difficulties: [named characters, named location, multipart]
+
+Given the limited budget, these two sections provide the most value in terms of both artistic and descriptive aspects, offering a glimpse into the magical and social dynamics of the Storm Festival. The visuals would enhance the reader's immersion and understanding of the event's significance and its impact on the city.
+
+Retrieved at: 2024-01-02 21:14:35.804876
+Used: False
+Used: True

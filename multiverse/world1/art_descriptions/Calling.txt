@@ -1,0 +1,46 @@
+## Applications of Calling
+
+### Military Use
+
+visual_purpose: What do summoned creatures in a fantasy battle look like?
+ideas_for_art_content: A conjurer summoning a Shadow Dragon amidst a chaotic battlefield, soldiers looking on in awe or fear.
+ideas_for_style: Painting, with a dynamic and dramatic composition to capture the intensity of battle.
+art_prompt: "A conjurer in the midst of a battlefield, summoning a formidable Shadow Dragon, dramatic, intense, done in oil painting"
+art_prompt_detailed: "A robed figure with arms raised, surrounded by the chaos of war, as a massive, ethereal dragon materializes from the ether, depicted with a sense of urgency and awe, rendered in oil painting"
+caption: "The Summoning of a Shadow Dragon during the Battle of Broken Spears, as depicted by a master painter."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, monster, character, narrative]
+difficulties: [named characters, multipart, confusing]
+
+### Construction and Labor
+
+visual_purpose: How does magical Calling aid in construction within the fantasy world?
+ideas_for_art_content: Grimbeorn overseeing the construction of a great structure with ethereal laborers and floating materials.
+ideas_for_style: Sketch, to give a sense of the planning and process of construction.
+art_prompt: "Grimbeorn commanding ghostly workers in the construction of a grand edifice, detailed, process-oriented, done in pencil sketch"
+art_prompt_detailed: "A legendary figure directing translucent figures as they assemble a large, intricate building, with materials hovering in mid-air, captured in a detailed pencil sketch"
+caption: "Grimbeorn utilizing Calling to construct the marvels of the Free Cities."
+orientation: Landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, event, historical]
+difficulties: [named characters, multipart]
+
+## Elemental Calling
+
+visual_purpose: What does the summoning of an elemental look like, and how does it interact with its environment?
+ideas_for_art_content: A wizard calling forth an elemental, with the elemental's form emerging from its natural essence (e.g., a water elemental rising from a lake).
+ideas_for_style: Computer graphics, to capture the otherworldly essence and detail of the elementals.
+art_prompt: "A wizard on the shore of a lake, calling a towering water elemental, vivid, elemental, done in digital art"
+art_prompt_detailed: "A cloaked spellcaster with outstretched hands beside a body of water, as a massive being made of water and energy rises before them, depicted with vibrant colors and digital effects"
+caption: "The majestic summoning of a water elemental by a master of Conjuration."
+orientation: Portrait
+artistic_value: [wondrous, style match]
+descriptive_value: [person, object, character, background]
+difficulties: [named location, multipart]
+
+Given the limited budget, these sections offer the most narrative and visual impact for art additions. They are central to the theme of Calling and would greatly enhance the reader's immersion and understanding of the practice.
+
+Retrieved at: 2024-01-02 21:40:43.473610
+Used: False
+Used: True

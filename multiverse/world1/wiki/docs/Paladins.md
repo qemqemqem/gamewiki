@@ -4,6 +4,9 @@ Paladins are the embodiment of virtue and the divine will on Aesheron. These hol
 
 ## Origins and Training
 
+![Origins and Training](../../images/Paladins_S_Origins%20and%20Training.png)
+A squire receives celestial blessings under the watchful eye of a paladin mentor.
+
 The origins of the first [Paladins](Paladins.md) are shrouded in legend, with tales often tracing back to the divine interventions of the [Sun Deities](Sun%20Deities.md) or other benevolent powers. These stories tell of mortals who were bestowed with celestial might to combat the rising darkness in times of great need.
 
 Aspiring paladins typically begin their journey as squires, serving under the tutelage of a seasoned paladin or within the structured environment of a holy order, such as the renowned [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md). Their training encompasses martial prowess, the study of [holy texts](Holy Texts.md), and the mastery of [divine magic](Divine Magic.md), which they channel through their unshakeable faith.

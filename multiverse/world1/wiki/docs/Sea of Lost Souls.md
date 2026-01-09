@@ -4,6 +4,9 @@ The [Sea of Lost Souls](Sea%20of%20Lost%20Souls.md) is a vast and mysterious bod
 
 ## Geography
 
+![Geography](../../images/Sea%20of%20Lost%20Souls_S_Geography.png)
+"The Sea of Lost Souls, where the boundaries of water and spirit blur under the eternal night.
+
 The Sea of Lost Souls is not marked on any conventional map, for its boundaries are said to shift with the tides of magic and the emotions of the spirits within. Its waters are unusually still and dark, reflecting no light, save for the occasional ghostly luminescence that dances across its surface. The sea's shores are elusive, often appearing only to those who carry the weight of grief or the burden of unresolved pasts.
 
 ## Properties and Phenomena

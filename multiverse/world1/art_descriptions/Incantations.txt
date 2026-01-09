@@ -1,0 +1,55 @@
+## Origins and Nature
+visual_purpose: What did the first incantations look like, and how were they discovered or created?
+ideas_for_art_content: An ancient mage discovering the first incantation, surrounded by arcane symbols and old tomes in the Great Library of Eldara.
+ideas_for_style: Painting, with a mystical and ethereal style reminiscent of classical fantasy art.
+art_prompt: "An ancient mage in the Great Library of Eldara, surrounded by glowing arcane symbols, in a mystical and ethereal style, done in oil painting."
+art_prompt_detailed: "A robed figure with a look of revelation, in a vast library filled with towering bookshelves and ancient scrolls, surrounded by glowing, intricate symbols floating in the air, painted in a style that evokes a sense of wonder and ancient mystery, executed in oil on canvas."
+caption: "The Birth of Incantation: A mage discovers the power of the first words of magic."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [historical, narrative]
+difficulties: [named location, multipart]
+
+## Components of Incantations
+
+### Pronunciation
+visual_purpose: How does a mispronounced incantation affect a spell?
+ideas_for_art_content: A novice spellcaster with a look of concentration, mispronouncing an incantation, resulting in a small magical explosion or a fizzled spell.
+ideas_for_style: Sketch, with dynamic lines showing the movement and the unexpected outcome.
+art_prompt: "A novice spellcaster in the midst of a mispronounced incantation, with dynamic lines depicting a fizzled spell, in pencil sketch."
+art_prompt_detailed: "A young apprentice with an expression of intense focus, in the middle of a magical practice room, with lines and shading illustrating a spell going awry, sketched in pencil."
+caption: "The Importance of Precision: A novice learns the hard way that every syllable counts."
+orientation: portrait
+artistic_value: [interesting person, comedic]
+descriptive_value: [person, event]
+difficulties: [none]
+
+### Rhythm and Cadence
+visual_purpose: What does it look like when a spellcaster uses rhythm and cadence in their incantations?
+ideas_for_art_content: An abjurer chanting with a metronome, magical energy flowing in sync with the rhythm, forming a protective barrier.
+ideas_for_style: Computer graphics, with a focus on the flow and pattern of magical energy.
+art_prompt: "An abjurer chanting with a metronome, magical energy flowing rhythmically, in a detailed computer graphic."
+art_prompt_detailed: "A cloaked figure standing firm, with a small mechanical device keeping time, as waves of light and energy form a shield around them, depicted in a high-resolution digital illustration."
+caption: "Harmony of Protection: An abjurer's chant weaves a shield in perfect rhythm."
+orientation: landscape
+artistic_value: [intricate design, appropriate style]
+descriptive_value: [person, object, event]
+difficulties: [none]
+
+## Learning and Mastery
+visual_purpose: What does the journey to mastering incantations entail?
+ideas_for_art_content: A montage of a spellcaster's journey from a novice studying in a grand academy to a master teaching others, with a focus on the progression of their skills.
+ideas_for_style: Painting, in a style that captures the passage of time and the growth of the spellcaster.
+art_prompt: "A spellcaster's journey from novice to master, depicted in a grand academy setting, in a time-lapse painting style."
+art_prompt_detailed: "A series of images showing a young student poring over books in a majestic hall, practicing incantations in a candlelit room, and finally, as an elder, instructing a group of pupils, all captured in a painting that conveys the progression of time and expertise."
+caption: "The Arcane Path: From novice to master, the mastery of incantations is a spellcaster's lifelong pursuit."
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, story event, character]
+difficulties: [named characters, multipart]
+
+Please note that the value ratings are subjective and based on the potential impact of the art on the reader's understanding and enjoyment of the article. The difficulties listed are considerations for the artist and may affect the cost and time required to produce the artwork.
+
+Retrieved at: 2024-01-02 19:57:20.728452
+Used: False
+Used: True

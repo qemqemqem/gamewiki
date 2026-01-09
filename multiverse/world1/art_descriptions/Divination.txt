@@ -1,0 +1,44 @@
+## Methods of Divination
+
+visual_purpose: What do the various methods of Divination look like in practice?
+ideas_for_art_content: A Diviner using an orb for Scrying, another reading entrails for Augury, a third charting stars for Astrology, a fourth shuffling a deck for Cartomancy, a fifth surrounded by numbers for Numerology, and a sixth casting runes for Runecasting.
+ideas_for_style: Sketch with detailed linework and shading to give depth and a mystical feel.
+art_prompt: "A circle of six Diviners, each practicing a different method of Divination, in a dimly lit chamber filled with arcane symbols, detailed and mystical, done in pencil sketch."
+art_prompt_detailed: "A circle of six robed figures, each engaged in a different arcane practice, in a shadowy room adorned with esoteric sigils, intricate and enigmatic, rendered in pencil sketch."
+caption: "The many methods of Divination, each with its own tools and traditions."
+orientation: Landscape
+artistic_value: Intricate design, wondrous, style match
+descriptive_value: Person, object, event, historical
+difficulties: Named characters, multipart
+
+## Notable Diviners
+
+visual_purpose: Who are these notable Diviners and what makes them unique?
+ideas_for_art_content: Portraits of Seraphine the Seer with a glowing orb, Theron of the Verdant Woods surrounded by nature and animals, and the Oracle of Morath with a hooded cloak and mysterious aura.
+ideas_for_style: Painting in a classical style, reminiscent of old masters' portraits, with rich colors and dramatic lighting.
+art_prompt: "Portraits of Seraphine with a radiant orb, Theron enveloped by the forest, and the Oracle cloaked in shadows, classical and evocative, done in oil painting."
+art_prompt_detailed: "Portraits of a woman with a luminescent sphere, a man entwined with woodland flora and fauna, and a veiled figure shrouded in darkness, traditional and expressive, crafted in oil on canvas."
+caption: "The visages of history's most insightful Diviners."
+orientation: Portrait
+artistic_value: Interesting person, appropriate style
+descriptive_value: Person, character, historical
+difficulties: Named characters
+
+## Places of Power
+
+visual_purpose: What do these mystical locations look like and how do they enhance Divinatory practices?
+ideas_for_art_content: The Sanctum of Whispers with ethereal lights and transparent figures, Echovale Isle with echoes visualized as waves of sound, and the Enchanted Grove with glowing runes on trees.
+ideas_for_style: Computer graphics with vibrant colors and a touch of surrealism to capture the otherworldly essence.
+art_prompt: "The Sanctum with ghostly apparitions, Echovale Isle with sonic ripples, and the Enchanted Grove with luminescent inscriptions, surreal and vibrant, created in digital art."
+art_prompt_detailed: "A secluded sanctuary with spectral silhouettes, an island with visualized echoes, and a forest with trees bearing glowing symbols, fantastical and vivid, produced in digital media."
+caption: "Sacred sites where the veil of reality is thin and Divination thrives."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, background, narrative
+difficulties: Named location
+
+Given the budget constraints, it may be wise to prioritize the "Methods of Divination" section for its descriptive value in illustrating the various practices, and the "Places of Power" section for its potential to evoke a sense of wonder and place. The "Notable Diviners" section, while interesting, could be considered less essential due to the potential cost of creating multiple detailed character portraits.
+
+Retrieved at: 2024-01-02 20:10:55.650001
+Used: False
+Used: True

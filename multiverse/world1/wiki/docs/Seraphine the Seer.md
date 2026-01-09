@@ -8,6 +8,9 @@ The early life of Seraphine the Seer is shrouded in mystery. Born under the ausp
 
 ## Mastery of Evocation
 
+![Mastery of Evocation](../../images/Seraphine%20the%20Seer_S_Mastery%20of%20Evocation.png)
+Seraphine the Seer, Mistress of the Elemental Tapestry, displaying her unmatched evocation powers.
+
 Seraphine's prowess in [evocation](Evocation.md) was unmatched in her era. She could weave the raw energies of the elements with a finesse that left even the most seasoned [evokers](Evokers.md) in awe. Her command over fire, in particular, was said to surpass that of [Pyronus](Pyronus.md), the elemental lord of flame. Her ability to call forth and manipulate the elements earned her the moniker "Mistress of the Elemental Tapestry."
 
 ## Divination and Prophecy

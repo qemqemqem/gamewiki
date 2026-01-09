@@ -2,6 +2,9 @@
 
 Warlocks are spellcasters who gain their powers through pacts with otherworldly beings. Unlike [wizards](Wizards.md) who study ancient tomes, or [sorcerers](Sorcerers.md) who inherit their magic, warlocks are granted their abilities by entities from the [Shadowfell](Shadowfell.md), the [Infernal Planes](Infernal%20Planes.md), or other mysterious realms beyond the ken of ordinary mortals. These beings, known as patrons, are as varied as the powers they bestow, ranging from fiends and fey to eldritch creatures and deities of the [Aether](Aether.md).
 
+![Patrons](../../images/Warlocks_S_Patrons.png)
+"A warlock at the crossroads of destiny, flanked by the diverse patrons of their dark pacts.
+
 ## Pact Magic
 
 The core of a warlock's power lies in their pact, a binding agreement between the warlock and their patron. This pact is often sealed with [rituals](Rituals.md) and oaths, and in exchange for service or loyalty, the patron grants the warlock access to unique spells and abilities. The nature of these spells can vary greatly depending on the patron, but they often include enchantments, curses, and the ability to manipulate the fabric of reality itself.

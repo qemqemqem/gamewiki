@@ -4,6 +4,9 @@ Seers are individuals blessed with the extraordinary ability to perceive events 
 
 ## Origins and Abilities
 
+![Origins and Abilities](../../images/Seers_S_Origins%20and%20Abilities.png)
+A Seer taps into the flow of time, their eyes aglow with the light of foresight.
+
 The origins of Seers are as varied as the visions they receive. Some are chosen by the [sun deities](Sun Deities.md) or [moon deities](Moon Deities.md) at birth, marked by the celestial bodies under which they are born. Others may find their sight awakened by a profound spiritual experience or through rigorous study at institutions like the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md).
 
 Seers possess a diverse array of abilities, the most prominent being clairvoyance. This allows them to glimpse into the future, past, or across great distances. Their insights can reveal the outcomes of battles, the rise and fall of [monarchs](Monarchs.md), or the locations of ancient [artifacts](Whispering Sirens Artifacts.md). Some Seers are also capable of astral projection, enabling their consciousness to traverse the [Elemental Plane](Elemental%20Plane.md) or the haunting expanse of the [Shadowfell](Shadowfell.md).

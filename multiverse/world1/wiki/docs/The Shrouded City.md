@@ -2,6 +2,9 @@
 
 ## Overview
 
+![Overview](../../images/The%20Shrouded%20City_S_Overview.png)
+The Shrouded City, where magic is the essence of life and knowledge is the greatest treasure.
+
 Nestled within the heart of the [Silverlake Valley](Silverlake%20Valley.md), embraced by the gentle arms of the surrounding hills, lies [The Shrouded City](The%20Shrouded%20City.md), a place of enigma and scholarly pursuit. Known for its ever-present mist that clings to the cobblestone streets like a protective cloak, the city is a beacon for [wizards](Wizards.md), scholars, and those with an insatiable thirst for knowledge. The Shrouded City is not merely a location but a living testament to the arcane, where the air itself hums with [magic](Magic.md) and the pursuit of the mystical arts is the lifeblood of its citizens.
 
 ## History

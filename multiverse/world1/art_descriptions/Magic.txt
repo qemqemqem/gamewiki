@@ -1,0 +1,41 @@
+## The Arcane and the Divine
+visual_purpose: What do arcane and divine magic look like, and how do they differ in appearance?
+ideas_for_art_content: A wizard casting an arcane spell with mystical symbols and a cleric channeling divine light; contrasting backgrounds to represent the source of their powers (cosmic/starry for arcane, radiant/golden for divine).
+ideas_for_style: Painting, with a semi-realistic fantasy art style, rich in color and detail.
+art_prompt: "A wizard and a cleric in the midst of casting, with the wizard surrounded by arcane symbols and the cleric by divine light, both depicted in a richly detailed, semi-realistic fantasy style, vibrant and dynamic, done in digital painting."
+art_prompt_detailed: "A robed spellcaster with a tome and a staff surrounded by floating arcane runes and a celestial backdrop, opposite a holy figure in ceremonial armor with hands raised, emitting a golden, divine glow, both portrayed in a detailed, semi-realistic fantasy style, using digital painting techniques."
+caption: "The contrasting essences of arcane and divine magic as channeled by Aesheron's spellcasters."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, wondrous, style match]
+descriptive_value: [person, object, event, character, narrative]
+difficulties: [named characters, multipart]
+
+## The Weave of Magic
+visual_purpose: What does the Weave look like, and how do spellcasters interact with it?
+ideas_for_art_content: An abstract representation of the Weave as a complex, glowing lattice with a mage's hands delicately interacting with the strands.
+ideas_for_style: Computer graphics, with a focus on ethereal, glowing effects and a touch of surrealism.
+art_prompt: "Mage's hands weaving through the glowing, intricate lattice of the Weave, in a surreal and ethereal style, luminous and delicate, created with computer graphics."
+art_prompt_detailed: "A spellcaster's hands emerging from flowing robes, manipulating a glowing, intricate network of energy strands that represent the magical fabric of the world, depicted in a surreal and ethereal computer graphic style."
+caption: "A mage delicately manipulates the Weave, the source of all magical power in Aesheron."
+orientation: Square
+artistic_value: [intricate design, wondrous, style match]
+descriptive_value: [object, event, character, background, narrative]
+difficulties: [obscure style]
+
+## Centers of Magical Study
+visual_purpose: What are the key locations where magic is studied, and what is their atmosphere?
+ideas_for_art_content: The Great Library of Eldara with towering bookshelves and magical tomes, the bustling streets of the Shrouded City with arcane energy in the air, and the imposing Crystal Tower with mages at work.
+ideas_for_style: Sketch, with detailed pencil outlines to capture the architectural and atmospheric essence of each location.
+art_prompt: "The Great Library with towering shelves, the Shrouded City's arcane-filled streets, and the Crystal Tower with busy mages, all in detailed pencil sketches, atmospheric and grand, done in pencil outline."
+art_prompt_detailed: "A vast hall lined with towering bookshelves filled with ancient tomes, a city street where the air shimmers with magical energy and robed figures trade artifacts, and a tall, spiraling tower with robed figures studying around glowing artifacts, all captured in atmospheric pencil sketches."
+caption: "The centers of magical study in Aesheron: The Great Library of Eldara, the Shrouded City, and the Crystal Tower."
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [location, map, background]
+difficulties: [named location, multipart]
+
+Given the limited budget, the value of each piece should be weighed against the potential impact on the players' immersion and understanding of the world. The "Arcane and Divine" and "Weave of Magic" sections are central to the understanding of magic in Aesheron and would greatly benefit from visual representation. The "Centers of Magical Study" could be valuable for world-building but might be less critical if budget constraints are tight.
+
+Retrieved at: 2024-01-02 19:26:46.310425
+Used: False
+Used: True

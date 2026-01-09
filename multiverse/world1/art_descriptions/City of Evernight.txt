@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does a city divided into unique districts within the Shadowfell look like?
+ideas_for_art_content: The central district with the Palace of Twilight, residential quarters with Shadar-Kai architecture, the Vale of Shadows cemetery, and the Sea of Lost Souls.
+ideas_for_style: A dark, atmospheric painting style with a focus on the interplay of light and shadow.
+art_prompt: "The Palace of Twilight towering over the residential quarters of Evernight, with the Vale of Shadows in the foreground and the Sea of Lost Souls in the distance, all depicted in a somber, ethereal painting style, capturing the essence of the Shadowfell."
+art_prompt_detailed: "A grand, gothic palace rising above clustered, shadowy dwellings, bordered by a sprawling cemetery with ghostly figures and a reflective, dark body of water under a starless sky, portrayed in a style that emphasizes the mystical and eerie nature of a city in a twilight realm."
+caption: "The diverse districts of Evernight, from the majestic Palace of Twilight to the haunting Vale of Shadows and the reflective Sea of Lost Souls."
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, map, background]
+difficulties: [named location, multipart]
+
+## Culture
+visual_purpose: How do the people of Evernight celebrate their magical culture?
+ideas_for_art_content: Sorcerers demonstrating their powers at the Storm Festival, artisans and weavers displaying their crafts, and the city's architecture reflecting its cultural identity.
+ideas_for_style: A vibrant, dynamic sketch that captures the energy and creativity of the festival and the city's inhabitants.
+art_prompt: "Sorcerers conjuring elemental magic at the Storm Festival in the heart of Evernight, surrounded by artisans and weavers, in a lively, detailed sketch that showcases the city's rich cultural life."
+art_prompt_detailed: "Mages summoning gusts of wind and bolts of lightning in a bustling city square, with onlookers adorned in shimmering, ethereal garments and intricate tapestries depicting the city's lore in the background, all sketched with a sense of movement and festivity."
+caption: "The Storm Festival in full swing, a celebration of Evernight's magical heritage and artistic achievements."
+orientation: landscape
+artistic_value: [exciting, fun, style match]
+descriptive_value: [event, character, narrative]
+difficulties: [named characters, multipart, instructions unclear]
+
+## Economy
+visual_purpose: What does the economic life in a city like Evernight entail?
+ideas_for_art_content: Blacksmiths at work, healers preparing remedies, merchants in the marketplace, and unique flora like the Moonflower.
+ideas_for_style: A detailed, realistic painting that captures the bustling economic activities and the unique products of Evernight.
+art_prompt: "A lively Evernight marketplace with blacksmiths forging weapons, healers concocting potions, and merchants trading goods, all surrounded by the city's unique flora, depicted in a rich, realistic painting."
+art_prompt_detailed: "Craftsmen working on intricate metalwork, apothecaries mixing glowing ingredients, traders exchanging exotic items, and rare, luminescent plants adding a touch of magic to the scene, all painted with a focus on the details that bring the city's trade to life."
+caption: "The bustling marketplace of Evernight, where the exchange of goods and services fuels the city's thriving economy."
+orientation: landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, background]
+difficulties: [named characters, named location]
+
+Given the limited budget, the Geography section seems to offer the most value in terms of both artistic and descriptive elements, providing a broad view of the city that can help players visualize the setting they will be exploring. The Culture section could also be valuable, as it adds depth to the players' understanding of the city's inhabitants and their customs. The Economy section, while interesting, might be less critical to invest in from a visual standpoint unless the campaign heavily involves economic elements or trade.
+
+Retrieved at: 2024-01-02 20:01:44.708195
+Used: False
+Used: True

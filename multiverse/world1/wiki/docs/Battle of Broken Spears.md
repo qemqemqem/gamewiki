@@ -12,6 +12,9 @@ The chosen battleground was a strategic location known as the [Plains of Valor](
 
 ## The Battle Unfolds
 
+![The Battle Unfolds](../../images/Battle%20of%20Broken%20Spears_S_The%20Battle%20Unfolds.png)
+"The pivotal moment of the Battle of Broken Spears, as the northern alliance stands against the Dark Horde's charge, with General Tharion's flanking maneuver turning the tide.
+
 As the first light of dawn broke over the plains, the Dark Horde's silhouette loomed on the horizon. The air was tense with anticipation, and the sound of clashing steel would soon echo across the land. The northern alliance, bolstered by the presence of their queen, stood ready to face the onslaught.
 
 The battle commenced with a ferocious charge by the Horde, their ranks filled with fearsome creatures and dark sorcerers. However, the northern forces, disciplined and unwavering, absorbed the initial impact with a series of well-prepared defensive formations. The [wizards](Wizards.md) and [sorcerers](Sorcerers.md) among the defenders unleashed their arcane might, while the [Silvermane Horses](Silvermane%20Horses.md) carried knights who cut swathes through the enemy lines.

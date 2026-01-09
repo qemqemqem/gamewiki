@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the mysterious and ever-changing landscape of the Isles of Whisper look like?
+ideas_for_art_content: A panoramic view of the archipelago with various islands, some appearing and others vanishing, dense misty forests, rugged cliffs, and the thick fog rolling in from the sea.
+ideas_for_style: Painting, with a mystical and ethereal quality to capture the otherworldly beauty of the isles.
+art_prompt: "A panoramic view of the Isles of Whisper, with misty forests and rugged cliffs, ethereal and mystical, done in watercolor."
+art_prompt_detailed: "A panoramic view of an archipelago with various islands in different stages of visibility, dense forests shrouded in mist, cliffs rising sharply from a fog-covered sea, painted with an ethereal and mystical quality in watercolor."
+caption: "The ever-shifting landscape of the Isles of Whisper, where the veil between worlds is thin."
+orientation: landscape
+artistic_value: landscape, wondrous, style match
+descriptive_value: location, background, narrative
+difficulties: named location, multipart
+
+## Legends and Lore
+visual_purpose: What do the Whispering Sirens and the Lost Temple of the Moon look like?
+ideas_for_art_content: Ethereal sirens appearing as ghostly figures on the isles, with the Lost Temple of the Moon partially visible in the background during the Lunar Waltz.
+ideas_for_style: Sketch, with a focus on the mystical and haunting aspects of the legends.
+art_prompt: "Ghostly sirens on the shores of an island with the Lost Temple of the Moon in the background, haunting, mystical, done in pencil sketch."
+art_prompt_detailed: "Ethereal figures that resemble ghostly women singing on the shores of a mist-covered island, with an ancient temple partially visible in the background under a unique celestial alignment, sketched with a haunting and mystical quality in pencil."
+caption: "The Whispering Sirens and the elusive Lost Temple of the Moon, central to the isles' legends."
+orientation: landscape
+artistic_value: interesting person, intricate design, style match
+descriptive_value: person, event, historical, narrative
+difficulties: named characters, named location, multipart
+
+## Flora and Fauna
+visual_purpose: What unique species inhabit the Isles of Whisper?
+ideas_for_art_content: Silent Orchids with their sound-absorbing petals, Echo Bats navigating silently, and Glimmerfish emitting a bioluminescent glow in the dark waters.
+ideas_for_style: Computer graphics, to capture the unique characteristics and bioluminescence with a vibrant and detailed depiction.
+art_prompt: "Silent Orchids with sound-absorbing petals, Echo Bats, and bioluminescent Glimmerfish, vibrant and detailed, done in computer graphics."
+art_prompt_detailed: "Flowers with unique petals that seem to draw in the surrounding sound, bats moving silently through a foggy environment, and fish glowing with a soft light in dark waters, depicted vibrantly and in detail using computer graphics."
+caption: "The unique and silent inhabitants of the Isles of Whisper: Silent Orchids, Echo Bats, and Glimmerfish."
+orientation: square
+artistic_value: intricate design, exciting, style match
+descriptive_value: object, monster, character
+difficulties: none
+
+Given the limited budget, I would suggest prioritizing the "Geography" section for artwork, as it sets the scene for the entire campaign and can be used repeatedly to immerse players in the setting. The "Legends and Lore" section could also be valuable for visual storytelling and engaging player interest in the mysteries of the Isles. The "Flora and Fauna" section, while interesting, may be less critical and could be described in text or with simpler illustrations if budget constraints are tight.
+
+Retrieved at: 2024-01-02 19:23:33.361638
+Used: False
+Used: True

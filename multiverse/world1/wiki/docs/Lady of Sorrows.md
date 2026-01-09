@@ -8,6 +8,9 @@ The origins of the Lady of Sorrows are as enigmatic as her presence. Some say sh
 
 ## Appearance
 
+![Appearance](../../images/Lady%20of%20Sorrows_S_Appearance.png)
+The Lady of Sorrows, guardian of the Shadar-Kai and the embodiment of the Shadowfell's eternal twilight.
+
 The Lady of Sorrows is often depicted as a tall, ethereal figure draped in flowing robes that seem to blend into the mists of the Shadowfell. Her face is said to be hauntingly beautiful, yet it bears an expression of deep melancholy. Her eyes, devoid of light, are pools of endless sorrow that draw in the souls of the onlookers, offering both solace and a chilling reminder of the inevitability of despair.
 
 ## Influence and Power

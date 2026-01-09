@@ -4,6 +4,9 @@ Enchanters are a distinguished class of [spellcasters](Spellcasters.md) whose ex
 
 ## History and Role in Society
 
+![History and Role in Society](../../images/Enchanters_S_History%20and%20Role%20in%20Society.png)
+"Enchanters: From the Age of Twilight to Key Figures in Society
+
 The origins of enchantment magic trace back to the [Age of Twilight](Age%20of%20Twilight.md), a time when the boundaries between the physical and ethereal were said to be at their thinnest. It was during this era that the first enchanters learned to tap into the latent magic of the world, using it to influence the thoughts and actions of others.
 
 In contemporary society, enchanters serve a variety of roles. They are diplomats, capable of soothing tensions with a word; they are spies, able to extract secrets without leaving a trace; and they are entertainers, enchanting audiences with illusions and performances that captivate the senses. However, their abilities also make them invaluable in conflicts, as they can turn the tide of battle without drawing a blade.

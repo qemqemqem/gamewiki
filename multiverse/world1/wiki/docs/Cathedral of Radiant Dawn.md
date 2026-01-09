@@ -4,6 +4,9 @@ The [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md) stands as a 
 
 ## Architecture
 
+![Architecture](../../images/Cathedral%20of%20Radiant%20Dawn_S_Architecture.png)
+The Cathedral of Radiant Dawn, a marvel of architecture and magic, greets the morning sun.
+
 Designed by the renowned [Artisans](Artisans.md) of the [Aesheron](Aesheron.md) lineage, the Cathedral's architecture is a marvel that blends functionality with spiritual significance. The grand edifice is oriented to greet the sun's first light each morning, with its towering spires and stained glass windows capturing the essence of the sun's power. The main hall's ceiling is adorned with a masterful mosaic depicting the [Ancient War](Ancient%20War.md) of the celestial beings, illuminated by the sun's rays to inspire awe in all who enter.
 
 The Cathedral's construction was a feat of both engineering and [magic](Magic.md), with workers employing spells like [Feather Fall](Feather%20Fall.md) to ensure their safety while crafting the high vaults and delicate spires. The use of such magic during construction is a testament to the Cathedral's sacred bond with the arcane arts.

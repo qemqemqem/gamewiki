@@ -8,6 +8,9 @@ The Council's origins date back to the [Age of Wonders](Age%20of%20Wonders.md), 
 
 ## Structure and Membership
 
+![Structure and Membership](../../images/Council%20of%20Elders%20in%20Silverlake%20Valley_S_Structure%20and%20Membership.png)
+The Council of Elders in Silverlake Valley, united in wisdom and purpose.
+
 The Council is structured as a circle, with no one member holding more authority than another, embodying the principles of equality and mutual respect. Membership is granted only to those who have demonstrated exceptional wisdom, a deep understanding of natural law, and a commitment to the preservation of balance. Notable members of the Council include [Aesheron](Aesheron.md), the ancient [Druid](Druid.md) who speaks for the trees, and [Seraphine the Seer](Seraphine%20the%20Seer.md), an [Elf](Elf.md) renowned for her prophetic visions.
 
 ## Responsibilities and Duties

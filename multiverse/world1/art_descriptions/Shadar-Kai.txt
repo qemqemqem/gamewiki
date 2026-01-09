@@ -1,0 +1,41 @@
+## Culture and Society
+visual_purpose: What does the unique society of the Shadar-Kai look like, and how do they celebrate their traditions?
+ideas_for_art_content: Depict a Shadar-Kai ritual with participants showcasing their tattoos, a ceremony in progress, or a gathering in a stable region like the City of Evernight.
+ideas_for_style: A painting with a gothic feel, using dark and muted colors to reflect the grim atmosphere of the Shadowfell.
+art_prompt: "A group of Shadar-Kai in the midst of a ritual within the City of Evernight, gothic and somber, done in oil painting"
+art_prompt_detailed: "A group of pale, tattooed figures engaged in a ceremonial ritual within a dark, foreboding cityscape, gothic and somber, done in oil painting"
+caption: "Shadar-Kai participating in a traditional ritual, showcasing their resilience and cultural heritage."
+orientation: [landscape]
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, event, cultural]
+difficulties: [named characters, named location, multipart]
+
+## Abilities and Powers
+visual_purpose: How do the Shadar-Kai's supernatural abilities manifest, and what does their shadow magic look like?
+ideas_for_art_content: Illustrate a Shadar-Kai using shadow magic to blend into darkness or a warrior employing hit-and-run tactics in a battle scene.
+ideas_for_style: Computer graphics to capture the dynamic and ethereal quality of shadow magic.
+art_prompt: "A Shadar-Kai warrior vanishing into a shadowy mist, dynamic and ethereal, rendered in computer graphics"
+art_prompt_detailed: "A lithe warrior with ashen skin and dark attire fading into a swirling shadowy mist, dynamic and ethereal, rendered in computer graphics"
+caption: "A Shadar-Kai utilizing their innate shadow magic to become one with the darkness."
+orientation: [portrait]
+artistic_value: [exciting, style match]
+descriptive_value: [person, object, event, narrative]
+difficulties: [named characters, obscure style]
+
+## Relations with Other Races
+visual_purpose: What do interactions between the Shadar-Kai and other races look like?
+ideas_for_art_content: A tense trade meeting between Shadar-Kai and Adventurers or a rare alliance with a Shadow Dragon.
+ideas_for_style: A sketch to capture the raw and immediate nature of these interactions.
+art_prompt: "A cautious encounter between Shadar-Kai and human adventurers, raw and immediate, sketched in pencil"
+art_prompt_detailed: "A group of pale, tattooed beings with piercing eyes in a wary exchange with armored human figures, raw and immediate, sketched in pencil"
+caption: "A rare and tense trade between the Shadar-Kai and adventurers from the material plane."
+orientation: [landscape]
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, multipart]
+
+Given the limited budget, it is important to prioritize the sections that would benefit most from visual representation. The "Culture and Society" section has the highest descriptive value, providing insight into the Shadar-Kai's traditions and way of life. The "Abilities and Powers" section has high artistic and descriptive value, as it can visually depict the unique abilities of the Shadar-Kai. The "Relations with Other Races" section has moderate artistic and descriptive value, showing the Shadar-Kai's interactions with other beings, which is important for narrative context.
+
+Retrieved at: 2024-01-02 20:25:50.716248
+Used: False
+Used: True

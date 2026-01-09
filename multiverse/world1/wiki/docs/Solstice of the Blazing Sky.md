@@ -12,6 +12,9 @@ The festival symbolizes the triumph of light over darkness, embodying the eterna
 
 ### Pilgrimages and Sacred Sites
 
+![Pilgrimages and Sacred Sites](../../images/Solstice%20of%20the%20Blazing%20Sky_S_Pilgrimages%20and%20Sacred%20Sites.png)
+Pilgrims of various races making their way to the Cathedral of Radiant Dawn during the Solstice of the Blazing Sky.
+
 Devotees from all walks of life—[Clerics](Clerics.md), [mages](Mages.md), [paladins](Paladins.md), and common folk—embark on pilgrimages to sacred sites such as the [Echoing Basin](Echoing%20Basin.md) on [Echovale Isle](Echovale%20Isle.md) and the majestic [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md). These locations are believed to be particularly blessed during the solstice, resonating with the power of the sun.
 
 ### Rituals and Offerings

@@ -5,6 +5,9 @@ The [Elemental Plane](Elemental%20Plane.md) is a vast and enigmatic realm that e
 ## Domains of the Elemental Plane
 
 ### The Earthen Realm
+
+![The Earthen Realm](../../images/Elemental%20Plane_S_The%20Earthen%20Realm.png)
+Grimbeorn the Builder shaping the terrain of the Earthen Realm, surrounded by the domain's majestic landscapes.
 The Earthen Realm is a land of towering mountains, endless caverns, and sprawling stone forests. It is the foundation upon which the other elemental domains rest. In this domain, [Earth Elementals](Earth%20Elementals.md) and creatures of stone and crystal dwell, shaping the terrain with their mere presence. The Earthen Realm is also home to the legendary [Grimbeorn the Builder](Grimbeorn%20the%20Builder.md), a figure of immense strength and craftsmanship.
 
 ### The Aquatic Expanse

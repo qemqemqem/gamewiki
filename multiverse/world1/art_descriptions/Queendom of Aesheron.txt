@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the diverse terrain of Aesheron look like, and how do its natural and man-made wonders coexist within the landscape?
+ideas_for_art_content: A panoramic view showing the fertile Silverlake Valley, the imposing Stormhold Castle, the Crystal Sea with ships, and the Throne of the Mountain King in the distance.
+ideas_for_style: Painting, with a fantasy-realism style that captures the majesty and diversity of the terrain.
+art_prompt: "A panoramic view of Aesheron, showcasing the Silverlake Valley, Stormhold Castle, Crystal Sea, and Throne of the Mountain King, in a vibrant and detailed fantasy-realism painting."
+art_prompt_detailed: "A panoramic view of a diverse fantasy realm, showcasing a lush valley, an imposing castle on a hill, a sparkling sea with sailing ships, and distant towering mountains, all depicted in a vibrant and detailed fantasy-realism painting."
+caption: "The varied landscapes of Aesheron, from the fertile valleys to the rugged mountain peaks."
+orientation: landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, map, background]
+difficulties: [named location, multipart]
+
+## Military
+visual_purpose: What does the might of Aesheron's military look like, and how do its elite units and historical battlefields appear?
+ideas_for_art_content: A dramatic scene with members of the Order of the Crimson Blade and the Order of the Veiled Eye in their distinctive armor, with the Battlefield of Forgotten Kings or the Plains of Valor in the background.
+ideas_for_style: Sketch, with dynamic lines and shading to convey the movement and energy of a military scene.
+art_prompt: "Elite warriors of Aesheron, clad in distinctive armor, standing ready on a historic battlefield, sketched with dynamic lines and shading."
+art_prompt_detailed: "Elite warriors in ornate armor, with emblems of a crimson blade and a veiled eye, standing ready on a field marked by monuments to past battles, sketched with dynamic lines and shading to convey movement and energy."
+caption: "The elite forces of Aesheron, guardians of peace and defenders of the realm."
+orientation: landscape
+artistic_value: [interesting person, exciting, style match]
+descriptive_value: [person, event, historical, military]
+difficulties: [named characters, multipart]
+
+## Religion and Magic
+visual_purpose: How do the spiritual and magical aspects of Aesheron manifest in its architecture and people?
+ideas_for_art_content: The Fallen Temple of the Moon with pilgrims and practitioners of magic performing rituals, surrounded by an aura of mystical energy.
+ideas_for_style: Computer graphics, with a mystical and ethereal quality to capture the essence of magic and spirituality.
+art_prompt: "The Fallen Temple of the Moon, with pilgrims and magic users engaged in ancient rituals, surrounded by mystical energy, rendered in ethereal computer graphics."
+art_prompt_detailed: "An ancient, crumbling temple bathed in moonlight, with figures in ceremonial robes and mystical practitioners wielding arcane symbols, all enveloped in a soft glow of magical energy, rendered in ethereal computer graphics."
+caption: "The Fallen Temple of the Moon, a nexus of spiritual devotion and magical practice."
+orientation: portrait
+artistic_value: [intricate design, wondrous]
+descriptive_value: [location, object, event, historical, character, narrative]
+difficulties: [named location, obscure style]
+
+Given the limited budget, these sections have been selected for their potential to greatly enhance the reader's understanding and immersion in the world of Aesheron. The artistic and descriptive value of the visuals in these sections would justify the investment. However, it's important to prioritize which images are most critical to the players' experience and commission artwork accordingly.
+
+Retrieved at: 2024-01-02 19:35:04.381216
+Used: False
+Used: True

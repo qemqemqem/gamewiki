@@ -10,6 +10,9 @@ The Storm Festival serves as a testament to the city's enduring spirit and its i
 
 ## Celebratory Practices
 
+![Celebratory Practices](../../images/Storm%20Festival_S_Celebratory%20Practices.png)
+Mages of Evernight performing dazzling arcane displays during the Storm Festival.
+
 ### Arcane Displays
 
 The most anticipated events of the Storm Festival are the arcane displays. Sorcerers, [Wizard](Wizard.md)s, and other practitioners of the magical arts gather to showcase their abilities. The skies above the City of Evernight come alive with brilliant colors and patterns, as mages use [Arcane Scripts](Arcane%20Scripts.md) to weave complex spells that summon gusts of wind, torrents of rain, and even controlled lightning.

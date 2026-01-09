@@ -4,6 +4,9 @@ Elemental Essences are the purest forms of elemental energies, distilled into a 
 
 ## Origins and Nature
 
+![Origins and Nature](../../images/Elemental%20Essences_S_Origins%20and%20Nature.png)
+The Elemental Planes converging and essences seeping into the material world.
+
 The origins of Elemental Essences are deeply rooted in the [Creation](Creation.md) mythos of the world. It is said that when the cosmos was formed, the primordial energies coalesced into the Elemental Planes, each a vast and infinite expanse of pure elemental force. From these planes, Elemental Essences seep into the material world through rifts and nexuses, such as the [Crystal Waters](Crystal%20Waters.md), where the veil between worlds is thin.
 
 Elemental Essences are not merely physical substances; they are concentrations of energy with consciousness, resonating with the spirits of their respective elements. An [Earth Essence](Earth%20Essence.md) might embody the steadfastness of stone, while a [Fire Essence](Fire%20Essence.md) could flicker with the temperamental nature of flames.

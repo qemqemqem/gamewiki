@@ -6,6 +6,9 @@
 
 ## Physiology
 
+![Physiology](../../images/Fire%20Elementals_S_Physiology.png)
+"Various forms of fire elementals, showcasing their mesmerizing and terrifying nature.
+
 The physical manifestation of a fire elemental can vary greatly, but they typically assume a form that is both mesmerizing and terrifying. Some appear humanoid, with limbs that crackle and dance with flames, while others are amorphous, their shapes shifting with the whims of the fire that composes their being. At the core of each elemental is a heart of fire, a nexus of power that shines with an intensity that rivals the sun itself.
 
 ## Behavior and Nature

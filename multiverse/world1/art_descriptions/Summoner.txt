@@ -1,0 +1,40 @@
+## Origins and Practice
+visual_purpose: What did the ancient summoners look like, and how did their early rituals appear?
+ideas_for_art_content: An ancient summoner performing a ritual, surrounded by old texts and arcane symbols, with a faint outline of a being starting to appear.
+ideas_for_style: Sketch with an ancient and mystical feel, using sepia tones to give a sense of age.
+art_prompt: "An ancient summoner in the midst of a ritual, surrounded by mystical tomes and glowing sigils, in a sketch style, mysterious and aged, done in sepia tones."
+art_prompt_detailed: "A robed figure with obscured features stands in the center of a dimly lit stone chamber, surrounded by worn leather-bound tomes and glowing arcane symbols etched into the ground, depicted in a sketch style with sepia tones to emphasize the antiquity of the scene."
+caption: An ancient summoner invoking the first pacts, as depicted in the Eldara Codex.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, historical]
+difficulties: [none]
+
+## The Summoning Ritual
+visual_purpose: How does a summoning circle look, and what is the atmosphere during a ritual?
+ideas_for_art_content: A detailed summoning circle with a summoner in the center, various reagents and arcane foci around them, and a gateway beginning to form.
+ideas_for_style: Painting with a dark, atmospheric style, highlighting the magical energy of the ritual.
+art_prompt: "A summoner inside a complex summoning circle, with magical energy swirling, in a dark, atmospheric painting style, detailed and mystical, done in oils."
+art_prompt_detailed: "A cloaked figure stands confidently within a labyrinthine circle of intertwining runes and sigils that glow with an otherworldly light, while mystical reagents and ornate foci are carefully arranged at specific points around the perimeter, all captured in a dark, atmospheric oil painting that accentuates the magical ambiance of the ritual."
+caption: A summoner conducting a ritual within the protective confines of an arcane circle.
+orientation: Landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, event]
+difficulties: [named location, multipart]
+
+## Entities and Pacts
+visual_purpose: What do the various entities look like, and how do they interact with the summoner?
+ideas_for_art_content: A summoner shaking hands or exchanging a symbolic item with a clearly otherworldly entity, such as a Fire Elemental or a Fey creature.
+ideas_for_style: Computer graphics to capture the otherworldliness and detail of the entities.
+art_prompt: "A summoner forming a pact with a Fire Elemental, in a vibrant computer graphic style, detailed and otherworldly, done in digital medium."
+art_prompt_detailed: "A human figure clad in elaborate robes stands facing a towering, incandescent being composed of flames and molten rock, their hands meeting in a gesture of agreement, all rendered in a vibrant computer graphic style that brings out the stark contrast between the mortal summoner and the majestic Fire Elemental."
+caption: A summoner sealing a pact with a Fire Elemental, as witnessed by the Keepers of the Eldara Codex.
+orientation: Portrait
+artistic_value: [exciting, intricate design]
+descriptive_value: [person, monster, character, narrative]
+difficulties: [named characters]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the campaign world.
+
+Retrieved at: 2024-01-02 21:22:55.692558
+Used: False

@@ -1,0 +1,40 @@
+## The Council of Arcana
+visual_purpose: What does the most powerful assembly of Mages and Sorcerers look like?
+ideas_for_art_content: A grand, circular chamber with robed figures seated around a mystical artifact or a magical hologram of Aesheron. Central figures could be the archmage and senior sorcerers, with magical energy crackling between them.
+ideas_for_style: painting, with a style reminiscent of classic fantasy art, rich in color and detail
+art_prompt: "The archmage and senior sorcerers in the grand chamber of the Council of Arcana, vibrant and detailed, done in oil painting"
+art_prompt_detailed: "A wise, elderly figure in elaborate robes, surrounded by other robed individuals of various ages and races, in a circular chamber filled with arcane symbols and artifacts, depicted in a vibrant and detailed oil painting"
+caption: The Council of Arcana convenes in their grand chamber, the heart of magical governance in Aesheron.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, person, object, event, historical]
+difficulties: [named characters, multipart]
+
+## The Councils of the Free Cities
+visual_purpose: How do the diverse leaders of the city-states collaborate and debate?
+ideas_for_art_content: A bustling council room with a large, round table where various leaders are engaged in heated discussion. The background could show the cityscape through large windows.
+ideas_for_style: sketch, with a focus on capturing the dynamic expressions and postures of the council members
+art_prompt: "City-state leaders around a round table in a council room, expressive, done in pencil sketch"
+art_prompt_detailed: "A mix of nobles, scholars, and merchants, each with distinctive attire representing their city-state, seated around a large table in a room with tall windows showcasing the city skyline, captured in an expressive pencil sketch"
+caption: The Councils of the Free Cities debate the future of their realms.
+orientation: landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, event]
+difficulties: [named location, multipart]
+
+## The Council of Elders in Silverlake Valley
+visual_purpose: What is the appearance of the council that bridges civilization and the wilds?
+ideas_for_art_content: An outdoor setting in a lush valley with ancient trees, where the council of druids and elven sages gather. They could be shown performing a ritual or in deep contemplation.
+ideas_for_style: painting, with an ethereal and mystical quality, perhaps in watercolor to give a sense of fluidity and connection to nature
+art_prompt: "Druids and elven sages in the heart of Silverlake Valley, ethereal and mystical, done in watercolor"
+art_prompt_detailed: "Age-old beings with a serene presence, adorned in natural garments, gathered in a verdant valley beneath towering ancient trees, depicted with an ethereal and mystical quality in watercolor"
+caption: The Council of Elders in Silverlake Valley, guardians of the balance between civilization and nature.
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, person, object, event, historical]
+difficulties: [named characters, named location, multipart]
+
+Given the limited budget, I would recommend prioritizing the art for "The Council of Arcana" section, as it has the highest artistic and descriptive value, depicting a central and powerful element of your world. The "Council of Elders in Silverlake Valley" could also be a good choice due to its potential to showcase the unique blend of civilization and nature in your campaign.
+
+Retrieved at: 2024-01-02 20:56:02.665448
+Used: False

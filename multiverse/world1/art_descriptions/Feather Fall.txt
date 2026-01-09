@@ -1,0 +1,41 @@
+## Overview
+visual_purpose: What does the spell Feather Fall look like when cast?
+ideas_for_art_content: A spellcaster with arms outstretched, a feather floating down from their hand, and a soft glow surrounding them indicating the magic's effect.
+ideas_for_style: Sketch with light watercolor to give it an ethereal feel.
+art_prompt: "A spellcaster in mid-cast, with a feather floating down, in a sketch and watercolor style, ethereal, graceful, done in pencil and watercolors."
+art_prompt_detailed: "A robed figure with arms outstretched in a casting pose, a single feather floating down from their open palm, surrounded by a soft magical aura, depicted in a sketch and watercolor style, conveying a sense of weightlessness and magic."
+caption: A spellcaster invoking the Feather Fall spell, with the magic taking effect as a feather gently descends.
+orientation: Portrait
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, object, event]
+difficulties: [none]
+
+## In Practice
+visual_purpose: How does Feather Fall operate in a real-world scenario?
+ideas_for_art_content: Adventurers descending safely from a cliff, with one of them in the process of casting the spell, and the others floating down gently.
+ideas_for_style: Dynamic painting with a focus on movement and the environment.
+art_prompt: "Adventurers descending a cliffside, in a dynamic painting style, action-packed, vivid, done in acrylics."
+art_prompt_detailed: "A group of armored and cloaked figures gently floating down a rugged cliff face, with one figure in the foreground casting the spell, depicted in a dynamic painting style, highlighting the motion and the environment, created with acrylic paints."
+caption: Adventurers using Feather Fall to navigate a perilous descent from a towering cliff.
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [location, person, event]
+difficulties: [named characters, multipart]
+
+## Cultural Significance
+visual_purpose: What are some cultural representations of Feather Fall?
+ideas_for_art_content: A scene from a festival where performers use Feather Fall in their dance, with onlookers marveling at the spectacle.
+ideas_for_style: Vibrant and detailed illustration to capture the festive atmosphere.
+art_prompt: "Performers at a festival using Feather Fall in their dance, in an illustration style, vibrant, detailed, done in digital art."
+art_prompt_detailed: "Elegantly dressed dancers mid-performance, floating above a stage with the aid of Feather Fall, as a crowd of diverse onlookers expresses wonder and delight, depicted in a vibrant and detailed illustration style, created digitally."
+caption: Performers incorporating Feather Fall into a mesmerizing dance at a local festival.
+orientation: Landscape
+artistic_value: [fun, wondrous, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [none]
+
+Given the limited budget, the "Overview" section is the most critical to illustrate as it directly relates to the understanding of the spell. The "In Practice" section would be valuable for showing the spell's application, and the "Cultural Significance" section could be a lower priority unless the cultural aspects are a significant part of your campaign's storytelling.
+
+Retrieved at: 2024-01-02 21:03:11.801796
+Used: False
+Used: True

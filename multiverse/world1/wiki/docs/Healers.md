@@ -4,6 +4,9 @@ Healers are a revered group of individuals within the realm, possessing the sacr
 
 ## Origins and Training
 
+![Origins and Training](../../images/Healers_S_Origins%20and%20Training.png)
+"An ancient healer channels mystical energies in the Ruins of Eldara, as depicted in ancient texts.
+
 The origins of healing practices are as old as civilization itself, with ancient texts from the [Ruins of Eldara](Ruins%20of%20Eldara.md) depicting figures surrounded by auras of light tending to the injured. The path to becoming a healer is diverse, with some learning through apprenticeship under experienced practitioners, while others study at esteemed institutions like the [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md) or the [Great Library of Eldara](Great%20Library%20of%20Eldara.md).
 
 Training to become a healer involves mastering various disciplines, including the use of [herbal remedies](Herbs.md), [incantatory magic](Incantations.md), and the manipulation of elemental energies. A deep understanding of the body and soul is essential, as is the knowledge of [reagents](Reagents.md) that can augment healing spells.

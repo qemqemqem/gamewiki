@@ -4,6 +4,9 @@ Scholars are the esteemed individuals dedicated to the pursuit of knowledge and 
 
 ## Role and Importance
 
+![Role and Importance](../../images/Scholars_S_Role%20and%20Importance.png)
+A scholar delves into ancient tomes within the Academy of Planar Studies.
+
 Scholars hold a vital role in society, serving as educators, advisors, and researchers. They are often found within the hallowed halls of institutions such as the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) or the esteemed [Sanctum of Whispers](Sanctum%20of%20Whispers.md), where they delve into the complexities of the cosmos and the intricacies of magic. Their work is not limited to the theoretical, as they also apply their vast knowledge to practical matters, aiding in the resolution of conflicts such as the [War of the Shadowed Vale](War%20of%20the%20Shadowed%20Vale.md) or interpreting the celestial events foretold during the [Dawn of the New Light](Dawn%20of%20the%20New%20Light.md).
 
 ## Areas of Study

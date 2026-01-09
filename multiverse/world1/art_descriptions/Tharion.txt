@@ -1,0 +1,44 @@
+## Tharion, the Deity
+
+visual_purpose: What does a temple dedicated to Tharion look like, and how do worshippers perform rituals within it?
+ideas_for_art_content: A grand temple with vast libraries, worshippers in scholarly robes, a priest performing a divinatory ritual, and symbols of knowledge and foresight.
+ideas_for_style: Painting, with a style reminiscent of classical religious art to convey a sense of reverence and timelessness.
+art_prompt: "The grand temple of Tharion, nestled in the Verdant Woods, painted in a classical style, majestic and serene, done in oil on canvas."
+art_prompt_detailed: "A grand temple with towering spires and arches, surrounded by lush, ancient forest, depicted in a classical style, with worshippers in ornate robes performing rituals, the interior filled with books and mystical symbols, created with oil paints."
+caption: "Worshippers seek the guidance of Tharion within the grand temple, a sanctuary of knowledge and foresight."
+orientation: [landscape]
+artistic_value: [appropriate style, wondrous]
+descriptive_value: [location, person, object, event, historical]
+difficulties: [named location, multipart]
+
+## Tharion, the General
+
+visual_purpose: How did General Tharion lead his troops during the pivotal Battle of Broken Spears?
+ideas_for_art_content: General Tharion on horseback, commanding his troops, the Free Cities' army clashing with the Dark Horde, the Plains of Valor as the backdrop.
+ideas_for_style: Sketch, with dynamic lines to capture the movement and intensity of battle.
+art_prompt: "General Tharion on horseback, leading a flanking maneuver on the Plains of Valor, in a dynamic sketch style, intense and focused, done in pencil."
+art_prompt_detailed: "A figure in battle armor on horseback, gesturing commands to an army of diverse soldiers, with a chaotic battlefield in the background, sketched with vigorous lines to depict motion and urgency, executed in pencil."
+caption: "General Tharion's strategic genius turns the tide of battle on the Plains of Valor."
+orientation: [landscape]
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Tharion, the Master Archivist
+
+visual_purpose: What kind of arcane knowledge did Tharion discover, and how did it impact the magical community?
+ideas_for_art_content: Tharion examining ancient texts in the Ruins of Eldara, magical symbols glowing around him, moonflower alchemy in progress.
+ideas_for_style: Computer graphics, to give a magical and ethereal quality to the arcane symbols and alchemical processes.
+art_prompt: "Tharion, the master archivist, amidst the Ruins of Eldara, with glowing arcane symbols, ethereal and insightful, rendered in digital art."
+art_prompt_detailed: "A robed figure with a discerning gaze, surrounded by crumbling stone structures and overgrown with vines, examining ancient manuscripts with glowing runes, with alchemical equipment bubbling nearby, depicted in a digital art style."
+caption: "Master Archivist Tharion unearths ancient spells and alchemical secrets within the mystical Ruins of Eldara."
+orientation: [portrait]
+artistic_value: [intricate design, wondrous]
+descriptive_value: [person, object, background, narrative]
+difficulties: [named characters, named location]
+
+Given the limited budget, the sections chosen for illustration should be those that add the most value to the reader's understanding and immersion in the world. The "Tharion, the Deity" and "Tharion, the General" sections are likely to have the highest descriptive and artistic value, providing visual context to significant aspects of Tharion's influence. The "Tharion, the Master Archivist" could also be valuable, but if budget constraints are tight, focusing on the first two may suffice.
+
+Retrieved at: 2024-01-02 21:00:20.410916
+Used: False
+Used: True

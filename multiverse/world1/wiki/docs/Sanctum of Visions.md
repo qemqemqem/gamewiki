@@ -4,6 +4,9 @@ The [Sanctum of Visions](Sanctum%20of%20Visions.md) is a revered and enigmatic p
 
 ## History and Significance
 
+![History and Significance](../../images/Sanctum%20of%20Visions_S_History%20and%20Significance.png)
+"The Sanctum of Visions, where the fabric of reality thins and the future is foretold.
+
 The origins of the Sanctum of Visions are as ancient as they are obscure. Legend speaks of its creation by the [Ancients](Ancients.md), a civilization whose understanding of the [Elements](Elements.md) and the cosmos surpassed that of any known to the current age. The sanctum is built upon a confluence of powerful [Ley Lines](Ley%20Lines.md), which are believed to amplify the mystical energies required for foresight and [Ritual Magic](Ritual%20Magic.md).
 
 The architecture of the Sanctum of Visions is a marvel to behold, with spires that pierce the sky and walls inscribed with [Arcane Scripts](Arcane%20Scripts.md). The innermost chamber, known as the Oracle's Atrium, houses a great crystalline orb, said to be a fragment of the [Crystal Lake](Crystal%20Lake.md) itself. This orb pulsates with an inner light, and it is here that the Oracle communes with the forces of destiny.

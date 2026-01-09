@@ -8,6 +8,9 @@ The true origins of Humans remain a subject of debate among scholars. Some belie
 
 ## Society and Culture
 
+![Society and Culture](../../images/Humans_S_Society%20and%20Culture.png)
+"The Moonflower Festival, a celebration of life and community in Human society.
+
 Human society is as varied as the environments they inhabit. From the bustling cities of the [Queendom of Aesheron](Queendom%20of%20Aesheron.md) to the fortified towns of the [Free Cities](Free%20Cities.md), each Human settlement has its unique customs and traditions. The [Moonflower Festival](Moonflower%20Festival.md) is one such tradition that exemplifies Human culture's emphasis on community and the celebration of life.
 
 Humans are also known for their patronage of the arts and sciences. Institutions like the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) are testaments to their pursuit of knowledge and understanding. This thirst for learning has also led many Humans to join the ranks of the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md), where they study the mysteries of the [Ancients](Ancients.md) and the arcane arts alongside other magically inclined races.

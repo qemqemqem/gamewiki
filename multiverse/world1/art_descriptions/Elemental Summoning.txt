@@ -1,0 +1,44 @@
+## The Summoning Process
+
+visual_purpose: What does the intricate process of summoning an elemental look like?
+ideas_for_art_content: A summoner in the midst of a ritual, surrounded by arcane symbols and sigils, with a partially materialized elemental emerging from a magical portal or vortex.
+ideas_for_style: A mystical, ethereal painting style with vibrant colors to emphasize the magical energy and the elemental's power.
+art_prompt: "A summoner in a consecrated space, surrounded by glowing sigils, in a vibrant, mystical style, summoning an elemental, done in watercolor"
+art_prompt_detailed: "A robed figure stands in the center of a stone chamber, marked with luminescent runes and symbols, in a vibrant, mystical style, as they focus intently on a swirling vortex of energy from which an elemental begins to emerge, rendered in watercolor"
+caption: A skilled summoner calls forth an elemental being, surrounded by ancient sigils of power.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, character, background, narrative]
+difficulties: [named characters, multipart]
+
+## Applications of Elemental Summoning
+
+visual_purpose: How do elementals assist in various tasks within the world?
+ideas_for_art_content: A series of vignettes showing different elementals aiding in tasks such as agriculture (an Earth Elemental enriching soil), combat (a Fire Elemental in battle), construction (an Earth Elemental shaping stone), and conservation (a Water Elemental restoring a stream).
+ideas_for_style: A detailed, realistic sketch that captures the essence of each elemental's power and utility.
+art_prompt: "A series of vignettes depicting various elementals aiding in tasks, in a detailed, realistic sketch style"
+art_prompt_detailed: "Four separate scenes in one image, each showing a different elemental: one tending to crops, another engulfed in flames on a battlefield, the third carving stone with its hands, and the last purifying a waterway, all depicted in a detailed, realistic sketch style"
+caption: Elementals at work, showcasing their diverse abilities to shape and protect the world.
+orientation: landscape
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [location, object, event, character, background]
+difficulties: [named location, multipart]
+
+## Risks and Precautions
+
+visual_purpose: What are the consequences of a summoning gone awry?
+ideas_for_art_content: A summoner struggling to maintain control over a rebellious elemental, with the environment around them showing signs of elemental disturbance and chaos.
+ideas_for_style: A dynamic, action-packed painting with a darker palette to convey the danger and intensity of the situation.
+art_prompt: "A summoner in distress, battling to regain control over a rogue elemental, in a dynamic, intense painting, done in oils"
+art_prompt_detailed: "A figure clad in torn robes, face marked by concentration and fear, as they attempt to contain a wild, swirling elemental force that is tearing apart the surrounding workshop, depicted in a dynamic, intense painting, executed in oil paints"
+caption: The perils of Elemental Summoning: a summoner faces the wrath of an unbound elemental.
+orientation: portrait
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, background, narrative]
+difficulties: [named characters, confusing, multipart]
+
+Given the limited budget, the value of each piece of art should be weighed against its potential impact on the players' immersion and understanding of the game world. The "Summoning Process" and "Applications of Elemental Summoning" sections are likely to have the highest descriptive and artistic value, providing visual aids to complex concepts and showcasing the practical uses of summoning in the game world. The "Risks and Precautions" section, while exciting, may be less critical if budget constraints require prioritization.
+
+Retrieved at: 2024-01-02 20:33:32.249650
+Used: False
+Used: True

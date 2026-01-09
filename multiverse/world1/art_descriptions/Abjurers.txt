@@ -1,0 +1,53 @@
+## Role and Abilities
+visual_purpose: What does an abjurer's protective magic look like in action?
+ideas_for_art_content: An abjurer casting a shimmering magical barrier around allies, with mages, priests, and warriors fighting in the background.
+ideas_for_style: A dynamic, high-fantasy painting style with vibrant colors and dramatic lighting to emphasize the magic.
+art_prompt: "An abjurer conjuring a protective shield in the midst of battle, with a high-fantasy painting style, vibrant, dynamic, done in digital painting."
+art_prompt_detailed: "A robed figure with intricate arcane symbols on their attire, casting a translucent, glowing barrier around a diverse group of fantasy warriors engaged in combat, depicted in a high-fantasy painting style with vivid colors and dramatic contrasts, created as a digital painting."
+caption: An abjurer casts a protective barrier to shield allies in the heat of battle.
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, character, narrative]
+difficulties: [named characters, multipart]
+
+## Tools and Artifacts
+visual_purpose: What do the tools and artifacts used by abjurers look like?
+ideas_for_art_content: An array of arcane foci such as crystals, wands, staves, and amulets, each glowing with magical energy.
+ideas_for_style: A detailed still life, reminiscent of a classic oil painting, to give a sense of realism and weight to the magical items.
+art_prompt: "An assortment of abjurer's arcane foci including crystals and wands, in a classic still life style, detailed, mystical, done in oil painting."
+art_prompt_detailed: "A collection of variously shaped crystals emitting a soft glow, alongside elegantly carved wands and staves, and intricately designed amulets, all arranged on a wooden table with a dark background, rendered in a classic still life style with fine details and a mystical ambiance, executed as an oil painting."
+caption: The essential tools of an abjurer, imbued with protective magic.
+orientation: portrait
+artistic_value: [intricate design, appropriate style]
+descriptive_value: [object]
+difficulties: [none]
+
+## Societal Impact
+visual_purpose: How do abjurers influence the daily life and safety of a community?
+ideas_for_art_content: An abjurer enchanting a public square with protective wards, with citizens going about their daily lives safely around them.
+ideas_for_style: A warm, inviting scene in watercolor to convey the positive impact of abjurers on society.
+art_prompt: "An abjurer enchanting a bustling public square with safety wards, in a warm, inviting watercolor style, serene, done in watercolor."
+art_prompt_detailed: "A figure in flowing robes etching arcane symbols into the air above a lively town square, where people of various ages and races mingle and conduct their daily activities, all depicted in a warm, inviting watercolor style that conveys a sense of serenity and safety, created using watercolor techniques."
+caption: An abjurer weaves protective wards to ensure the safety of the townsfolk.
+orientation: landscape
+artistic_value: [wondrous, appropriate style]
+descriptive_value: [location, person, background]
+difficulties: [none]
+
+## Notable Abjurers
+visual_purpose: Who are these legendary abjurers and what did their heroic acts look like?
+ideas_for_art_content: A portrait gallery of the most famous abjurers, with each depicted in a moment of their legendary deeds.
+ideas_for_style: A series of individual portraits, each with a unique style that reflects the era and personality of the abjurer.
+art_prompt: "A gallery of legendary abjurers in their defining moments, each portrait unique to the individual's era and story, heroic, done in mixed media."
+art_prompt_detailed: "A series of framed portraits, each showcasing a different abjurer from history, with one casting a massive spell in an ancient battlefield, another in a scholarly pose with a tome of knowledge, and another in a meditative stance with magical energy swirling around, each portrait reflecting the unique time period and personality of the depicted abjurer, executed in mixed media."
+caption: The legendary abjurers of Aesheron, immortalized for their heroic deeds.
+orientation: portrait
+artistic_value: [interesting person, appropriate style]
+descriptive_value: [person, historical, story event]
+difficulties: [named characters, multipart, style match]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the world.
+
+Retrieved at: 2024-01-02 21:14:05.927577
+Used: False
+Used: True

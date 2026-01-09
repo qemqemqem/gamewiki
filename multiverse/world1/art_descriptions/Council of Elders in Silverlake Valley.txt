@@ -1,0 +1,29 @@
+## Structure and Membership
+visual_purpose: What do the esteemed members of the Council of Elders look like, and how are they arranged in their circle of equality?
+ideas_for_art_content: Depict Aesheron, the ancient Druid, perhaps with a gnarled staff and a cloak of leaves, and Seraphine the Seer, an Elf with a mystical aura and robes adorned with celestial patterns. They should be seated or standing in a circle with other members in a natural, serene setting.
+ideas_for_style: A painting with a style reminiscent of classical fantasy art, rich in color and detail.
+art_prompt: "Aesheron and Seraphine the Seer among the Council of Elders, seated in a circle in the heart of Silverlake Valley, vibrant and detailed, done in oil painting"
+art_prompt_detailed: "An ancient Druid with a staff and a cloak of leaves and an Elf with a mystical aura and celestial-patterned robes among other wise figures, arranged in a circle in a serene natural setting, vibrant and detailed, done in oil painting"
+caption: The Council of Elders in Silverlake Valley, united in wisdom and purpose.
+orientation: landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, character, background]
+difficulties: [named characters, multipart]
+
+## Ceremonies and Rituals
+visual_purpose: What do the Council's ceremonies look like, and how do they connect with the celestial events and natural cycles?
+ideas_for_art_content: Illustrate a ceremony in progress, with members of the Council performing a ritual around an ancient stone altar or within a grove of towering trees. The sky could be alight with the celestial event they are honoring.
+ideas_for_style: A mystical, ethereal watercolor painting that captures the otherworldly essence of the rituals.
+art_prompt: "The Council of Elders performing a sacred ritual in Theron's Glade, ethereal and mystical, done in watercolor"
+art_prompt_detailed: "Wise figures in ceremonial attire performing a ritual around an ancient stone altar or within a grove of towering trees, with the sky alight with celestial bodies, ethereal and mystical, done in watercolor"
+caption: A sacred ceremony of the Council, harmonizing with the forces of nature.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [event, historical, story event, background]
+difficulties: [named location, multipart]
+
+Please note that the value ratings are harsh due to budget constraints, and the prompts are detailed to assist an artist unfamiliar with the campaign world.
+
+Retrieved at: 2024-01-02 20:48:52.443003
+Used: False
+Used: True

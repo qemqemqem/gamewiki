@@ -22,6 +22,9 @@ At the center of the island, the Echoing Basin serves as a natural amphitheater,
 
 ### The Whispering Woods
 
+![The Whispering Woods](../../images/Echovale%20Isle_S_The%20Whispering%20Woods.png)
+The Whispering Woods, where every tree has a secret to share.
+
 Surrounding the Echoing Basin, the Whispering Woods are a dense forest where the trees themselves seem to communicate in hushed tones. It is said that the woods hold the key to unlocking the secrets of the island, and that within their depths lies the entrance to the hidden [Gardens of Nightshade](Gardens%20of%20Nightshade.md).
 
 ### Grimbeorn's Tower

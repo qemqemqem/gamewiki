@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the Sea of Lost Souls look like, and how does its mysterious nature manifest visually?
+ideas_for_art_content: A view of the dark, still waters with ghostly luminescence, and the elusive shores that appear and disappear.
+ideas_for_style: Painting, with a style reminiscent of the Romantic era, emphasizing the sublime and the mysterious.
+art_prompt: "The elusive shores of the Sea of Lost Souls, with dark, still waters under a starless sky, ethereal, haunting, done in oil on canvas."
+art_prompt_detailed: "The elusive shores of a vast, mysterious sea, with dark, still waters under a starless sky, ethereal, haunting, done in oil on canvas."
+caption: "The Sea of Lost Souls, where the boundaries of water and spirit blur under the eternal night."
+orientation: Landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, background, narrative]
+difficulties: [named location, obscure style]
+
+## Properties and Phenomena
+visual_purpose: How do the arcane energies and phenomena of the Sea of Lost Souls manifest to the observer?
+ideas_for_art_content: Depiction of will-o'-the-wisps above the water, whispers of the lost carried on the wind, and the unique Moonflower blooming under a new moon.
+ideas_for_style: Computer graphics, to capture the surreal and magical qualities of the phenomena.
+art_prompt: "Arcane energies above the Sea of Lost Souls, with will-o'-the-wisps and a blooming Moonflower, mystical, otherworldly, rendered in digital art."
+art_prompt_detailed: "Eerie lights and ghostly whispers above a dark, mysterious sea, with a unique flower blooming under a faint moon, mystical, otherworldly, rendered in digital art."
+caption: "The arcane phenomena of the Sea of Lost Souls, where time distorts and spirits whisper."
+orientation: Landscape
+artistic_value: [exciting, intricate design]
+descriptive_value: [event, object, narrative]
+difficulties: [named characters, multipart]
+
+## Inhabitants
+visual_purpose: Who or what lives in the Sea of Lost Souls, and what do they look like?
+ideas_for_art_content: A depiction of the Water Elementals emerging from the sea, and possibly the Lady of Sorrows walking on the water.
+ideas_for_style: Sketch, with detailed pencil work to capture the ethereal forms of the inhabitants.
+art_prompt: "Water Elementals rising from the Sea of Lost Souls, with the Lady of Sorrows in the distance, spectral, enigmatic, sketched in pencil."
+art_prompt_detailed: "Tempestuous elemental forms emerging from a dark sea, with a mysterious figure walking on the water, spectral, enigmatic, sketched in pencil."
+caption: "The enigmatic inhabitants of the Sea of Lost Souls, where elementals and sorrowful spirits dwell."
+orientation: Portrait
+artistic_value: [interesting person, wondrous]
+descriptive_value: [person, monster, character]
+difficulties: [named characters]
+
+Given the limited budget, it would be wise to prioritize the sections with the highest descriptive and artistic value. The "Geography" section is a strong candidate as it sets the scene for the entire Sea of Lost Souls, providing a visual anchor for the readers. The "Properties and Phenomena" section could also be valuable due to its potential to showcase the unique magical qualities of the sea. The "Inhabitants" section might be lower priority unless the Lady of Sorrows or Water Elementals are central to the campaign's narrative.
+
+Retrieved at: 2024-01-02 20:47:22.034638
+Used: False
+Used: True

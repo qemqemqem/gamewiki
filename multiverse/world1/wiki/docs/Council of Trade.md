@@ -4,6 +4,9 @@ The **[Council of Trade](Council%20of%20Trade.md)** is a pivotal institution wit
 
 ## History and Formation
 
+![History and Formation](../../images/Council%20of%20Trade_S_History%20and%20Formation.png)
+The founding assembly of the Council of Trade, convening to shape the future of commerce in the Kingdom of Alyndra.
+
 The Council of Trade was established during the [Age of Wonders](Age%20of%20Wonders.md), a period marked by the expansion of commerce and the establishment of vital trade routes such as the [Silk Road](Silk%20Road.md). Recognizing the need for a centralized body to manage the burgeoning trade networks and economic interests, the sovereign of Alyndra convened the first assembly of the Council.
 
 ## Responsibilities

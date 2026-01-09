@@ -1,0 +1,41 @@
+## Ascension to the Throne
+visual_purpose: What does the moment of becoming a monarch look like in Aesheron?
+ideas_for_art_content: Depict a coronation scene with a central figure being crowned, surrounded by nobility, clergy, or other significant figures of the realm. Include symbols of power such as a throne, crown, scepter, and royal regalia.
+ideas_for_style: Painting, with a style reminiscent of classical historical paintings to convey the gravity and formality of the occasion.
+art_prompt: "A new monarch being crowned in the grand hall of a castle, with solemn and regal bearing, done in oil painting."
+art_prompt_detailed: "A central figure adorned in royal attire receiving a crown in the midst of an opulent hall filled with onlookers dressed in the fashion of Aesheron's nobility, captured in the style of classical historical oil paintings, emphasizing the solemnity and grandeur of the moment."
+caption: The coronation of a monarch in the grand hall, a pivotal moment in Aesheron's history.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, wondrous, style match]
+descriptive_value: [person, event, historical, narrative]
+difficulties: [named characters, multipart]
+
+## Influence of Monarchs
+visual_purpose: How do monarchs exert their influence beyond their own borders?
+ideas_for_art_content: A map showing the territories of Aesheron with lines indicating alliances, trade routes, and areas of influence. Include icons or crests representing different monarchs and their realms.
+ideas_for_style: A detailed and stylized map, akin to those found in fantasy novels.
+art_prompt: "A map of Aesheron detailing the influence of various monarchs, with ornate borders and crests, in the style of a fantasy cartographer."
+art_prompt_detailed: "A meticulously crafted map showcasing the interconnected realms of Aesheron, with lines and symbols denoting alliances, trade routes, and spheres of influence, presented with the artistic flair of a fantasy world cartographer."
+caption: The web of influence across Aesheron, shaped by its monarchs.
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [location, map, narrative]
+difficulties: [none]
+
+## The Role of Magic
+visual_purpose: What role does magic play in the lives of the monarchs?
+ideas_for_art_content: A monarch consulting with a sorcerer advisor, magical artifacts on display, or a monarch wielding magic in a demonstration of power.
+ideas_for_style: A dynamic scene captured in a digital painting, with vibrant colors to emphasize the magical elements.
+art_prompt: "A monarch in consultation with a sorcerer advisor, surrounded by arcane artifacts, in a vivid digital painting."
+art_prompt_detailed: "A regal figure engaged in deep conversation with a robed magic user, amidst a collection of glowing magical objects, depicted in a digital painting that brings out the vibrant colors and ethereal qualities of the magical setting."
+caption: A monarch harnessing the counsel of magic to guide their reign.
+orientation: Portrait
+artistic_value: [interesting person, wondrous, style match]
+descriptive_value: [person, object, character, narrative]
+difficulties: [named characters]
+
+Given the limited budget, the "Ascension to the Throne" section is the most valuable to illustrate, as it captures a pivotal moment that is central to the concept of monarchy. The "Influence of Monarchs" section with a map could be done in a simpler style to save costs while still providing high descriptive value. The "The Role of Magic" section is also important, but if budget constraints are tight, this could be a more modest piece or even omitted.
+
+Retrieved at: 2024-01-02 21:37:28.432536
+Used: False
+Used: True

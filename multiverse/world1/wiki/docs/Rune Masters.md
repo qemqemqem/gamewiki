@@ -33,6 +33,9 @@ The contributions of Rune Masters to the realms are immeasurable. They have fort
 
 ## The Vale of Shadows
 
+![The Vale of Shadows](../../images/Rune%20Masters_S_The%20Vale%20of%20Shadows.png)
+A Rune Master harnesses the ethereal energies of the Vale of Shadows.
+
 The [Vale of Shadows](Vale%20of%20Shadows.md) holds a special place in the hearts of Rune Masters. This mystical location is said to be a nexus of arcane power, where the veil between worlds is thin. Many Rune Masters embark on pilgrimages to the Vale, seeking to harness its ethereal energies and discover new runes that blur the line between the material and the spiritual.
 
 ## Challenges and Threats

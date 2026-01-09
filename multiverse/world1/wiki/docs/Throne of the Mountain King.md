@@ -10,6 +10,9 @@ The throne is not only a seat of governance but also a sacred site where the [Mo
 
 ## Architecture and Surroundings
 
+![Architecture and Surroundings](../../images/Throne%20of%20the%20Mountain%20King_S_Architecture%20and%20Surroundings.png)
+The Throne of the Mountain King in the Grand Cavern, illuminated by the ethereal glow of the cavern's crystals.
+
 The Throne of the Mountain King is situated within the Grand Cavern, the largest and most resplendent chamber of the [Dwarven Mines](Dwarven%20Mines.md). The walls of the cavern are inlaid with luminous crystals that cast a soft, otherworldly glow upon the throne. The throne itself is hewn from a single massive diamond, its surface intricately etched with runes and symbols that tell the storied history of the dwarven people.
 
 Surrounding the throne are statues of the most revered dwarven figures, including [Morath the Wise](Morath%20the%20Wise.md) and the legendary kings of old. Each statue is a masterpiece, capturing the essence of its subject with such realism that one might expect them to step down from their pedestals and join the council of elders in deliberation.

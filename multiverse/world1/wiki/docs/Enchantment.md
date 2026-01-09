@@ -16,6 +16,9 @@ The second branch focuses on the enchantment of objects, a process that involves
 
 ## Enchantment Techniques
 
+![Enchantment Techniques](../../images/Enchantment_S_Enchantment%20Techniques.png)
+An enchanter employs ancient techniques to imbue a sword with magical properties.
+
 The techniques employed by enchanters are as varied as the effects they seek to create. Some common methods include:
 
 - **Runic Inscriptions**: Carving ancient symbols that channel magical energies into the item.

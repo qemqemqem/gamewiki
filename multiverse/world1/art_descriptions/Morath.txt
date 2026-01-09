@@ -1,0 +1,40 @@
+## The Principality of Morath
+visual_purpose: What does the Principality of Morath look like, and how does it embody the principles and philosophies of Morath?
+ideas_for_art_content: The Principality could be depicted as a sprawling, enlightened city with grand architecture, scholars in discussion, mages practicing their craft, and the Order of the Veiled Eye in the background.
+ideas_for_style: A painting with a style reminiscent of classical Renaissance art to convey the enlightenment and learning aspect.
+art_prompt: "The enlightened city of the Principality of Morath, bustling with scholars and mages, in Renaissance style, detailed and harmonious, done in oil painting"
+art_prompt_detailed: "An enlightened city bustling with robed scholars and cloaked mages, grand architecture in the background, with a secretive group partially hidden, all depicted in a detailed and harmonious Renaissance style, created with oil paints"
+caption: The Principality of Morath, a beacon of knowledge and arcane mastery.
+orientation: landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [location, person, background, narrative]
+difficulties: [named location, multipart]
+
+## The Great Library of Eldara
+visual_purpose: What treasures and knowledge does the Great Library of Eldara hold, and what is its significance in the world of Aesheron?
+ideas_for_art_content: The interior of the Great Library, with towering shelves of books, ancient artifacts on display, scholars studying, and the "Codex of Celestial Alignments" prominently featured.
+ideas_for_style: A detailed sketch or an intricate digital illustration to capture the vastness and the mystical atmosphere of the library.
+art_prompt: "The vast interior of the Great Library of Eldara, filled with ancient tomes and artifacts, in a detailed sketch, mystical and grandiose, done in digital illustration"
+art_prompt_detailed: "A grand library interior with towering shelves filled with ancient books, mystical artifacts on pedestals, robed figures studying, and a prominent ancient tome open on a stand, all depicted in a detailed and grandiose style, created as a digital illustration"
+caption: The Great Library of Eldara, where the wisdom of ages is preserved.
+orientation: landscape
+artistic_value: [intricate design, wondrous]
+descriptive_value: [location, object, historical, narrative]
+difficulties: [named location, multipart]
+
+## Fallen Temple of the Moon
+visual_purpose: What does the Fallen Temple of the Moon look like, and how does it connect to Morath's legacy?
+ideas_for_art_content: The ruins of the temple under the night sky with the twin moons aligned, ethereal whispers of magic in the air, and remnants of sacred symbols.
+ideas_for_style: A digital painting with a mystical and slightly eerie atmosphere to capture the magic and history of the place.
+art_prompt: "The ruins of the Fallen Temple of the Moon under an aligned twin moons night sky, in a mystical and eerie atmosphere, done in digital painting"
+art_prompt_detailed: "Crumbling stone ruins under a night sky with two moons perfectly aligned, ethereal glimmers of ancient magic in the air, and faded sacred symbols on the stones, all depicted with a mystical and slightly eerie atmosphere, created as a digital painting"
+caption: The Fallen Temple of the Moon, where echoes of Morath's magic still linger.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, historical, story event]
+difficulties: [named location, obscure style]
+
+Given the limited budget, these sections have been chosen for their potential high impact in terms of both artistic and descriptive value, which could significantly enhance the reader's immersion and understanding of the world.
+
+Retrieved at: 2024-01-02 20:49:33.296641
+Used: False

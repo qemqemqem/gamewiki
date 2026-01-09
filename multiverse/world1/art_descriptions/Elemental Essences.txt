@@ -1,0 +1,41 @@
+## Origins and Nature
+visual_purpose: What do the Elemental Planes look like, and how do Elemental Essences manifest in the material world?
+ideas_for_art_content: Depict the Elemental Planes converging at a point with essences seeping through a rift into the material world. Show the different essences (Earth, Air, Fire, Water, Aether, Shadow) in distinct forms, perhaps as swirling energies or crystalline structures.
+ideas_for_style: Painting, with a mystical and ethereal quality to capture the otherworldly nature of the planes and essences.
+art_prompt: "The convergence of the Elemental Planes with essences seeping into the material world, mystical, ethereal, done in watercolor"
+art_prompt_detailed: "The convergence of vast expanses of elemental energies, each represented by distinct colors and forms, with swirling energies or crystalline structures seeping through a visible rift into a more mundane landscape, painted with a mystical and ethereal quality in watercolor."
+caption: The Elemental Planes converging and essences seeping into the material world.
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Location, event, background, narrative
+difficulties: Named location, multipart, obscure style
+
+## Collection and Use
+visual_purpose: How are Elemental Essences collected and what are their practical applications in the world?
+ideas_for_art_content: Show a scene with an Artisan or Alchemist collecting essences at the Crystal Waters, with tools or containers designed for this purpose. In the background, a Wizard could be casting a spell using an essence, and an Artisan could be crafting an enchanted item.
+ideas_for_style: Sketch, with detailed line work to show the intricacies of the collection process and the applications of the essences.
+art_prompt: "An Artisan collecting Elemental Essences at the Crystal Waters, with a Wizard casting a spell and an Artisan crafting, detailed, done in pencil sketch"
+art_prompt_detailed: "A figure equipped with specialized tools and containers gathering glowing energies by a shimmering body of water, with another figure in the background channeling similar energies into a spell, and a third figure working on an item that emits elemental light, all depicted with detailed line work in a pencil sketch."
+caption: The collection and diverse uses of Elemental Essences.
+orientation: Landscape
+artistic_value: Intricate design, style match
+descriptive_value: Person, object, event, character
+difficulties: Named characters, named location, multipart
+
+## Cultural Significance
+visual_purpose: What role do Elemental Essences play in cultural events and societal structures?
+ideas_for_art_content: Illustrate a scene from the Festival of Shields with vibrant displays of elemental magic. Include a diverse crowd of spectators and practitioners, with banners or symbols representing the Free Cities and the Veiled Navigators.
+ideas_for_style: Painting, with a dynamic and colorful approach to capture the festive atmosphere and the magic in action.
+art_prompt: "The Festival of Shields with elemental magic displays, vibrant, dynamic, done in acrylic"
+art_prompt_detailed: "A bustling festival scene with a crowd of diverse individuals, some performing vibrant displays of magic that represent different elements, with banners or symbols in the background that signify the Free Cities and a guild of knowledgeable practitioners, painted dynamically in acrylic."
+caption: The Festival of Shields, a celebration of elemental magic and cultural heritage.
+orientation: Landscape
+artistic_value: Exciting, appropriate style
+descriptive_value: Event, historical, narrative
+difficulties: Named events, named location, multipart
+
+Given the limited budget, these sections offer the most value in terms of both artistic and descriptive content, enhancing the reader's understanding and immersion in the world. The difficulties listed are considerations for the artist and may impact the cost of the artwork.
+
+Retrieved at: 2024-01-02 20:36:42.653916
+Used: False
+Used: True

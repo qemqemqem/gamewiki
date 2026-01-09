@@ -4,6 +4,9 @@ Clerics are the divine conduits of the gods, serving as both warriors and healer
 
 ## Divine Magic and Worship
 
+![Divine Magic and Worship](../../images/Clerics_S_Divine%20Magic%20and%20Worship.png)
+A cleric channels the divine essence of their deity through prayer and ritual.
+
 The source of a cleric's power is their deity. The pantheon of Aesheron is vast, with gods representing all facets of existence, from the [Moon Deities](Moon%20Deities.md) who govern the night skies to the [Sun](Sun.md), the radiant symbol of life and energy. Clerics form a bond with their deity through rituals, prayer, and an unshakeable belief in their divine patron's dogma.
 
 ### Deities and Domains

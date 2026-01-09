@@ -2,6 +2,9 @@
 
 Spellcasters are individuals who have the ability to tap into the arcane and manipulate the very threads of magic to cast spells. This esteemed group encompasses a wide range of practitioners, from the scholarly [wizards](Wizard.md) who devote their lives to the study of magic, to the innate [sorcerers](Sorcerer.md) whose powers are derived from their bloodline, and the devout [druids](Druid.md) who channel the forces of nature. The path of a spellcaster is one of dedication, requiring an unwavering commitment to the craft of [spellcraft](Spellcraft.md).
 
+![Druids](../../images/Spellcasters_S_Druids.png)
+A druid calls upon the spirits of the Frostspire Mountains.
+
 ## Types of Spellcasters
 
 ### Wizards

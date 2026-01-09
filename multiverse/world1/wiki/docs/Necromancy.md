@@ -4,6 +4,9 @@ Necromancy, often regarded with a mix of fear and fascination, is a complex and 
 
 ## Overview
 
+![Overview](../../images/Necromancy_S_Overview.png)
+A necromancer harnessing the energies of life and death during a ritual.
+
 At its core, [Necromancy](Necromancy.md) is the study and application of magic that affects the essence of life and death. Practitioners of necromancy, known as [Necromancers](Necromancers.md), harness their knowledge to perform a variety of spells and rituals that can range from communicating with the spirits of the deceased to reanimating lifeless bodies to serve their will.
 
 ## History

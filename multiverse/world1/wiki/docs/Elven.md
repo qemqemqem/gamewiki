@@ -2,6 +2,9 @@
 
 Elven culture, history, and society are as rich and deep as the ancient forests they call home. The [Elves](Elves.md) are a race of beings intrinsically tied to the natural and magical realms of the world of Aesheron. Known for their grace, longevity, and arcane prowess, the Elven people have played a pivotal role in shaping the history and mythology of the land.
 
+![Society](../../images/Elven_S_Society.png)
+"The seamless blend of Elven architecture with the natural beauty of the Verdant Woods.
+
 ## History
 
 The history of the Elven race stretches back to the earliest ages of Aesheron, with their origins shrouded in the mists of time. It is widely believed that they emerged during the [Age of Wonders](Age%20of%20Wonders.md), a period marked by the flourishing of magic and the rise of great civilizations across the land. The Elves, with their innate connection to the arcane, were among the foremost practitioners of [magic](Magic.md) and [sorcery](Sorcery.md), and their enchanters were revered across the realms.

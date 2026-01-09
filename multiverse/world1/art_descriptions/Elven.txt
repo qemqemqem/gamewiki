@@ -1,0 +1,41 @@
+## Society
+visual_purpose: What does an Elven community look like, and how does it blend with nature?
+ideas_for_art_content: Depict an Elven city with architecture that incorporates living trees, flowing water, and harmonious natural elements.
+ideas_for_style: Painting, with a style reminiscent of fantasy concept art that emphasizes the ethereal and organic qualities of Elven design.
+art_prompt: "An Elven city nestled in the Verdant Woods, with organic architecture, serene, and harmonious, done in watercolor."
+art_prompt_detailed: "A city with buildings that intertwine with the forest, featuring living trees as structural elements, water features integrated into the design, portrayed in a serene and harmonious manner, using watercolor techniques."
+caption: "The seamless blend of Elven architecture with the natural beauty of the Verdant Woods."
+orientation: Landscape
+artistic_value: [landscape, appropriate style, intricate design, wondrous]
+descriptive_value: [location, architecture, background]
+difficulties: [named location, multipart]
+
+## Culture
+visual_purpose: How do the Elves celebrate their connection to art, music, and nature?
+ideas_for_art_content: Illustrate an Elven festival with music, dance, and environmental art, possibly including the blooming of the moonflower.
+ideas_for_style: Sketch, with vibrant and flowing lines that capture the movement and festivity of the event.
+art_prompt: "Elves in celebration at the Moonflower Festival, with dancing, music, and the blooming moonflower, in a lively sketch."
+art_prompt_detailed: "Elven figures dancing and playing music amidst a festival, with a focus on a large, blooming flower that glows with magical light, all captured in a dynamic and lively sketch."
+caption: "The Moonflower Festival, a vibrant celebration of Elven culture and the magic of nature."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun, wondrous]
+descriptive_value: [event, historical, story event, character]
+difficulties: [named characters, named event, multipart]
+
+## Military
+visual_purpose: What do Elven sky-knights and their Windcutter Hawks look like in battle?
+ideas_for_art_content: A scene of Elven sky-knights on Windcutter Hawks, with detailed armor and aerial combat maneuvers.
+ideas_for_style: Computer graphics, with a dynamic and cinematic quality that captures the intensity of aerial combat.
+art_prompt: "Elven sky-knights atop Windcutter Hawks in battle, with detailed armor, dynamic, and thrilling, rendered in CG."
+art_prompt_detailed: "Armored Elven warriors mounted on large, majestic birds of prey, engaged in combat in the sky, depicted with a focus on detail and action, created using computer graphics."
+caption: "The legendary Elven sky-knights and their Windcutter Hawks in the heat of battle."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [person, object, event, monster, character]
+difficulties: [named characters, named location, multipart]
+
+Given the limited budget, it's important to prioritize the sections that would benefit most from visual representation. The "Society" and "Culture" sections are prime candidates for artwork, as they can help players visualize the setting and the feel of Elven life. The "Military" section could also be valuable, especially if the campaign involves combat and the players will encounter Elven sky-knights. The other sections might not require images as urgently, as they deal more with abstract concepts or historical events that can be effectively conveyed through text.
+
+Retrieved at: 2024-01-02 20:56:44.826738
+Used: False
+Used: True

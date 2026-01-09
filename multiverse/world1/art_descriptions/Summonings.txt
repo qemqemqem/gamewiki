@@ -1,0 +1,44 @@
+## Types of Summonings
+
+visual_purpose: What do the different types of summoned entities look like?
+ideas_for_art_content: Depict a summoner with a variety of summoned entities: a fire elemental, a water sprite, a whispering siren, a demon, and a familiar spirit.
+ideas_for_style: A mystical, ethereal painting style with vibrant colors to differentiate between the types of entities.
+art_prompt: "A summoner surrounded by a fire elemental, water sprite, whispering siren, demon, and a familiar spirit, in a vibrant, mystical style, dynamic, captivating, done in watercolor."
+art_prompt_detailed: "A robed figure with arcane symbols on their attire, standing in the center of a summoning circle, surrounded by a creature made of flames, a translucent blue water being, an ethereal figure with a haunting presence, a menacing creature with horns and a dark aura, and a small, glowing animal-like spirit, all depicted in a vibrant, mystical style, dynamic and captivating, created with watercolor techniques."
+caption: "A summoner channels the arcane to call forth a myriad of beings from different realms."
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [monster, character, background, narrative]
+difficulties: [named characters, multipart]
+
+## Rituals and Components
+
+visual_purpose: What does a summoning ritual look like, and what components are used?
+ideas_for_art_content: Illustrate a summoner in the midst of a ritual with arcane foci and physical representations of the entity.
+ideas_for_style: A detailed sketch that captures the complexity of the ritual and the intricacy of the components.
+art_prompt: "A summoner conducting a ritual with arcane foci and symbolic items, in a detailed sketch, intricate, focused, done in pencil."
+art_prompt_detailed: "A figure draped in ceremonial robes stands within a complex pattern on the ground, surrounded by candles, crystals, and a small statue representing the entity being summoned, all rendered in a detailed, focused sketch, emphasizing the intricacy of the items, sketched with pencil."
+caption: "A summoner prepares an elaborate ritual with various arcane tools and symbols."
+orientation: portrait
+artistic_value: [intricate design, style match]
+descriptive_value: [object, event, historical]
+difficulties: [named location, multipart]
+
+## Notable Summoners
+
+visual_purpose: Who are these notable summoners and what do they look like?
+ideas_for_art_content: Portraits of Seraphine the Seer and a member of the Occult Researchers, each with an element that hints at their specialty.
+ideas_for_style: A dual portrait in a classical oil painting style to convey the historical significance of these figures.
+art_prompt: "Portraits of Seraphine the Seer and an occult researcher, classical, dignified, done in oil paint."
+art_prompt_detailed: "A wise-looking woman with eyes that seem to gaze into the future, adorned with celestial motifs, alongside a cloaked figure with a tome of dark knowledge and mysterious artifacts, both captured in a classical, dignified style, painted with oil on canvas."
+caption: "Seraphine the Seer, famed for her communion with the Moon Deities, alongside a scholar of the Shrouded City's Occult Researchers."
+orientation: portrait
+artistic_value: [interesting person, style match]
+descriptive_value: [person, historical, character]
+difficulties: [named characters]
+
+Given the limited budget, the value of each piece should be considered in terms of its potential impact on the players' immersion and understanding of the game world. The "Types of Summonings" section is likely to have the highest descriptive and artistic value, as it visually explains the variety of entities that can be summoned. The "Rituals and Components" section could greatly benefit from a visual aid to help players imagine the complexity of summoning rituals. The "Notable Summoners" section may be of lower priority unless these characters play a significant role in the campaign.
+
+Retrieved at: 2024-01-02 21:35:04.968844
+Used: False
+Used: True

@@ -1,0 +1,46 @@
+## Celebrations and Customs
+
+### Pilgrimages and Sacred Sites
+
+visual_purpose: What do the sacred sites visited during the Solstice of the Blazing Sky look like?
+ideas_for_art_content: Pilgrims of various races (elves, humans, dwarves) journeying towards a radiant temple or natural landmark, like a sunlit mountain peak or a shimmering lake reflecting the sun.
+ideas_for_style: Painting, with a vibrant and warm color palette to convey the sunlight's brilliance.
+art_prompt: "A diverse group of pilgrims on their journey to the Cathedral of Radiant Dawn, bathed in warm sunlight, in a picturesque landscape, done in oil painting."
+art_prompt_detailed: "A diverse group of fantasy pilgrims on their journey to a grand, luminous temple, bathed in warm sunlight, with a backdrop of a picturesque, sun-kissed landscape, depicted in an oil painting style."
+caption: Pilgrims of various races making their way to the Cathedral of Radiant Dawn during the Solstice of the Blazing Sky.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, interesting person, wondrous]
+descriptive_value: [location, person, event]
+difficulties: [named location, multipart]
+
+### The Great Feast
+
+visual_purpose: How does the communal celebration of the Great Feast look during the Solstice of the Blazing Sky?
+ideas_for_art_content: A long table with a bounty of harvest foods, surrounded by revelers of different races sharing stories and laughter, with lanterns and banners celebrating the sun.
+ideas_for_style: Sketch, with a focus on the joyous expressions and the abundance of the feast.
+art_prompt: "A bustling communal feast with a diverse crowd, under the warm glow of sunset, sketched with lively lines and shading."
+art_prompt_detailed: "A bustling communal feast with a diverse crowd of fantasy characters, under the warm glow of sunset, sketched with lively lines and shading, capturing the abundance and joy of the event."
+caption: The Great Feast of the Solstice of the Blazing Sky, a time of community and celebration.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun, wondrous]
+descriptive_value: [person, event, narrative]
+difficulties: [named event, multipart]
+
+## Celestial Phenomena
+
+visual_purpose: What do the celestial phenomena observed during the Solstice look like?
+ideas_for_art_content: Scholars and mages observing the sky with various arcane instruments, with a backdrop of a unique celestial alignment or magical aurora.
+ideas_for_style: Computer graphics, to capture the ethereal and magical quality of the phenomena.
+art_prompt: "Scholars and mages with arcane instruments observing a magical celestial event, with a vivid and otherworldly sky, rendered in computer graphics."
+art_prompt_detailed: "Fantasy scholars and mages with arcane instruments observing a magical celestial event, with a vivid and otherworldly sky, rendered in computer graphics to capture the ethereal quality."
+caption: Occult researchers and scholars studying the rare celestial alignments during the Solstice of the Blazing Sky.
+orientation: Landscape
+artistic_value: [appropriate style, exciting, style match]
+descriptive_value: [person, object, event, historical]
+difficulties: [named characters, obscure style]
+
+Given the limited budget, these sections were chosen for their potential to visually enrich the article and provide readers with a more immersive experience. The value ratings are harsh, focusing on the most impactful visuals that convey the essence of the festival.
+
+Retrieved at: 2024-01-02 19:25:15.645661
+Used: False
+Used: True

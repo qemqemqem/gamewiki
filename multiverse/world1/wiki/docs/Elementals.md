@@ -4,6 +4,9 @@ Elementals are powerful and enigmatic entities that embody the raw forces of nat
 
 ## Nature of Elementals
 
+![Nature of Elementals](../../images/Elementals_S_Nature%20of%20Elementals.png)
+"The diverse forms of Elementals, each a master of their element.
+
 Elementals are sentient, with their own wills and personalities, though these can be vastly different from those of [Humans](Humans.md) or [Elves](Elves.md). Their forms can range from the vaguely humanoid to the wildly abstract, often reflecting the characteristics of their element. For example, a [Fire Elemental](Fire%20Elemental.md) might appear as a roiling column of flame, while an [Earth Elemental](Earth%20Elemental.md) could resemble a moving mass of rock and soil.
 
 The power of an Elemental is tied to its element, and its abilities are manifestations of that element's potential. An [Air Elemental](Air%20Elemental.md) can create gusts of wind or even hurricanes, while a [Water Elemental](Water%20Elemental.md) might command the flow of rivers or create torrents of rain.

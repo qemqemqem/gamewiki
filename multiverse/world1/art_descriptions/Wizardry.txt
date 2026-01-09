@@ -1,0 +1,53 @@
+## History of Wizardry
+visual_purpose: What did the earliest practices of wizardry look like, and how did they evolve over time?
+ideas_for_art_content: An ancient wizard casting a spell, surrounded by the ruins of the Lost Temple of the Moon, with hieroglyphs visible on the walls.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art.
+art_prompt: "An ancient wizard in the midst of casting a spell within the crumbling ruins of a temple, painted in a classical fantasy style, mysterious and atmospheric, done in oils."
+art_prompt_detailed: "A robed figure with a staff in the midst of casting a spell within the crumbling ruins of an ancient temple, with walls adorned by cryptic symbols, painted in a classical fantasy style, mysterious and atmospheric, done in oils."
+caption: "An ancient wizard harnessing arcane energies in the Lost Temple of the Moon."
+orientation: Landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [historical, background]
+difficulties: [named location, multipart]
+
+## Schools of Wizardry
+visual_purpose: What are the distinct visual elements that represent each school of wizardry?
+ideas_for_art_content: A montage or collage featuring a representative wizard and symbols for each school of magic (e.g., a shield for Abjuration, a summoned creature for Conjuration).
+ideas_for_style: Sketch, with detailed pencil work to differentiate each school's unique aspects.
+art_prompt: "A montage of eight wizards, each demonstrating a different school of magic, in detailed pencil sketch, informative and distinct, done on paper."
+art_prompt_detailed: "A montage of eight figures, each performing a different magical act (such as casting a protective barrier, summoning a creature, reading a future-telling orb), in detailed pencil sketch, informative and distinct, done on paper."
+caption: "The diverse schools of wizardry and their practitioners."
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, narrative]
+difficulties: [multipart, instructions unclear]
+
+## The Practice of Wizardry
+visual_purpose: How does one train to become a wizard, and what does that journey look like?
+ideas_for_art_content: A young apprentice studying under the guidance of a master wizard, with arcane texts and magical artifacts around them.
+ideas_for_style: Computer graphics, with a vibrant and detailed rendering.
+art_prompt: "A young apprentice studying arcane texts under the watchful eye of a master wizard, in a vibrant and detailed computer graphic, educational and inspiring, rendered digitally."
+art_prompt_detailed: "A young figure poring over ancient books in the presence of an older, robed figure, with magical artifacts scattered around a dimly lit study room, in a vibrant and detailed computer graphic, educational and inspiring, rendered digitally."
+caption: "An apprentice's journey into the arcane under the tutelage of a master."
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, narrative]
+difficulties: [named characters, named location]
+
+## Wizardry and Warfare
+visual_purpose: What role do wizards play on the battlefield, and how do they influence the outcome of wars?
+ideas_for_art_content: A powerful wizard casting a spell like Control Weather or Ice Storm on a battlefield, with soldiers reacting to the sudden change.
+ideas_for_style: Painting, with a dynamic and action-packed approach, perhaps in the style of a battle scene from a historical epic.
+art_prompt: "A commanding wizard altering the weather over a chaotic battlefield, in a dynamic and epic painting style, dramatic and powerful, done in acrylics."
+art_prompt_detailed: "A robed figure with arms raised, invoking a massive storm over a battlefield strewn with soldiers, in a dynamic and epic painting style, dramatic and powerful, done in acrylics."
+caption: "A wizard turning the tide of battle with a formidable display of arcane power."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, character, narrative]
+difficulties: [named characters, multipart]
+
+Given the limited budget, it is recommended to prioritize sections where the artistic and descriptive values are highest, and the difficulties are manageable. Sections like "History of Wizardry" and "Wizardry and Warfare" could provide the most impactful visuals for players, offering both a glimpse into the world's past and the dramatic role of wizards in its present.
+
+Retrieved at: 2024-01-02 21:02:18.760926
+Used: False
+Used: True

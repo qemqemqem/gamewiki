@@ -8,6 +8,9 @@ Air is the breath of life, the whisper of the wind, and the harbinger of storms.
 
 ## Air in Magic and Spellcraft
 
+![Air in Magic and Spellcraft](../../images/Air_S_Air%20in%20Magic%20and%20Spellcraft.png)
+"A wizard channels the essence of air to weave powerful spells of flight and protection.
+
 In the realm of [Spellcraft](Spellcraft.md), air is a source of great power. [Wizards](Wizards.md) and [Sorcerers](Sorcerers.md) draw upon the essence of air to cast spells of flight, create shields of wind, and summon lightning from clear skies. The [Gestures](Gestures.md) required to manipulate air magic are as fluid and dynamic as the element itself, often mimicking the ebb and flow of the winds.
 
 ### Elemental Magic

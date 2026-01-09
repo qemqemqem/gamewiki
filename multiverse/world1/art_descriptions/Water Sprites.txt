@@ -1,0 +1,41 @@
+## Appearance and Behavior
+visual_purpose: What do water sprites look like, and how do they interact with their environment?
+ideas_for_art_content: A group of small, luminescent water sprites with features resembling aquatic plants and animals, playing around a clear, shimmering brook or pond.
+ideas_for_style: Watercolor painting to give a soft, ethereal feel to the sprites and their watery habitat.
+art_prompt: "A cluster of playful water sprites in the midst of a serene brook, with watercolor hues, translucent, and whimsical, done in watercolor painting."
+art_prompt_detailed: "A group of small, glowing creatures with aquatic features, frolicking in a clear, sparkling stream surrounded by lush greenery, depicted with soft watercolor washes and delicate brushwork."
+caption: Water sprites exhibiting their playful nature in their natural aquatic habitat.
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Person, character, background
+difficulties: Named characters, multipart
+
+## Cultural Significance
+visual_purpose: How are water sprites represented in cultural artifacts and celebrations?
+ideas_for_art_content: Artisans' works such as jewelry, weapons, or pottery adorned with water sprite motifs; a festival scene with decorations inspired by water sprites.
+ideas_for_style: Detailed sketch or digital illustration to capture the intricacies of the artisanal crafts and festive atmosphere.
+art_prompt: "Artisans' creations bearing the likeness of water sprites on display at a bustling festival, in detailed line art, intricate, celebratory, done in digital illustration."
+art_prompt_detailed: "Various handcrafted items, each intricately decorated with figures of ethereal aquatic beings, showcased amidst a lively gathering with banners and streamers fluttering in the background, rendered in crisp line art and vibrant digital colors."
+caption: Celebrating water sprites through local craftsmanship and festival decorations.
+orientation: Landscape
+artistic_value: Intricate design, exciting, style match
+descriptive_value: Object, event, cultural
+difficulties: Multipart, instructions unclear
+
+## Threats and Conservation
+visual_purpose: What dangers do water sprites face, and what conservation efforts are in place to protect them?
+ideas_for_art_content: A water sprite looking forlorn in a polluted waterway contrasted with a protected, pristine habitat with a visible sign of the Council of Arcana's conservation efforts.
+ideas_for_style: Digital art with a realistic yet slightly fantastical style to emphasize the contrast between the polluted and conserved environments.
+art_prompt: "A forlorn water sprite in a murky, littered stream versus a vibrant, protected aquatic sanctuary, in realistic fantasy style, poignant, done in digital art."
+art_prompt_detailed: "A small, glowing creature with a saddened expression in a dirty waterway filled with refuse, juxtaposed with the same type of creature in a lively, clean habitat marked by a magical emblem signaling protection, rendered in a realistic yet fantastical digital art style."
+caption: The impact of environmental threats on water sprites and the role of conservation.
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, character, background, narrative
+difficulties: Named location, multipart, obscure style
+
+Please note that the value ratings are harsh due to the limited budget, and the prompts are detailed to assist the artist in creating visuals that align with the world's lore without prior knowledge of it.
+
+Retrieved at: 2024-01-02 20:59:18.569693
+Used: False
+Used: True

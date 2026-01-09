@@ -1,0 +1,44 @@
+## Influence on the World
+
+visual_purpose: What do magical phenomena influenced by Ley Lines look like?
+ideas_for_art_content: Depict the Sea of Lost Souls with will-o'-the-wisps floating above the water, and a Forest Nymph or Air Elemental drawn to the energy in a lush forest setting.
+ideas_for_style: Painting, with a mystical and ethereal quality, using vibrant colors to highlight the magical phenomena.
+art_prompt: "Will-o'-the-wisps above the Sea of Lost Souls and a Forest Nymph near an energy-drawn Air Elemental, in a vibrant and ethereal painting style, with a focus on the magical aura of the scene, done in watercolors."
+art_prompt_detailed: "Ethereal lights floating above a dark, misty sea and a mystical being of the forest alongside a swirling, wind-formed creature, in a vibrant and mystical painting style, with a focus on the magical glow and energy of the scene, done in watercolors."
+caption: Ethereal will-o'-the-wisps above the Sea of Lost Souls and a Forest Nymph drawn to the energy of a Ley Line, with an Air Elemental in the background.
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, monster, character, background, narrative]
+difficulties: [named location, multipart]
+
+## Utilization and Control
+
+visual_purpose: How do practitioners harness Ley Line energy, and what does architectural alignment with Ley Lines look like?
+ideas_for_art_content: Illustrate a Wizard or Evoker channeling energy from a Ley Line, with a backdrop of the Cathedral of Radiant Dawn or the ruins of the Lunar Ancients.
+ideas_for_style: Sketch, with detailed linework to show the intricacy of the ritual and the architecture, possibly with a touch of color to emphasize the magical energy.
+art_prompt: "A Wizard channeling energy from a Ley Line in front of the Cathedral of Radiant Dawn, in a detailed sketch with linework, with a touch of color to highlight the magical energy, done in pencil and watercolor."
+art_prompt_detailed: "A robed spellcaster drawing arcane power from an invisible force in front of a grand, sunlit cathedral or ancient moonlit ruins, in a detailed sketch with intricate linework, with a touch of color to emphasize the magical energy, done in pencil and watercolor."
+caption: A Wizard harnessing the power of a Ley Line with the Cathedral of Radiant Dawn aligned in the background.
+orientation: portrait
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, architectural, narrative]
+difficulties: [named characters, named location]
+
+## Threats and Protection
+
+visual_purpose: What does the disruption or dark manipulation of Ley Lines look like?
+ideas_for_art_content: Show a landscape with visible signs of Ley Line disruption, such as areas of dead magic or twisted creatures, and members of the Order of the Veiled Eye working to protect the Ley Lines.
+ideas_for_style: Computer graphics, to create a stark contrast between the vibrant magical areas and the blighted zones, with a dramatic and tense atmosphere.
+art_prompt: "A blighted landscape with signs of Ley Line disruption and twisted creatures, with members of the Order of the Veiled Eye in the foreground, in a dramatic and tense computer graphic style, highlighting the contrast between magic and corruption."
+art_prompt_detailed: "A landscape marred by patches of dead magic and malevolent, mutated beings, with cloaked figures working to restore the arcane balance, in a dramatic and tense computer graphic style, emphasizing the stark contrast between the vibrant and corrupted areas."
+caption: The Order of the Veiled Eye protecting the integrity of Ley Lines against a backdrop of a corrupted landscape.
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [location, event, historical, monster, character]
+difficulties: [named characters, multipart, confusing]
+
+Given the limited budget, it's important to prioritize the sections that would benefit the most from visual aids. The "Influence on the World" section is rated high in both artistic and descriptive value, making it a good candidate for art. The "Utilization and Control" section also has high descriptive value, especially for showing architectural alignment, which is a unique aspect of the world. The "Threats and Protection" section could be visually striking but might be more complex and costly due to the multipart nature of the scene.
+
+Retrieved at: 2024-01-02 21:08:32.579276
+Used: False
+Used: True

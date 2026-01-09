@@ -1,0 +1,44 @@
+## Types of Artisans
+
+visual_purpose: What do the different types of artisans and their crafts look like?
+ideas_for_art_content: A montage of artisans at work, including a blacksmith forging a sword, a carpenter crafting furniture, a stone mason chiseling a statue, a weaver at a loom, a jeweler inspecting a gem, and an alchemist brewing a potion.
+ideas_for_style: Sketch, with detailed pencil outlines to show the intricacy of each craft.
+art_prompt: "A montage of various artisans, including a blacksmith, carpenter, stone mason, weaver, jeweler, and alchemist, in their workshops, detailed sketch, showcasing the diversity of their crafts, done in pencil."
+art_prompt_detailed: "A montage of various craftspeople, including a metalworker by a fiery forge, a woodworker in a sawdust-filled workshop, a sculptor with chisel and stone, a fabric artisan at a large loom, a gem expert with magnifying glass and precious stone, and a potion maker surrounded by vials and flasks, all in their respective creative spaces, detailed sketch, showcasing the diversity of their crafts, done in pencil."
+caption: "The diverse world of artisans at work, each expertly crafting their trade's signature items."
+orientation: Landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+## Patronage and Inspiration
+
+visual_purpose: How do artisans draw inspiration from the divine, and what might their divinely inspired works look like?
+ideas_for_art_content: An artisan in a state of inspiration, perhaps a sculptor or painter, with a faint image of a deity (like Lumina or Helior) guiding their hand. The background could show a temple or shrine with commissioned works on display.
+ideas_for_style: Painting, with a semi-realistic style that captures the ethereal connection between the divine and the artisan.
+art_prompt: "An inspired artisan, under the guidance of a celestial figure, in a temple setting, ethereal and semi-realistic, done in oil paint."
+art_prompt_detailed: "A craftsman, perhaps a sculptor or painter, in a moment of divine inspiration, with a translucent image of a deity hovering over, guiding their hand, set against the backdrop of a temple or shrine adorned with various works of art, ethereal and semi-realistic, done in oil paint."
+caption: "An artisan receiving divine inspiration, with celestial guidance infusing their work with sacred beauty."
+orientation: Portrait
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, object, historical, narrative]
+difficulties: [named characters, obscure style]
+
+## Challenges and Conservation
+
+visual_purpose: What challenges do artisans face, and what does conservation work look like?
+ideas_for_art_content: An artisan looking over a depleted mine or forest with concern, while conservationists work to restore the area. The contrast between the barren and the restored sections of the environment.
+ideas_for_style: Computer graphics, with a clear distinction between the damaged and the recovering areas, using vibrant colors for the latter.
+art_prompt: "An artisan surveying a depleted resource area, with conservationists actively restoring it, in vibrant computer graphics."
+art_prompt_detailed: "A craftsman, possibly a jeweler or woodworker, gazing upon a landscape showing signs of resource exhaustion, such as a barren mine or a cleared forest, while nearby, a group of environmental restorers are planting new trees or cleaning waterways, depicted in vibrant computer graphics."
+caption: "The delicate balance between artisanal needs and environmental conservation efforts."
+orientation: Landscape
+artistic_value: [landscape, appropriate style]
+descriptive_value: [location, event, background]
+difficulties: [named location, multipart]
+
+Given the limited budget, I have rated the value harshly and suggested images that would provide significant narrative or descriptive value to the article, enhancing the reader's understanding and engagement with the content.
+
+Retrieved at: 2024-01-02 19:22:35.399888
+Used: False
+Used: True

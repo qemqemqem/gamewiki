@@ -4,6 +4,9 @@ The [Lost Temple of the Moon](Lost%20Temple%20of%20the%20Moon.md) is an enigmati
 
 ## History and Mythology
 
+![History and Mythology](../../images/Lost%20Temple%20of%20the%20Moon_S_History%20and%20Mythology.png)
+"The ancient civilization of the Isles of Whisper communing with the moon deities at the Lost Temple of the Moon.
+
 According to legend, the Lost Temple of the Moon was constructed by a forgotten civilization that had a profound understanding of [spellcraft](Spellcraft.md) and celestial mechanics. This civilization is said to have been in direct communion with the moon deities, receiving their knowledge and blessings. However, as time passed, the civilization declined, and the temple was lost to the ages, its location remaining a secret known only to the moon deities themselves.
 
 ## Architecture and Features

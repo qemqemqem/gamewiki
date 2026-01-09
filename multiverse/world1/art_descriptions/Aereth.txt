@@ -1,0 +1,53 @@
+## Geography and Climate
+visual_purpose: What do the diverse landscapes of Aereth look like, and how do they differ from one another?
+ideas_for_art_content: The Crystal Tower against a backdrop of Whispering Woods, with the Kingdom of Alyndra's fields and cities in the distance, transitioning to the Shadowfell's twilight.
+ideas_for_style: Painting, with a fantasy-realism style that captures the essence of a magical world.
+art_prompt: "The Crystal Tower rising above the Whispering Woods, with the Kingdom of Alyndra in the distance, under a twilight sky transitioning to the Shadowfell, richly detailed, in oil on canvas."
+art_prompt_detailed: "A towering crystalline spire rising above an ancient, sprawling forest, with distant fields and cities visible, all under a sky that transitions from daylight to a mystical twilight, richly detailed, in oil on canvas."
+caption: "The varied landscapes of Aereth, from the Crystal Tower to the Kingdom of Alyndra, under the transitioning sky of the Shadowfell."
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous]
+descriptive_value: [location, background]
+difficulties: [named location, multipart]
+
+## Magic and Arcane Arts
+visual_purpose: How do the arcane arts manifest in the world of Aereth?
+ideas_for_art_content: Wizards, Sorcerers, and Druids casting spells with visible magical energies; Conjuration, Necromancy, and Incantations in action.
+ideas_for_style: Computer graphics, to give a vibrant and dynamic representation of magic.
+art_prompt: "Arcane Practitioners casting spells with swirling magical energies, dynamic, vivid, in digital art."
+art_prompt_detailed: "Figures cloaked in robes channeling spells with swirling energies of various colors and forms, dynamic and vivid, in digital art."
+caption: "The Arcane Practitioners of Aereth harnessing the vibrant energies of magic."
+orientation: Landscape
+artistic_value: [interesting person, intricate design, exciting]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, obscure style]
+
+## Alchemy and Craftsmanship
+visual_purpose: What do the alchemical processes and craftsmanship look like in Aereth?
+ideas_for_art_content: Alchemists at work in a lab with bubbling potions and Artisans like Blacksmiths and Painters creating items, with Grimbeorn the Builder as a central figure.
+ideas_for_style: Sketch, detailed pencil work to show the intricacies of craftsmanship and alchemy.
+art_prompt: "Alchemists in a bustling lab with potions and Artisans at work, centered around Grimbeorn the Builder, intricate, in pencil sketch."
+art_prompt_detailed: "Figures surrounded by vials and flasks of bubbling substances in a medieval lab setting, with other figures forging and painting, featuring a prominent builder character, intricate, in pencil sketch."
+caption: "The masterful Alchemists and Artisans of Aereth, with Grimbeorn the Builder crafting wonders."
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, character]
+difficulties: [named characters]
+
+## Conflicts and Alliances
+visual_purpose: What do the pivotal moments of conflict and alliance in Aereth's history look like?
+ideas_for_art_content: A dramatic scene from the War of the Shadowed Vale or the signing of the Treaty of the Crystal Waters, with military leaders and diplomats.
+ideas_for_style: Painting, historical style reminiscent of classical battle and treaty paintings.
+art_prompt: "A dramatic scene from the War of the Shadowed Vale and the signing of the Treaty of the Crystal Waters, with military and diplomatic figures, in a classical historical painting style."
+art_prompt_detailed: "A battle scene with clashing armies in a darkened vale, juxtaposed with a solemn treaty signing by a crystal-clear water body, with figures in diplomatic and military attire, in a classical historical painting style."
+caption: "The defining moments of Aereth's history: the clash of the War of the Shadowed Vale and the peace of the Treaty of the Crystal Waters."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [named events, multipart]
+
+Please note that the value ratings are subjective and based on the potential impact of the art on the reader's understanding and immersion in the world. The difficulties listed are considerations for the artist and may affect the cost and time required to create the artwork.
+
+Retrieved at: 2024-01-02 20:20:16.863198
+Used: False
+Used: True

@@ -1,0 +1,41 @@
+## Nature of Elementals
+visual_purpose: What do different types of Elementals look like?
+ideas_for_art_content: A montage of different Elementals (Earth, Air, Fire, Water, Aether) in their natural forms, each interacting with their element.
+ideas_for_style: Painting, with a style reminiscent of classic fantasy art.
+art_prompt: "A montage of an Earth Elemental, Air Elemental, Fire Elemental, Water Elemental, and Aether Elemental in their respective elemental environments, painted in a classic fantasy style, vibrant and dynamic, done in watercolor and ink."
+art_prompt_detailed: "A montage of a towering figure made of rock and soil, a swirling form of mist and wind, a roaring column of flames, a flowing shape of water, and a luminous ethereal figure, each within an environment that reflects their element (mountains, sky, volcano, river, and starry void), painted in a classic fantasy style, vibrant and dynamic, done in watercolor and ink."
+caption: "The diverse forms of Elementals, each a master of their element."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Person, object, background, narrative
+difficulties: Named characters, multipart
+
+## Summoning and Binding Elementals
+visual_purpose: How does the process of summoning and binding an Elemental look?
+ideas_for_art_content: A summoner in the midst of a ritual, with Elemental Essences and symbols glowing, and the form of an Elemental beginning to manifest.
+ideas_for_style: Sketch, with detailed linework to show the intricacies of the ritual.
+art_prompt: "A robed summoner in a ritual circle, with glowing Elemental Essences and arcane symbols, as the form of an Elemental begins to take shape, detailed linework, done in pencil."
+art_prompt_detailed: "A figure draped in ceremonial robes standing within a complex circle inscribed with runes and sigils, holding a vial emitting a radiant light, with the semi-transparent form of an elemental spirit emerging above the circle, detailed linework, done in pencil."
+caption: "A summoner calls forth an Elemental through ancient rites."
+orientation: Portrait
+artistic_value: Intricate design, exciting
+descriptive_value: Person, event, historical, story event
+difficulties: Named characters, instructions unclear
+
+## Elemental Nodes and Artifacts
+visual_purpose: What do Elemental Nodes and powerful artifacts look like?
+ideas_for_art_content: A landscape showing an Elemental Node, such as a fiery chasm or a floating island, with adventurers discovering an artifact like a glowing crystal.
+ideas_for_style: Computer graphics, to capture the magical and otherworldly essence of the scene.
+art_prompt: "Adventurers at the edge of a fiery chasm, which serves as an Elemental Node, discovering a glowing crystal artifact, rendered in computer graphics, mystical and surreal, done in 3D modeling."
+art_prompt_detailed: "A group of armored explorers standing at the precipice of a deep gorge emanating intense heat and light, indicative of a Fire Elemental's presence, with one of them holding a radiant, levitating crystal, rendered in computer graphics, mystical and surreal, done in 3D modeling."
+caption: "Adventurers uncover an ancient artifact at an Elemental Node."
+orientation: Landscape
+artistic_value: Wondrous, exciting, style match
+descriptive_value: Location, object, event
+difficulties: Named location
+
+Given the limited budget, I have selected sections where visuals would add significant value to the understanding and engagement of the readers. The artistic and descriptive values are rated to reflect the potential impact of the visuals on the reader's experience, while also considering the complexity and potential cost of creating such artwork.
+
+Retrieved at: 2024-01-02 20:16:47.532192
+Used: False
+Used: True

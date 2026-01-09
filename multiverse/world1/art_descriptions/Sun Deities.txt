@@ -1,0 +1,41 @@
+## Worship and Temples
+visual_purpose: What do the grand temples dedicated to the sun deities look like, and how do they capture the essence of the sun's power?
+ideas_for_art_content: The Cathedral of Radiant Dawn in the Silverlake Valley, priests and paladins conducting rituals, the sun's first light touching the temple.
+ideas_for_style: Painting, with a style reminiscent of classical religious art or a fantasy concept art style.
+art_prompt: "The Cathedral of Radiant Dawn in the Silverlake Valley, bathed in the first light of dawn, majestic and glowing, done in a classical painting style."
+art_prompt_detailed: "A grand temple perched in a lush valley, its spires reaching towards the sky, as the first rays of the morning sun illuminate its golden facade, painted in a style that evokes the grandeur of classical religious art."
+caption: The Cathedral of Radiant Dawn, the pinnacle of worship for the sun deities in Aesheron.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, wondrous, exciting, style match]
+descriptive_value: [location, object, event, background]
+difficulties: [named location]
+
+## The Pantheon
+visual_purpose: Who are the members of the sun deity family, and what do they symbolize?
+ideas_for_art_content: Portraits of Solara, Pyronus, Lumina, and Helior, each depicted with their associated symbols and elements (e.g., dawn, zenith, light, and protection).
+ideas_for_style: Stained glass or high fantasy illustration style.
+art_prompt: "Portraits of Solara, Pyronus, Lumina, and Helior, each embodying their divine aspects, in a stained glass style, vibrant and ethereal, done as a high fantasy illustration."
+art_prompt_detailed: "Four divine figures, each associated with different times of day and aspects of the sun, portrayed with radiant colors and symbolic elements, rendered in a style that mimics the translucence and vibrancy of stained glass, as seen in a high fantasy illustration."
+caption: The divine family of the sun deities, each governing a different aspect of the sun's domain.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, character, narrative]
+difficulties: [named characters]
+
+## Festivals and Celebrations
+visual_purpose: What do the festivals celebrating the sun deities look like, and how do they embody the community's spirit?
+ideas_for_art_content: Scenes from the Solstice of the Blazing Sky with people dancing, music, and offerings, and the Dawn of the New Light with individuals making vows.
+ideas_for_style: Watercolor painting or a vibrant, lively digital illustration.
+art_prompt: "The Solstice of the Blazing Sky festival, with joyful dancing and music, colorful and lively, done in a watercolor style."
+art_prompt_detailed: "A bustling street scene with people engaged in dance and music, stalls adorned with bright offerings, all under a radiant summer sky, captured in the fluid and expressive medium of watercolor."
+caption: The Solstice of the Blazing Sky, a day of celebration and thanksgiving to the sun deities.
+orientation: Landscape
+artistic_value: [fun, exciting, style match]
+descriptive_value: [event, historical, story event, background, narrative]
+difficulties: [none]
+
+Given the limited budget, these three sections provide a balance between artistic and descriptive value, offering visual enrichment to the article without requiring an extensive number of illustrations. Each art piece would serve to enhance the reader's understanding and immersion in the world of Aesheron.
+
+Retrieved at: 2024-01-02 20:26:49.763913
+Used: False
+Used: True

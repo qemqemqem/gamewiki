@@ -1,0 +1,40 @@
+## Design and Construction
+visual_purpose: What do the legendary Ironclads look like, and how are they constructed?
+ideas_for_art_content: The main focus could be the construction of an Ironclad with dwarves working on the hull, the sails being woven from Moonflower silk, and the masts being carved from the ancient trees. Background could show the Dwarven Mines or a shipyard with the Echoing Basin in the distance.
+ideas_for_style: A detailed painting style reminiscent of classical epic artworks to capture the grandeur and intricacy of the ships and the craftsmanship of the Dwarves.
+art_prompt: "Dwarven shipwrights constructing an Ironclad in a grand shipyard, with epic detail, in a classical painting style, showcasing the legendary dwarven steel hull and Moonflower silk sails, done in oil on canvas."
+art_prompt_detailed: "Stout, bearded craftsmen working on a massive steel-hulled ship in a bustling underground shipyard, with epic detail, in a classical painting style, showcasing the reflective metallic hull and shimmering, delicate sails, done in oil on canvas."
+caption: Dwarven shipwrights forging an Ironclad, showcasing the legendary craftsmanship of Aesheron.
+orientation: landscape
+artistic_value: [appropriate style, intricate design, wondrous]
+descriptive_value: [location, object, historical, narrative]
+difficulties: [named location, multipart]
+
+## Armament
+visual_purpose: How are the Ironclads armed and prepared for battle?
+ideas_for_art_content: An Ironclad in the midst of battle, firing its ballistae and catapults, with Orbs of Destruction glowing and ready to be unleashed. Dwarven warriors in enchanted armor could be seen preparing for combat.
+ideas_for_style: A dynamic and intense comic book or graphic novel style to convey the action and power of the Ironclads' weaponry.
+art_prompt: "An Ironclad in battle, with ballistae firing and Orbs of Destruction glowing, in a dynamic comic book style, action-packed, done in digital art."
+art_prompt_detailed: "A formidable steel-clad warship on tumultuous seas, its deck bristling with weaponry as it launches a volley of enchanted projectiles, with glowing orbs poised to release energy, depicted in a dynamic comic book style, action-packed, done in digital art."
+caption: The fearsome armament of an Ironclad in the heat of battle.
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [object, event, character, narrative]
+difficulties: [named characters, multipart, confusing]
+
+## Legacy
+visual_purpose: What remains of the Ironclads today, and how are they remembered?
+ideas_for_art_content: The ruins of an Ironclad in the Caverns of Echo, with adventurers or treasure hunters exploring it. The background could show the eerie, mystical environment of the caverns.
+ideas_for_style: A realistic, atmospheric style that captures the sense of history and adventure, similar to concept art for fantasy games or movies.
+art_prompt: "The remnants of an Ironclad in the mystical Caverns of Echo, atmospheric, with a sense of history, done in digital painting."
+art_prompt_detailed: "The skeletal remains of a once-mighty dwarven warship, half-buried in the crystalline floor of a luminescent cavern, atmospheric, with a sense of history, done in digital painting."
+caption: Adventurers exploring the remnants of an Ironclad in the Caverns of Echo.
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, historical, narrative]
+difficulties: [named location]
+
+Given the limited budget, the "Design and Construction" section would likely offer the highest descriptive value, providing a visual foundation for the Ironclads' legendary status. The "Armament" section could be valuable for its exciting depiction of battle, which could enhance engagement with the article. The "Legacy" section, while interesting, might be considered a lower priority due to the potential overlap with other fantasy tropes and settings.
+
+Retrieved at: 2024-01-02 21:44:31.477478
+Used: False

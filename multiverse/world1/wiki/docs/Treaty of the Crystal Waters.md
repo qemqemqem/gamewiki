@@ -10,6 +10,9 @@ The origins of the conflict that led to the treaty are rooted in the [Ancient Wa
 
 The negotiations for peace were spearheaded by the esteemed diplomat [Alyndra](Alyndra.md), whose wisdom and tact were instrumental in bringing the two factions to the negotiating table. The talks were held in neutral territory, within the serene surroundings of [Crystal Lake](Crystal%20Lake.md), a site chosen for its symbolic significance as a place of purity and reflection.
 
+![Significance](../../images/Treaty%20of%20the%20Crystal%20Waters_S_Significance.png)
+The signing of the Treaty under the blessings of Moon Deities and the sacred Chant of the Silver Bloom.
+
 ## Provisions
 
 The treaty outlined several key provisions aimed at fostering a lasting peace:

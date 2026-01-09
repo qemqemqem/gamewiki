@@ -1,0 +1,41 @@
+## History of Summoning
+visual_purpose: What did the earliest summoning by Morath the Wise look like?
+ideas_for_art_content: Morath the Wise performing a ritual, ethereal Silvermane Horses emerging from a mystical portal, ancient symbols and reagents around the summoning circle.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art, rich in color and detail.
+art_prompt: "Morath the Wise in an ancient summoning chamber, with Silvermane Horses emerging from a glowing portal, painted in a classical fantasy style, detailed, mystical."
+art_prompt_detailed: "A robed figure with a wise demeanor in an ancient, rune-covered chamber, with ethereal horses emerging from a shimmering portal, painted in a classical fantasy style, detailed, mystical."
+caption: Morath the Wise performing the first recorded summoning of the Silvermane Horses.
+orientation: Landscape
+artistic_value: Wondrous, style match
+descriptive_value: Historical, event, character
+difficulties: Named characters, multipart
+
+## Types of Summoning
+visual_purpose: What do the different types of summoning rituals look like?
+ideas_for_art_content: A collage showing the four types of summoning: Calling with a creature appearing beside a caster, Binding with a powerful Efreeti being restrained, Elemental Summoning with a mage harnessing a storm, Spiritual Summoning with a ghostly figure being called forth.
+ideas_for_style: Sketch, with distinct sections for each type, using pencil outlines to differentiate the methods.
+art_prompt: "A collage of four summoning types: Calling, Binding, Elemental, and Spiritual, in a sketch style, distinct, evocative."
+art_prompt_detailed: "A collage depicting four separate scenes: a mage with a summoned ally, a conjurer restraining a fiery entity, a sorcerer channeling a natural force, and a summoner calling upon a spectral figure, all in a sketch style, distinct, evocative."
+caption: The diverse methods and purposes of summoning: Calling, Binding, Elemental, and Spiritual.
+orientation: Landscape
+artistic_value: Intricate design, style match
+descriptive_value: Event, monster, character
+difficulties: Multipart, instructions unclear
+
+## Summoning in Society
+visual_purpose: How does summoning integrate into various societal roles?
+ideas_for_art_content: Scenes of summoning in military (summoned creatures in battle), construction (ethereal laborers building), communication (people conversing in a silent zone), and exploration (adventurers using summoning to traverse difficult terrain).
+ideas_for_style: Computer graphics, with a modern and clean look to illustrate the practical applications of summoning.
+art_prompt: "Scenes of summoning in military, construction, communication, and exploration, in a modern computer graphics style, clear, functional."
+art_prompt_detailed: "Four scenes depicting summoning's societal roles: a battlefield with summoned allies, a construction site with ethereal figures, two individuals in a silent bubble conversing, and explorers using magical assistance to navigate a landscape, all in a modern computer graphics style, clear, functional."
+caption: The multifaceted roles of summoning in society: military, construction, communication, and exploration.
+orientation: Landscape
+artistic_value: Appropriate style, interesting person
+descriptive_value: Location, person, object, event
+difficulties: Multipart
+
+Given the limited budget, the value of the art should be considered carefully. The "History of Summoning" section is likely the most valuable in terms of both artistic and descriptive value, as it depicts a pivotal historical event and the legendary figure of Morath the Wise. The "Types of Summoning" could also be valuable for descriptive purposes, but might be less critical if budget constraints are tight. The "Summoning in Society" section, while interesting, may not be as essential since the text already provides a clear description of the societal roles of summoning. Prioritize based on the impact each image would have on the players' understanding and immersion in the world.
+
+Retrieved at: 2024-01-02 20:54:57.141697
+Used: False
+Used: True

@@ -1,0 +1,44 @@
+## The Wars Begin
+
+visual_purpose: What did the eruption of the Mage Wars look like, and how did the various factions of spellcasters engage in battle?
+ideas_for_art_content: A chaotic battlefield with Elves and Humans casting spells, magical artifacts in use, otherworldly beings being summoned, and the landscape being altered by magic. Druids could be shown trying to restore balance.
+ideas_for_style: A dynamic painting style reminiscent of classical battle scenes, with a fantasy twist.
+art_prompt: "Elves and Humans locked in a magical battle in the Shadowed Vale, with vibrant colors and chaotic energy, done in oil painting"
+art_prompt_detailed: "Mystical beings and spellcasters of various races locked in a magical battle in a dark, enchanted forest, with vibrant colors and chaotic energy, depicted in an oil painting"
+caption: Spellcasters of Aesheron unleash their power upon each other in the early days of the Mage Wars.
+orientation: landscape
+artistic_value: exciting, style match
+descriptive_value: event, historical, story event, character, background, narrative
+difficulties: named characters, multipart, confusing
+
+## Impact on the Realm
+
+visual_purpose: How did the Mage Wars affect the landscapes and societies of Aesheron?
+ideas_for_art_content: The Crystal Sea turned into a battleground with naval conflicts, the Throne of the Mountain King as a dwarven stronghold, and the Fallen Temple of the Moon in ruins.
+ideas_for_style: A triptych painting style, showing three separate but thematically connected scenes.
+art_prompt: "The Crystal Sea's naval battle, the Mountain King's stronghold, and the Fallen Temple of the Moon in a triptych, with a somber tone, done in watercolor"
+art_prompt_detailed: "A once-tranquil sea now hosting a fierce naval conflict, a mountain fortress standing resilient amidst chaos, and a once-holy temple now in ruins, all depicted in a triptych with a somber tone, created with watercolor techniques"
+caption: The varied and far-reaching impacts of the Mage Wars on the realm of Aesheron.
+orientation: landscape
+artistic_value: intricate design, wondrous, style match
+descriptive_value: location, object, map, event, historical, background, narrative
+difficulties: named location, multipart
+
+## Aftermath and Legacy
+
+visual_purpose: What does the new era of oversight and control in the use of magic look like?
+ideas_for_art_content: The Council of Arcana in session, a diverse group of arcane practitioners engaged in discussion and study, with a backdrop of a library or chamber filled with magical artifacts and tomes.
+ideas_for_style: A detailed sketch that captures the gravity and wisdom of the council.
+art_prompt: "The Council of Arcana convening in their grand chamber, with a focus on wisdom and order, done in detailed pencil sketch"
+art_prompt_detailed: "A gathering of wise spellcasters from various races, deep in discussion within a grand chamber adorned with magical artifacts and ancient tomes, depicted in a detailed pencil sketch"
+caption: The Council of Arcana deliberates on the ethical use of magic to prevent another Mage Wars.
+orientation: portrait
+artistic_value: interesting person, appropriate style
+descriptive_value: person, object, historical, narrative
+difficulties: named characters, instructions unclear
+
+Given the limited budget, the value of each piece should be weighed against the potential impact it could have on the players' understanding and immersion in the story. The "The Wars Begin" section is likely the most valuable in terms of artistic and descriptive value, as it sets the stage for the entire campaign and can be a powerful visual hook for the players. The "Impact on the Realm" section could also be valuable for world-building, while the "Aftermath and Legacy" section, although important, might be less visually impactful and could potentially be skipped if budget constraints are tight.
+
+Retrieved at: 2024-01-02 19:34:16.124682
+Used: False
+Used: True

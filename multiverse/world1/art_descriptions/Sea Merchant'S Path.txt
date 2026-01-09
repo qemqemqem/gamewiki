@@ -1,0 +1,41 @@
+## Geography
+visual_purpose: What does the Sea Merchant's Path look like as it winds through various landscapes and seascapes?
+ideas_for_art_content: A map showing the route from Aesheron, past the Dwarven Mines and Fields of Golden Grain, skirting Silverlake Valley, and into the Crystal Sea with the Isles of Whisper and Gardens of Nightshade marked.
+ideas_for_style: Aged parchment map, with an old-world cartographic style, including sea monsters in the margins, compass rose, and ornate title cartouche.
+art_prompt: "Map of the Sea Merchant's Path on aged parchment, detailed, with fantastical elements, done in ink and watercolor"
+art_prompt_detailed: "Map of a legendary maritime trade route on aged parchment, detailed, with fantastical sea creatures in the margins, a compass rose, and an ornate title cartouche, done in ink and watercolor"
+caption: "The Sea Merchant's Path: A cartographer's rendering of the legendary trade route."
+orientation: [landscape]
+artistic_value: [landscape, intricate design, style match]
+descriptive_value: [location, map, narrative]
+difficulties: [named location, multipart]
+
+## Dangers and Challenges
+visual_purpose: What sort of perils do sailors face on the Sea Merchant's Path?
+ideas_for_art_content: A dramatic scene showing a merchant ship defending against pirates, with the Order of the Crimson Blade or the Order of the Veiled Eye in the midst of battle, and spectral Shade Wraiths looming in the background.
+ideas_for_style: Dynamic oil painting with a focus on the action, dark and moody to convey danger, with a hint of supernatural elements through the use of eerie lighting.
+art_prompt: "Merchant ship in battle with pirates on tumultuous seas, oil painting, dark and intense, with ghostly apparitions"
+art_prompt_detailed: "A sturdy trading vessel engaged in fierce combat with a pirate ship on tumultuous seas, oil painting, dark and intense, with ghostly apparitions representing supernatural threats"
+caption: "Perils of the Sea Merchant's Path: Pirates and supernatural dangers."
+orientation: [landscape]
+artistic_value: [exciting, wondrous]
+descriptive_value: [event, monster, character, narrative]
+difficulties: [named characters, multipart, confusing]
+
+## Cultural Significance
+visual_purpose: How does the Sea Merchant's Path facilitate cultural exchange?
+ideas_for_art_content: A bustling port scene with diverse peoples trading goods, such as Elves exchanging music and art, Dwarves showcasing their craftsmanship, and Nomads from the Eastern Sands bartering spices and textiles.
+ideas_for_style: Vibrant watercolor painting capturing the lively atmosphere of the port, with attention to the diverse cultures and goods being exchanged.
+art_prompt: "Bustling port on the Sea Merchant's Path, watercolor, vibrant and lively, showcasing cultural diversity"
+art_prompt_detailed: "A lively port scene on a legendary maritime trade route, watercolor, vibrant and lively, with a focus on the exchange of diverse cultural goods and peoples"
+caption: "The Melting Pot of Cultures: A vibrant port along the Sea Merchant's Path."
+orientation: [landscape]
+artistic_value: [interesting person, fun, style match]
+descriptive_value: [person, object, event, narrative]
+difficulties: [named characters, multipart]
+
+Given the limited budget, the value ratings are harsh, and the focus should be on the most impactful visuals that contribute significantly to the understanding and enjoyment of the article. The Geography section with a map has high descriptive value and can be a single piece without the need for multiple parts or characters. The Dangers and Challenges section offers exciting artistic value but may be more complex and costly due to the action and characters involved. The Cultural Significance section has both artistic and descriptive value, showcasing the diversity and vibrancy of the world, but it also requires depicting multiple characters and goods.
+
+Retrieved at: 2024-01-02 19:32:07.488569
+Used: False
+Used: True

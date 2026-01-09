@@ -4,6 +4,9 @@ In the annals of craftsmanship and metallurgy, the title of [master blacksmith](
 
 ## Origins and Training
 
+![Origins and Training](../../images/Master%20Blacksmith_S_Origins%20and%20Training.png)
+An apprentice learns the art of the forge under the watchful eye of a master blacksmith.
+
 The path to becoming a master blacksmith is arduous and steeped in tradition. It begins with an apprenticeship under a seasoned blacksmith, where the aspirant learns the basics of the forge, including the handling of [water](Water.md), fire, and metal. As their skills progress, they delve into more advanced techniques such as [transmutation](Transmutation.md) and [enchantment](Enchantment.md), often seeking knowledge from [mystics](Mystics.md) and [alchemists](Alchemists.md) to enhance their craft.
 
 Upon completing their apprenticeship, a blacksmith may be deemed a journeyman, free to travel and learn from the forges of the world, such as the famed [Dwarven Mines](Dwarven%20Mines.md) or the mystical [enchanted Grove](Enchanted%20Grove.md). It is only after years of dedication and the creation of a masterpiece that a journeyman may be recognized as a master blacksmith by the [Council of Trade](Council%20of%20Trade.md) or a similar authoritative body.

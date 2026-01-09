@@ -1,0 +1,41 @@
+## Campus and Location
+visual_purpose: What does the Academy of Planar Studies look like, especially the Ethereal Observatory?
+ideas_for_art_content: The Academy's towers and libraries, the Ethereal Observatory, students and faculty walking around, magical elements in the architecture.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art, rich in color and detail.
+art_prompt: "The Academy of Planar Studies atop the Singing Willows, with its spiraling towers and the Ethereal Observatory, in a classical fantasy art style, majestic, detailed, done in oil painting."
+art_prompt_detailed: "A grand academy with spiraling towers atop mystical, willow-covered hills, featuring an observatory with magical elements, in a classical fantasy art style, majestic, detailed, done in oil painting."
+caption: The Academy of Planar Studies, with its iconic Ethereal Observatory, nestled atop the Singing Willows.
+orientation: Landscape
+artistic_value: [landscape, appropriate style, intricate design, wondrous]
+descriptive_value: [location, background]
+difficulties: [named location]
+
+## Notable Faculty and Alumni
+visual_purpose: Who are some of the distinguished individuals associated with the Academy?
+ideas_for_art_content: Portraits of the Veiled Navigators, Keepers of the Eldara Codex, with the Academy or a study room in the background.
+ideas_for_style: Sketch, detailed pencil drawings with a touch of color to highlight important features.
+art_prompt: "Portraits of the Veiled Navigators and Keepers of the Eldara Codex in a study room, in detailed pencil sketches with color highlights, insightful, prestigious, done in pencil and watercolor."
+art_prompt_detailed: "Portraits of a group of scholarly planar travelers and guardians of ancient texts in an academic setting, in detailed pencil sketches with color highlights, insightful, prestigious, done in pencil and watercolor."
+caption: Esteemed members of the Academy: the Veiled Navigators and Keepers of the Eldara Codex.
+orientation: Portrait
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, character]
+difficulties: [named characters]
+
+## Events and Traditions
+visual_purpose: What does the Solstice of the Blazing Sky event look like at the Academy?
+ideas_for_art_content: Scholars and magic users gathered, celestial alignments, magical energies visible in the sky, the Academy in the background.
+ideas_for_style: Computer graphics, vibrant and dynamic, capturing the magical essence of the event.
+art_prompt: "The Solstice of the Blazing Sky event at the Academy, with celestial alignments and magical energies, in vibrant computer graphics, dynamic, enchanting, done in digital art."
+art_prompt_detailed: "A gathering of scholars and magic users at an illustrious academy, with celestial bodies aligning and magical auras in the sky, in vibrant computer graphics, dynamic, enchanting, done in digital art."
+caption: The Solstice of the Blazing Sky, a time of magical potential at the Academy of Planar Studies.
+orientation: Landscape
+artistic_value: [exciting, wondrous]
+descriptive_value: [event, story event]
+difficulties: [event]
+
+Given the limited budget, these sections offer the most value in terms of both artistic and descriptive qualities, providing a visual representation of key aspects of the Academy. The difficulty level is moderate, ensuring that the art can be created without excessive complexity or cost.
+
+Retrieved at: 2024-01-02 20:37:25.078050
+Used: False
+Used: True

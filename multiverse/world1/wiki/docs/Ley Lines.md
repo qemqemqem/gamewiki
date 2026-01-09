@@ -12,6 +12,9 @@ The ability to detect Ley Lines is a rare skill known as Ley Line Sensing. This 
 
 ## Influence on the World
 
+![Influence on the World](../../images/Ley%20Lines_S_Influence%20on%20the%20World.png)
+Ethereal will-o'-the-wisps above the Sea of Lost Souls and a Forest Nymph drawn to the energy of a Ley Line, with an Air Elemental in the background.
+
 ### Magical Phenomena
 
 Ley Lines influence the creation of magical phenomena, such as the ethereal [will-o'-the-wisps](Will-O'-The-Wisp.md) in the [Sea of Lost Souls](Sea%20of%20Lost%20Souls.md) or the enhanced foresight granted within the [Sanctum of Visions](Sanctum%20of%20Visions.md). These lines can also affect the behavior of magical creatures, like [Air Elementals](Air%20Elementals.md) or [Forest Nymphs](Forest%20Nymphs.md), who may be drawn to the energy for sustenance or empowerment.

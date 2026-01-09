@@ -16,6 +16,9 @@ Illusions can be broadly categorized into several types:
 
 ## Applications of Illusion
 
+![Applications of Illusion](../../images/Illusion_S_Applications%20of%20Illusion.png)
+The versatile applications of Illusion magic in entertainment, stealth, warfare, and investigation.
+
 The applications of Illusion are as varied as the imaginations of those who wield it. In the hands of a skilled Illusionist, these spells can be used for entertainment, subterfuge, or even combat.
 
 - **Theatrical Performances**: Many [Artisans](Artisans.md) and performers employ Illusion to enhance their shows, creating spectacular effects that dazzle audiences.

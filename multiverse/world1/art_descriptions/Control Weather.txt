@@ -1,0 +1,44 @@
+## Applications
+
+visual_purpose: What strategic advantages can weather control provide in a military or civilian context?
+ideas_for_art_content: A battlefield shrouded in fog, crops flourishing under perfect weather conditions, a town being saved from a natural disaster by a clear sky.
+ideas_for_style: Painting, with a dynamic and dramatic style to capture the intensity and impact of weather manipulation.
+art_prompt: "A battlefield enveloped in fog with shadowy figures in the background, in a dramatic and dynamic painting style, evoking mystery and strategic depth, done in oil on canvas."
+art_prompt_detailed: "A battlefield enveloped in fog with shadowy figures representing soldiers in the background, in a dramatic and dynamic painting style, evoking mystery and strategic depth, done in oil on canvas."
+caption: "The strategic use of weather control in military operations, as fog engulfs the battlefield."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, historical, story event]
+difficulties: [named location, multipart]
+
+## Legendary Artifacts
+
+visual_purpose: What might a legendary staff capable of controlling weather look like?
+ideas_for_art_content: An ornate staff glowing with power, surrounded by elemental motifs representing wind, rain, and lightning.
+ideas_for_style: Sketch, with detailed pencil work to highlight the intricate design of the staff and the elemental effects.
+art_prompt: "An ornate staff radiating with arcane energy, encircled by wind and lightning, in a detailed pencil sketch, intricate and mystical, done on textured paper."
+art_prompt_detailed: "An ornate staff radiating with arcane energy, encircled by wind and lightning, in a detailed pencil sketch, intricate and mystical, done on textured paper."
+caption: "The legendary staff of Morath, rumored to command the very elements."
+orientation: Portrait
+artistic_value: [intricate design, wondrous]
+descriptive_value: [object, character]
+difficulties: [named characters, obscure style]
+
+## Limitations and Risks
+
+visual_purpose: What are the potential consequences of tampering with weather?
+ideas_for_art_content: A caster overwhelmed by the spell's power, with chaotic weather patterns emerging around them, possibly leading to ecological disasters.
+ideas_for_style: Computer graphics, to depict the complex and chaotic nature of the spell's effects with clarity and precision.
+art_prompt: "A caster struggling to maintain control over a tempest, in a clear and precise computer graphic, chaotic, powerful, done in digital 3D rendering."
+art_prompt_detailed: "A mage in elaborate robes, visibly strained as they attempt to harness a violent storm, with chaotic weather patterns emerging around them, depicted in a clear and precise computer graphic, chaotic, powerful, done in digital 3D rendering."
+caption: "The risks of weather manipulation: a caster contends with the spell's overwhelming force."
+orientation: Landscape
+artistic_value: [exciting, style match]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters]
+
+Please note that the value ratings are harsh due to the limited budget, and the artistic and descriptive values are chosen to reflect the most impactful visuals for each section. The difficulties highlight potential challenges an artist may face without specific knowledge of the campaign world.
+
+Retrieved at: 2024-01-02 20:32:22.538973
+Used: False
+Used: True

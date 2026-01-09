@@ -8,6 +8,9 @@ At its core, Divination involves the interpretation of omens, the casting of spe
 
 ## Methods of Divination
 
+![Methods of Divination](../../images/Divination_S_Methods%20of%20Divination.png)
+"The many methods of Divination, each with its own tools and traditions.
+
 Divination can be performed through a multitude of methods, each with its own traditions and tools. Some of the most common techniques include:
 
 - **Scrying**: Using reflective surfaces, such as water, mirrors, or [Orbs](Orbs.md), to glimpse distant places, people, or events.

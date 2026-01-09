@@ -1,0 +1,53 @@
+## Origins and Nature
+visual_purpose: What do Water Elementals look like when they emerge from the purest waters?
+ideas_for_art_content: A Water Elemental rising from a pristine lake, with a form that is both serene and powerful, partially transparent and shimmering with the movement of water.
+ideas_for_style: Painting, using watercolors to capture the fluidity and translucency of the Elemental.
+art_prompt: "A Water Elemental emerging from a crystal-clear lake, ethereal and dynamic, captured in watercolors"
+art_prompt_detailed: "A shape-shifting being of water rising from a body of water that reflects the sky, its form serene yet powerful, depicted in a watercolor style that emphasizes its fluid and translucent nature."
+caption: "The birth of a Water Elemental from the purest waters of the Elemental Plane."
+orientation: [landscape]
+artistic_value: [wondrous, style match]
+descriptive_value: [person, object, background]
+difficulties: [named location, multipart]
+
+### Elemental Summoning
+visual_purpose: How do mages interact with Water Elementals during summoning?
+ideas_for_art_content: A mage standing within a magical circle, with a Water Elemental materializing before them, water swirling around the Elemental as it forms.
+ideas_for_style: Sketch, with detailed pencil work to show the intricacies of the summoning circle and the fluid motion of the water.
+art_prompt: "A mage summoning a Water Elemental, with intricate magical runes and dynamic water currents, sketched in pencil"
+art_prompt_detailed: "A robed spellcaster within a circle of arcane symbols, conjuring a being made of water that swirls and coalesces into a sentient form, all rendered in detailed pencil strokes."
+caption: "A mage calling upon the aid of a Water Elemental through the ancient art of Elemental Summoning."
+orientation: [portrait]
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, event, narrative]
+difficulties: [named characters, multipart]
+
+## Cultural Significance
+visual_purpose: What do tributes to Water Elementals look like during cultural festivals?
+ideas_for_art_content: A vibrant festival scene with people offering gifts or performing rituals by the water's edge, with a benevolent Water Elemental watching over them.
+ideas_for_style: Painting, with a folk art style to capture the cultural essence of the festival.
+art_prompt: "A community festival by the river, with colorful tributes to a benevolent Water Elemental, in a folk art style"
+art_prompt_detailed: "Villagers gathered by a river, adorned in festive attire, offering woven baskets and performing water rituals, while a gentle figure made of water observes, all depicted in a vibrant folk art painting."
+caption: "The Festival of Shields, where villagers honor the Water Elementals to ensure prosperity and safe passage."
+orientation: [landscape]
+artistic_value: [fun, style match]
+descriptive_value: [event, historical, narrative]
+difficulties: [none]
+
+## Threats and Enemies
+visual_purpose: What kind of dangers do Water Elementals face from dark sorcerers and pollution?
+ideas_for_art_content: A Water Elemental struggling against dark magical chains or recoiling from a polluted water source, showing the conflict and threat.
+ideas_for_style: Computer graphics, to create a stark contrast between the purity of the Elemental and the darkness of the threats.
+art_prompt: "A Water Elemental ensnared by dark sorcery and threatened by pollution, rendered in stark computer graphics"
+art_prompt_detailed: "A being of pure water caught in shadowy magical bindings, with its home waters tainted by dark, oily substances, depicted in high-contrast computer-generated imagery."
+caption: "The Water Elemental faces the darkness of sorcery and the blight of pollution, threats to its very essence."
+orientation: [landscape]
+artistic_value: [exciting, style match]
+descriptive_value: [person, object, event]
+difficulties: [named characters, obscure style]
+
+Given the limited budget, I would suggest prioritizing the "Origins and Nature" and "Elemental Summoning" sections for artwork, as they are central to understanding what Water Elementals are and how they interact with the world. These images would have high descriptive value and contribute significantly to the immersion of your players in the campaign's lore.
+
+Retrieved at: 2024-01-02 21:15:22.552285
+Used: False
+Used: True

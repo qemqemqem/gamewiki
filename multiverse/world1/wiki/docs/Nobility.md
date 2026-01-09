@@ -24,6 +24,9 @@ In their role as military leaders, nobles may lead their personal retinues into 
 
 ## Culture and Lifestyle
 
+![Culture and Lifestyle](../../images/Nobility_S_Culture%20and%20Lifestyle.png)
+"A glimpse into the opulent lifestyle of Aesheron's nobility during a grand ball.
+
 The lifestyle of the nobility is marked by luxury and opulence. They dwell in grand estates and castles, adorned with fine tapestries and art. Lavish feasts and balls are common, with nobles often wearing garments of [Moonflower](Moonflower.md) silk or jewelry set with magical [Orbs](Orbs.md) as symbols of their status.
 
 ### Education and Etiquette

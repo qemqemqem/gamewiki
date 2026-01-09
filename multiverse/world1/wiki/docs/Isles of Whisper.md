@@ -4,6 +4,9 @@ The [Isles of Whisper](Isles%20of%20Whisper.md) are an archipelago located in th
 
 ## Geography
 
+![Geography](../../images/Isles%20of%20Whisper_S_Geography.png)
+"The ever-shifting landscape of the Isles of Whisper, where the veil between worlds is thin.
+
 The archipelago consists of numerous islands, ranging from small, rocky outcrops to larger landmasses covered in dense, misty forests. The exact number of islands is unknown, as new isles seem to appear while others vanish, as if by magic. The largest and most stable of these is [Echovale Isle](Echovale%20Isle.md), named for the way sounds seem to resonate and linger in the air unnaturally.
 
 The shores of the Isles of Whisper are often shrouded in a thick fog that rolls in from the sea, obscuring vision and disorienting travelers. The interior of the larger islands is marked by rugged terrain, with cliffs that rise sharply from the sea and forests that are home to strange flora and fauna, some of which are found nowhere else in the world.

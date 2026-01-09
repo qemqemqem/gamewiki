@@ -1,0 +1,53 @@
+## History of Spellcraft
+visual_purpose: What did the ancient practice of spellcraft look like, and what were its origins?
+ideas_for_art_content: An ancient wizard or sorcerer practicing early spellcraft, surrounded by archaic symbols and artifacts, with the Shrouded City or the Great Library of Eldara in the background.
+ideas_for_style: A painting with a mystical and ethereal quality, reminiscent of classical fantasy art.
+art_prompt: "An ancient wizard in the midst of casting a spell, with the Shrouded City looming in the background, mystical and ethereal, done in oil on canvas."
+art_prompt_detailed: "A robed figure with a long beard and staff, surrounded by floating arcane symbols, in front of a city shrouded in mist and mystery, painted with a mystical and ethereal quality, using oil on canvas."
+caption: "An ancient wizard channels the foundational principles of spellcraft with the Shrouded City in the distance."
+orientation: landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, person, historical]
+difficulties: [named location]
+
+### Schools of Magic
+visual_purpose: What do the different schools of magic look like in practice?
+ideas_for_art_content: A collage or series of images depicting a spellcaster from each school, performing a signature spell (e.g., a shield for Abjuration, a summoned creature for Conjuration).
+ideas_for_style: Sketches with color highlights to differentiate each school of magic, with a consistent style across all images.
+art_prompt: "A series of spellcasters, each demonstrating a spell from their respective school of magic, with color highlights, in detailed sketches."
+art_prompt_detailed: "A collection of figures, each engaged in a magical act representative of their school, such as conjuring a shield or summoning a creature, highlighted with colors indicative of their magic type, sketched in detail."
+caption: "Practitioners of the various schools of magic demonstrating their arcane specialties."
+orientation: landscape
+artistic_value: [interesting person, intricate design]
+descriptive_value: [person, object, event]
+difficulties: [multipart]
+
+### The Role of Rituals
+visual_purpose: How grand and complex can magical rituals be?
+ideas_for_art_content: A group of spellcasters performing a ritual during the Lunar Waltz, with celestial bodies aligning in the sky and magical energy swirling around them.
+ideas_for_style: A dynamic and dramatic painting, possibly in a romantic or baroque style, to capture the intensity of the moment.
+art_prompt: "Spellcasters in a circle during the Lunar Waltz, celestial bodies aligning above, in a dramatic and dynamic baroque style, done in oil paint."
+art_prompt_detailed: "A group of robed figures arranged in a circle, with the moon in a specific phase directly overhead, magical energies converging above them, painted with drama and intensity, using oil paint."
+caption: "Spellcasters harness the power of celestial alignment during the Lunar Waltz."
+orientation: landscape
+artistic_value: [exciting, style match]
+descriptive_value: [event, narrative]
+difficulties: [named event, multipart]
+
+## Ethical Considerations
+visual_purpose: What are the consequences of misusing spellcraft?
+ideas_for_art_content: A powerful spellcaster using magic irresponsibly, with visual cues of destruction or corruption, possibly referencing the Mage Wars.
+ideas_for_style: A darker, more foreboding painting style, perhaps with a chiaroscuro effect to emphasize the contrast between power and its consequences.
+art_prompt: "A spellcaster wielding magic with reckless abandon, causing destruction, in a dark and foreboding style, done in acrylic."
+art_prompt_detailed: "A figure cloaked in darkness, with hands raised as chaotic energy spills forth, causing visible destruction to the surroundings, painted with a stark contrast between light and shadow, using acrylic paint."
+caption: "The misuse of spellcraft leading to devastation, a reminder of the Mage Wars' legacy."
+orientation: portrait
+artistic_value: [wondrous, exciting]
+descriptive_value: [person, event, narrative]
+difficulties: [named event]
+
+Given the limited budget, it's important to prioritize the sections that would benefit most from visual aids. The "History of Spellcraft" and "The Role of Rituals" sections are prime candidates for artwork due to their historical and narrative significance. The "Schools of Magic" could be valuable for players to visualize the differences between the schools. The "Ethical Considerations" section could be impactful but might be lower priority due to its abstract nature.
+
+Retrieved at: 2024-01-02 19:49:24.911966
+Used: False
+Used: True

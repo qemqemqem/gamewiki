@@ -4,6 +4,9 @@ Spellcraft is the art and science of harnessing and manipulating the arcane ener
 
 ## History of Spellcraft
 
+![History of Spellcraft](../../images/Spellcraft_S_History%20of%20Spellcraft.png)
+"An ancient wizard channels the foundational principles of spellcraft with the Shrouded City in the distance.
+
 The origins of spellcraft are lost to the mists of time, with the earliest records dating back to the [Age of Twilight](Age%20of%20Twilight.md). During this era, the first [wizards](Wizards.md) and [sorcerers](Sorcerers.md) laid down the foundational principles of magical theory, some of which are still taught in the hallowed halls of the [Order of the Veiled Eye](Order%20of%20the%20Veiled%20Eye.md) within the [Shrouded City](Shrouded%20City.md). The [Great Library of Eldara](Great%20Library%20of%20Eldara.md) also houses ancient scrolls and tomes from this period, which continue to be invaluable resources for those who seek to master the arcane arts.
 
 ## The Practice of Spellcraft

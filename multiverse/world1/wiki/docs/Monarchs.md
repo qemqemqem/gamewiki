@@ -4,6 +4,9 @@ Monarchs have long been the pivotal figures in the history of Aesheron, wielding
 
 ## Ascension to the Throne
 
+![Ascension to the Throne](../../images/Monarchs_S_Ascension%20to%20the%20Throne.png)
+The coronation of a monarch in the grand hall, a pivotal moment in Aesheron's history.
+
 The path to becoming a monarch varies across the different [Kingdoms](Kingdoms.md) and realms of Aesheron. In many cases, the title of monarch is hereditary, passed down through bloodlines that trace their origins to the ancient rulers of yore. However, there are instances where monarchs have been chosen through other means, such as by proving their worth in combat, being elected by a council of peers, or even by divine appointment as claimed by the [seers](Seer.md).
 
 ## Powers and Responsibilities

@@ -1,0 +1,53 @@
+## Geography and Environment
+visual_purpose: What does the diverse and dangerous landscape of the Infernal Planes look like?
+ideas_for_art_content: A panoramic view of the Infernal Planes, showing the contrast between the Searing Expanse, Obsidian Peaks, and Charred Forest.
+ideas_for_style: Painting, with a dramatic and intense style reminiscent of classical depictions of hellscapes.
+art_prompt: "A panoramic landscape of the Infernal Planes, with towering volcanoes, vast deserts of smoldering ash, and a petrified forest ablaze, in a dramatic and intense style, painted on canvas."
+art_prompt_detailed: "A panoramic landscape of interconnected realms beyond the material world, featuring towering mountains spewing lava, endless deserts with dunes of cinders and flame geysers, and a forest where trees are eternally on fire but never consumed, depicted in a dramatic and intense style, painted on canvas."
+caption: "The diverse and perilous landscape of the Infernal Planes, where fire and brimstone shape the terrain."
+orientation: landscape
+artistic_value: landscape, appropriate style, wondrous
+descriptive_value: location, background
+difficulties: none
+
+### Notable Locations
+visual_purpose: What do the key landmarks of the Infernal Planes look like?
+ideas_for_art_content: Individual images for each location: a wide shot of the Searing Expanse with flame geysers erupting, the Obsidian Peaks with their jagged edges and lava flows, and the Charred Forest with its perpetually burning trees.
+ideas_for_style: Sketches, with detailed line work to capture the textures of ash, obsidian, and fire.
+art_prompt: "The Searing Expanse with erupting flame geysers, the Obsidian Peaks with sharp edges and flowing lava, and the Charred Forest with burning trees, all in detailed pencil sketches."
+art_prompt_detailed: "An endless desert with dunes of cinders and sporadic eruptions of flames, jagged mountains with natural glass-like formations and rivers of molten rock, and a forest with trees that are continuously engulfed in flames but remain standing, all depicted in detailed pencil sketches."
+caption: "Key landmarks of the Infernal Planes: The Searing Expanse, The Obsidian Peaks, and The Charred Forest."
+orientation: landscape
+artistic_value: interesting person, intricate design
+descriptive_value: location, object, map
+difficulties: none
+
+## Magic and the Infernal Planes
+visual_purpose: How does the raw elemental energy of the Infernal Planes manifest in magical artifacts?
+ideas_for_art_content: Illustrations of arcane artifacts such as a rod forged in a volcano and a wand wrapped in fire elemental hide, with magical energy visibly emanating from them.
+ideas_for_style: Computer graphics, with vibrant colors to emphasize the magical glow and intricate designs of the artifacts.
+art_prompt: "Arcane artifacts from the Infernal Planes, including a rod and a wand, with visible magical energy, rendered in vibrant computer graphics."
+art_prompt_detailed: "A metallic rod with molten textures and a wand encased in the hide of a creature made of fire, both with glowing magical auras, rendered in vibrant computer graphics."
+caption: "Arcane artifacts imbued with the raw elemental energy of the Infernal Planes."
+orientation: portrait
+artistic_value: intricate design, exciting
+descriptive_value: object, historical
+difficulties: none
+
+### Rituals and Summoning
+visual_purpose: What do summoning rituals involving creatures from the Infernal Planes look like?
+ideas_for_art_content: A dramatic scene of a summoner calling forth a fire elemental, with intricate summoning circles and arcane symbols.
+ideas_for_style: Painting, with a dark and mystical atmosphere, using deep reds and oranges to capture the intensity of the ritual.
+art_prompt: "A summoner conjuring a fire elemental from the Infernal Planes, surrounded by arcane symbols, in a dark and mystical painting."
+art_prompt_detailed: "A cloaked figure in the midst of an elaborate ritual, with glowing symbols on the ground and a fiery creature emerging from a portal, depicted in a dark and mystical painting with deep reds and oranges."
+caption: "A dangerous summoning ritual calling forth a being of fire and destruction from the Infernal Planes."
+orientation: portrait
+artistic_value: interesting person, wondrous, exciting
+descriptive_value: person, event, narrative
+difficulties: named characters, multipart
+
+Given the limited budget, prioritize the "Geography and Environment" section for its broad descriptive value and potential to set the tone for the entire Infernal Planes. The "Notable Locations" could be a secondary priority, providing specific points of interest. The "Magic and the Infernal Planes" and "Rituals and Summoning" sections could be considered if the budget allows, as they add depth to the understanding of the world's magic and culture.
+
+Retrieved at: 2024-01-02 20:14:30.148391
+Used: False
+Used: True

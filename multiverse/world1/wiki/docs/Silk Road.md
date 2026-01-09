@@ -8,6 +8,9 @@ The origins of the Silk Road are shrouded in the mists of time, with some schola
 
 ## Geography
 
+![Geography](../../images/Silk%20Road_S_Geography.png)
+"The diverse landscapes of the Silk Road, from the arid Plains of Valor to the mystical edge of the Enchanted Grove.
+
 The Silk Road traverses a variety of terrains, from the arid expanse of the [Plains of Valor](Plains%20of%20Valor.md) to the treacherous passes of the [Frostspire Mountains](Frostspire%20Mountains.md). It winds through the [Enchanted Grove](Enchanted%20Grove.md), where the [Elves](Elves.md) guard its secrets, and skirts the edges of the [Caverns of Echo](Caverns%20of%20Echo.md), known for their haunting melodies.
 
 ## Trade and Economy

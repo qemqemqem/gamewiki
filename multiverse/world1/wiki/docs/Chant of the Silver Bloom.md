@@ -12,6 +12,9 @@ The Chant of the Silver Bloom holds a place of honor in several key events and l
 
 - **[Moonflower Festival](Moonflower%20Festival.md)**: The chant is a pivotal part of the opening ceremony, performed by the high [Druid](Druid.md) of [Theron's Glade](Theron'S%20Glade.md). It is believed that the recitation of the chant under the moonlit sky ensures a bountiful bloom of the sacred [moonflower](Moonflower.md) and a prosperous year for the people of the land.
 
+![Moonflower Festival](../../images/Chant%20of%20the%20Silver%20Bloom_S_Moonflower%20Festival.png)
+The high Druid of Theron's Glade performing the Chant of the Silver Bloom during the Moonflower Festival.
+
 - **[Shrouded City](Shrouded%20City.md)**: Renowned for its enigmatic beauty and haunting melodies, the Shrouded City has embraced the chant as part of its cultural heritage. Bards and minstrels often draw inspiration from its verses, weaving the chant's motifs into their performances.
 
 - **[Treaty of the Crystal Waters](Treaty%20of%20the%20Crystal%20Waters.md)**: The chant was integral to the ceremonial sealing of this historic treaty, symbolizing a unified hope for peace and prosperity among the signatory nations.

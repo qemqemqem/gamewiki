@@ -10,6 +10,9 @@ The true origins of Earth Elementals are as ancient and enigmatic as the [Elemen
 
 ## Appearance and Composition
 
+![Appearance and Composition](../../images/Earth%20Elementals_S_Appearance%20and%20Composition.png)
+"The diverse forms of Earth Elementals, from pebble-sized sprites to towering Mountain Sentinels.
+
 An Earth Elemental's form can vary greatly, often reflecting the geological features of the area in which it was born. Their bodies are composed of the same materials that make up the Earth's crust—rock, gemstones, and sometimes even precious metals. The size of an Earth Elemental can range from the diminutive to the monumental, with the largest known as the Mountain Sentinels, whose peaks are often mistaken for natural formations.
 
 ## Behavior and Abilities

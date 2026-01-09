@@ -6,6 +6,9 @@ The [Lunar Waltz](Lunar%20Waltz.md) is an ethereal dance that transcends mere pe
 
 The origins of the [Lunar Waltz](Lunar%20Waltz.md) are as enigmatic as the dance itself, with many attributing its inception to the ancient [moon deities](Moon%20Deities.md) who are said to have first performed the waltz on the celestial plane, weaving the fabric of the night with each step. Over the millennia, the dance has been passed down to the mortal realm, where it is performed during significant lunar events, such as the [Moonflower Festival](Moonflower%20Festival.md).
 
+![Moonflower Festival](../../images/Lunar%20Waltz_S_Moonflower%20Festival.png)
+"The Moonflower Festival's Lunar Waltz, a dance of celestial harmony beneath the night sky.
+
 The [Lunar Waltz](Lunar%20Waltz.md) is more than a mere dance; it is a ritual that celebrates the moon's influence over the world. It is believed that during this dance, the veil between the mortal world and the ethereal realms thins, allowing for a communion with the divine and the unlocking of latent magical energies.
 
 ## Celebrations and Observances

@@ -10,6 +10,9 @@ Alchemists are often seen as a bridge between the world of [wizards](Wizards.md)
 
 ## Role in Society
 
+![Role in Society](../../images/Alchemists_S_Role%20in%20Society.png)
+An alchemist offers their magical concoctions at a local market, showcasing their integral role in daily life.
+
 In the bustling cities and remote villages of [Aereth](Aereth.md), alchemists serve many functions. During events like the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md), they provide celebratory concoctions that capture the essence of the sun. Their skills are also essential in the creation of infrastructure, as seen in the works of [Grimbeorn the Builder](Grimbeorn%20the%20Builder.md), who utilized alchemical techniques to construct edifices of great durability and splendor.
 
 ### Healing and Enhancement

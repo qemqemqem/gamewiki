@@ -8,6 +8,9 @@ Herbalists are more than mere gatherers of [Herbs](Herbs.md) and [Plants](Plants
 
 ### Healing and Medicine
 
+![Healing and Medicine](../../images/Herbalists_S_Healing%20and%20Medicine.png)
+An Herbalist preparing natural remedies in their apothecary.
+
 A primary responsibility of the [Herbalist](Herbalist.md) is to harness the curative powers of plants. They create a variety of remedies, such as poultices, tinctures, and infusions, to treat a myriad of ailments. In the realm of [Healing](Healing.md), their expertise is unparalleled, often working alongside [Priests](Priests.md) and [Arcane Practitioners](Arcane Practitioner.md) to mend both physical and mystical afflictions.
 
 ### Alchemical Contributions

@@ -1,0 +1,41 @@
+## Architecture and Defenses
+visual_purpose: What does the intersection of magical and physical architecture look like?
+ideas_for_art_content: The Sanctum's walls with ancient runes, a magical barrier shimmering around it, and perhaps a wizard casting a protective spell.
+ideas_for_style: Painting, with a style reminiscent of classical fantasy art.
+art_prompt: "The Sanctum of Whispers, surrounded by its legendary magical wards, grand and imposing, done in oil painting"
+art_prompt_detailed: "An ancient, grand structure with walls covered in glowing runes, surrounded by a visible magical barrier, with a robed figure casting a spell, all depicted in a classical fantasy oil painting style"
+caption: The impenetrable architecture and magical defenses of the Sanctum of Whispers.
+orientation: Landscape
+artistic_value: Appropriate style, wondrous, exciting, style match
+descriptive_value: Location, object, historical, background
+difficulties: Named location, multipart
+
+## The Library of Echoes
+visual_purpose: What does a library containing the history of magic look like?
+ideas_for_art_content: Shelves filled with ancient tomes and scrolls, the Echo Bat flying or perched with a scroll in its grasp, magical artifacts glowing with power.
+ideas_for_style: Sketch, detailed pencil work with a touch of mystical glow to highlight magical elements.
+art_prompt: "The Library of Echoes, with the Echo Bat clutching a scroll, amidst shelves of ancient texts, in detailed pencil sketch with magical highlights"
+art_prompt_detailed: "A vast, dimly lit library with towering shelves filled with old books and scrolls, a bat-like creature with ethereal qualities holding a scroll, all depicted in a detailed pencil sketch with subtle magical glows"
+caption: The Echo Bat amidst the ancient knowledge of the Library of Echoes.
+orientation: Portrait
+artistic_value: Intricate design, wondrous
+descriptive_value: Location, character, object, narrative
+difficulties: Named characters, multipart
+
+## The Echoing Conclave
+visual_purpose: How does the most secretive magical conclave appear?
+ideas_for_art_content: A circular chamber with abjurers in deep discussion, magical symbols glowing on the floor or walls, a ritual in progress.
+ideas_for_style: Computer graphics, with a focus on lighting to create a mystical atmosphere.
+art_prompt: "The Echoing Conclave in session, with abjurers engaged in arcane debate, in a computer-generated image, atmospheric, mysterious"
+art_prompt_detailed: "A circular, stone-walled chamber with robed figures gathered around, some in heated discussion, others observing, with arcane symbols emitting a soft glow from the floor and walls, all rendered in a computer-generated image with a focus on mystical lighting"
+caption: The Order of the Veiled Eye in deliberation at the Echoing Conclave.
+orientation: Square
+artistic_value: Appropriate style, exciting, style match
+descriptive_value: Location, person, event, narrative
+difficulties: Named characters, multipart
+
+Please note that the value ratings are harsh, as requested, and the suggestions are made with a limited budget in mind. The artistic and descriptive values are chosen to provide a balance between visual appeal and relevance to the text, while the difficulties highlight potential challenges an artist may face in creating these images without prior knowledge of the world.
+
+Retrieved at: 2024-01-02 19:55:31.763029
+Used: False
+Used: True

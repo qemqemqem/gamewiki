@@ -1,0 +1,30 @@
+## Reign as Warrior Queen
+
+visual_purpose: What does Alyndra look like as she governs with strength and diplomacy?
+ideas_for_art_content: Alyndra on her throne, advisors from the Council of Defense and Council of Trade in the background, a map of Aesheron on the wall, and a diverse group of subjects or envoys from different realms in the foreground.
+ideas_for_style: Painting, with a style reminiscent of classical Renaissance portraits to convey the gravity and historical significance of her reign.
+art_prompt: "Queen Alyndra on her throne in the grand hall of Aesheron, regal and commanding, with a Renaissance painting style, detailed in oil on canvas."
+art_prompt_detailed: "A regal female figure with an air of authority, seated on an ornate throne in a grand hall, surrounded by advisors and envoys, depicted in a Renaissance painting style with rich colors and attention to detail, executed in oil on canvas."
+caption: Queen Alyndra presides over her court with a blend of strength and diplomacy.
+orientation: Landscape
+artistic_value: [appropriate style, interesting person, intricate design, wondrous]
+descriptive_value: [person, background, narrative]
+difficulties: [named characters, multipart]
+
+## Sites of Significance
+
+visual_purpose: What do the key historical sites in Alyndra's story look like?
+ideas_for_art_content: The Fallen Temple of the Moon in a state of disrepair but with signs of battle and preservation efforts; the Battlefield of Forgotten Kings as a vast, open field with remnants of ancient banners and weapons.
+ideas_for_style: Sketches, using pencil or charcoal to give a sense of history and the passage of time.
+art_prompt: "The Fallen Temple of the Moon and the Battlefield of Forgotten Kings, sketched in pencil, evocative and aged, done in charcoal."
+art_prompt_detailed: "Ruins of an ancient temple with subtle signs of battle damage and preservation, alongside a vast battlefield scattered with historical artifacts, both sketched with an evocative and aged feel, rendered in charcoal."
+caption: The Fallen Temple of the Moon and the Battlefield of Forgotten Kings, key sites in Alyndra's legendary campaigns.
+orientation: Landscape
+artistic_value: [landscape, intricate design, historical]
+descriptive_value: [location, historical, background]
+difficulties: [named location, multipart]
+
+Given the limited budget, the "Reign as Warrior Queen" section would be the most valuable to commission art for, as it directly relates to the central figure of the article and provides a rich narrative and descriptive value. The "Sites of Significance" section could be served well with sketches, which may be more budget-friendly while still adding significant artistic and descriptive value to the article.
+
+Retrieved at: 2024-01-02 21:18:33.593608
+Used: False

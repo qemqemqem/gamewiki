@@ -4,6 +4,9 @@ Solara, known reverently as the Radiant Mother, is a central figure in the panth
 
 ## Worship and Temples
 
+![Worship and Temples](../../images/Solara_S_Worship%20and%20Temples.png)
+The Illumination of Hearts ceremony within the Cathedral of Radiant Dawn, as sunlight blesses the congregation.
+
 The worship of Solara is widespread and deeply ingrained in the cultures that bask under the sun's rays. The most prominent temple dedicated to her glory is the [Cathedral of Radiant Dawn](Cathedral%20of%20Radiant%20Dawn.md), located in the heart of [Silverlake Valley](Silverlake%20Valley.md). This grand edifice is not merely a structure of stone and stained glass but a monument to the harmonious bond between the divine and the mortals who seek her favor.
 
 Within the hallowed halls of the Cathedral, priests and priestesses lead the faithful in prayers and [Rituals](Rituals.md) that honor the Radiant Mother. The dawn service, known as the Illumination of Hearts, is particularly significant. It is during this time that the first light filters through the cathedral's rose window, bathing the congregation in hues of gold and crimson, symbolizing Solara's awakening touch.

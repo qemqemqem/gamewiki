@@ -4,6 +4,9 @@ The [Plains of Valor](Plains%20of%20Valor.md) are a vast and storied expanse of 
 
 ## Geography
 
+![Geography](../../images/Plains%20of%20Valor_S_Geography.png)
+"The Plains of Valor, with the Frostspire Mountains and Crystal Sea framing the fertile expanse.
+
 Stretching from the eastern foothills of the [Frostspire Mountains](Frostspire%20Mountains.md) to the western banks of the [Crystal Sea](Crystal%20Sea.md), the Plains of Valor form a natural corridor between the rugged north and the more temperate south. The northern border is marked by the towering peaks of the Frostspire Mountains, while to the south, the plains gently slope down to meet the [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md). The eastern edge is caressed by the clear blue waters of the Crystal Sea, and to the west, the plains are bordered by the dense and mysterious [Verdant Woods](Verdant%20Woods.md).
 
 The terrain is predominantly flat, with occasional rolling hills that rise like the backs of slumbering giants. The soil is a tapestry of fertility, a remnant of ancient rivers that once carved their way through the land, leaving behind a legacy that now sustains the nomadic tribes and the wildlife that roam these parts.

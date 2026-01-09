@@ -1,0 +1,31 @@
+## Applications of Evocation
+
+visual_purpose: What do the diverse applications of Evocation magic look like in practice?
+ideas_for_art_content: An evoker casting a lightning bolt spell in combat, another evoker using magic to light a dark path, and a third creating a spectacle with illuminated willows or shimmering glimmerfish.
+ideas_for_style: A dynamic painting style with vibrant colors to capture the energy and variety of Evocation magic.
+art_prompt: "An evoker in the midst of battle casting a lightning bolt, another guiding travelers with a light spell on the Sea Merchant's Path, and a third enhancing the natural beauty of Theron's Glade with magical lights, all depicted in a vibrant, dynamic painting style."
+art_prompt_detailed: "A robed figure with outstretched arms channeling a bolt of electricity towards an unseen enemy, another figure with a staff illuminating a winding forest path, and a third figure surrounded by willow trees enhanced with magical, colorful lights, all captured in a lively and colorful painting style."
+caption: "The versatile applications of Evocation magic: from the fury of battle to the wonders of peaceful creation."
+orientation: landscape
+artistic_value: wondrous, exciting, style match
+descriptive_value: event, character, background, narrative
+difficulties: named location, multipart
+
+## Notable Evokers
+
+visual_purpose: Who are the legendary figures in the history of Evocation, and what might they look like?
+ideas_for_art_content: A portrait of Seraphine the Seer, with elements representing her dual abilities as a seer and an evoker, such as a crystal ball surrounded by elemental motifs.
+ideas_for_style: A detailed sketch or oil painting that captures the mystical and legendary nature of the character.
+art_prompt: "Seraphine the Seer, with a crystal ball and elemental symbols, in a detailed sketch style, mysterious and powerful, done in pencil or oil."
+art_prompt_detailed: "A wise-looking woman with piercing eyes, holding a crystal orb that reflects flickering flames, swirling water, gusts of wind, and fragments of earth, rendered in a detailed sketch style or as an oil painting, conveying a sense of mystery and immense power."
+caption: "Seraphine the Seer, legendary evoker and seer, with her crystal ball reflecting her mastery over the elements."
+orientation: portrait
+artistic_value: interesting person, intricate design, appropriate style
+descriptive_value: person, historical, character
+difficulties: named characters
+
+Given the limited budget and the need for harsh value assessment, these two sections seem to offer the most significant impact for visual additions. The "Applications of Evocation" section provides a broad view of the magic's uses, which could be visually striking and informative for players. The "Notable Evokers" section offers a chance to bring a legendary character to life, adding depth and interest to the lore. Other sections may not benefit as much from visual representation or may require more complex and potentially costly artwork.
+
+Retrieved at: 2024-01-02 19:32:47.460222
+Used: False
+Used: True

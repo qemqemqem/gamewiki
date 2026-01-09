@@ -20,6 +20,9 @@ The Astral Plane is the realm of thought, dreams, and the collective unconscious
 
 ## The Divine Planes
 
+![The Divine Planes](../../images/Planes%20of%20Existence_S_The%20Divine%20Planes.png)
+"The ethereal beauty of the Divine Planes, from radiant fields to mournful expanses.
+
 Above all others are the Divine Planes, the realms of gods, demigods, and celestial beings. These planes are often aligned with specific moral or ethical alignments, such as the radiant fields of [Lumina](Lumina.md) or the mournful expanses overseen by the [Lady of Sorrows](Lady%20of%20Sorrows.md). The Divine Planes are sources of immense power and are often the destinations for [Spiritual Summoning](Spiritual%20Summoning.md) and the pursuits of the most devout [Clerics](Clerics.md) and [Paladins](Paladins.md).
 
 ## The Shadowfell and the Feywild

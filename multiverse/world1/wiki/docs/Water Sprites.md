@@ -26,6 +26,9 @@ Adventurers and [Healers](Healers.md) sometimes seek out water sprites for their
 
 ## Cultural Significance
 
+![Cultural Significance](../../images/Water%20Sprites_S_Cultural%20Significance.png)
+Celebrating water sprites through local craftsmanship and festival decorations.
+
 In many cultures, water sprites are revered as symbols of life and renewal. They feature prominently in local folklore and are celebrated during festivals such as the [Solstice of the Blazing Sky](Solstice%20of%20the%20Blazing%20Sky.md). Artisans, including [master blacksmith](Master%20Blacksmith.md)s and jewelers, often use the likeness of water sprites in their work, believing it brings good fortune and the favor of the elements.
 
 ## Threats and Conservation

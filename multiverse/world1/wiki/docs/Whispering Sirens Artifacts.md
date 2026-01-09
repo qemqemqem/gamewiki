@@ -4,6 +4,9 @@ The Whispering Sirens artifacts are a collection of mystical items imbued with t
 
 ## Origin and Creation
 
+![Origin and Creation](../../images/Whispering%20Sirens%20Artifacts_S_Origin%20and%20Creation.png)
+Artisans and sorcerers during the Dawn of the New Light, creating a Whispering Sirens artifact under the Moonflower Festival.
+
 The origin of the Whispering Sirens artifacts is shrouded in mystery, with many believing that they were first created during the [Dawn of the New Light](Dawn%20of%20the%20New%20Light.md), a period of great magical discovery. Crafted by skilled [artisanal](Artisans.md) [mages](Mages.md) and [sorcerers](Sorcerers.md), these artifacts were designed to harness the sirens' power of voice and sound. The process of creating a Whispering Sirens artifact is a closely guarded secret, known only to a select few. It is said that the crafting involves the use of rare [reagents](Reagents.md) and [crystals](Crystals.md), combined with intricate [rituals](Rituals.md) performed under the light of the [Moonflower Festival](Moonflower%20Festival.md).
 
 ## Properties and Abilities

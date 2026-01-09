@@ -10,6 +10,9 @@ The Festival of the Falling Leaves is believed to have its roots in ancient time
 
 ### The Dance of the Leaves
 
+![The Dance of the Leaves](../../images/Festival%20of%20the%20Falling%20Leaves_S_The%20Dance%20of%20the%20Leaves.png)
+Spellcasters orchestrating the Dance of the Leaves at the Festival of the Falling Leaves
+
 One of the most enchanting features of the festival is the Dance of the Leaves. Spellcasters from the [Academy of Planar Studies](Academy%20of%20Planar%20Studies.md) and the [Council of Arcana](Council%20of%20Arcana.md) gather to cast the [Feather Fall](Feather%20Fall.md) spell on the multicolored leaves that cascade from the ancient trees of Silverlake Valley. This creates a breathtaking spectacle as the leaves drift slowly to the ground, their movements orchestrated to form intricate patterns in the air. This tradition not only showcases the spellcasters' skill but also symbolizes the gentle embrace of change.
 
 ### Summoning the Spirits

@@ -16,6 +16,9 @@ The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have d
 
 ## The Silvermane Horses
 
+![The Silvermane Horses](../../images/Lunar%20Ancients_S_The%20Silvermane%20Horses.png)
+The Silvermane Horses, a legacy of the Lunar Ancients' celestial craftsmanship.
+
 Among the many wonders attributed to the Lunar Ancients are the [Silvermane Horses](Silvermane%20Horses.md), majestic creatures said to have been created by these celestial beings. These horses possess an otherworldly grace and are rumored to have the ability to traverse the ethereal planes, a gift that reflects the fluid nature of their creators and the influence of the [moon deities](Moon%20Deities.md).
 
 ## The Fall of the Lunar Ancients

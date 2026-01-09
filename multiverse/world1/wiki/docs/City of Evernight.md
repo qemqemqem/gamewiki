@@ -8,6 +8,9 @@ The origins of the City of Evernight are steeped in legend and mystery. Some tal
 
 ## Geography
 
+![Geography](../../images/City%20of%20Evernight_S_Geography.png)
+"The diverse districts of Evernight, from the majestic Palace of Twilight to the haunting Vale of Shadows and the reflective Sea of Lost Souls.
+
 Evernight is divided into several districts, each with its own unique character. The central district is home to the imposing [Palace of Twilight](Palace%20of%20Twilight.md), where the [Nobility](Nobility.md) convenes to discuss matters of state and the arcane. Surrounding the palace are the residential quarters, where the [Shadar-Kai](Shadar-Kai.md) and other denizens of the Shadowfell reside in harmony with the city's somber atmosphere.
 
 The outskirts of the city are marked by the [Vale of Shadows](Vale%20of%20Shadows.md), a vast cemetery where spirits are said to roam freely. The [Sea of Lost Souls](Sea%20of%20Lost%20Souls.md) lies beyond, its waters a mirror to the starless sky above, reflecting the sorrow that permeates the city.

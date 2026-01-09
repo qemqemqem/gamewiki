@@ -1,0 +1,53 @@
+## History and Significance
+visual_purpose: What does the Sanctum of Visions look like, and how does its architecture embody its mystical significance?
+ideas_for_art_content: The Sanctum with its sky-piercing spires, walls with arcane scripts, and the innermost chamber with the great crystalline orb.
+ideas_for_style: A mystical, ethereal painting style, with vibrant colors and a dreamlike quality.
+art_prompt: "The Sanctum of Visions, with its towering spires and walls covered in arcane scripts, in a vibrant, ethereal painting style, mysterious and ancient, done in watercolor."
+art_prompt_detailed: "A grand, ancient temple with towering spires and walls covered in mysterious symbols, in a vibrant, ethereal painting style, mysterious and ancient, done in watercolor."
+caption: "The Sanctum of Visions, where the fabric of reality thins and the future is foretold."
+orientation: landscape
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [location, historical, background]
+difficulties: [named location, multipart]
+
+## The Oracle's Role
+visual_purpose: Who is the Oracle of Morath, and how do they embody the power of foresight?
+ideas_for_art_content: The Oracle in a meditative pose, with eyes closed or gazing into the distance, surrounded by ethereal visions of possible futures.
+ideas_for_style: A mystical, surreal sketch, with emphasis on the Oracle's expression and the otherworldly visions around them.
+art_prompt: "The Oracle of Morath in a meditative pose, surrounded by surreal visions of time, in a detailed sketch, insightful and powerful, done in graphite."
+art_prompt_detailed: "A robed figure with an air of wisdom, in a meditative pose, surrounded by surreal visions of time, in a detailed sketch, insightful and powerful, done in graphite."
+caption: "The Oracle of Morath, channeling the streams of time to guide the fate of nations."
+orientation: portrait
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, character, narrative]
+difficulties: [named characters, obscure style]
+
+## Pilgrimage and Trials
+visual_purpose: What challenges do pilgrims face on their journey to the Sanctum, and what does the path look like?
+ideas_for_art_content: Pilgrims on a rugged path through the Verdant Woods, with the Echoing Basin in the distance and Echo Bats fluttering above.
+ideas_for_style: A detailed, realistic painting capturing the lush environment and the sense of an epic journey.
+art_prompt: "Pilgrims on a rugged path through lush woods, with a mysterious basin in the distance, in a realistic style, epic and immersive, done in oil paint."
+art_prompt_detailed: "Travelers on a rugged path through dense, green forests, with a distant, misty basin, in a realistic style, epic and immersive, done in oil paint."
+caption: "Pilgrims brave the Verdant Woods and the whispers of the Echoing Basin on their sacred journey."
+orientation: landscape
+artistic_value: [landscape, exciting, style match]
+descriptive_value: [location, event, background]
+difficulties: [named location, multipart]
+
+## Metamagic and Mastery
+visual_purpose: How is the art of Metamagic practiced, and what does it look like when reality is being bent?
+ideas_for_art_content: Wizards and sorcerers in the midst of casting, with magical energy swirling around them and reality distorting in visible ripples.
+ideas_for_style: A dynamic, action-packed computer graphic that captures the intensity and complexity of Metamagic.
+art_prompt: "Wizards and sorcerers casting spells with magical energy swirling, in a dynamic, complex computer graphic, intense and reality-bending."
+art_prompt_detailed: "Spellcasters in focused concentration, with magical energy swirling around them and reality visibly distorting, in a dynamic, complex computer graphic."
+caption: "Practitioners of Metamagic bend the very fabric of reality within the Sanctum of Visions."
+orientation: landscape
+artistic_value: [intricate design, exciting, style match]
+descriptive_value: [person, object, narrative]
+difficulties: [named characters, multipart, confusing]
+
+Please note that the value ratings are harsh due to budget constraints, and the difficulties listed may impact the cost of commissioning such artwork.
+
+Retrieved at: 2024-01-02 21:32:10.372715
+Used: False
+Used: True

@@ -10,6 +10,9 @@ Their talons are sharp and strong, capable of snatching up unsuspecting [Aurochs
 
 ## Habitat and Behavior
 
+![Habitat and Behavior](../../images/Windcutter%20Hawks_S_Habitat%20and%20Behavior.png)
+A Windcutter Hawk rests in its treasure-laden nest within the ancient trees of the Verdant Woods.
+
 Windcutter Hawks are most commonly found in the [Verdant Woods](Verdant%20Woods.md), where they build their nests high in the ancient trees. These nests are often adorned with trinkets and treasures that the hawks collect, shining objects that catch their fancy during their flights.
 
 These birds are solitary by nature but are known to form bonds with individuals who show them respect and understanding. Many a [Druid](Druid.md) or [Wizard](Wizard.md) has been known to seek the companionship of a Windcutter Hawk, forming a partnership that benefits both parties. The hawks provide their human allies with swift transportation and a formidable ally in battle, while the humans offer protection and a steady supply of food.

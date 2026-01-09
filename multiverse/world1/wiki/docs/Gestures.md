@@ -4,6 +4,9 @@ In the mystical realm of Aereth, [Gestures](Gestures.md) are not mere movements 
 
 ## The Role of Gestures in Magic
 
+![The Role of Gestures in Magic](../../images/Gestures_S_The%20Role%20of%20Gestures%20in%20Magic.png)
+"A wizard harnesses the arcane energies through precise gestures, as required for spellcasting.
+
 The use of gestures is paramount in the practice of [Spellcraft](Spellcraft.md). For [Wizards](Wizards.md), [Sorcerers](Sorcerers.md), and other arcane practitioners, gestures serve as precise, physical components of spells, complementing [Incantations](Incantations.md) and [Reagents](Reagents.md). The intricate hand movements are essential for channeling and shaping the raw energies drawn from the [Arcane Veins](Arcane%20Veins.md) or the [Elemental Plane](Elemental%20Plane.md). For example, the casting of a [Lightning Bolt](Lightning%20Bolt.md) requires a series of complex gestures that align with the arcane geometries of the Elemental Plane of [Air](Air.md).
 
 ## Ritualistic Significance

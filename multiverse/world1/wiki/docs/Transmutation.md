@@ -8,6 +8,9 @@ At its core, Transmutation involves the understanding and manipulation of the un
 
 ## Applications of Transmutation
 
+![Applications of Transmutation](../../images/Transmutation_S_Applications%20of%20Transmutation.png)
+A Transmuter mage converting base metals into gold using alchemical magic.
+
 Transmutation magic has a wide array of applications, ranging from the mundane to the miraculous. Here are some of the most notable uses:
 
 - **Alchemical Transformation**: Many [Alchemists](Alchemists.md) are adept in Transmutation magic, using it to convert base metals into precious ones or to concoct potent elixirs with properties that can heal, harm, or induce various effects.

@@ -4,6 +4,9 @@ The Singing Willows are a species of flora renowned throughout the realms for th
 
 ## Habitat and Distribution
 
+![Habitat and Distribution](../../images/Singing%20Willows_S_Habitat%20and%20Distribution.png)
+"The diverse habitats of the Singing Willows: Enchanted Grove, Fields of Golden Grain, and Gardens of Nightshade.
+
 Singing Willows are most commonly found in areas with a strong presence of magical energy. Notable habitats include the tranquil [Enchanted Grove](Enchanted%20Grove.md), the vibrant [Fields of Golden Grain](Fields%20of%20Golden%20Grain.md), and the mysterious [Gardens of Nightshade](Gardens%20of%20Nightshade.md). Each environment contributes to the distinct tonal qualities of the willows' songs.
 
 ### Enchanted Grove

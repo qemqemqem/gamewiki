@@ -4,6 +4,9 @@ The Shadowfell, also known as the Plane of Shadow, is a darkly mirrored dimensio
 
 ## Nature of the Shadowfell
 
+![Nature of the Shadowfell](../../images/Shadowfell_S_Nature%20of%20the%20Shadowfell.png)
+"The Shadowfell: A realm of muted colors and distorted reflections.
+
 The Shadowfell is interwoven with the fabric of the material world, existing alongside it in a parallel manner. It is akin to a shadow cast by reality, containing distorted reflections of real-world locations. The sky is eternally overcast in this realm, with a dim light that barely suffices to illuminate the dreary expanse. The air is often chill and still, carrying with it the scent of decay and the whispers of the lost.
 
 ### Inhabitants

@@ -16,6 +16,9 @@ Water Elementals possess the innate ability to control and manipulate water in a
 
 ## Cultural Significance
 
+![Cultural Significance](../../images/Water%20Elementals_S_Cultural%20Significance.png)
+"The Festival of Shields, where villagers honor the Water Elementals to ensure prosperity and safe passage.
+
 In many cultures across Aereth, Water Elementals are revered as protectors of waterways and life. Festivals such as the [Festival of Shields](Festival%20of%20Shields.md) often include tributes to these beings, hoping to earn their favor and ensure bountiful harvests and safe travels on water. The [Keepers of the Eldara Codex](Keepers%20of%20the%20Eldara%20Codex.md) have chronicled numerous encounters with Water Elementals, emphasizing the importance of maintaining a harmonious relationship with them.
 
 ## Known Water Elementals

@@ -1,0 +1,44 @@
+## Types of Orbs
+
+visual_purpose: What do the different types of orbs look like, and how are they distinct from one another?
+ideas_for_art_content: Depict a collection of orbs, each representing the different types mentioned: Orbs of Destiny, Elemental Orbs, Scrying Orbs, and Summoning Orbs, with visual cues indicating their purpose (e.g., Elemental Orbs could be surrounded by their respective elements).
+ideas_for_style: A detailed painting style, reminiscent of a classic fantasy art, with vibrant colors and a touch of mysticism.
+art_prompt: "A collection of four distinct orbs, each orb surrounded by visual elements of its purpose, in a richly detailed painting style, vibrant, mystical, done in watercolor and ink."
+art_prompt_detailed: "A collection of four distinct orbs, each orb surrounded by visual elements of its purpose, such as flames, water ripples, earthen textures, and swirling air, in a richly detailed painting style, vibrant, mystical, done in watercolor and ink."
+caption: "The various orbs of power: Orbs of Destiny, Elemental Orbs, Scrying Orbs, and Summoning Orbs, each with its own unique aura and design."
+orientation: [square]
+artistic_value: [interesting person, intricate design, wondrous]
+descriptive_value: [object, historical, story event]
+difficulties: [named location, multipart]
+
+## Crafting and Artisanship
+
+visual_purpose: How are orbs crafted, and what does the process look like?
+ideas_for_art_content: An artisan's workshop with an enchanter at work, crafting an orb with tools and magical energy, with rare materials like Moonflower silk and crystalline sands visible.
+ideas_for_style: A sketch with fine details, showing the intricacy of the crafting process and the magical aura of the creation.
+art_prompt: "An enchanter in a detailed workshop, surrounded by rare crafting materials, in a fine detailed sketch, intricate, magical, done in pencil."
+art_prompt_detailed: "An enchanter in a detailed workshop, surrounded by rare crafting materials such as shimmering silk and sparkling sands, in a fine detailed sketch, intricate, magical, done in pencil."
+caption: "The meticulous art of orb crafting, where enchanters and artisans converge to create magical wonders."
+orientation: [landscape]
+artistic_value: [intricate design, wondrous]
+descriptive_value: [person, object, background]
+difficulties: [named characters, multipart]
+
+## In Popular Culture
+
+visual_purpose: How are orbs represented in the arts and culture of the society?
+ideas_for_art_content: A scene depicting a grand tapestry with an orb motif, a bard singing tales with an orb in hand, and the ornate Throne of the Mountain King adorned with orbs.
+ideas_for_style: A vibrant painting that captures the cultural significance of orbs, with a style that reflects the fantastical elements of the world.
+art_prompt: "A grand tapestry, a bard, and the Throne of the Mountain King, all featuring orbs, in a vibrant painting, cultural, fantastical, done in acrylic."
+art_prompt_detailed: "A grand tapestry with intricate orb designs, a bard in colorful attire holding an orb while singing, and the ornate Throne of the Mountain King adorned with glowing orbs, in a vibrant painting, cultural, fantastical, done in acrylic."
+caption: "Orbs as a cultural icon, celebrated in tapestries, music, and royal regalia."
+orientation: [landscape]
+artistic_value: [interesting person, intricate design, style match]
+descriptive_value: [person, object, background, narrative]
+difficulties: [named location, multipart]
+
+Given the limited budget, the "Types of Orbs" section would be the most valuable to illustrate, as it directly relates to the objects of interest in the campaign and provides a visual differentiation between the orbs. The "Crafting and Artisanship" section could also be valuable for players interested in the creation process. The "In Popular Culture" section might be lower priority unless the cultural aspects are central to the campaign's storyline or player engagement.
+
+Retrieved at: 2024-01-02 20:44:39.348554
+Used: False
+Used: True

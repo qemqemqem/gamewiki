@@ -8,6 +8,9 @@ The Gardens of Nightshade are bordered by the verdant [Fields of Golden Grain](F
 
 ## Flora and Fauna
 
+![Flora and Fauna](../../images/Gardens%20of%20Nightshade_S_Flora%20and%20Fauna.png)
+"The diverse and mystical flora and fauna of the Gardens of Nightshade, where danger and beauty intertwine.
+
 The gardens are home to a diverse array of plant life, many of which are unique to this region. The most notable are the titular nightshade plants, which bloom under the moonlight and exude a seductive yet deadly fragrance. Other notable species include the [Moonflower](Moonflower.md), which opens its petals in response to lunar energies, and the thorny brambles that have overgrown the ancient [Fallen Temple of the Moon](Fallen%20Temple%20of%20the%20Moon.md).
 
 The fauna of the gardens is as dangerous as it is beautiful. The [Shade Wraiths](Shade%20Wraiths.md), spectral entities bound to the nightshade, are the most feared inhabitants. These silent guardians are said to protect the gardens from intruders and are often the subject of tales among the [Druids](Druids.md) and [occult researchers](Occult%20Researchers.md). Other creatures, such as the elusive [Windcutter Hawks](Windcutter%20Hawks.md) and the melodic [Singing Willows](Singing%20Willows.md), add to the gardens' enigmatic charm.

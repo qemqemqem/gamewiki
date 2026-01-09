@@ -1,0 +1,41 @@
+## Magical Properties
+visual_purpose: What do the crystals look like when they are being used for their magical properties?
+ideas_for_art_content: A mage using a quartz crystal as a spellcasting focus with arcane energy swirling around it; an enchanter imbuing a crystal with magical light; a group of mystics around a large crystal during a ritual.
+ideas_for_style: Painting, with a focus on vibrant colors and dynamic lighting to emphasize the magical energy.
+art_prompt: "A mage with a quartz crystal in the Crystal Tower, vibrant and dynamic, done in watercolor"
+art_prompt_detailed: "A robed spellcaster holding a clear, multifaceted crystal, in a tower adorned with large, glowing crystals, painted in a vibrant and dynamic watercolor style"
+caption: A mage channels arcane energy through a quartz crystal, enhancing the potency of their spell.
+orientation: Portrait
+artistic_value: [interesting person, intricate design, wondrous, exciting, style match]
+descriptive_value: [person, object, event, magical]
+difficulties: [named characters, named location]
+
+## Cultural Significance
+visual_purpose: How are crystals integrated into the culture and items of Aesheron?
+ideas_for_art_content: An artisan crafting a crystal-embedded sword; a grand hall in the Crystal Tower with crystals in the architecture; ceremonial artifacts like the Whispering Sirens on display.
+ideas_for_style: Sketch, with detailed line work to show the intricacy of the craftsmanship and the integration of crystals into cultural items.
+art_prompt: "An artisan crafting a crystal-embedded sword in their workshop, detailed, done in pencil sketch"
+art_prompt_detailed: "A skilled craftsman at a workbench, carefully setting a large, gleaming crystal into the hilt of an ornate sword, rendered in a detailed pencil sketch"
+caption: A master blacksmith incorporates a powerful crystal into a sword, showcasing the fusion of artistry and magic.
+orientation: Landscape
+artistic_value: [intricate design, style match]
+descriptive_value: [person, object, background, narrative]
+difficulties: [named characters]
+
+## Locations of Note
+visual_purpose: What makes the Crystal Sea and Echoing Basin visually unique and significant?
+ideas_for_art_content: The Crystal Sea with its shimmering crystalline formations; the Echoing Basin with crystals embedded in the cliffs and reflecting sound waves.
+ideas_for_style: Photographic, to capture the natural beauty and realism of these locations.
+art_prompt: "The shimmering Crystal Sea at sunset, realistic, done in high-resolution photography"
+art_prompt_detailed: "A vast expanse of water reflecting the colors of the sunset, with visible crystal formations beneath the surface, captured in a high-resolution photograph"
+caption: The Crystal Sea glistens under the setting sun, a testament to Aesheron's natural magic.
+orientation: Landscape
+artistic_value: [landscape, wondrous]
+descriptive_value: [location, background]
+difficulties: [none]
+
+Given the limited budget and the need for harsh value assessment, the "Magical Properties" section seems to offer the most value in terms of both artistic and descriptive elements. It directly relates to the core theme of the article—crystals and their use in magic. The "Cultural Significance" section could also be valuable, as it provides context on how crystals are woven into the daily life and craftsmanship of Aesheron. The "Locations of Note" could be lower priority unless the campaign heavily features these areas, in which case a visual could enhance the players' immersion.
+
+Retrieved at: 2024-01-02 19:56:27.621448
+Used: False
+Used: True

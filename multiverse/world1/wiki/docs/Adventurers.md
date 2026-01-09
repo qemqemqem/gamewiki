@@ -4,6 +4,9 @@ In the tapestry of the world's history, few threads are as vibrant and varied as
 
 ## Definition and Role
 
+![Definition and Role](../../images/Adventurers_S_Definition%20and%20Role.png)
+A party of adventurers readying themselves for the perils of the Caverns of Echo.
+
 An adventurer is someone who seeks out danger and excitement, driven by a thirst for discovery, wealth, or personal challenge. They often work in groups, forming parties with complementary skills to tackle the myriad challenges that lie in wait. From the perilous depths of the [Caverns of Echo](Caverns%20of%20Echo.md) to the mystical heights of the [Frostspire Mountains](Frostspire%20Mountains.md), adventurers traverse the most remote and hazardous locations in the world.
 
 ## Motivations

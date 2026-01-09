@@ -22,6 +22,9 @@ The denizens of the Feywild are as varied as the land itself, ranging from the m
 
 ## Magic and Phenomena
 
+![Magic and Phenomena](../../images/Feywild_S_Magic%20and%20Phenomena.png)
+The nexus of magical power in the Feywild, from the crisscrossing ley lines to the enchanting moonflower blooms.
+
 The Feywild is saturated with [arcane veins](Arcane Veins.md), making it a nexus of magical power. Sorcerers and [Conjurers](Conjurers.md) often seek to tap into this raw energy, though such endeavors are fraught with peril due to the realm's inherent unpredictability.
 
 - **[Ley Lines](Ley%20Lines.md)**: The Feywild's ley lines crisscross in complex patterns, creating areas of intense magical power.

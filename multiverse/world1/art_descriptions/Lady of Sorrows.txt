@@ -1,0 +1,31 @@
+## Appearance
+
+visual_purpose: What does the Lady of Sorrows look like, and how does she embody the essence of the Shadowfell?
+ideas_for_art_content: The Lady of Sorrows in her flowing robes that blend into the mists, her face showing deep melancholy, eyes that are pools of sorrow.
+ideas_for_style: A painting with a gothic style, using a dark and muted color palette to convey the atmosphere of the Shadowfell.
+art_prompt: "The Lady of Sorrows standing amidst the mists of the Shadowfell, gothic, haunting, ethereal, done in oil painting"
+art_prompt_detailed: "A tall, ethereal female figure draped in flowing robes that merge with the surrounding mists, her face bearing an expression of deep melancholy, with eyes like dark, sorrowful voids, standing in a twilight-veiled landscape, rendered in a gothic oil painting style."
+caption: The Lady of Sorrows, guardian of the Shadar-Kai and the embodiment of the Shadowfell's eternal twilight.
+orientation: Portrait
+artistic_value: [wondrous, exciting, style match]
+descriptive_value: [person, character, background, narrative]
+difficulties: [named characters, obscure style]
+
+## Festivals and Rituals
+
+visual_purpose: How do the Shadar-Kai celebrate the Moonflower Festival and honor the Lady of Sorrows?
+ideas_for_art_content: Shadar-Kai participating in the festival, Silent Orchids blooming, ethereal figures of the departed, the Lady of Sorrows overseeing the event.
+ideas_for_style: A sketch with soft pencil lines to capture the fleeting beauty of the Silent Orchids and the ghostly figures, with a focus on the ceremonial aspects of the festival.
+art_prompt: "The Moonflower Festival in the City of Evernight, sketch, ephemeral, celebratory, done in pencil"
+art_prompt_detailed: "Shadar-Kai figures in ceremonial attire, gathered around blooming Silent Orchids, with ethereal spirits visible in the background, and a tall, melancholic female figure observing from afar, all captured in a soft pencil sketch."
+caption: The Moonflower Festival, where the veil thins and the Shadar-Kai honor the Lady of Sorrows amidst blooming Silent Orchids.
+orientation: Landscape
+artistic_value: [intricate design, fun, wondrous]
+descriptive_value: [event, historical, story event, character]
+difficulties: [named characters, multipart, named location]
+
+Given the limited budget and the need for harsh value assessment, these two sections, "Appearance" and "Festivals and Rituals," are the most visually compelling and central to the understanding of the Lady of Sorrows and her impact on the Shadar-Kai culture. They provide a strong narrative and descriptive value, offering both a glimpse into the character of the Lady and the customs of her followers. The artistic value in depicting these scenes would be high, as they could serve to immerse the players deeply into the world and enhance their connection to the story.
+
+Retrieved at: 2024-01-02 20:46:36.203202
+Used: False
+Used: True

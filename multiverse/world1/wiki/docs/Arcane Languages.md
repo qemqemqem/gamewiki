@@ -4,6 +4,9 @@ Arcane languages are the esoteric and ancient tongues through which the fabric o
 
 ## Origins and History
 
+![Origins and History](../../images/Arcane%20Languages_S_Origins%20and%20History.png)
+The birth of arcane languages in the hallowed halls of the Great Library of Eldara.
+
 The origins of arcane languages are as old as magic itself, with each language believed to have been birthed by the primal forces of creation. Legends speak of the first [Wizards](Wizards.md) and [Sorcerers](Sorcerers.md) who listened to the whispers of the cosmos and transcribed these sounds into the first arcane scripts. These scripts have been passed down through the ages, preserved in the hallowed halls of institutions such as the [Great Library of Eldara](Great%20Library%20of%20Eldara.md) and the [Sanctum of Whispers](Sanctum%20of%20Whispers.md).
 
 ## Characteristics

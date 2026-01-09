@@ -14,6 +14,9 @@ Historically, Calling has been employed in warfare, with conjurers summoning cre
 
 ### Construction and Labor
 
+![Construction and Labor](../../images/Calling_S_Construction%20and%20Labor.png)
+"Grimbeorn utilizing Calling to construct the marvels of the Free Cities.
+
 The practice of Calling is not limited to warfare. It has also been used in more peaceful pursuits, such as construction. The legendary figure Grimbeorn is noted for pioneering the use of Calling to bring forth both materials and laborers from other planes to aid in the building of great structures, some of which can still be seen in the [Free Cities](Free%20Cities.md).
 
 ### Exploration and Research

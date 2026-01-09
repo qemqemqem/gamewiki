@@ -1,0 +1,53 @@
+## Celestial Observations
+visual_purpose: What does the rare celestial alignment during the Dawn of the New Light look like?
+ideas_for_art_content: Astronomers observing the night sky, the moon and stars in a unique configuration, telescopes pointed towards the heavens, celestial bodies glowing unusually bright.
+ideas_for_style: Painting, with a focus on a mystical and ethereal atmosphere.
+art_prompt: "Astronomers from the Shrouded City observing the rare celestial alignment in the night sky, mystical, ethereal, done in watercolor."
+art_prompt_detailed: "A group of cloaked figures with telescopes and astrolabes on a high tower, gazing at a night sky where the moon and stars form a unique pattern, rendered in a mystical and ethereal watercolor style."
+caption: Astronomers studying the celestial alignment of the Dawn of the New Light.
+orientation: Landscape
+artistic_value: [wondrous, style match]
+descriptive_value: [location, event]
+difficulties: [none]
+
+## Cultural Celebrations
+visual_purpose: How do different cultures celebrate the Dawn of the New Light?
+ideas_for_art_content: Citizens of the Kingdom of Alyndra releasing lanterns on the Crystal Waters, Druids in silent reflection within the Verdant Woods, diverse expressions of joy and reverence.
+ideas_for_style: Sketch, capturing the contrast between the vibrant festival and the serene reflection.
+art_prompt: "The grand festival in the Kingdom of Alyndra with lanterns afloat on the Crystal Waters, juxtaposed with the silent Druids of the Verdant Woods, vibrant yet serene, in pencil sketch."
+art_prompt_detailed: "A bustling night-time scene by a reflective body of water with people releasing glowing lanterns, contrasted with a tranquil forest clearing where robed figures meditate, all depicted in detailed pencil sketches."
+caption: The diverse celebrations of the Dawn of the New Light across cultures.
+orientation: Landscape
+artistic_value: [interesting person, intricate design, fun, style match]
+descriptive_value: [person, event, cultural]
+difficulties: [multipart]
+
+## Magical Discoveries
+visual_purpose: What kind of magical discoveries are made during the Dawn of the New Light?
+ideas_for_art_content: Artisans and mages crafting Whispering Sirens artifacts, moonlit workshops filled with reagents and crystals, the Moonflower Festival in full swing.
+ideas_for_style: Computer graphics, to capture the intricate details and magical glow of the artifacts and reagents.
+art_prompt: "Artisanal mages crafting Whispering Sirens artifacts in a moonlit workshop, intricate, glowing, done in digital art."
+art_prompt_detailed: "Mages in elaborate robes bending over a workbench strewn with glowing crystals and exotic reagents, under the light of a full moon, depicted with digital art to enhance the magical ambiance."
+caption: Mages creating Whispering Sirens artifacts during the Moonflower Festival.
+orientation: Landscape
+artistic_value: [intricate design, wondrous, exciting, style match]
+descriptive_value: [object, event, historical]
+difficulties: [named characters, named location]
+
+## Theological Impact
+visual_purpose: How do the sun deities' followers express their faith during the Dawn of the New Light?
+ideas_for_art_content: Temples adorned with symbols of light, priests conducting ceremonies, followers taking vows in the presence of sun deities' effigies.
+ideas_for_style: Painting, with a focus on the use of light and shadow to convey a sense of divinity and reverence.
+art_prompt: "Sun deities' temples adorned with symbols of light, with priests conducting ceremonies, divine, reverent, done in oil painting."
+art_prompt_detailed: "Temples bathed in sunlight, decorated with radiant symbols, where robed figures lead a congregation in ceremonial practices, all captured in an oil painting that emphasizes the play of light and shadow."
+caption: Followers of the sun deities celebrating the theological significance of the Dawn of the New Light.
+orientation: Portrait
+artistic_value: [appropriate style, wondrous]
+descriptive_value: [person, object, narrative]
+difficulties: [none]
+
+Given the limited budget, the value of each piece should be considered in terms of its potential impact on the players' immersion and understanding of the world. The Celestial Observations and Cultural Celebrations sections are likely to have the highest descriptive and artistic value, providing both a visual spectacle and a deeper understanding of the world's cultures. The Magical Discoveries section could be valuable for players interested in the magical aspects of the campaign, while the Theological Impact section may be less critical but could still add depth to the religious context of the world.
+
+Retrieved at: 2024-01-02 20:02:59.276028
+Used: False
+Used: True

@@ -16,6 +16,9 @@ The Battlefield of Forgotten Kings lies on the outskirts of the [Verdant Woods](
 
 ### Monuments and Memorials
 
+![Monuments and Memorials](../../images/Battlefield%20of%20Forgotten%20Kings_S_Monuments%20and%20Memorials.png)
+The Kings' Memorial, where the spirits of monarchs are said to pay homage to their legacy.
+
 Throughout the battlefield, stone monuments and statues have been erected in honor of the fallen. The most prominent of these is the Kings' Memorial, a grand edifice that bears the names of all the monarchs who perished in the battle. It is said that on certain nights, the spirits of these kings can be seen paying homage to their own memories, a testament to their undying commitment to the realm.
 
 ## Cultural Significance

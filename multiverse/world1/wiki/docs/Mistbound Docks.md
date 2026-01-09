@@ -16,6 +16,9 @@ The Mistbound Docks are a hub for trade, with goods from across the known world 
 
 ### Notable Goods
 
+![Notable Goods](../../images/Mistbound%20Docks_S_Notable%20Goods.png)
+"The myriad treasures of the Mistbound Docks: a merchant's paradise.
+
 - **Herbal**: The docks are a primary source for rare plants like the [Moonflower](Moonflower.md) and [Singing Willows](Singing%20Willows.md), which are sought after by [druids](Druids.md) for their potent magical properties.
 - **Mineral**: Gemstones and metals, often mined from the depths of the [Dwarven Mines](Dwarven%20Mines.md), are traded here in large quantities.
 - **Elemental**: Vials of eternal frost from the [Throne of the Mountain King](Throne%20of%20the%20Mountain%20King.md) and other elemental artifacts can occasionally be found among the stalls.

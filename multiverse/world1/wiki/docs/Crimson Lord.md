@@ -8,6 +8,9 @@ The origins of the Crimson Lord are as elusive as the mists that shroud the [Shr
 
 ## Rise to Power
 
+![Rise to Power](../../images/Crimson%20Lord_S_Rise%20to%20Power.png)
+The Crimson Lord's rise to power, as they unite the factions under the Order of the Crimson Blade.
+
 The Crimson Lord's ascent to the pinnacle of the [Order of the Crimson Blade](Order%20of%20the%20Crimson%20Blade.md) is a tale of cunning, bravery, and arcane prowess. It is said that through a combination of martial skill and knowledge of the dark arts, the Crimson Lord united the disparate factions of knights and mercenaries under one banner, creating an order that would become the bastion of strength and order in a chaotic world.
 
 ## Abilities
